@@ -19,4 +19,5 @@ In the August 1881 issue of the New York magazine Science there is a long overlo
 
 Could this be true? Did Darwin really leap out of his chair? Did he believe life on Earth came from outer space?
 
+Source and more information about Hahn:
 http://darwin-online.org.uk/content/frameset?itemID=A690&viewtype=text&pageseq=1
