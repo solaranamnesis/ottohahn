@@ -11,7 +11,7 @@ Background:
 Not content with the mere presentation of his work, Dr. Hahn visited the veteran zoologist and brought his preparations to him for inspection.
 No sooner had Mr. Darwin peered through the microscope on one of the finest specimens when he started up from his seat and exclaimed:
 'Almighty God! What a wonderful discovery! Wonderful!'
-'And after a pause of silent reflection he added:'Now reaches life down!''
+And after a pause of silent reflection he added: 'Now reaches life down!'
 The latter remark no doubt refers to the proof furnished by Dr. Hahn's discovery that organisms can reach our planet from celestial space. It is an acknowledgment of the relief Mr. Darwin must have felt in not being forced to a belief in a primeval 'generatio equivoca'.
 
 Could this be true? Did Darwin really leap out of his chair? Did he believe life on Earth came from outer space?"
