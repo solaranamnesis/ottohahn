@@ -1,6 +1,6 @@
-# DIE METEORITE (CHONDRITE) IHRE ORGANISMEN by Dr. Otto Hahn (1880)
-DIE METEORITE (CHONDRITE) IHRE ORGANISMEN by Dr. Otto Hahn (1880)
-"The chondrite meteorites and their organisms"
+# Book and Background
+DIE METEORITE (CHONDRITE) UND IHRE ORGANISMEN (1880) by Dr. Otto Hahn (1828–1904)
+"THE CHONDRITE METEORITES AND THEIR ORGANISMS"
 
 My attempt at translation from the original German to English (with the help of Google Translator)
 
