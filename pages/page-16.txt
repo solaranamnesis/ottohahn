@@ -8,7 +8,7 @@ GERMAN:
 1841. 12. Juli Chäteau-Renard, Loiret.
 1847. 25. Febr. Linn Co, Jowa.
 1849. 31.0ct. Cabarras Co, Nordcarol.
-1852.
+1852. 4. Septbr. Mezö-Madaras.
 1852. 13. Octbr. Borkut, Ungarn.
 1855. 13. Mai Bremervörde, Hanover.
 1857. 28. Febr. Parnallee, Ostindien.
@@ -17,6 +17,7 @@ GERMAN:
 1866. 9. Juni Knyahinya, Ungarn.
 1868. 30. Jan. Pultusk, Warschau.
 1872. 31. Aug. Olvinio.
+
 Simbirsk.
 Ich habe hier vor Allem der
 4. Septbr. Mezö-Madaras.
