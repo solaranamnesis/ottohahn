@@ -1,3 +1,5 @@
+English translation: While choosing terms I attempt to take Hahn's perspective and consider the extent to which his ideas were deemed controversial and even still are today. This is why I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy this excellent high magnification work with incredible microphotographs (consider the gelatin dry plate was invented in 1871, this book published in 1880).
+
 1:
 It was not the partly intangible attacks on my “Primordial Cell” which did not make me tire in my efforts to establish certain new geological facts: it was the observation of the untenability of the previous view in the most undisputedly important part of the geological science, in the part through which it is related to the cosmos — that is, the doctrine of the so-called plutonic rocks.
 
@@ -36,4 +38,18 @@ Anyone who even superficially surveys the forms will soon find that they provide
 In such beginnings, mistakes are inevitable, so it is only a small demand to ask to forgive them. Nor did I want to delay the publication of the work too long, and therefore have it just as it is now available.
 
 2:
+Section 1
+
+Previous Views On the Meteorite
+
+History and Overview
+
+Last year, when I wrote down in my diary certain new observations about the composition of the rocks of our Earth and finally also of the meteorities, the importance of the latter to geology was not fully clear to me.
+
+It was only when I was forced by the attacks of opponents to take the investigation again into my hands, that I clearly realized the importance that a careful study of meteorites could be to the history of our Earth. Lastly, I came to the conclusion that, in the present state of geology, the meteorities - and only the meteorites, give the point from which the history of the Earth could at least be explored with almost certainty.
+
+If, in the "Primordial Cell", I thought I had reached the limit of research with granite, I soon learned better. I contemplated that by virtue of its specific gravity, our Earth's core must also consist of at least solid iron, further considering the very probable order in the meteorites, which goes from pure iron to the feldspar rocks of our earth. I further believed that a conclusion from our Earth on the meteorites could be ventured, the conclusion that in the other planets and in those or the one whose (or its) debris we have in the hundred thousand of orbiting meteorites before us, a sequence of stratification from heavy to light, a stratigraphy which we probably pass through in the series from pure iron through the half iron (Pallasite, Hainwood) to the chondrites and eucrites, then to the coal meteorites (Cold Bokkeveld) in front of us.
+
+
+
 
