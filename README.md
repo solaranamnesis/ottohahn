@@ -2,7 +2,7 @@
 DIE METEORITE (CHONDRITE) UND IHRE ORGANISMEN (1880) by Dr. Otto Hahn (1828–1904)
 "THE CHONDRITE METEORITES AND THEIR ORGANISMS"
 
-Attempt at translation from the original German to English (with the help of Google Translator), I welcome all pull requests of translations.
+Attempt at translation from the original German to English (with the help of the internet), I welcome all pull requests of translations.
 
 Background:
 
@@ -19,6 +19,6 @@ Could this be true? Did Darwin really leap out of his chair? Did he believe life
 Source and more information about Hahn:
 http://darwin-online.org.uk/content/frameset?itemID=A690&viewtype=text&pageseq=1
 
-To view the original translation:
+To view the original:
 [Catalogue SUDOC](http://www.sudoc.fr/194662241)
 
