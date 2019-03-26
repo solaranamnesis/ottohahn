@@ -1,6 +1,11 @@
-English translation: While choosing terms I attempt to take Hahn's perspective and consider the extent to which his ideas were deemed controversial and even still are today. This is why I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together.
+English translation:
+
+While choosing terms I attempt to take Hahn's perspective and consider the extent to which his ideas were deemed controversial and even still are today. This is why I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read and I don't consider this a professionl translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he emphasizes.
+
+Hahn's previous work "Urzelle" is translated as "Primordial Cell". I prefer to use the terms "life" and "organism" rather than general terms like plant/animal since, as Hahn himself states, he does not want his work to be considered as an exhaustive enumeration of the organisms and forms in question.
 
 1:
+
 It was not the inconsequential attacks on my "Primordial Cell" that made me tire in my efforts to establish certain new geological facts: it was the observation of the untenability of the previous view in the most undisputedly important part of the geological science, in the part through which it is related to the cosmos — that is, the doctrine of the so-called plutonic rocks.
 
 If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of the Earth - and also that knowledge pertaining to the real genesis of our Earth will always be hidden from us - then, at the end of this book, there is now an alternative: the meteorite is that which reveals a distant passage, which no researcher has yet dared.
@@ -38,6 +43,7 @@ Anyone who even superficially surveys the forms will soon find that they provide
 In such beginnings, mistakes are inevitable, so it is only a small demand to ask to forgive them. Nor did I want to delay the publication of the work too long, and therefore have it just as it is now available.
 
 2:
+
 Section 1
 
 Previous Views On the Meteorite
