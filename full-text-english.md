@@ -1,6 +1,6 @@
 English translation:
 
-While choosing terms I attempt to take Hahn's perspective and consider the extent to which his ideas were deemed controversial and even still are today. This is why I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read and I don't consider this a professionl translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he emphasizes.
+While choosing terms I attempt to take Hahn's perspective and consider the extent to which his ideas were deemed controversial and even still are today. This is why I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read and I don't consider this a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he emphasizes.
 
 Hahn's previous work "Urzelle" is translated as "Primordial Cell". I prefer to use the terms "life" and "organism" rather than general terms like plant/animal since, as Hahn himself states, he does not want his work to be considered as an exhaustive enumeration of the organisms and forms in question.
 
@@ -79,5 +79,47 @@ A feldspar mineral is purely a water production, it is petrifying matter of mill
 I have to justify this now. The comparison of rocks from Earth with the meteorites shows that the chondrite, at least according to its chemical nature, has its closest relatives on the Earth.
 
 The olivine rock of our Earth is, as a Lherzolite, a bedrock layer as we see with basalt breaking through the granite; I arrive at these results which [Gabriel Auguste] Daubrée has shown.
+
+The deeper granite is definitely younger than the olivine. But if the olivine of the meteorites, by virtue of its composition, is a water-rock, it will probably be the granite of our Earth; if the olivine of the meteorites is the remains of life, the then same will be the case with the olivine of the Earth: it could probably be concluded that this rock of our Earth is also composed in its original deposits of the same life as that of the chondrites. And for the same reason the granite, as younger rock, will probably have a similar origin. If we have to see in our Swabian basalt only leaching from the ogiinal olivine, then the bedrock of Lherzolite is found under the granite. And even if this rock appears as a deposit of liquid without distinguishable forms, then the iron of Ovifak has such; but this is much connected with the basalt, so intimately, and not only mechanically, that both must be regarded as one rock. So this is the original olivine bedrock. But with this, the scientific reason is removed from the assumption of the origin of the Earth by way of fire.
+
+If the surface of the planets or of the planets consists of layers of olivine from life, then the same layers of our Earth were probably not formed by fire, at least there is not the slightest reason for this supposition, on the contrary, it should be assumed that the same layer of the Earth was a water formation. Here I encounter the Kant-Laplace theory.
+
+I imagine that the planetary materials (including water, which is usually overlooked) during the first mass formation were not, as [Immanuel] Kant and [Pierre-Simon] Laplace say, a glowing haze, but rather a vapor and mass cold as space. Here, however, one has overlooked a great logical error in the above mentioned theory.
+
+The attraction of mass should form the mass! The effect should be the cause simultaneously! The mass is to be formed by mass attraction, that is, by the fact that it was already there! It is to be regretted that this error of thought has not been discovered earlier. The mass, when it is present, can increase by attraction, but not by it: it is as if someone should be his own father!
+
+So another force had to form the mass; but this could only be either the crystallization force or the organic formative force. The former does not suffice to explain the formation of the planets, and no crystals are found: consequently only the second force remains - the organic one. Here I recall my observations of the structure of the meteorite and so today, for me at least, it is clear that the first beginnings of our Earth, like the rest of the planet, has an organic cause.
+
+If the sentence also appears a bit deafening, one need only resort to the familiar.
+
+First, the mass of building materials available at the beginning of planetary formation is completely sufficient to explain the formation of the planetary mass in an organic way.
+
+Secondly, the experience of today shows how in a short time the lowest plants and animals multiply their number, including their mass, in a way that is conditioned only by the mass of building materials, while their organization itself makes it possible to expand into infinity as long as building materials are present.
+
+What seems to contradict this explanation is only the geothermal heat and the associated appearance of the volcanoes still active today. With regard to these two facts, one has long been led back to a different explanation, that of the liquid-fire Earth interior. The water has a dissolving effect on feldspar. In this dissolving process, heat is released. The volcanoes follow the sea because the water helps form the gases, which ignited from above, melt the forthcoming rock.
+
+How could a fiery Earth corth ultimately survive without oxygen! And does not the very existence of combustible gases (for these are the causes of volcanic phenomena), in particular that of sulphur gases, indicate the presence of oragnic substances in the Earth's interior? There really is no need for new evidence here, but only the abandonment of certain ideas, which have taken possession of the imagination excited by some obvious phenomena.
+
+These are the conclusions from the study of the meteorites for our Earth's formation. But the facts which astronomy can derive from it are no more significant.
+
+The 20 meteorite (chondrite) thin sections that I have studied, some of falls which are more than a century apart, show the same forms, much as a fossil-shells occurs everywhere in the same formation; [Karl Wilhelm von] Gümbel, if he did not correctly interpret the forms of the chondrites, has excellently expressed this.
+
+So these chondrites are probably from one and the same world body, a planet. Or, has evolution been so much the same on different planets?
+
+This planet carries water life, so life has arisen in water and lives by water; the planet has not passed through fire, because the traces of fire do not show in these rocks. The meteorite, having been shattered, only receives a 1 mm thick enamel fushion crust in its short path through our atmosphere, as a result frictional heat.
+
+The life of the chondrite is almost entirely a microscopic one, it ranges from 0.20 to a maximum of 3 mm in diameter, often it takes a magnification of 1000 to clearly see the delicate structures, while at such magnifcation our fossils dissolve into a shapeless surface.
+
+Thus, through the observations first laid down in my "Primordial Cell", a path was wide open for me to cover the distances our science must cross.
+
+But it really didn't take a titanium force to overthrow the old building. It had already been much worn, only ignored: it requires only one striking proof and the work will have been done. Traditions, based on insufficient observations, dissolve into what they are, allowing science to once again proceed freely on its course.
+
+The following is a brief presentation on the previous views regarding the origin and nature of the meteorites.
+
+Only the morphological work on individual meteorites, from the time when the microscope began to be used in geology, should be enumerated. What the microscope has so far provided for the interpretation of the meteorites is, apart from the enlarged olivine crystals in [Nikolai Ivanovich] Koksharov's "Minerals of Russia VI", is contained in the following writings:
+
+1. [Gustav] Tschermak [von Seysenegg]: the fragmentary structure of the Orvinio and Chantonnay meteorites, presented at the meeting of the Royal Academy of Sciences (Vienna) on November 12, 1874. (XXth volume of the proceedings of the Royal Academy of Sciences, I. Section, November issue 1874. With 2 plates.)
+
+2. [Alexander] Makowsky and [Gustav] Tschermak [von Seysenegg]: Report on the fall of a meteorite near Zischitz in Moravia. With 5 plates and 2 woodcuts, presented at the meeting of the mathematical and natural science class (the Royal Academy of Sciences in Vienna) on November 21, 1878. XXIX. Volume of memoranda of the mentioned class.
 
 
