@@ -155,3 +155,47 @@ Daubree's commendable work "Experimental Geology" was obtained only in translati
 The Meteorites and their Mineralogical Properties
 
 1.
+
+The literature on meteorites is very extensive. However, it is so well known in terms of the type and number of chemical compositions, that I do not need to dwell on this part of it, in particular the earlier works.
+
+2.
+
+The meteorites are divided into iron and stone, but there is still a class between the two: "half-iron", i.e. a combination of solid iron and stone - the pallasites. While the irons show many similarities, both in their chemical composition and in the form of their structure, the pallasites are very different (depending on the predominance of iron). But there are other differences among them. Hainholz [mesosiderite], for example, has a blue mineral (enstatite) in addition to iron and olivine, and in this a great richness of life forms. The stones are divided into chondrite, stannerite [Stannern meteorite - eucrite], luotolaxer [Luotolax meteorite - howardite], bokkefelder [Cold Bokkeveld meteorite - carbonaceous], bishopville [Bishopville meteorite - aubrite], (Quenstedt, Klar and Wahr p.280 follow).
+
+I prefer to study the chondrites, and where I speak of meteorites, I am refering to this class of stone meteorites, which is also the most abundant.
+
+I have examined:
+
+Tabor, Böhmen - July 3, 1753
+Siena, Toskana - June 16, 1794
+L'Aigle, Normandy - April 26, 1803
+Weston, Connecticut - December 14, 1807
+Tipperary, Ireland - November 23, 1810
+Blansko, Brünn - November 25, 1833
+Château-Renard, Loiret - July 12, 1841
+Linn County [Marion], Iowa - February 25, 1847
+Cabarras County [Monroe], North Carolina - October 31, 1849
+Mezö-Madaras [Romania] - September 4, 1852
+Borkut, Ungarn - October 13, 1852
+Bremervörde, Hanover - May 13, 1855
+Parnallee, Ostindien - February 28, 1857
+Heredia, Costa Rica - April 1, 1857
+New Concord, Ohio - May 1, 1860
+Knyahinya, Ungarn. - June 9, 1866
+Pultusk, Warschau - January 30, 1868
+Olvinio - August 31, 1872
+Simbirsk
+
+All rocks are thoroughly certified. Above all, I have the kindness of my revered teacher, Professor Dr. [Friedrich August] von Quenstedts, with whom he thankfully commemorate the excellent Tübingen University Collection (which, as is well known, for the most part by [Karl Ludwig] Baron von Reichenbach in Vienna).
+
+3.
+
+From Knyahinya I own 360 thin sections, of L'Aigle 6, of Pultusk 6, of the remaining 1 - 3 each. I will name all stones after their place of fall. When making the thin sections, I made the cuts in two directions. After several attempts on Knyahinya, it turned out that it breaks in certain directions. 
+
+This was deduced from the inclusions, which, once their position had been found, regularly resulted in certain forms, to which those forms corresponded in sections made perpendicular to this position.
+
+If the forms were placed on this stone, the same position in the remaining stones would have been obtained, provided, of course, that the material had been available. For some, the same happened by chance, while not in others, but for the reasons stated above further determination in this direction.
+
+Also, I deliberately made the thin sections in three different thicknesses: heavy translucent, in order to see the whole inclusions as complete as possible; very thin, in order to clarify the structural conditions; and for the majority, in such a way that both were still visible.
+
+
