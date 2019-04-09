@@ -216,4 +216,23 @@ If the forms were placed on this stone, the same position in the remaining stone
 
 Also, I deliberately made the thin sections in three different thicknesses: heavy translucent, in order to see the whole inclusions as complete as possible; very thin, in order to clarify the structural conditions; and for the majority, in such a way that both were still visible.
 
+I would like to make a comment here, which will be confirmed by anyone who has dealt with thin sections of fossiliferous material.
+
+Only in rare cases of total transparency, that are entirely cut thin, is the structure visible. Anyone who looks at a thin section, if cut in this manner, with the microscope will be delighted at the beautiful shapes and lines. In the joy of this, one will want to make things even better and expects with continued grinding a perfect picture. But when one puts the thin section under the microscope after this second time - there is nothing left but an almost structureless surface, with hardly hinted, even blurred shapes, from which you previously perceived with the magnifying glass can no longer be seen, not even with the microscope. However, this phenomenon is related to the type of metamorphosis of the rock and the forms within it. The matter is well known and therefore does not require further explaination. I only mentioned the matter so that those who want to make these observations will not be surprised and will improve their own mode of observation.
+
+4.
+
+The fact that the chondrites consist for the most part of bronzite enstatite (augite) and olivine, as well as being magnetic throughout, is an accepted fact in the science. Quenstedt, Handbook of Mineralogy p. 722.
+
+In particular, however, the inclusions which I claim are coral have been addressed as enstatite. This was believed to be able to explain the such structures. Others went further and explained the inclusions as a type of glass: (Tschermak).
+
+So, before getting to the justification of my view, the microscopic appearance of main mineral, the enstatite, must be clearly identified.
+
+Allow me to give a breif outline of what [Karl Heinrich Ferdinand] Rosenbusch says in his book: Microscopic Physiography of Petrographically Important Minerals, Stuttgart 1873, p. 252, about enstatite (and bronzite): "As is known, since the optical investigations of [Alfred] Des Cloizeaux, the enstatite, bronzite and hypersthene have been treated as rhombic crystallizing separated from the pyroxene and compiled into their own group. In addition to the cleavage after the prism of 87°, the same shows further divisions after the vertical pinacoid, the relative perfection of which the data of the various researchers do not exactly match. Chemically, these three minerals form an uninterrupted series, at the beginning of which stands the almost iron free enstatite, and at the end of which stands the very iron rich hypersthene. Additionally, enstatite and bronzite are so similar in all physical properties that it is difficult to separate them into two species. Hypersthene, on the other hand, shows a different optical orientation and therefore forms its own species. It is interesting to note that Tschermak's arrangement of the negative angles of the optical axes and the iron content of the three minerals mentioned makes it clear that the angle of the optical axes decreases steadily as the [iron oxide] FeO content increases. The microstructure of all the minerals of the enstatite group is generally so similar that, in the special case, a safe decision can only be made by chemical and precise optical analysis.
+
+
+
+
+
+
 
