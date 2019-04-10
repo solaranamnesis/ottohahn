@@ -1,8 +1,66 @@
-English translation:
+THE METEORITES (CHONDRITE)
+AND
+THEIR ORGANISMS.
 
-While choosing terms I attempt to take Hahn's perspective and consider the extent to which his ideas were deemed controversial and even still are today. This is why I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read and I don't consider this a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he emphasizes.
+DEPICTED AND DESCRIBED
+BY
+DR. OTTO HAHN.
 
-Hahn's previous work "Urzelle" is translated as "Primordial Cell". I prefer to use the terms "life" and "organism" rather than general terms like plant/animal since, as Hahn himself states, he does not want his work to be considered as an exhaustive enumeration of the organisms and forms in question.
+32 PLATES WITH 142 ILLUSTRATIONS.
+LIGHT PRINT OF MARTIN ROMMEL IN STUTTGART.
+TÜBINGEN 1880.
+PUBLISHER OF THE H. LAUPP'SCHEN BOOKSHOP.
+
+TABLE OF CONTENTS.
+
+Introduction
+
+I. SECTION.
+
+Previous Views on Meteorites.
+
+History and Overview
+Meteorites and their Mineralogical Properties
+
+II. SECTION.
+
+The Organic Nature of the Chondrite.
+
+I. Chapter. Organic or Inorganic?
+II. Chapter. The Individual Forms
+A. Sponges: 1. Urania 23 2. Needle Sponges
+B. Coral
+C. Crinoids
+
+III. Chapter. All Life
+IV. Chapter. Stone in Stone
+V. Chapter. Procreation
+VI. Chapter. Development
+
+III. SECTION.
+
+Meteoric Iron
+
+IV. SECTION.
+
+The Iron of Ovifak
+
+V. SECTION.
+
+Conclusions.
+
+I. Chapter. Origin of Meteorites
+II. Chapter. The Formation of Earth
+III. Chapter. The Future of our Planet
+
+Explanation of the Panels.
+
+Preliminary Note
+Board Directory
+
+English translation note:
+
+While choosing terms I attempt to take Hahn's perspective and consider the extent to which his ideas were deemed controversial and even still are today. I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read and I don't consider this a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he emphasizes.
 
 1:
 
@@ -167,41 +225,23 @@ I prefer to study the chondrites, and where I speak of meteorites, I am refering
 I have examined:
 
 Tabor, Böhmen - July 3, 1753
-
 Siena, Toskana - June 16, 1794
-
 L'Aigle, Normandy - April 26, 1803
-
 Weston, Connecticut - December 14, 1807
-
 Tipperary, Ireland - November 23, 1810
-
 Blansko, Brünn - November 25, 1833
-
 Château-Renard, Loiret - July 12, 1841
-
 Linn County [Marion], Iowa - February 25, 1847
-
 Cabarras County [Monroe], North Carolina - October 31, 1849
-
 Mezö-Madaras [Romania] - September 4, 1852
-
 Borkut, Ungarn - October 13, 1852
-
 Bremervörde, Hanover - May 13, 1855
-
 Parnallee, Ostindien - February 28, 1857
-
 Heredia, Costa Rica - April 1, 1857
-
 New Concord, Ohio - May 1, 1860
-
 Knyahinya, Ungarn. - June 9, 1866
-
 Pultusk, Warschau - January 30, 1868
-
 Olvinio - August 31, 1872
-
 Simbirsk
 
 All rocks are thoroughly certified. Above all, I have the kindness of my revered teacher, Professor Dr. [Friedrich August] von Quenstedts, with whom he thankfully commemorate the excellent Tübingen University Collection (which, as is well known, for the most part by [Karl Ludwig] Baron von Reichenbach in Vienna).
@@ -230,9 +270,8 @@ So, before getting to the justification of my view, the microscopic appearance o
 
 Allow me to give a breif outline of what [Karl Heinrich Ferdinand] Rosenbusch says in his book: Microscopic Physiography of Petrographically Important Minerals, Stuttgart 1873, p. 252, about enstatite (and bronzite): "As is known, since the optical investigations of [Alfred] Des Cloizeaux, the enstatite, bronzite and hypersthene have been treated as rhombic crystallizing separated from the pyroxene and compiled into their own group. In addition to the cleavage after the prism of 87°, the same shows further divisions after the vertical pinacoid, the relative perfection of which the data of the various researchers do not exactly match. Chemically, these three minerals form an uninterrupted series, at the beginning of which stands the almost iron free enstatite, and at the end of which stands the very iron rich hypersthene. Additionally, enstatite and bronzite are so similar in all physical properties that it is difficult to separate them into two species. Hypersthene, on the other hand, shows a different optical orientation and therefore forms its own species. It is interesting to note that Tschermak's arrangement of the negative angles of the optical axes and the iron content of the three minerals mentioned makes it clear that the angle of the optical axes decreases steadily as the [iron oxide] FeO content increases. The microstructure of all the minerals of the enstatite group is generally so similar that, in the special case, a safe decision can only be made by chemical and precise optical analysis.
 
+Enstatite and bronzite are not found in the rocks as crystals, but almost only in irregularly limited crystalline grains, which usually show a very dense striation, which is more straightforward in the case of enstatite, more gently winding and wave-like. But this difference is not a pervasive one. The same striation is also shown by the monoclinic diopside and rhombic bastite, which can not easily be separated from bronzite by other, later to be discussed, visual phenomena. If the cut meets the enstatite or bronzite at a strong incline to the main cleavage surface, then the surface will not be equally fine-grained, but rather like a rough stairway. Transverse surfaces and fractures are not uncommon.
 
-
-
-
+Both are relatively poor in extraneous deposits; yes they are missing for example in the enstatite from the pseudophite of the Aloysthals in Mähren and in some enstatites or bronzites of the lherzolites and olivines. The former is traversed only by frequent veins of the pseudophite, from which fine-grained decomposition products penetrate into the enstatite in a vertical direction. Other occurrences and even other individuals of the same hand specimen often contain mass inclusions of green or brown lamallae, splints, and grains (depending on the position of the grinding plane) which, without exception, are invariably parallel to the most perfect cleavage direction. This suggests the idea that various indications on the relative perfection of the pinacoid (inf P inf) cleavage compared with the prismatic one may be due to the more or less mass presence of these interpositions, which undoubtedly also determine the Schiller metalloid on the brachypinakoid. Then, however, the ease of separation in this direction would be more a separation than true fissility.
 
 
