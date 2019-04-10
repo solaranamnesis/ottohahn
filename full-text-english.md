@@ -7,9 +7,13 @@ BY
 DR. OTTO HAHN.
 
 32 PLATES WITH 142 ILLUSTRATIONS.
+
 LIGHT PRINT OF MARTIN ROMMEL IN STUTTGART.
+
 TÜBINGEN 1880.
+
 PUBLISHER OF THE H. LAUPP'SCHEN BOOKSHOP.
+
 
 TABLE OF CONTENTS.
 
@@ -20,6 +24,7 @@ I. SECTION.
 Previous Views on Meteorites.
 
 History and Overview
+
 Meteorites and their Mineralogical Properties
 
 II. SECTION.
@@ -27,14 +32,21 @@ II. SECTION.
 The Organic Nature of the Chondrite.
 
 I. Chapter. Organic or Inorganic?
+
 II. Chapter. The Individual Forms
+
 A. Sponges: 1. Urania 23 2. Needle Sponges
+
 B. Coral
+
 C. Crinoids
 
 III. Chapter. All Life
+
 IV. Chapter. Stone in Stone
+
 V. Chapter. Procreation
+
 VI. Chapter. Development
 
 III. SECTION.
@@ -50,13 +62,19 @@ V. SECTION.
 Conclusions.
 
 I. Chapter. Origin of Meteorites
+
 II. Chapter. The Formation of Earth
+
 III. Chapter. The Future of our Planet
 
 Explanation of the Panels.
 
 Preliminary Note
+
 Board Directory
+
+
+THE METEORITES (CHONDRITE) AND THEIR ORGANISMS
 
 English translation note:
 
@@ -268,10 +286,10 @@ In particular, however, the inclusions which I claim are coral have been address
 
 So, before getting to the justification of my view, the microscopic appearance of main mineral, the enstatite, must be clearly identified.
 
-Allow me to give a breif outline of what [Karl Heinrich Ferdinand] Rosenbusch says in his book: Microscopic Physiography of Petrographically Important Minerals, Stuttgart 1873, p. 252, about enstatite (and bronzite): "As is known, since the optical investigations of [Alfred] Des Cloizeaux, the enstatite, bronzite and hypersthene have been treated as rhombic crystallizing separated from the pyroxene and compiled into their own group. In addition to the cleavage after the prism of 87°, the same shows further divisions after the vertical pinacoid, the relative perfection of which the data of the various researchers do not exactly match. Chemically, these three minerals form an uninterrupted series, at the beginning of which stands the almost iron free enstatite, and at the end of which stands the very iron rich hypersthene. Additionally, enstatite and bronzite are so similar in all physical properties that it is difficult to separate them into two species. Hypersthene, on the other hand, shows a different optical orientation and therefore forms its own species. It is interesting to note that Tschermak's arrangement of the negative angles of the optical axes and the iron content of the three minerals mentioned makes it clear that the angle of the optical axes decreases steadily as the [iron oxide] FeO content increases. The microstructure of all the minerals of the enstatite group is generally so similar that, in the special case, a safe decision can only be made by chemical and precise optical analysis.
+Allow me to give a breif outline of what [Karl Heinrich Ferdinand] Rosenbusch says in his book: Microscopic Physiography of Petrographically Important Minerals, Stuttgart 1873, p. 252, about enstatite (and bronzite): "As is known, since the optical investigations of [Alfred] Des Cloizeaux, the enstatite, bronzite and hypersthene have been treated as rhombic crystallizing separated from the pyroxene and compiled into their own group. In addition to the cleavage after the prism of 87°, the same shows further divisions after the vertical pinacoid, the relative perfection of which the data of the various researchers do not exactly match. Chemically, these three minerals form an uninterrupted series, at the beginning of which stands the almost iron free enstatite, and at the end of which stands the very iron rich hypersthene. Additionally, enstatite and bronzite are so similar in all physical properties that it is difficult to separate them into two species. Hypersthene, on the other hand, shows a different optical orientation and therefore forms its own species. It is interesting to note that Tschermak's arrangement of the negative angles of the optical axes and the iron content of the three minerals mentioned makes it clear that the angle of the optical axes decreases steadily as the [iron oxide] FeO content increases. The microstructure of all the minerals of the enstatite group is generally so similar that, in the special case, a safe decision can only be made by chemical and precise optical analysis."
 
-Enstatite and bronzite are not found in the rocks as crystals, but almost only in irregularly limited crystalline grains, which usually show a very dense striation, which is more straightforward in the case of enstatite, more gently winding and wave-like. But this difference is not a pervasive one. The same striation is also shown by the monoclinic diopside and rhombic bastite, which can not easily be separated from bronzite by other, later to be discussed, visual phenomena. If the cut meets the enstatite or bronzite at a strong incline to the main cleavage surface, then the surface will not be equally fine-grained, but rather like a rough stairway. Transverse surfaces and fractures are not uncommon.
+"Enstatite and bronzite are not found in the rocks as crystals, but almost only in irregularly limited crystalline grains, which usually show a very dense striation, which is more straightforward in the case of enstatite, more gently winding and wave-like. But this difference is not a pervasive one. The same striation is also shown by the monoclinic diopside and rhombic bastite, which can not easily be separated from bronzite by other, later to be discussed, visual phenomena. If the cut meets the enstatite or bronzite at a strong incline to the main cleavage surface, then the surface will not be equally fine-grained, but rather like a rough stairway. Transverse surfaces and fractures are not uncommon."
 
-Both are relatively poor in extraneous deposits; yes they are missing for example in the enstatite from the pseudophite of the Aloysthals in Mähren and in some enstatites or bronzites of the lherzolites and olivines. The former is traversed only by frequent veins of the pseudophite, from which fine-grained decomposition products penetrate into the enstatite in a vertical direction. Other occurrences and even other individuals of the same hand specimen often contain mass inclusions of green or brown lamallae, splints, and grains (depending on the position of the grinding plane) which, without exception, are invariably parallel to the most perfect cleavage direction. This suggests the idea that various indications on the relative perfection of the pinacoid (inf P inf) cleavage compared with the prismatic one may be due to the more or less mass presence of these interpositions, which undoubtedly also determine the Schiller metalloid on the brachypinakoid. Then, however, the ease of separation in this direction would be more a separation than true fissility.
+"Both are relatively poor in extraneous deposits; yes they are missing for example in the enstatite from the pseudophite of the Aloysthals in Mähren and in some enstatites or bronzites of the lherzolites and olivines. The former is traversed only by frequent veins of the pseudophite, from which fine-grained decomposition products penetrate into the enstatite in a vertical direction. Other occurrences and even other individuals of the same hand specimen often contain mass inclusions of green or brown lamallae, splints, and grains (depending on the position of the grinding plane) which, without exception, are invariably parallel to the most perfect cleavage direction. This suggests the idea that various indications on the relative perfection of the pinacoid (inf P inf) cleavage compared with the prismatic one may be due to the more or less mass presence of these interpositions, which undoubtedly also determine the Schiller metalloid on the brachypinakoid. Then, however, the ease of separation in this direction would be more a separation than true fissility.
 
 
