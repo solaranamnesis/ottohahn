@@ -1,86 +1,86 @@
-THE METEORITES (CHONDRITE)
-AND
-THEIR ORGANISMS.
+# THE METEORITES (CHONDRITE)
+# AND
+# THEIR ORGANISMS.
 
-DEPICTED AND DESCRIBED
-BY
-DR. OTTO HAHN.
+## DEPICTED AND DESCRIBED
+## BY
+## DR. OTTO HAHN.
 
-32 PLATES WITH 142 ILLUSTRATIONS.
+### 32 PLATES WITH 142 ILLUSTRATIONS.
 
-LIGHT PRINT OF MARTIN ROMMEL IN STUTTGART.
+### LIGHT PRINT OF MARTIN ROMMEL IN STUTTGART.
 
-TÜBINGEN 1880.
+### TÜBINGEN 1880.
 
-PUBLISHER OF THE H. LAUPP'SCHEN BOOKSHOP.
-
-
-TABLE OF CONTENTS.
-
-Introduction
-
-I. SECTION.
-
-Previous Views on Meteorites.
-
-History and Overview
-
-Meteorites and their Mineralogical Properties
-
-II. SECTION.
-
-The Organic Nature of the Chondrite.
-
-I. Chapter. Organic or Inorganic?
-
-II. Chapter. The Individual Forms
-
-A. Sponges: 1. Urania 23 2. Needle Sponges
-
-B. Coral
-
-C. Crinoids
-
-III. Chapter. All Life
-
-IV. Chapter. Stone in Stone
-
-V. Chapter. Procreation
-
-VI. Chapter. Development
-
-III. SECTION.
-
-Meteoric Iron
-
-IV. SECTION.
-
-The Iron of Ovifak
-
-V. SECTION.
-
-Conclusions.
-
-I. Chapter. Origin of Meteorites
-
-II. Chapter. The Formation of Earth
-
-III. Chapter. The Future of our Planet
-
-Explanation of the Panels.
-
-Preliminary Note
-
-Board Directory
+### PUBLISHER OF THE H. LAUPP'SCHEN BOOKSHOP.
 
 
-THE METEORITES (CHONDRITE) AND THEIR ORGANISMS
+# TABLE OF CONTENTS.
 
-English translation note:
+## Introduction
+
+### I. SECTION.
+
+#### Previous Views on Meteorites.
+
+#### History and Overview
+
+#### Meteorites and their Mineralogical Properties
+
+### II. SECTION.
+
+#### The Organic Nature of the Chondrite.
+
+#### I. Chapter. Organic or Inorganic?
+
+#### II. Chapter. The Individual Forms
+
+##### A. Sponges: 1. Urania 23 2. Needle Sponges
+
+##### B. Coral
+
+##### C. Crinoids
+
+#### III. Chapter. All Life
+
+#### IV. Chapter. Stone in Stone
+
+#### V. Chapter. Procreation
+
+#### VI. Chapter. Development
+
+### III. SECTION.
+
+#### Meteoric Iron
+
+### IV. SECTION.
+
+#### The Iron of Ovifak
+
+### V. SECTION.
+
+### Conclusions.
+
+#### I. Chapter. Origin of Meteorites
+
+#### II. Chapter. The Formation of Earth
+
+#### III. Chapter. The Future of our Planet
+
+### Explanation of the Panels.
+
+### Preliminary Note
+
+### Board Directory
+
+
+# THE METEORITES (CHONDRITE) AND THEIR ORGANISMS
+
+#### English translation note:
 
 While choosing terms I attempt to take Hahn's perspective and consider the extent to which his ideas were deemed controversial and even still are today. I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read and I don't consider this a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he emphasizes.
 
-1:
+# 1:
 
 It was not the inconsequential attacks on my "Primordial Cell" that made me tire in my efforts to establish certain new geological facts: it was the observation of the untenability of the previous view in the most undisputedly important part of the geological science, in the part through which it is related to the cosmos — that is, the doctrine of the so-called plutonic rocks.
 
@@ -118,13 +118,13 @@ Anyone who even superficially surveys the forms will soon find that they provide
 
 In such beginnings, mistakes are inevitable, so it is only a small demand to ask to forgive them. Nor did I want to delay the publication of the work too long, and therefore have it just as it is now available.
 
-2:
+# 2:
 
-Section 1
+## Section 1
 
-Previous Views On the Meteorite
+### Previous Views On the Meteorite
 
-History and Overview
+### History and Overview
 
 Last year, when I wrote down in my diary certain new observations about the composition of the rocks of our Earth and finally also of the meteorities, the importance of the latter to geology was not fully clear to me.
 
@@ -228,13 +228,13 @@ Proper observations and incorrect explanations are so closely intertwined that i
 
 Daubree's commendable work "Experimental Geology" was obtained only in translation and also after completion of my work. No one will find that it refuted my conclusions. Daubree himself depicted Knyahinya. M. pressed, melted, dissolved, calculated, only not — seen.
 
-The Meteorites and their Mineralogical Properties
+## The Meteorites and their Mineralogical Properties
 
-1.
+### 1.
 
 The literature on meteorites is very extensive. However, it is so well known in terms of the type and number of chemical compositions, that I do not need to dwell on this part of it, in particular the earlier works.
 
-2.
+### 2.
 
 The meteorites are divided into iron and stone, but there is still a class between the two: "half-iron", i.e. a combination of solid iron and stone - the pallasites. While the irons show many similarities, both in their chemical composition and in the form of their structure, the pallasites are very different (depending on the predominance of iron). But there are other differences among them. Hainholz [mesosiderite], for example, has a blue mineral (enstatite) in addition to iron and olivine, and in this a great richness of life forms. The stones are divided into chondrite, stannerite [Stannern meteorite - eucrite], luotolaxer [Luotolax meteorite - howardite], bokkefelder [Cold Bokkeveld meteorite - carbonaceous], bishopville [Bishopville meteorite - aubrite], (Quenstedt, Klar and Wahr p.280 follow).
 
@@ -282,7 +282,7 @@ Simbirsk
 
 All rocks are thoroughly certified. Above all, I have the kindness of my revered teacher, Professor Dr. [Friedrich August] von Quenstedts, with whom he thankfully commemorate the excellent Tübingen University Collection (which, as is well known, for the most part by [Karl Ludwig] Baron von Reichenbach in Vienna).
 
-3.
+### 3.
 
 From Knyahinya I own 360 thin sections, of L'Aigle 6, of Pultusk 6, of the remaining 1 - 3 each. I will name all stones after their place of fall. When making the thin sections, I made the cuts in two directions. After several attempts on Knyahinya, it turned out that it breaks in certain directions. 
 
@@ -296,7 +296,7 @@ I would like to make a comment here, which will be confirmed by anyone who has d
 
 Only in rare cases of total transparency, that are entirely cut thin, is the structure visible. Anyone who looks at a thin section, if cut in this manner, with the microscope will be delighted at the beautiful shapes and lines. In the joy of this, one will want to make things even better and expects with continued grinding a perfect picture. But when one puts the thin section under the microscope after this second time - there is nothing left but an almost structureless surface, with hardly hinted, even blurred shapes, from which you previously perceived with the magnifying glass can no longer be seen, not even with the microscope. However, this phenomenon is related to the type of metamorphosis of the rock and the forms within it. The matter is well known and therefore does not require further explaination. I only mentioned the matter so that those who want to make these observations will not be surprised and will improve their own mode of observation.
 
-4.
+### 4.
 
 The fact that the chondrites consist for the most part of bronzite enstatite (augite) and olivine, as well as being magnetic throughout, is an accepted fact in the science. Quenstedt, Handbook of Mineralogy p. 722.
 
@@ -322,13 +322,13 @@ Our researchers, with the exception of Gümbel, speak of the meteorites as volca
 
 Rightly Quenstedt has alone has declared the question an open one and said: "...it is reserved for the microscope to solve the riddle of the composition of the meteorites!" Handbook of Mineralogy p. 722.
 
-II. SECTION.
+# II. SECTION.
 
-THE ORGANIC NATURE OF THE CHONDRITE.
+# THE ORGANIC NATURE OF THE CHONDRITE.
 
-I. CHAPTER.
+## I. CHAPTER.
 
-ORGANIC OR UNORGANIC?
+### ORGANIC OR UNORGANIC?
 
 In order to prove that a plant or animal organism is present, I consider it necessary to prove:
 1. a unified form,
@@ -353,19 +353,19 @@ Olivine has no visible sheet breakage, enstatite and bronzite it is obvious. I d
 
 A mineral is simple, it must be simple in its concept and therefore always gives the picture of a homogeneous mass (field), with some inclusions at most. How could the same mineral be present in such different structures, in such coherent forms that differ from crystal forms?
 
-3. Minerals are either crystallized or not crystallized. — In the first order they have a certain regular and recurrent form: they move on surfaces which, on average, project themselves as straight lines. These forms (lines and angles) are recurring, varying only in size, not ratio. Such forms are not found among the forms I have addressed as organic. Here is no form with a surface or an angle; all are spheres, ellipses with deviations from mathematical form, deviations, which are nevertheless constant. It is these other forms which give rise to the forseeing of the matching structures, showing themselves with constant outlines, these forms which are different from the crystal form of the enstatites and the olivines.
+3. Minerals are either crystallized or not crystallized. In the first order they have a certain regular and recurrent form: they move on surfaces which, on average, project themselves as straight lines. These forms (lines and angles) are recurring, varying only in size, not ratio. Such forms are not found among the forms I have addressed as organic. In the orgranic forms there is no form with a surface or an angle; all are spheres or ellipses with deviations from the mathematical form, deviations, which are nevertheless constant. It is these other forms which give rise to the need to forsee just what are these matching structures, showing themselves with constant outlines, these forms which are different from the crystal form of the enstatites and the olivines.
 
 Though they are rare, small sections are real crystals, but in a way, they are probative values that do not impinge on the facts. See below and Table XXXII. Fig. 2.
 
-4. If the minerals were originally crystallized, but happen to lose their crystalline form due to some mechanical force, the only form that could be repeated is the sphere or one approaching it, such as an ellipse. Here a repetition would be possible without a conclusion being drawn about the form. In the rolled stones, surface cuts of the body would immediately show the influence of these mechanical forces, - particular, the inclusions would be hit arbitrarily.
+4. If the minerals were originally crystallized, but happen to lose their crystalline form due to some mechanical force, the only form that could be repeated is the sphere or one approaching it, such as an ellipse. Here a repetition would be possible without a conclusion being drawn about the form. In these spheres, surface cuts of the body would immediately show the influence of such mechanical forces, in particular, the inclusions would be hit arbitrarily.
 
 However, the structure in the meteorite inclusions is always, I would like to say: symmetric, in harmony with its outlines.
 
-5. When the crystals are weathered the layers change from the outside to the inside - concentrically: - but there is no trace of weathering in the inclusions of the chondrites and their structures are always eccentric.
+5. When the crystals are weathered the layers change from the outside to the inside - concentrically - but there is no trace of weathering in the inclusions of the chondrites and their structures are always eccentric.
 
-6. Regarding the mineral inclusions, they give different sights depending on their nature. There are quite arbitrary forms of deposited, such as glass-liquid-inclusions, crystallites.
+6. Regarding the mineral inclusions, they give different sights depending on their nature. The deposits are quite arbitrary forms, such as glass-liquid-inclusions and crystallites.
 
-But where crystal laws appears in the inclusions, this always depends on the crystalline form. Both are not the case with the meteorite forms. No trace of inclusions in accordance with a crystalline form!
+But where crystal laws appears in the inclusions, they always depends on the crystalline form. Neither is the case with meteorite forms. No trace of inclusions in accordance with a crystalline form!
 
 7. A sheet breakage is only visible if mechanical force creates a surface for light refraction phenomena. Without this, it is imperceptible. If cleavage surfaces are not present, light refraction phenomena do not show the meteorite inclusions, just "dust material".
 
@@ -375,7 +375,7 @@ I believe that the sight of my forms will make further discussion about the dive
 
 8. But so much has been said of crystallites, of crystallization.
 
-For such will turn into the enstatite-bronzite-olivine spheres [chondrules] as previously held. Gümbel pointed out that there was no sphere where the center was not eccentric!
+It has been previously held that such crystallization will turn into the enstatite-bronzite-olivine spheres [chondrules]. Gümbel pointed out that there all spheres have eccentric centers!
 
 Here the tread of the basic difference between the meteorite forms and the crystallites is made quite clear.
 
