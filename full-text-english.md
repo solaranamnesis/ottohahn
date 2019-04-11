@@ -321,7 +321,7 @@ Rightly Quenstedt has alone has declared the question an open one and said: "...
 
 ## THE ORGANIC NATURE OF THE CHONDRITE.
 
-### I. CHAPTER.
+### CHAPTER I.
 
 #### ORGANIC OR UNORGANIC?
 
