@@ -271,8 +271,7 @@ Knyahinya, Ungarn. - June 9, 1866
 
 Pultusk, Warschau - January 30, 1868
 
-Olvinio - August 31, 1872
-
+Olvinio - August 31, 1872  
 Simbirsk
 
 All rocks are thoroughly certified. Above all, I have the kindness of my revered teacher, Professor Dr. [Friedrich August] von Quenstedts, with whom he thankfully commemorate the excellent Tübingen University Collection (which, as is well known, for the most part by [Karl Ludwig] Baron von Reichenbach in Vienna).
