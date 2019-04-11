@@ -29,10 +29,13 @@
 
 #### Chapter I. Organic or Inorganic?
 
-#### Chapter II. The Individual Forms  
-##### A. 1. Sponges: Urania 23 2. Needle Sponges  
-##### B. Coral  
-##### C. Crinoids  
+#### Chapter II. The Individual Forms
+
+##### A. 1. Sponges: Urania 23 2. Needle Sponges
+
+##### B. Coral
+
+##### C. Crinoids
 
 #### Chapter III. All Life
 
