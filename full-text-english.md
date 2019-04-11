@@ -290,6 +290,49 @@ Allow me to give a breif outline of what [Karl Heinrich Ferdinand] Rosenbusch sa
 
 "Enstatite and bronzite are not found in the rocks as crystals, but almost only in irregularly limited crystalline grains, which usually show a very dense striation, which is more straightforward in the case of enstatite, more gently winding and wave-like. But this difference is not a pervasive one. The same striation is also shown by the monoclinic diopside and rhombic bastite, which can not easily be separated from bronzite by other, later to be discussed, visual phenomena. If the cut meets the enstatite or bronzite at a strong incline to the main cleavage surface, then the surface will not be equally fine-grained, but rather like a rough stairway. Transverse surfaces and fractures are not uncommon."
 
-"Both are relatively poor in extraneous deposits; yes they are missing for example in the enstatite from the pseudophite of the Aloysthals in Mähren and in some enstatites or bronzites of the lherzolites and olivines. The former is traversed only by frequent veins of the pseudophite, from which fine-grained decomposition products penetrate into the enstatite in a vertical direction. Other occurrences and even other individuals of the same hand specimen often contain mass inclusions of green or brown lamallae, splints, and grains (depending on the position of the grinding plane) which, without exception, are invariably parallel to the most perfect cleavage direction. This suggests the idea that various indications on the relative perfection of the pinacoid (inf P inf) cleavage compared with the prismatic one may be due to the more or less mass presence of these interpositions, which undoubtedly also determine the Schiller metalloid on the brachypinakoid. Then, however, the ease of separation in this direction would be more a separation than true fissility.
+"Both are relatively poor in extraneous deposits; yes they are missing for example in the enstatite from the pseudophite of the Aloysthals in Mähren and in some enstatites or bronzites of the lherzolites and olivines. The former is traversed only by frequent veins of the pseudophite, from which fine-grained decomposition products penetrate into the enstatite in a vertical direction. Other occurrences and even other individuals of the same hand specimen often contain mass inclusions of green or brown lamallae, splints, and grains (depending on the position of the grinding plane) which, without exception, are invariably parallel to the most perfect cleavage direction. This suggests the idea that various indications on the relative perfection of the pinacoid (inf P inf) cleavage compared with the prismatic one may be due to the more or less mass presence of these interpositions, which undoubtedly also determine the metallic shimmer on the brachypinakoid. Then, however, the ease of separation in this direction would be more a separation than true fissility."
+
+"The enstatite without and the bronzite with metallic shimmer on the brachypinacoid cleavage surface can be found in serpentines of Aloysthal in Mähren (Enstatite) and Mont Bresouars in the Vosges, in the lherzolites and olivine rocks, in some olivine gabbros, in Streng's Enstatitfels from Radauthal near Harzburg and in the olivinite bombs of the Dreiser Weiher [Daun area of Germany], as well as in some meteorites; so always in the company of the olivines and altered olivines."
+
+For those who have command of the book, I provide two illustrations, one of bronzite from Kupferberg (Table I. [Fig.] 1), the other of enstatite from Texas (Table I. [Fig.] 2), which are quite similar to Rosenbuschite.
+
+As far as olivine is concerned, there is no need for a picture, since the forms of this mineral are completely encompassed with circles. Suffice it to say that pure olivine does not show any structure. Olivine only shows structure if one wants to call its inclusions or growth sites of the crystal or decomposition phenomena (serpentine formation) structures. However, there is certainly no crystal that looks similar to my forms. As for the claim that the spheres are glass, it is not even made clear what chemical composition these glass spheres [chondrules] should have compared with enstatite, bronzite, and olivine. Apparently, all forms are thrown together and delcared as glass, although enstatite according to Quenstedt (Mineralogy p. 318) is infusible, according to Naumann-Zirkel p. 585 it is, at least, difficult to melt. It is even claimed that these glass spheres were first created while falling. But the effects of fire are found only in the [fusion] crust. The [fusion] crust of most meteorites is barely 2 mm in diameter.
+
+The assertion, that they [chondrules] were glass, countered by the message sent from my thin sections, was the reply of the similarity of the meteoritic form to such glass in the rocks of our Earth. So I was referred by [Ferdinand] Zirkel to a spherulite liparite, of which I give (Table I. Fig. 3). This form should show that my urania is a deception. I think the form in the liparite is crystallite formation (probably zeolite). Now look at the structures next on Table I, Figures 4, 5, 6!
+
+Our researchers, with the exception of Gümbel, speak of the meteorites as volcanic bombs, declaring the rock as identical to the volcanic rocks of the Earth, so counting the meteorite without hesitation with the volcanic rocks. The evidence to the contrary is the subject of this book.
+
+Rightly Quenstedt has alone has declared the question an open one and said: "...it is reserved for the microscope to solve the riddle of the composition of the meteorites!" Handbook of Mineralogy p. 722.
+
+II. SECTION.
+
+THE ORGANIC NATURE OF THE CHONDRITE.
+
+I. CHAPTER.
+
+ORGANIC OR UNORGANIC?
+
+In order to prove that a plant or animal organism is present, I consider it necessary to prove:
+1. a unified form,
+2. a recurring form,
+3. recurring in developmental stages,
+4. structure, either cells or vessels,
+5. similarity to known forms.
+
+If these requirements are valid, it remains only to decide, whether plant or animal? Now you ask yourself, do my forms fulfill these requirements?
+
+I believe, before I go to the positive proof, the negative proof ought to lead.
+
+The proof you see, that I claim for the existence of organic beings is twofold: a negative one, by showing that the meteoritic forms do not belong to the mineral kingdom, and a positive one, by showing the similiarity of the meteoritic forms with the forms of our Earth, whether living or extinct. The first thing to prove, therefore, is the sentence: 
+
+The inclusions of the meteorites are not mineral formations.
+
+1. Our mineralogists explain the inclusions of chondrites as enstatite, bronzite, and olivine.
+
+Olivine has no visible sheet breakage, enstatite and bronzite it is obvious. I depict a bronzite from Kupferberg, Table I. [Fig.] 1, an enstatite from Texas, Table I. [Fig.] 2 (thin section at 75 times magnification) Figure 2 shows one the best sheet fractures. Now first compare this with Table I. Figure 4, a part of one of my favorites from the Knyahinya Meteorite (about 250 times enlarged) and you will probably no longer speak about the fact that the sheet breakage is the cause of the structural phenomena of the chondrite. Now look at all the tables and this explanation will be put aside once and for all.
+
+2. If the inclusions of the chondrites consist of enstatite or olivine, or if they are glass: If that is the case, I ask, how is it possible that the same mineral, or glass as a whole occur, in such different forms (outlines and structures), and different minerals occur in such acutely coinciding forms?  Look at a hypersthene, a hornblende, an augite! Apart from some visible, easy-to-explain inclusions — (and this is not the case here) always the same picture! Of at most three minerals a hundred different images!
+
+
 
 
