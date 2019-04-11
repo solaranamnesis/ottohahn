@@ -2,9 +2,11 @@
 # AND
 # THEIR ORGANISMS.
 
+
 ## DEPICTED AND DESCRIBED
 ## BY
 ## DR. OTTO HAHN.
+
 
 ### 32 PLATES WITH 142 ILLUSTRATIONS.
 
@@ -12,7 +14,7 @@
 
 ### TÜBINGEN 1880.
 
-### PUBLISHER OF THE H. LAUPP'SCHEN BOOKSHOP.
+### PUBLISHED BY H. LAUPP'SCHEN BUCHHANDLUNG.
 
 
 # TABLE OF CONTENTS.
@@ -35,9 +37,9 @@
 
 #### II. Chapter. The Individual Forms
 
-##### A. Sponges: 1. Urania 23 2. Needle Sponges
+⋅⋅⋅ ##### A. Sponges: 1. Urania 23 2. Needle Sponges
 
-##### B. Coral
+⋅⋅⋅ ##### B. Coral
 
 ##### C. Crinoids
 
