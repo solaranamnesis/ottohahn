@@ -333,6 +333,36 @@ Olivine has no visible sheet breakage, enstatite and bronzite it is obvious. I d
 
 2. If the inclusions of the chondrites consist of enstatite or olivine, or if they are glass: If that is the case, I ask, how is it possible that the same mineral, or glass as a whole occur, in such different forms (outlines and structures), and different minerals occur in such acutely coinciding forms?  Look at a hypersthene, a hornblende, an augite! Apart from some visible, easy-to-explain inclusions — (and this is not the case here) always the same picture! Of at most three minerals a hundred different images!
 
+A mineral is simple, it must be simple in its concept and therefore always gives the picture of a homogeneous mass (field), with some inclusions at most. How could the same mineral be present in such different structures, in such coherent forms that differ from crystal forms?
 
+3. Minerals are either crystallized or not crystallized. — In the first order they have a certain regular and recurrent form: they move on surfaces which, on average, project themselves as straight lines. These forms (lines and angles) are recurring, varying only in size, not ratio. Such forms are not found among the forms I have addressed as organic. Here is no form with a surface or an angle; all are spheres, ellipses with deviations from mathematical form, deviations, which are nevertheless constant. Now quite foresee  of the correspondance structure, shows itself as a constant outline, but other forms as the crystal form of the enstatites, the olivines they give need. It is these other forms which give rise to the forseeing of matching structures, showing themselves as constant outlines, these forms which are different from the crystal form of the enstatites, the olivines.
+
+Though they are rare, small sections are real crystals, but in a way, they are probative values that do not impinge on the facts. See below and Table XXXII. Fig. 2.
+
+4. If the minerals were originally crystallized, but happen to lose their crystalline form due to some mechanical force, the only form that could be repeated is the sphere or one approaching it, such as an ellipse. Here a repetition would be possible without a conclusion being drawn about the form. In the rolled stones, surface cuts of the body would immediately show the influence of these mechanical forces, - particular, the inclusions would be hit arbitrarily.
+
+However, the structure in the meteorite inclusions is always, I would like to say: symmetric, in harmony with its outlines.
+
+5. When the crystals are weathered the layers change from the outside to the inside - concentrically: - but there is no trace of weathering in the inclusions of the chondrites and their structures are always eccentric.
+
+6. Regarding the mineral inclusions, they give different sights depending on their nature. There are quite arbitrary forms of deposited, such as glass-liquid-inclusions, crystallites.
+
+But where crystal laws appears in the inclusions, this always depends on the crystalline form. Both are not the case with the meteorite forms. No trace of inclusions in accordance with a crystalline form!
+
+7. A sheet breakage is only visible if mechanical force creates a surface for light refraction phenomena. Without this, it is imperceptible. If cleavage surfaces are not present, light refraction phenomena do not show the meteorite inclusions, just "dust material".
+
+One finds in the terrestrial minerals that there are interpositions parallel to the sheet cleavage: these do not show in the meteorites.
+
+I believe that the sight of my forms will make further discussion about the diversity of mineral and, in particular, crystal images unnecessary.
+
+8. But so much has been said of crystallites, of crystallization.
+
+For such will turn into the enstatite-bronzite-olivine spheres [chondrules] as previously held. Gümbel pointed out that there was no sphere where the center was not eccentric!
+
+Here the tread of the basic difference between the meteorite forms and the crystallites is made quite clear.
+
+The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, which it is ground away, which Gümbel overlooked) - a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that the crystals unite with a crystal of equal mass, which then create concentric forms.
+
+Therefore if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, concentric formations would show.
 
 
