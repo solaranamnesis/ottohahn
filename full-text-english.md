@@ -15,7 +15,7 @@
 
 ## Introduction
 
-### I. SECTION.
+### SECTION I.
 
 #### Previous Views on Meteorites.
 
@@ -23,45 +23,45 @@
 
 #### Meteorites and their Mineralogical Properties
 
-### II. SECTION.
+### SECTION II.
 
 #### The Organic Nature of the Chondrite.
 
-#### I. Chapter. Organic or Inorganic?
+#### Chapter I. Organic or Inorganic?
 
-#### II. Chapter. The Individual Forms
+#### Chapter II. The Individual Forms
 
-##### A. Sponges: 1. Urania 23 2. Needle Sponges
+##### A. 1. Sponges: Urania 23 2. Needle Sponges
 
 ##### B. Coral
 
 ##### C. Crinoids
 
-#### III. Chapter. All Life
+#### Chapter III. All Life
 
-#### IV. Chapter. Stone in Stone
+#### Chapter IV. Stone in Stone
 
-#### V. Chapter. Procreation
+#### Chapter V. Procreation
 
-#### VI. Chapter. Development
+#### Chapter VI. Development
 
-### III. SECTION.
+### SECTION III.
 
 #### Meteoric Iron
 
-### IV. SECTION.
+### SECTION IV.
 
 #### The Iron of Ovifak
 
-### V. SECTION.
+### SECTION V.
 
 ### Conclusions.
 
-#### I. Chapter. Origin of Meteorites
+#### Chapter I. Origin of Meteorites
 
-#### II. Chapter. The Formation of Earth
+#### Chapter II. The Formation of Earth
 
-#### III. Chapter. The Future of our Planet
+#### Chapter III. The Future of our Planet
 
 ### Explanation of the Panels.
 
