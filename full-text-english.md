@@ -223,7 +223,7 @@ Proper observations and incorrect explanations are so closely intertwined that i
 
 Daubree's commendable work "Experimental Geology" was obtained only in translation and also after completion of my work. No one will find that it refuted my conclusions. Daubree himself depicted Knyahinya. M. pressed, melted, dissolved, calculated, only not — seen.
 
-## The Meteorites and their Mineralogical Properties
+## Meteorites and their Mineralogical Properties
 
 ### 1.
 
