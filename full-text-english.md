@@ -243,23 +243,41 @@ I prefer to study the chondrites, and where I speak of meteorites, I am refering
 I have examined:
 
 Tabor, Böhmen - July 3, 1753
+
 Siena, Toskana - June 16, 1794
+
 L'Aigle, Normandy - April 26, 1803
+
 Weston, Connecticut - December 14, 1807
+
 Tipperary, Ireland - November 23, 1810
+
 Blansko, Brünn - November 25, 1833
+
 Château-Renard, Loiret - July 12, 1841
+
 Linn County [Marion], Iowa - February 25, 1847
+
 Cabarras County [Monroe], North Carolina - October 31, 1849
+
 Mezö-Madaras [Romania] - September 4, 1852
+
 Borkut, Ungarn - October 13, 1852
+
 Bremervörde, Hanover - May 13, 1855
+
 Parnallee, Ostindien - February 28, 1857
+
 Heredia, Costa Rica - April 1, 1857
+
 New Concord, Ohio - May 1, 1860
+
 Knyahinya, Ungarn. - June 9, 1866
+
 Pultusk, Warschau - January 30, 1868
+
 Olvinio - August 31, 1872
+
 Simbirsk
 
 All rocks are thoroughly certified. Above all, I have the kindness of my revered teacher, Professor Dr. [Friedrich August] von Quenstedts, with whom he thankfully commemorate the excellent Tübingen University Collection (which, as is well known, for the most part by [Karl Ludwig] Baron von Reichenbach in Vienna).
@@ -363,6 +381,6 @@ Here the tread of the basic difference between the meteorite forms and the cryst
 
 The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, which it is ground away, which Gümbel overlooked) - a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that the crystals unite with a crystal of equal mass, which then create concentric forms.
 
-Therefore if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, radiating formations would show.
+Therefore if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, concentric formations would show.
 
 
