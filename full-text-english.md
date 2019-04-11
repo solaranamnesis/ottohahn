@@ -335,7 +335,7 @@ Olivine has no visible sheet breakage, enstatite and bronzite it is obvious. I d
 
 A mineral is simple, it must be simple in its concept and therefore always gives the picture of a homogeneous mass (field), with some inclusions at most. How could the same mineral be present in such different structures, in such coherent forms that differ from crystal forms?
 
-3. Minerals are either crystallized or not crystallized. — In the first order they have a certain regular and recurrent form: they move on surfaces which, on average, project themselves as straight lines. These forms (lines and angles) are recurring, varying only in size, not ratio. Such forms are not found among the forms I have addressed as organic. Here is no form with a surface or an angle; all are spheres, ellipses with deviations from mathematical form, deviations, which are nevertheless constant. Now quite foresee  of the correspondance structure, shows itself as a constant outline, but other forms as the crystal form of the enstatites, the olivines they give need. It is these other forms which give rise to the forseeing of matching structures, showing themselves as constant outlines, these forms which are different from the crystal form of the enstatites, the olivines.
+3. Minerals are either crystallized or not crystallized. — In the first order they have a certain regular and recurrent form: they move on surfaces which, on average, project themselves as straight lines. These forms (lines and angles) are recurring, varying only in size, not ratio. Such forms are not found among the forms I have addressed as organic. Here is no form with a surface or an angle; all are spheres, ellipses with deviations from mathematical form, deviations, which are nevertheless constant. It is these other forms which give rise to the forseeing of the matching structures, showing themselves with constant outlines, these forms which are different from the crystal form of the enstatites and the olivines.
 
 Though they are rare, small sections are real crystals, but in a way, they are probative values that do not impinge on the facts. See below and Table XXXII. Fig. 2.
 
@@ -363,6 +363,6 @@ Here the tread of the basic difference between the meteorite forms and the cryst
 
 The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, which it is ground away, which Gümbel overlooked) - a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that the crystals unite with a crystal of equal mass, which then create concentric forms.
 
-Therefore if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, concentric formations would show.
+Therefore if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, radiating formations would show.
 
 
