@@ -37,9 +37,9 @@
 
 #### II. Chapter. The Individual Forms
 
-⋅⋅⋅ ##### A. Sponges: 1. Urania 23 2. Needle Sponges
+##### A. Sponges: 1. Urania 23 2. Needle Sponges
 
-⋅⋅⋅ ##### B. Coral
+##### B. Coral
 
 ##### C. Crinoids
 
