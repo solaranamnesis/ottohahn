@@ -29,13 +29,10 @@
 
 #### Chapter I. Organic or Inorganic?
 
-#### Chapter II. The Individual Forms
-
-##### A. 1. Sponges: Urania 23 2. Needle Sponges
-
-##### B. Coral
-
-##### C. Crinoids
+#### Chapter II. The Individual Forms  
+##### A. 1. Sponges: Urania 23 2. Needle Sponges  
+##### B. Coral  
+##### C. Crinoids  
 
 #### Chapter III. All Life
 
@@ -237,40 +234,23 @@ I prefer to study the chondrites, and where I speak of meteorites, I am refering
 
 I have examined:
 
-Tabor, Böhmen - July 3, 1753
-
-Siena, Toskana - June 16, 1794
-
-L'Aigle, Normandy - April 26, 1803
-
-Weston, Connecticut - December 14, 1807
-
-Tipperary, Ireland - November 23, 1810
-
-Blansko, Brünn - November 25, 1833
-
-Château-Renard, Loiret - July 12, 1841
-
-Linn County [Marion], Iowa - February 25, 1847
-
-Cabarras County [Monroe], North Carolina - October 31, 1849
-
-Mezö-Madaras [Romania] - September 4, 1852
-
-Borkut, Ungarn - October 13, 1852
-
-Bremervörde, Hanover - May 13, 1855
-
-Parnallee, Ostindien - February 28, 1857
-
-Heredia, Costa Rica - April 1, 1857
-
-New Concord, Ohio - May 1, 1860
-
-Knyahinya, Ungarn. - June 9, 1866
-
-Pultusk, Warschau - January 30, 1868
-
+Tabor, Böhmen - July 3, 1753  
+Siena, Toskana - June 16, 1794  
+L'Aigle, Normandy - April 26, 1803  
+Weston, Connecticut - December 14, 1807  
+Tipperary, Ireland - November 23, 1810  
+Blansko, Brünn - November 25, 1833  
+Château-Renard, Loiret - July 12, 1841  
+Linn County [Marion], Iowa - February 25, 1847  
+Cabarras County [Monroe], North Carolina - October 31, 1849  
+Mezö-Madaras [Romania] - September 4, 1852  
+Borkut, Ungarn - October 13, 1852  
+Bremervörde, Hanover - May 13, 1855  
+Parnallee, Ostindien - February 28, 1857  
+Heredia, Costa Rica - April 1, 1857  
+New Concord, Ohio - May 1, 1860  
+Knyahinya, Ungarn. - June 9, 1866  
+Pultusk, Warschau - January 30, 1868  
 Olvinio - August 31, 1872  
 Simbirsk
 
