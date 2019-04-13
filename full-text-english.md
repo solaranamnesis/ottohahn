@@ -289,11 +289,11 @@ Allow me to give a breif outline of what [Karl Heinrich Ferdinand] Rosenbusch sa
 
 "The enstatite without and the bronzite with metallic shimmer on the brachypinacoid cleavage surface can be found in serpentines of Aloysthal in Mähren (Enstatite) and Mont Bresouars in the Vosges, in the lherzolites and olivine rocks, in some olivine gabbros, in Streng's Enstatitfels from Radauthal near Harzburg and in the olivinite bombs of the Dreiser Weiher [Daun area of Germany], as well as in some meteorites; so always in the company of the olivines and altered olivines."
 
-For those who have command of the book, I provide two illustrations, one of bronzite from Kupferberg (Table I. [Fig.] 1), the other of enstatite from Texas (Table I. [Fig.] 2), which are quite similar to Rosenbuschite.
+For those who have command of the book, I provide two illustrations, one of bronzite from Kupferberg (Table 1, Figure 1), the other of enstatite from Texas (Table 1, Figure 2), which are quite similar to Rosenbuschite.
 
 As far as olivine is concerned, there is no need for a picture, since the forms of this mineral are completely encompassed with circles. Suffice it to say that pure olivine does not show any structure. Olivine only shows structure if one wants to call its inclusions or growth sites of the crystal or decomposition phenomena (serpentine formation) structures. However, there is certainly no crystal that looks similar to my forms. As for the claim that the spheres are glass, it is not even made clear what chemical composition these glass spheres [chondrules] should have compared with enstatite, bronzite, and olivine. Apparently, all forms are thrown together and delcared as glass, although enstatite according to Quenstedt (Mineralogy p. 318) is infusible, according to Naumann-Zirkel p. 585 it is, at least, difficult to melt. It is even claimed that these glass spheres were first created while falling. But the effects of fire are found only in the [fusion] crust. The [fusion] crust of most meteorites is barely 2 mm in diameter.
 
-The assertion, that they [chondrules] were glass, countered by the message sent from my thin sections, was the reply of the similarity of the meteoritic form to such glass in the rocks of our Earth. So I was referred by [Ferdinand] Zirkel to a spherulite liparite, of which I give (Table I. Fig. 3). This form should show that my urania is a deception. I think the form in the liparite is crystallite formation (probably zeolite). Now look at the structures next on Table I, Figures 4, 5, 6!
+The assertion, that they [chondrules] were glass, countered by the message sent from my thin sections, was the reply of the similarity of the meteoritic form to such glass in the rocks of our Earth. So I was referred by [Ferdinand] Zirkel to a spherulite liparite, of which I give (Table 1, Figure 3). This form should show that my urania is a deception. I think the form in the liparite is crystallite formation (probably zeolite). Now look at the structures next on Table 1, Figures 4, 5, 6!
 
 Our researchers, with the exception of Gümbel, speak of the meteorites as volcanic bombs, declaring the rock as identical to the volcanic rocks of the Earth, so counting the meteorite without hesitation with the volcanic rocks. The evidence to the contrary is the subject of this book.
 
@@ -324,7 +324,7 @@ The inclusions of the meteorites are not mineral formations.
 
 1\. Our mineralogists explain the inclusions of chondrites as enstatite, bronzite, and olivine.
 
-Olivine has no visible sheet breakage, enstatite and bronzite it is obvious. I depict a bronzite from Kupferberg, Table I. [Fig.] 1, an enstatite from Texas, Table I. [Fig.] 2 (thin section at 75 times magnification) Figure 2 shows one the best sheet fractures. Now first compare this with Table I. Figure 4, a part of one of my favorites from the Knyahinya Meteorite (about 250 times enlarged) and you will probably no longer speak about the fact that the sheet breakage is the cause of the structural phenomena of the chondrite. Now look at all the tables and this explanation will be put aside once and for all.
+Olivine has no visible sheet breakage, enstatite and bronzite it is obvious. I depict a bronzite from Kupferberg, Table 1 Figure 1, an enstatite from Texas, Table 1 Figure 2 (thin section at 75 times magnification) Figure 2 shows one the best sheet fractures. Now first compare this with Table I. Figure 4, a part of one of my favorites from the Knyahinya Meteorite (about 250 times enlarged) and you will probably no longer speak about the fact that the sheet breakage is the cause of the structural phenomena of the chondrite. Now look at all the tables and this explanation will be put aside once and for all.
 
 2\. If the inclusions of the chondrites consist of enstatite or olivine, or if they are glass: If that is the case, I ask, how is it possible that the same mineral, or glass as a whole occur, in such different forms (outlines and structures), and different minerals occur in such acutely coinciding forms?  Look at a hypersthene, a hornblende, an augite! Apart from some visible, easy-to-explain inclusions — (and this is not the case here) always the same picture! Of at most three minerals a hundred different images!
 
@@ -332,7 +332,7 @@ A mineral is simple, it must be simple in its concept and therefore always gives
 
 3\. Minerals are either crystallized or not crystallized. In the first order they have a certain regular and recurrent form: they move on surfaces which, on average, project themselves as straight lines. These forms (lines and angles) are recurring, varying only in size, not ratio. Such forms are not found among the forms I have addressed as organic. In the orgranic forms there is no form with a surface or an angle; all are spheres or ellipses with deviations from the mathematical form, deviations, which are nevertheless constant. It is these other forms which give rise to the need to forsee just what are these matching structures, showing themselves with constant outlines, these forms which are different from the crystal form of the enstatites and the olivines.
 
-Though they are rare, small sections are real crystals, but in a way, they are probative values that do not impinge on the facts. See below and Table XXXII. Fig. 2.
+Though they are rare, small sections are real crystals, but in a way, they are probative values that do not impinge on the facts. See below and Table 32, Figure 2.
 
 4\. If the minerals were originally crystallized, but happen to lose their crystalline form due to some mechanical force, the only form that could be repeated is the sphere or one approaching it, such as an ellipse. Here a repetition would be possible without a conclusion being drawn about the form. In these spheres, surface cuts of the body would immediately show the influence of such mechanical forces, in particular, the inclusions would be hit arbitrarily.
 
@@ -366,7 +366,42 @@ If they were crystals and had broken sheets (of course olivine has none, yet the
 
 All this evidence is of course unknown to the botanist and zoologist, while every mineralogist knows it. Therefore I must ask the botanist and zoologist colleague to confirm what my photographs show. These forms are not mineral forms. With this the mineralogist has done his part, and now it passes into the hands of the paleontologist, or rather the zoologist, and now begins the positive proof.
 
+### CHAPTER II.
 
+#### THE INDIVIDUAL FORMS.
 
+##### A. SPONGE.
+
+###### 1. URANIA.
+
+Round, lobed bodies with an obvious place of growth. Table II gives a larger image of an Urania (compared with Table 5, Fig. 1, the same picture). One sees here: the acute general form, the outermost lobed edge (white, on the left), the folds, which develop while contracting, the place of growth. Even more clearly is the latter as a chalice, Table 4, Figure 3.
+
+Consolidated spiral-form Urania Table 3, Figure 5 and 6.
+
+In comprehending the threads of Table 4, Figure 1: the structure consists of an outer skin enclosing lamellar layers Table 3, Figure 4. Table 4, Figure 6 (the latter can be seen with a magnifying glass). Median diameter of Urania 1 mm, color slate gray.
+
+This structure was maintained to be a breakage of the bronzite sheet! Whether Table 4, Figure 4 belongs to the Urania is doubtful. The form and color suggest as much. The trim cuts on boths sides show clear structure.
+
+Table 5, Figure 5 shows entirely winding lobes. Either it is a hoisted spiral-form body or it is several lobes, of which the outer one surrounds the inner.
+
+Table 4, Figure 6 is a cross section, which does not show much. In the object itself you can see an average uncolored outer thin shell.
+
+Table 5, Figure 2 shows such clear stratification, that if the outer form did not exist, one might attempt to place the form as coral. 
+
+Table 4, Figure 5 shows cross sections through both vanes of the lobes.
+
+Table 6, Figure 3 lamellar structure. Figure 5 and 6 may also contain the simplest crinoids, whose arms have been laid out, on each other. Regarding the transitions of forms, I must refer to the chapter on that question.
+
+The most incredible is Table 6, Figure 1 and 2. In figure 1, the dull spot in the specimen is yellow, the striped blue. I have situated Figure 2 next, which clearly shows two lobes, connected like two shells in one place and at first sight also makes the impression of a double shell. (It is not a mere cut.) If you think a shell, the dull spot of Figure 1 would be the stone piece. But the structure is urania-like.
+
+Table 5, Figure 3: Two individuals show the structure most clearly, as well as the growth points. In Figure 4 (which has a bad picture), several individuals lie together in a fan-like manner.
+
+In Table 3, Figure 3 and Table 4, Figures 1 and 2, it is believed to be seen the round mouth opening as implied from above. 
+
+After all this I think the Urania is a sessile sponge, that contracts in a spiral form, absorbing and expelling water like our living sponges.
+
+Urania composes three twentieths of the rock mass. 
+
+###### 2. NEEDLE-SPONGE.
 
 
