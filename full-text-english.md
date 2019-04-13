@@ -352,12 +352,21 @@ I believe that the sight of my forms will make further discussion about the dive
 
 8\. But so much has been said of crystallites, of crystallization.
 
-It has been previously held that such crystallization will turn into the enstatite-bronzite-olivine spheres [chondrules]. Gümbel pointed out that there all spheres have eccentric centers!
+It has been previously held that such crystallization will turn into the enstatite-bronzite-olivine spheres. Gümbel pointed out that there all spheres have eccentric centers!
 
 Here the tread of the basic difference between the meteorite forms and the crystallites is made quite clear.
 
 The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, which it is ground away, which Gümbel overlooked) - a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that the crystals unite with a crystal of equal mass, which then create concentric forms.
 
 Therefore if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, concentric formations would show.
+
+9\. Finally, I must point out a contradiction that science came up with in order to explain the structure of the chondrites as being a mineral property. This is the optical behavior of these inclusions.
+
+If they were crystals and had broken sheets (of course olivine has none, yet there are structures in the alleged olivine sphere structures, i.e. sheet fracture!) as the source of their structure, the mineral should by necessity break light. In most of the inclusions, however, there is no refraction of light, not even aggregate polarization! So they can neither be simple minerals nor crystals, nor, least of all, be sheet fracture structures. This matter, that of the optical behavior, should have already led to the correct interpretation.
+
+All this evidence is of course unknown to the botanist and zoologist, while every mineralogist knows it. Therefore I must ask the botanist and zoologist colleague to confirm what my photographs show. These forms are not mineral forms. With this the mineralogist has done his part, and now it passes into the hands of the paleontologist, or rather the zoologist, and now begins the positive proof.
+
+
+
 
 
