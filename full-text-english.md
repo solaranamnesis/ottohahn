@@ -2,7 +2,7 @@
 
 ## DEPICTED AND DESCRIBED BY DR. OTTO HAHN.
 
-### 32 PLATES WITH 142 ILLUSTRATIONS.
+### 32 TABLES WITH 142 PICTURES.
 
 ### LIGHT PRINT OF MARTIN ROMMEL IN STUTTGART.
 
@@ -420,9 +420,25 @@ Table 10, Figures 3 and 4 show us the image of Favosites multiformis from the Si
 
 On Table 11 in Figures 1, 2, and 3 (where 2 also shows the growth points), any researcher will easily recognize the image of living coral forms, the more so as the cup shape (cavity) is indicated in Figure 1 above. The same object also shows the cross partitions of the tubes, which clearly emerge. Unfortunately, part of the picture is obscured by black in the photograph due to the yellow coloring used on the specimen.
 
+Table 10, Figures 1 and 2 show less well-preserved cross-wise and longitudinal sections, though the exact same repetition of both in several sections raises the doubts that they are organic forms, and if they are such, then they can only be corals. Figure 3 seems to be a cup coral, Figure 4 has grown the same. The fact that Figure 6 has a coral structure does not require proof. This form recurrs several times.
 
+Table 11, Figure 4 This form also recurrs several times. Peculiar coral forms are shown in Figures 5 and 6. Figure 5 is formed of tubular rings and most likely also Figure 6. I note that this shape appears hundreds of times.
 
+At high magnification, partitions show: Table 11, Figures 1, 2, 3, and 6. Table 12, Figures 1 thru 3 show clear lamellar structure. The transverse groove is Figure 4 is reminiscent of Fungia. Table 30, Figures 1 and 2 and Table 20 probably also belong here.
 
+The coincidence of the structure in Table 20 with that in Table 30, Figure 1 (in two different cut preparations) would alone suffice to exclude any possible thought of inorganic formation. Moreover, the form occurs about twenty times in the 350 cuts.
+
+Table 12, Figure 5 I found only once. In the original there are clear lamellae, which in the picture appear only in the lower part. Figure 6 is a milky white object, hence indistinct. I believe I recognize the star shape and have therefore placed the form here as a star coral.
+
+Table 13, Figures 1 thru 4 are corals which undoubtedly belong with the tubular corals. In the original, one can clearly distinguish: glassy like intermediate masses, black tube walls, yellow tubular filling material, occasionally the latter is also black. This form occurs a hundredfold in all the chondrites. Figure 5 is composed of lamellas showing clear cavities and Figure 6 has tubes with partitions. These forms belong with the largest of forms: they have diameters up to 3 mm.
+
+In Table 25, Figures 1 and 2 the form is here so well-preserved that the existence of an organism could not be doubted, the more so because it occurs in two cuts and otherwise recurs frequently. See Table 2, lower left, Table 5, Figure 6 has the form, Table 1, Figure 6 and Table 25, Figures 1 and 2 posed in sequence with the crinoids; the canals are unquestionable, the cross lines can also be interpreted as crinoid links. You can see incisions, furthermore the arms are broken, which can only be associated with crinoids.
+
+Broken or kinked arms also appear in Table 25, Figure 4 with this form there are multiple examples, which give precisely the same image.
+
+All coral forms throughout make up about a twentieth the total volume of the chondrite rock, but constituting the remaining sixteen twentieths, that which is by far the greatest part of the whole mass:
+
+##### C. CRINOIDS.
 
 
 
