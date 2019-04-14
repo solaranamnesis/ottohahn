@@ -31,7 +31,7 @@
 
 #### Chapter II. The Individual Forms
 
-##### A. 1. Sponges: Urania 23 2. Needle Sponges
+##### A. Sponges: 1. Urania 2. Needle Sponges
 
 ##### B. Coral
 
@@ -374,7 +374,7 @@ All this evidence is of course unknown to the botanist and zoologist, while ever
 
 ###### 1. URANIA.
 
-Round, lobed bodies with an obvious place of growth. Table II gives a larger image of an Urania (compared with Table 5, Fig. 1, the same picture). One sees here: the acute general form, the outermost lobed edge (white, on the left), the folds, which develop while contracting, the place of growth. Even more clearly is the latter as a chalice, Table 4, Figure 3.
+Round, lobed bodies with an obvious place of growth. Table 2 gives a larger image of an Urania (compared with Table 5, Fig. 1, the same picture). One sees here: the acute general form, the outermost lobed edge (white, on the left), the folds, which develop while contracting, the place of growth. Even more clearly is the latter as a chalice, Table 4, Figure 3.
 
 Consolidated spiral-form Urania Table 3, Figure 5 and 6.
 
@@ -403,5 +403,28 @@ After all this I think the Urania is a sessile sponge, that contracts in a spira
 Urania composes three twentieths of the rock mass. 
 
 ###### 2. NEEDLE-SPONGE.
+
+Table 7, the forms of Figures 1, 2, 3, 4, 5, and 6 show a spicule framework. Figure 1 points to Astrospongia. The needles are regularly crossed. Figure 6 is an irregularly massive spicule framework with a cavity, which from the picture suggests is very weak. These two forms seem unquestionable to me.
+
+Almost certain are Figures 2 and 5 (in Figure 2, the white line is a rock crack).
+
+The shape of Figure 4 I kept in the arrangement of tables as a sponge. After changing the arrangement was no longer possible, I realized this form was the skewed average of a crinoid and what I initially considered to be needles - are fine crinoid arms. I note that the determination is very difficult because of the exceptionally plain meteoritic crinoid forms, which means a decision must be avoided pending further investigation. The cavity of the needle sponge can be confused for the food channel of the crinoid arms, when the latter are stretched straight and the limbs are no longer clearly preserved. This fact of the matter, however unpleasent for the investigator of individual forms, is all the more rewarding for the one who pursues the development of the forms - for proving the development of one form to another. It is always enough one to the other. This puts us in a more favorable position.
+
+##### B. CORAL.
+
+Here we have such well preserved terrestrial forms that not a doubt is left remaining.
+
+Table 8 shows a sample image, Table 9 its canal structure: obvious bud canals, which are tubular connections (for there are such). In addition, there is a curvature of the canals, which absolutely can not be mistaken for sheet breakage, plus there is the very clear tube openings and finally the equally clear growth site. (Table 1, Figure 4 shows an even sharper picture of the same object.) Regrettably, staining of the specimen gives the structure pictured in Table 9, such digusting shadows. The bud canals are 0.003 mm apart. Of course, everything you can ask for from a Favosites structure.
+
+Table 10, Figures 3 and 4 show us the image of Favosites multiformis from the Silurian, in this one can not even separate the species.
+
+On Table 11 in Figures 1, 2, and 3 (where 2 also shows the growth points), any researcher will easily recognize the image of living coral forms, the more so as the cup shape (cavity) is indicated in Figure 1 above. The same object also shows the cross partitions of the tubes, which clearly emerge. Unfortunately, part of the picture is obscured by black in the photograph due to the yellow coloring used on the specimen.
+
+
+
+
+
+
+
 
 
