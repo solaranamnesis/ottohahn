@@ -478,13 +478,22 @@ The same mesh structure is shown in Table 30, Figure 6 at increased magnificatio
 
 As I already noted in the beginning, I do not consider my task here to enumerate species. My task is only to establish the existence of organisms by proving unified recurring forms of undoubted organic structure. I think that I have done this and I think that no one should have even the slightest doubt (especially after viewing the original in thin section) that these do not act as minerals. Even if only five organic forms were verified without a doubt, the other less well preserved forms would also be organic.
 
-The final determination of the genera and even the species requires more material and years of investigation. (I will be grateful for the former.) Above all, I should have more time than the current night hours and more strength than my current stenuous profession leaves me to finish my work. I think I have given the required points asked for, on which one can stand. In conclusion, I refer to the table commentary.
+The final determination of the genera and even the species requires more material and years of investigation. (I will be grateful for the former.) Above all, I should have more time than the current night hours and more strength than my current strenuous profession leaves me to finish my work. I think I have given the required points asked for, on which one can stand. In conclusion, I refer to the table commentary.
 
 Thus the forms are presented. I have been pursuing a plan, of making a statistical study on the occurance of the forms, to count out something such as the occurance of same forms that one finds in 500 thin sections. I bring this up, because I felt I had to say, that I did not think such would have a great value. Each multiplication of my collection by twelve new ones would change the ratio. I therefore preferred to give an approximate numerical ratio for the individual forms.
 
 ### CHAPTER III.
 
 #### All Life.
+
+The individual forms were brought to view in the preceding sections. All of these forms are not buried upon death, but the one grows upon another and in truth they are buried alive by life. Here of course only our vision can provide conviction. For this purpose one should look in all the pictures at the individual forms with their surroundings!
+
+What at first glance appears as a bright spot, upon closer examination shows on the average a sponge, a coral, or a crinoid part. Nowhere are, as Gümbel has quite rightly observed, there disassembled, rolled off forms and fragments - also there is binder between them. Only soft tissues are missing, everything else is preserved, just as it was as life in water. The crinoid forms show this clearly. For these at at most curved on a side, winding, seldom broken; one sees also that there was only weak mechanical resistance against neighbouring heads. But everything together, grown apart, nothing laid down, nothing buried. There is also no mass available which could have consituted a grave.
+
+
+
+
+
 
 
 
