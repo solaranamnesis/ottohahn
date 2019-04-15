@@ -424,7 +424,7 @@ Table 10, Figures 1 and 2 show less well-preserved cross-wise and longitudinal s
 
 Table 11, Figure 4 This form also recurrs several times. Peculiar coral forms are shown in Figures 5 and 6. Figure 5 is formed of tubular rings and most likely also Figure 6. I note that this shape appears hundreds of times.
 
-At high magnification, partitions show: Table 11, Figures 1, 2, 3, and 6. Table 12, Figures 1 thru 3 show clear lamellar structure. The transverse groove is Figure 4 is reminiscent of Fungia. Table 30, Figures 1 and 2 and Table 20 probably also belong here.
+At high magnification, partitions show: Table 11, Figures 1, 2, 3, and 6. Table 12, Figures 1 thru 3 show clear lamellar structure. The transverse groove in Figure 4 is reminiscent of Fungia. Table 30, Figures 1 and 2 and Table 20 probably also belong here.
 
 The coincidence of the structure in Table 20 with that in Table 30, Figure 1 (in two different cut preparations) would alone suffice to exclude any possible thought of inorganic formation. Moreover, the form occurs about twenty times in the 350 cuts.
 
@@ -439,6 +439,54 @@ Broken or kinked arms also appear in Table 25, Figure 4 with this form there are
 All coral forms throughout make up about a twentieth the total volume of the chondrite rock, but constituting the remaining sixteen twentieths, that which is by far the greatest part of the whole mass:
 
 ##### C. CRINOIDS.
+
+They are found in the simplest form, from their articulately divided arms to the developed crinoid with stem, crown, main and auxiliary arms. Their preservation is good for the most part. The difficulty lies only in the thousands of possible directions of cutting, which always give different perspectives of the same object. The pear-shaped bodies, which are regarded as glass are crinoids - their crowns.
+
+I present four crinoids in an upright position and in high quality in Tables 16 thru 19 and in profile Table 20.
+
+Table 21, Figures 1 thru 5 show average vertical sections of more developed crinoids. These are the main arms with auxillary arms and distinct joint surfaces.
+
+Table 21, Figure 3 shows steam and crown. (Figures 2 and 4 have double the magnification of 1 and 3.) Figure 5, from another thin section, is shown to display the conformity of the forms. In Figure 6 I believe to perceive the mouth opening in the cusp between the arms.
+
+Table 22, Figures 1, 3, 4, and 5 and Table 23, Figures 1 and 2 show 5 as the number of arms, as well as with the auxiliary arms.
+
+In Table 23, Figures 2 and 3 shows the kinking of arms due to pressure from above.
+
+Table 22, Figures 2 and 4 calls to mind Comatulida.
+
+A particular species of crinoids, which consist only of a number of arms. These are seen in Table 23, Figures 4 and 5, Table 24, Figures 4, 5, and 6. Table 26 (The picture on Table 24, Figure 6 is a smaller scale of the coral from Cabarras, Table 13, Figure 6.)
+
+Table 29, Figures 1, 2, 3, 4, 5, and 6 and Table 27, Figure 3 show pictures of crinoids as seen from above.
+
+Table 27, Figure 2 and Table 29, Figure 4 show crinoids from below: here the base of the stem emerges as a bright spot. The cross sectional cuts give dozens of cases showing a consistent form. (See also Table 3, Figure 2, top left. Finer results could probably not have been asked for: the muscle layers are clearly visible here.)
+
+Peculiar entanglements are shown in Table 26, Figures 1 thru 4.
+
+The clearest profiles are given in Table 25, Figures 5 and 6. Table 27, Figure 3 is a longitudinal profile with broken arms.
+
+Table 24, Figures 1 and 2 are forms, which I first viewed as coral. Table 28, Figure 1 could, nevertheless, be added to the latter. (the structure should be more clearly preserved in order for a final decision to be made).
+
+A little clearer is Table 27, Figure 1: an apparent outer casing, which is nothing but regular closed main arms.
+
+An exceptionally nice picture is given in Table 30, Figure 3; whether crinoid? this is doubtful. I only take notice, the two parts are symmetrical and the arms are not placed beside each other, rather they cross.
+
+Table 30, Figure 5 with a cut, I had at first placed as urania. It shall be added to the crinoids.
+
+Table 31, Figures 1 thru 3 appear to be similar forms. In Figures 1 and 3 one can perceive a distinct furrow, perhaps this is the place where two crinoid arms lie against one another. With the polarization device, the furrow appears even more clearly. In Figure 4, two individuals are merged, leaving it open to interpretation as either sponge or coral. Figure 5 has a structure in the middle part, some structure tissue, showing the upper arms as distinct structures. Do these belong together? Since the form only occurs once, I dare not make a final decision. The resemblance of the central image with the structure of the schreibersite in meteorites is striking. Figure 6 is found twice, so that I consider both parts as related.
+
+The same mesh structure is shown in Table 30, Figure 6 at increased magnification. The structure of both is agreed, as suggested before, with the structure of the schreibersite in the meteorites and makes an appearance several times.
+
+As I already noted in the beginning, I do not consider my task here to enumerate species. My task is only to establish the existence of organisms by proving unified recurring forms of undoubted organic structure. I think that I have done this and I think that no one should have even the slightest doubt (especially after viewing the original in thin section) that these do not act as minerals. Even if only five organic forms were verified without a doubt, the other less well preserved forms would also be organic.
+
+The final determination of the genera and even the species requires more material and years of investigation. (I will be grateful for the former.) Above all, I should have more time than the current night hours and more strength than my current stenuous profession leaves me to finish my work. I think I have given the required points asked for, on which one can stand. In conclusion, I refer to the table commentary.
+
+Thus the forms are presented. I have been pursuing a plan, of making a statistical study on the occurance of the forms, to count out something such as the occurance of same forms that one finds in 500 thin sections. I bring this up, because I felt I had to say, that I did not think such would have a great value. Each multiplication of my collection by twelve new ones would change the ratio. I therefore preferred to give an approximate numerical ratio for the individual forms.
+
+### CHAPTER III.
+
+#### All Life.
+
+
 
 
 
