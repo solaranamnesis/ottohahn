@@ -1,4 +1,4 @@
-# THE METEORITES (CHONDRITE) AND THEIR ORGANISMS.
+# THE METEORITE (CHONDRITE) AND ITS ORGANISMS.
 
 ## DEPICTED AND DESCRIBED BY DR. OTTO HAHN.
 
@@ -73,7 +73,7 @@
 
 #### English translation note:
 
-While choosing terms I attempt to take Hahn's perspective and consider the extent to which his ideas were deemed controversial and even still are today. I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read and I don't consider this a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he emphasizes.
+While translating I attempt to take Hahn's perspective while considering the extent to which his ideas were deemed controversial. Also, I condsider myself extremely familiar with the material, since I have been photographing meteorite thin sections at various magnifications for three years now. I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read and I don't consider this a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he emphasizes.
 
 # 1:
 
@@ -81,7 +81,7 @@ It was not the inconsequential attacks on my "Primordial Cell" that made me tire
 
 If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of the Earth - and also that knowledge pertaining to the real genesis of our Earth will always be hidden from us - then, at the end of this book, there is now an alternative: the meteorite is that which reveals a distant passage, which no researcher has yet dared.
 
-With this guide I now continue.
+With this as my guide I now continue.
 
 I did it, accompanied on the one hand by the sharply pronounced sarcasm of the specialists, and on the other hand cheered up by the earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
 
@@ -486,11 +486,11 @@ Thus the forms are presented. I have been pursuing a plan, of making a statistic
 
 #### All Life.
 
-The individual forms were brought to view in the preceding sections. All of these forms are not buried upon death, but the one grows upon another and in truth they are buried alive by life. Here of course only our vision can provide conviction. For this purpose one should look in all the pictures at the individual forms with their surroundings!
+The individual forms were brought to view in the previous sections. All of these forms are not buried upon death, but the one grows upon another and in truth they are buried alive by life. Here of course only our vision can provide conviction. To this purpose one should look in all the pictures at the individual forms within their surroundings!
 
-What at first glance appears as a bright spot, upon closer examination shows on the average a sponge, a coral, or a crinoid part. Nowhere are, as Gümbel has quite rightly observed, there disassembled, rolled off forms and fragments - also there is binder between them. Only soft tissues are missing, everything else is preserved, just as it was as life in water. The crinoid forms show this clearly. For these at at most curved on a side, winding, seldom broken; one sees also that there was only weak mechanical resistance against neighbouring heads. But everything together, grown apart, nothing laid down, nothing buried. There is also no mass available which could have consituted a grave.
+What at first glance appears as a bright spot, upon closer examination shows on the average a sponge, a coral, or a crinoid part. Nowhere are, as Gümbel has quite rightly observed, there disassembled, rolled off forms and fragments - also there is not a binder between them. Only soft tissues are missing, everything else is preserved, just as it was when the life was in water. The crinoid forms show this clearly. For these are at most curved on a side, winding, and seldom broken; one sees also that there was only weak mechanical resistance against neighbouring heads. But everything together, grown apart - nothing laid down, nothing buried. There is also no mass available which could have consituted a grave.
 
-The fact - that there is nothing inorganic in the chondrite rocks and no places without life in it, I consider to be as important as the existence of the organisms themselves. First, this fact casts full light on the emergence of the planets. If one adds to this, that the rock, which includes these formations, consists of minerals, belonging to the purported primary mountains [Urgestein], yes "volcanism" associated with the mountains: then our geology must take a different path in the explanation of the facts. My belief is by no means that the sponges, corals, and crinoids are from the minerals we have here, which constitute forms today. The original organisms must have been composed differently, they must have endured a transformation.
+The fact, that there is nothing inorganic in the chondrite rocks, and not a single place without life in it, I consider to be as important as the existence of the organisms themselves. First, this fact casts full light on the emergence of the planets. If one adds to this, that the rock, which includes these formations, consists of minerals, belonging to the purported primary mountains [Urgestein], yes "volcanism" associated with the mountains: then our geology must take a different path in the explanation of the facts. My belief is by no means that the sponges, corals, and crinoids are from the minerals we have here, which constitute forms today. The original organisms must have been composed differently, they must have endured a transformation.
 
 It is so much, I think, beyond all doubt, that what is nowadays hornblende, augite, and olivine are what filled the referred-to forms, formerly these minerals must have been in a different condition, namely a liquid water one, a water solution.
 
