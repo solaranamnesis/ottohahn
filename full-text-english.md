@@ -490,13 +490,11 @@ The individual forms were brought to view in the preceding sections. All of thes
 
 What at first glance appears as a bright spot, upon closer examination shows on the average a sponge, a coral, or a crinoid part. Nowhere are, as Gümbel has quite rightly observed, there disassembled, rolled off forms and fragments - also there is binder between them. Only soft tissues are missing, everything else is preserved, just as it was as life in water. The crinoid forms show this clearly. For these at at most curved on a side, winding, seldom broken; one sees also that there was only weak mechanical resistance against neighbouring heads. But everything together, grown apart, nothing laid down, nothing buried. There is also no mass available which could have consituted a grave.
 
+The fact - that there is nothing inorganic in the chondrite rocks and no places without life in it, I consider to be as important as the existence of the organisms themselves. First, this fact casts full light on the emergence of the planets. If one adds to this, that the rock, which includes these formations, consists of minerals, belonging to the purported primary mountains [Urgestein], yes "volcanism" associated with the mountains: then our geology must take a different path in the explanation of the facts. My belief is by no means that the sponges, corals, and crinoids are from the minerals we have here, which constitute forms today. The original organisms must have been composed differently, they must have endured a transformation.
 
+It is so much, I think, beyond all doubt, that what is nowadays hornblende, augite, and olivine are what filled the referred-to forms, formerly these minerals must have been in a different condition, namely a liquid water one, a water solution.
 
-
-
-
-
-
+Now we find these minerals in our primary mountains as forms, which are not crystals, but are similar to meteoritic ones. We find mountain masses composed of such forms. So here too it is highly probable that organic forms, subsequently transformed, are what we now call rocks. These rocks, however, points to a layer which is undoubtedly close to the meteoritic (chondritic), indeed they are closely related. Under this must lie the iron. This testifies to the specific weight of the Earth. Again the identical situation appears in the fallen iron meteorites: here, as in the Ovifak rock, we find transitions, compositions of iron and olivine.
 
 
 
