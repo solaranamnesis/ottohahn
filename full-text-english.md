@@ -496,6 +496,19 @@ It is so much, I think, beyond all doubt, that what is nowadays hornblende, augi
 
 Now we find these minerals in our primary mountains as forms, which are not crystals, but are similar to meteoritic ones. We find mountain masses composed of such forms. So here too it is highly probable that organic forms, subsequently transformed, are what we now call rocks. These rocks, however, points to a layer which is undoubtedly close to the meteoritic (chondritic), indeed they are closely related. Under this must lie the iron. This testifies to the specific weight of the Earth. Again the identical situation appears in the fallen iron meteorites: here, as in the Ovifak rock, we find transitions, compositions of iron and olivine.
 
+This gives us the greatest baseline for geology - we have the chronological development of the body of the Earth. The development of form - the reason for the growth of the forms themselves is at the same time open. If the organism in the lowest layer, that we know, was the source of mass creation, it could also have been the initial cause for the beginning of the planet itself. The assumption of mere mass-attraction, the mechanical formation of the Earth and the heavenly bodies would in general, be thereby refuted.
+
+Admittedly organisms in iron, in the Earth's core, and in the meteoritic iron must also be detected. It is this task which I set for myself in what follows next. The previous results allow for a hopeful solution.
+
+### CHAPTER IV.
+
+#### Stone in the Stone.
+
+When I said that: the chondrite is nothing but a weave of animals, a mat of animals, it must be suffered a qualification.
+
+There are, however, very small, sharply outlined places in this animal-bone stone, which could probably (but not necessary) be from the beginning rocks. These are slate-blue, uncommon inclusions with 3 - 5 mm. diameters lacking definite recurring forms, which include distinct cystals in their grayish mass, these are on average either squares or rhombuses, at other times it includes hexagons. This mineral can be either augite or olivine. Here the crystalline form pronounces in favor of a mineral. The sole existence of this speaks for my views. Why have the crystals not grown themselves identically everywhere? And why should there not be hollow cavities remaining in the organisms? It is known that fillers in organic forms later crystallize. And, in the end-filled organic forms cavities are found, in which their outlines look like surfaces recessing at an angle.
+
+
 
 
 
