@@ -103,15 +103,15 @@ The chondrites, an olivine-feldspar (enstatite) rock, consists of an animal worl
 
 However, I could not make a systematic enumeration of life which is preserved in the meteorites: I just wanted to prove that _it is_ - _here it is_. I therefore only depicted the organic beings which I could content myself with determining undoubtedly, on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both for future investigation.
 
-It is to be expected that my enumeration will be, through further research, and with the help of richer material than I have available, will be multiplied and supplemented. In particular, sudivisions had to be avoided: every newly found being would overturn any divisions and thus make the effort arduous, and any work in vain.
+It is to be expected that my enumeration will be, through further research and with the help of richer material than I have available, multiplied and supplemented. In particular, sudivisions had to be avoided: since every newly discovered being would overturn any divisions and make the effort arduous, and any work in vain.
 
-This was the reason why I only made large divisions and these only to the extent that this contributed to the understanding of the forms. I repeat, the work in this direction should not be considered exhaustive and complete.
+This was the reason why I only made large divisions, and these only to the extent that this contributed to the understanding of the forms. I repeat, the work in this direction should not be considered exhaustive and complete.
 
 In other ways I have also made an indulgence, such as in the demarcation of the main divisions themselves.
 
-Anyone who even superficially surveys the forms will soon find that they provide the actual history of development. All the transitions from the sponge to the coral, from the coral to the crinoid are present, so that it becomes really doubtful if one should make a new species to give to these transitions.
+Anyone who even superficially surveys the forms will soon find that they provide the actual history of development. All the transitions from the sponge to the coral, from the coral to the crinoid are present, so that it becomes really doubtful if one should assign new species to to these transitions.
 
-In such beginnings, mistakes are inevitable, so it is only a small demand to ask to forgive them. Nor did I want to delay the publication of the work too long, and therefore have it just as it is now available.
+In such beginnings, mistakes are inevitable, so it is only a small demand to ask to forgive them. Nor did I want to delay the publication of this work too long, and therefore have it just as it is now available.
 
 # 2:
 
