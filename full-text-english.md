@@ -69,7 +69,7 @@
 
 ### Board Directory
 
-# THE METEORITES (CHONDRITE) AND THEIR ORGANISMS
+# THE METEORITE (CHONDRITE) AND ITS ORGANISMS
 
 #### English translation note:
 
@@ -77,31 +77,31 @@ While translating I attempt to take Hahn's perspective while considering the ext
 
 # 1:
 
-It was not the inconsequential attacks on my "Primordial Cell" that made me tire in my efforts to establish certain new geological facts: it was the observation of the untenability of the previous view in the most undisputedly important part of the geological science, in the part through which it is related to the cosmos — that is, the doctrine of the so-called plutonic rocks.
+It was not the inconsequential attacks on my "Primordial Cell" that made me tire in my efforts to establish certain new geological facts, but rather it was the observation of the untenability of the previous views in the most undisputedly important part of the geological sciences, in the part through which it relates to the cosmos — that is, the doctrine of the so-called plutonic rocks.
 
-If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of the Earth - and also that knowledge pertaining to the real genesis of our Earth will always be hidden from us - then, at the end of this book, there is now an alternative: the meteorite is that which reveals a distant passage, which no researcher has yet dared.
+If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth and also the knowledge pertaining to its real genesis will always be hidden from us - then, at the end of this book, then there is now an alternative: the meteorite, which reveals a distant passage that no researcher has yet dared.
 
 With this as my guide I now continue.
 
-I did it, accompanied on the one hand by the sharply pronounced sarcasm of the specialists, and on the other hand cheered up by the earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
+I did this, accompanied on the one hand by the sharply pronounced sarcasm of the specialists, and on the other cheered up by earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
 
-The results yielded from a strenuous effort of almost super human endeavor over this previous year are laid down in the following pages.
+The results yielded from this strenuous effort of almost super human endeavor over the previous year are laid down in the following pages.
 
-It is a life-world in a rock which fell to Earth and brought us news of the smallest beings from the most distant places - a life-world which a mortal eye could scarcely hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula, and has worked everywhere and evenly in the universe.
+It is a world of life in a rock which fell to Earth and brought us news of the smallest beings from the most distant places - a life world which a mortal eye could scarcely hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked everywhere and evenly in the universe.
 
 Admittedly, the meteorites, namely the chondrites, for these are the ones which are preferentially subject to my investigations, have no life of higher construction; instead, all are lower life forms - the same ones which prevail in the Silurian strata - sponges, corals, and crinoids - it is with these species that similar characteristics are found.
 
-The chondrites that I have studied are olivine enstatite rock. They have undergone alterations since the time of their formation as the remains of life forms, and up until they landed, but not considerably. They have been permeated with a silicate solution, in similar manner to the Jura deposits with a solution of lime. Probably, while it was part of its parent body, it went through planetary cycles, and just as new ones have followed each other down to the lower strata of our Earth, under the influence of which the former have undergone a certain, though not so considerable transformation as one usually assumes.
+The chondrites that I have studied are olivine enstatite rock. They have undergone alterations, though not considerable, since the time of their formation as the remains of life and up until they landed here. They have been permeated with a silicate solution, in a similar manner to how the Jura deposits are with a solution of lime. Probably, while it was part of the parent body, it went through planetary cycles and just as new layers have followed old ones down to the lowest strata of our Earth, under the influence of which the former have undergone a certain, though not so considerable transformation as one usually assumes.
 
-Only the surface of the meteorites have changed considerably, and indeed only at the last moment of their planetary existence, and mostly due to the influence of frictional heat created in this case by the Earth's atmosphere. But the original meteorite itself essentially remains. So we now see that before us is a piece of a planet as it was in the process of becoming, and thus the history of our Earth's body is now open to us, provided that we are correct that the meteorites in their formation was homogeneous in their chemical composition with the same world matter which formed the Earth and vice versa. At the same time, by sending me the "Meteorite of Ovifak" (I owe it to the kindness of Professor Dr. von Nordenskjöld) I was offered the opportunity to bring this rock into the investigation.
+Only the surface of the meteorites have changed considerably, and indeed only at the last moment of their planetesimal existence, and mostly due to the influence of frictional heat created, in this case, by the Earth's atmosphere. But the original meteorite itself essentially remains. We now see that before us is a piece of a planet as it was in the process of becoming, and thus the history of our Earth's body is now open to us, provided that we are correct that the meteorites, in their formation, are homogeneous in their chemical composition with the same world matter which formed the Earth and vice versa. At the same time, by sending me the "Meteorite of Ovifak" (I owe it to the kindness of Professor Dr. von Nordenskjöld) I was offered the opportunity to bring this rock into the investigation.
 
-I consider it earthly - consider it the deepest layer our Earth, to the olivine layer, which belongs under the granite. I call the original layer the Olivine Formation. Since the rock is very similar to a meteorite, it was natural to declare it the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
+I consider it to be earthly - as the deepest layer our Earth, i.e. the olivine layer, which belongs under the granite. I call the original layer the Olivine Formation. Since the rock is very similar to a meteorite, it was natural to declare it to be the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
 
-So we have gained two solid points, from which a lever can be set.
+Thus, we have established two solid points, from which a lever can be set.
 
-The chondrites, an olivine-feldspar (enstatite) rock, consists of a life-world, they are not a layer of sedimentary rock, not a conglomerate, but a thick mat of life, a tissue whose meshes were all once living beings, and life of the lowest kind, the beginnings of a creation.
+The chondrites, an olivine-feldspar (enstatite) rock, consists of an animal world, they are not part of a layer of sedimentary rock, nor a conglomerate, but a thick mat of animals, a tissue whose meshes were all once living beings, and life of the lowest kind, the beginnings of creation.
 
-However, I could not make a systematic enumeration of this life-world which is preserved in the meteorites: I just wanted to prove that it is - there it is. I therefore only depicted the organic beings which I could content myself with determining undoubtedly, on the one hand, the genera which coincides with terrestrial forms, and on the other, separating out the specifically meteoritic forms, while leaving both for future investigation.
+However, I could not make a systematic enumeration of life which is preserved in the meteorites: I just wanted to prove that _it is_ - _here it is_. I therefore only depicted the organic beings which I could content myself with determining undoubtedly, on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both for future investigation.
 
 It is to be expected that my enumeration will be, through further research, and with the help of richer material than I have available, will be multiplied and supplemented. In particular, sudivisions had to be avoided: every newly found being would overturn any divisions and thus make the effort arduous, and any work in vain.
 
