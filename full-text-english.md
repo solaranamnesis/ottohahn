@@ -1,21 +1,21 @@
-# THE METEORITE (CHONDRITE) AND ITS ORGANISMS.
+# THE METEORITE (CHONDRITE) AND ITS ORGANISMS
 
-## DEPICTED AND DESCRIBED BY DR. OTTO HAHN.
+## DEPICTED AND DESCRIBED BY DR. OTTO HAHN
 
-### 32 TABLES WITH 142 PICTURES.
+### 32 TABLES WITH 142 PICTURES
 
-### LIGHT PRINT OF MARTIN ROMMEL IN STUTTGART.
+### LIGHT PRINT OF MARTIN ROMMEL IN STUTTGART
 
-### TÜBINGEN 1880.
+### TÜBINGEN 1880
 
-### PUBLISHED BY H. LAUPP'SCHEN BUCHHANDLUNG.
+### PUBLISHED BY H. LAUPP'SCHEN BUCHHANDLUNG
 
 
-# TABLE OF CONTENTS.
+# TABLE OF CONTENTS
 
 ## Introduction
 
-### SECTION I.
+### SECTION I
 
 #### Previous Views on Meteorites.
 
@@ -23,9 +23,9 @@
 
 #### Meteorites and their Mineralogical Properties
 
-### SECTION II.
+### SECTION II
 
-#### The Organic Nature of the Chondrite.
+#### The Organic Nature of the Chondrite
 
 #### Chapter I. Organic or Inorganic?
 
@@ -39,21 +39,21 @@
 
 #### Chapter III. All Life
 
-#### Chapter IV. Stone in Stone
+#### Chapter IV. Stone in the Stone
 
-#### Chapter V. Procreation
+#### Chapter V. Reproduction
 
 #### Chapter VI. Development
 
-### SECTION III.
+### SECTION III
 
 #### Meteoric Iron
 
-### SECTION IV.
+### SECTION IV
 
 #### The Iron of Ovifak
 
-### SECTION V.
+### SECTION V
 
 ### Conclusions.
 
@@ -63,7 +63,7 @@
 
 #### Chapter III. The Future of our Planet
 
-### Explanation of the Panels.
+### Explanation of the Panels
 
 ### Preliminary Note
 
@@ -299,11 +299,11 @@ Our researchers, with the exception of Gümbel, speak of the meteorites as volca
 
 Rightly Quenstedt has alone has declared the question an open one and said: "...it is reserved for the microscope to solve the riddle of the composition of the meteorites!" Handbook of Mineralogy p. 722.
 
-# SECTION II.
+# SECTION II
 
-## THE ORGANIC NATURE OF THE CHONDRITE.
+## THE ORGANIC NATURE OF THE CHONDRITE
 
-### CHAPTER I.
+### CHAPTER I
 
 #### ORGANIC OR UNORGANIC?
 
@@ -366,13 +366,13 @@ If they were crystals and had broken sheets (of course olivine has none, yet the
 
 All this evidence is of course unknown to the botanist and zoologist, while every mineralogist knows it. Therefore I must ask the botanist and zoologist colleague to confirm what my photographs show. These forms are not mineral forms. With this the mineralogist has done his part, and now it passes into the hands of the paleontologist, or rather the zoologist, and now begins the positive proof.
 
-### CHAPTER II.
+### CHAPTER II
 
-#### THE INDIVIDUAL FORMS.
+#### THE INDIVIDUAL FORMS
 
-##### A. SPONGE.
+##### A. SPONGE
 
-###### 1. URANIA.
+###### 1. URANIA
 
 Round, lobed bodies with an obvious place of growth. Table 2 gives a larger image of an Urania (compared with Table 5, Fig. 1, the same picture). One sees here: the acute general form, the outermost lobed edge (white, on the left), the folds, which develop while contracting, the place of growth. Even more clearly is the latter as a chalice, Table 4, Figure 3.
 
@@ -402,7 +402,7 @@ After all this I think the Urania is a sessile sponge, that contracts in a spira
 
 Urania composes three twentieths of the rock mass. 
 
-###### 2. NEEDLE-SPONGE.
+###### 2. NEEDLE-SPONGE
 
 Table 7, the forms of Figures 1, 2, 3, 4, 5, and 6 show a spicule framework. Figure 1 points to Astrospongia. The needles are regularly crossed. Figure 6 is an irregularly massive spicule framework with a cavity, which from the picture suggests is very weak. These two forms seem unquestionable to me.
 
@@ -410,7 +410,7 @@ Almost certain are Figures 2 and 5 (in Figure 2, the white line is a rock crack)
 
 The shape of Figure 4 I kept in the arrangement of tables as a sponge. After changing the arrangement was no longer possible, I realized this form was the skewed average of a crinoid and what I initially considered to be needles - are fine crinoid arms. I note that the determination is very difficult because of the exceptionally plain meteoritic crinoid forms, which means a decision must be avoided pending further investigation. The cavity of the needle sponge can be confused for the food channel of the crinoid arms, when the latter are stretched straight and the limbs are no longer clearly preserved. This fact of the matter, however unpleasent for the investigator of individual forms, is all the more rewarding for the one who pursues the development of the forms - for proving the development of one form to another. It is always enough one to the other. This puts us in a more favorable position.
 
-##### B. CORAL.
+##### B. CORAL
 
 Here we have such well preserved terrestrial forms that not a doubt is left remaining.
 
@@ -438,7 +438,7 @@ Broken or kinked arms also appear in Table 25, Figure 4 with this form there are
 
 All coral forms throughout make up about a twentieth the total volume of the chondrite rock, but constituting the remaining sixteen twentieths, that which is by far the greatest part of the whole mass:
 
-##### C. CRINOIDS.
+##### C. CRINOIDS
 
 They are found in the simplest form, from their articulately divided arms to the developed crinoid with stem, crown, main and auxiliary arms. Their preservation is good for the most part. The difficulty lies only in the thousands of possible directions of cutting, which always give different perspectives of the same object. The pear-shaped bodies, which are regarded as glass are crinoids - their crowns.
 
@@ -482,9 +482,9 @@ The final determination of the genera and even the species requires more materia
 
 Thus the forms are presented. I have been pursuing a plan, of making a statistical study on the occurance of the forms, to count out something such as the occurance of same forms that one finds in 500 thin sections. I bring this up, because I felt I had to say, that I did not think such would have a great value. Each multiplication of my collection by twelve new ones would change the ratio. I therefore preferred to give an approximate numerical ratio for the individual forms.
 
-### CHAPTER III.
+### CHAPTER III
 
-#### All Life.
+#### All Life
 
 The individual forms were brought to view in the previous sections. All of these forms are not buried upon death, but the one grows upon another and in truth they are buried alive by life. Here of course only our vision can provide conviction. To this purpose one should look in all the pictures at the individual forms within their surroundings!
 
@@ -500,13 +500,25 @@ This gives us the greatest baseline for geology - we have the chronological deve
 
 Admittedly organisms in iron, in the Earth's core, and in the meteoritic iron must also be detected. It is this task which I set for myself in what follows next. The previous results allow for a hopeful solution.
 
-### CHAPTER IV.
+### CHAPTER IV
 
-#### Stone in the Stone.
+#### Stone in the Stone
 
-When I said that: the chondrite is nothing but a weave of animals, a mat of animals, it must be suffered a qualification.
+When I said this: the chondrite is nothing but a weave of animals, a mat of animals, a qualification must be suffered.
 
 There are, however, very small, sharply outlined places in this animal-bone stone, which could probably (but not necessary) be from the beginning rocks. These are slate-blue, uncommon inclusions with 3 - 5 mm. diameters lacking definite recurring forms, which include distinct cystals in their grayish mass, these are on average either squares or rhombuses, at other times it includes hexagons. This mineral can be either augite or olivine. Here the crystalline form pronounces in favor of a mineral. The sole existence of this speaks for my views. Why have the crystals not grown themselves identically everywhere? And why should there not be hollow cavities remaining in the organisms? It is known that fillers in organic forms later crystallize. And, in the end-filled organic forms cavities are found, in which their outlines look like surfaces recessing at an angle.
+
+The reason, for why I acknowledge that these inclusions are inorganic parts of the chondrites, as actual meteoritic stone (sone in the stone), is, since the outlines do not give the indication, that their form does not address itself as being organic. These inclusions may be deposits of an already developed rocky mass or they have may have only developed in the cavities.
+
+This situation is possible, even probable, that it was a falling-in of pieces of already deposited rock, that were fully developed, and does not need to be denied: it does not knock on the fact, that in the olivine strata formations exist and that these are the cause of the construction of the planet bodies, their self-constructed development and complex composition.
+
+Under all circumstances, however, the ratio in the chondritic rock is the opposite as that in the sedimentary layers of our Earth. In these are the organisms stored, the rock strata enclose them; there is simply nothing but organisms and the rock strata are masses of such. I put an image of an actual rock-pieces in Borkut [Ukraine]. Table 32, Figure 2 next to that (Figure 1) I have depicted a form, slate-blue like Urania, however, without a set structure, also their outlines are inconsistent, which could be the lack of filler. If it were an organic form, it would be of the lowest nature. For comparison I show in Table 32, Figure 4 a thin section of Lias γ𝛿 [Early Jurassic] (Zwischenkalk), here shells are located in limestone, but most parts are merely pieces of shells; the parts are crushed in all sizes, and, regarding their origin, they are tumbled beyond any recognition. In the chondrite there is no place left which can leave doubt as to their composition.
+
+### CHAPTER V
+
+#### Reproduction
+
+
 
 
 
