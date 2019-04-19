@@ -17,7 +17,7 @@
 
 ### SECTION I
 
-#### Previous Views on Meteorites.
+#### Previous Views on Meteorites
 
 #### History and Overview
 
@@ -55,7 +55,7 @@
 
 ### SECTION V
 
-### Conclusions.
+### Conclusions
 
 #### Chapter I. Origin of Meteorites
 
@@ -73,21 +73,21 @@
 
 #### English translation note:
 
-While translating I attempt to take Hahn's perspective while considering the extent to which his ideas were deemed controversial. Also, I condsider myself extremely familiar with the material, since I have been photographing meteorite thin sections at various magnifications for three years now. I prefer updating the terms to reflect the modern nomenclature. Also, I don't have any German language skills. I only wanted a good read and I don't consider this a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the (hopeful) case that an altruistic person(s) with native skills would help with the result that the end effort may have free copy license for all to enjoy. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he emphasizes.
+I take Hahn's perspective while translating and I try to convey his point as best I can. In some respects I feel his argument is that of a lawyer and so being I try to follow suit. I consider myself familiar with meteorites although not a mineral expert. All of my images can be viewed online at my Solar Anamnesis website. There one will find images of all types of meteorites in high resolution. I prefer updating the terms to reflect the modern nomenclature. Also, I don't have German language skills. I only wanted a good read and I don't consider this as a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material, I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the case that others with native skills would help, with the result that the final effort may be free and available readily online. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he himself emphasizes.
 
 # 1:
 
-It was not the inconsequential attacks on my "Primordial Cell" that made me tire in my efforts to establish certain new geological facts, but rather it was the observation of the untenability of the previous views in the most undisputedly important part of the geological sciences, in the part through which it relates to the cosmos — that is, the doctrine of the so-called plutonic rocks.
+It was not the inconsequential attacks on my "Primordial Cell" that made me tire in my efforts to establish certain new geological facts, but rather it was the untenability of the previous views regarding the most undisputedly important part of the geological sciences, in the part through which it is related to the cosmos — that is, the doctrine of the so-called plutonic rocks.
 
-If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth and also the knowledge pertaining to its real genesis will always be hidden from us - then, at the end of this book, then there is now an alternative: the meteorite, which reveals a distant passage that no researcher has yet dared.
+If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth and also the knowledge pertaining to its real genesis will always be hidden from us - then, at the end of this book, then there is now an alternative: the meteorite, which reveals a distant time window, where no researcher has yet ventured.
 
 With this as my guide I now continue.
 
-I did this, accompanied on the one hand by the sharply pronounced sarcasm of the specialists, and on the other cheered up by earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
+I did this, accompanied on the one hand with the sharply pronounced sarcasm of the specialists, and on the other by my joy with earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
 
 The results yielded from this strenuous effort of almost super human endeavor over the previous year are laid down in the following pages.
 
-It is a world of life in a rock which fell to Earth and brought us news of the smallest beings from the most distant places - a life world which a mortal eye could scarcely hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked everywhere and evenly in the universe.
+It is a world of life in a rock which fell to Earth and brought us tidings of the smallest beings from the most distant places - a life world which a mortal eye could hardly hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked everywhere and evenly in the universe.
 
 Admittedly, the meteorites, namely the chondrites, for these are the ones which are preferentially subject to my investigations, have no life of higher construction; instead, all are lower life forms - the same ones which prevail in the Silurian strata - sponges, corals, and crinoids - it is with these species that similar characteristics are found.
 
@@ -518,8 +518,9 @@ Under all circumstances, however, the ratio in the chondritic rock is the opposi
 
 #### Reproduction
 
+In the stone there are found a host of round and pear-shapred forms with 0.10 mm. - 0.50 mm. diameters, which barely indicate structure. I hold these forms to be the first development forms. Among the many forms, the most outstanding is the transparent spherical forms of rock, in the center of which are canal openings. Here one finds these spheres within canals, with two further below and a larger above, and so forth up to the forms of Table 13, Figures 1 thru 4. The case is here, I believe, secure. This form is not only evident in all the chondrites, in all one also finds them in all developmental stages in up to 20 or more canals: they are common and at the same time certain, because of their self-evident canal structure. They have been preserved in those chondrites which hardly show the remaining forms. The development that is suggested here is that the canals multiply.
 
-
+Of course, there are many faint spherical and pear shapes which indicate structure. They appear to have been of sarcode [gelatinous material], when they were at once interred. I would not dare to bring these forms up if they did not indicate a definite structure. They consist of two, three, four, and five lobed-form branches and are probably the beginnings of crinoids. That the observation of developmental forms is difficult is well known. Hence, this is why I do not allow myself to act prematurely here. What I say here should only be considered a pointer towards future research.
 
 
 
