@@ -73,7 +73,9 @@
 
 #### Translation note:
 
-I take Hahn's perspective while translating and I try to convey his point as best I can. In some respects I feel his argument is that of a lawyer and as such, I try to follow suit. I believe he considered this discovery to be of the highest order: the first modern realization that humanity, and the Earth in general, is being visited by alien representatives daily, albeit of a fossil variety. I consider myself familiar with meteorites although not a mineral expert by any means. It is my goal to simply be a photographer. I photograph meteorites, that is all. All of my images can be viewed online at my Solar Anamnesis website. There one will find images of all types of meteorites in the highest resolution possible which were created and processed with focal stacking image techniques. 
+I take Hahn's perspective while translating and I try to convey his point as best I can. In some respects I feel his argument is that of a lawyer and as such, I try to follow suit. I believe he considered this discovery to be of the highest order: the first modern realization that humanity, and the Earth in general, is being visited by alien representatives daily, albeit of a fossil variety.
+
+I consider myself familiar with meteorites although not a mineral expert by any means. It is my goal to simply be a photographer. I photograph meteorites and the images speak for themselves. All of my images can be viewed online at my Solar Anamnesis website. There one will find images of all types of meteorites in the highest resolution possible which were created and processed with focal stacking image techniques. 
 
 I prefer updating the terms to reflect the modern nomenclature. Also, I don't have German language skills. I only wanted a good read and I don't consider this as a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material, I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the case that others with native skills would help, with the result that the final effort may be free and available online. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he himself emphasizes. He seemed determined to show people the truth about meteorites.
 
@@ -534,7 +536,7 @@ I will refer to a single fact here, which is a considerable point of proof for t
 
 After having depicted the single forms, I now must discuss their proportions to each other, the development of the unfolding of forms.
 
-That Urania is the simplest form, this is certain. This forms establishes however the inception of what follows.
+That Urania is the simplest form, this is certain. However, it establishes the inception of what follows.
 
 These layers in the hemispherical lobes, these tubular layers, they part themselves crosswise - which nowadays would constitute the arm, connects a canal. It develops a crown between the arms and the growth point and the simplest crinoid is there. If this seems like a twisted chain of events, the forms involuntarily demand it. But just as we necessarily find somewhere in living forms a line of development, so should we also not find that the same changes have taken place here? Certainly. Only, I believe, they are found with more quantity and much greater visibility of transitions in the meteoritic forms. One can find the ancestor of the Pentacrinus Briareus nowhere else on Earth except with the corals, and one can see the origin of the coral in the sponge form: it is decidedly a lower form than that of the coral.
 
