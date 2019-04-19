@@ -518,9 +518,17 @@ Under all circumstances, however, the ratio in the chondritic rock is the opposi
 
 #### Reproduction
 
-In the stone there are found a host of round and pear-shapred forms with 0.10 mm. - 0.50 mm. diameters, which barely indicate structure. I hold these forms to be the first development forms. Among the many forms, the most outstanding is the transparent spherical forms of rock, in the center of which are canal openings. Here one finds these spheres within canals, with two further below and a larger above, and so forth up to the forms of Table 13, Figures 1 thru 4. The case is here, I believe, secure. This form is not only evident in all the chondrites, in all one also finds them in all developmental stages in up to 20 or more canals: they are common and at the same time certain, because of their self-evident canal structure. They have been preserved in those chondrites which hardly show the remaining forms. The development that is suggested here is that the canals multiply.
+In the stone there are found a host of round and pear-shapred forms with 0.10 mm. - 0.50 mm. diameters, which barely indicate structure. I hold these forms to be the first development forms. Among the many forms, the most outstanding is the transparent spherical forms of rock, in the center of which are canal openings. Here one finds these canals within spheres, with two further below and a larger above, and so forth on up to the forms of Table 13, Figures 1 thru 4. The case is here, I believe, secure. This form is not only evident in all the chondrites, in all one also finds in them all the developmental stages in the up to 20 or more canals: they are common and at the same time certain, because of their self-evident canal structure. They have been preserved in those chondrites which hardly show the forms on the left. The development that is suggested here is that the canals reproduce.
 
 Of course, there are many faint spherical and pear shapes which indicate structure. They appear to have been of sarcode [gelatinous material], when they were at once interred. I would not dare to bring these forms up if they did not indicate a definite structure. They consist of two, three, four, and five lobed-form branches and are probably the beginnings of crinoids. That the observation of developmental forms is difficult is well known. Hence, this is why I do not allow myself to act prematurely here. What I say here should only be considered a pointer towards future research.
+
+Good preservation is an impossiblity. This is because meteoritic forms face the same destiny of living animals: it is always the ultimate labor to find that first beginning of developement, the embryo.
+
+I will refer to a single fact here, which is a considerable point of proof for the organic nature of the forms: the always occurring assocation of the individual forms. Many forms that one finds collectively resemble each other: few stand individually and at the same time as a unit. I hold this as highly significant. If several individuals of the same species come together, it goes to follow from this, that there stands mother or sibling relationships. The same phenomenon is known to occur in the terrestrial type. This would seem to signify, as minerals often do, to which form it belongs, undoubtedly the same applies to other species mineral filling, so a mineralogical ground from which the difference derivative of structure coud be inferred.
+
+### CHAPTER VI
+
+#### Development
 
 
 
