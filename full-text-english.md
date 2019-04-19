@@ -15,7 +15,7 @@
 
 ## Introduction
 
-### SECTION I
+### Section I
 
 #### Previous Views on Meteorites
 
@@ -23,7 +23,7 @@
 
 #### Meteorites and their Mineralogical Properties
 
-### SECTION II
+### Section II
 
 #### The Organic Nature of the Chondrite
 
@@ -45,15 +45,15 @@
 
 #### Chapter VI. Development
 
-### SECTION III
+### Section III
 
-#### Meteoric Iron
+#### Meteoritic Iron
 
-### SECTION IV
+### Section IV
 
 #### The Iron of Ovifak
 
-### SECTION V
+### Section V
 
 ### Conclusions
 
@@ -71,9 +71,11 @@
 
 # THE METEORITE (CHONDRITE) AND ITS ORGANISMS
 
-#### English translation note:
+#### Translation note:
 
-I take Hahn's perspective while translating and I try to convey his point as best I can. In some respects I feel his argument is that of a lawyer and so being I try to follow suit. I consider myself familiar with meteorites although not a mineral expert. All of my images can be viewed online at my Solar Anamnesis website. There one will find images of all types of meteorites in high resolution. I prefer updating the terms to reflect the modern nomenclature. Also, I don't have German language skills. I only wanted a good read and I don't consider this as a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material, I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the case that others with native skills would help, with the result that the final effort may be free and available readily online. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he himself emphasizes.
+I take Hahn's perspective while translating and I try to convey his point as best I can. In some respects I feel his argument is that of a lawyer and as such, I try to follow suit. I believe he considered this discovery to be of the highest order: the first modern realization that humanity, and the Earth in general, is being visited by alien representatives daily, albeit of a fossil variety. I consider myself familiar with meteorites although not a mineral expert by any means. It is my goal to simply be a photographer. I photograph meteorites, that is all. All of my images can be viewed online at my Solar Anamnesis website. There one will find images of all types of meteorites in the highest resolution possible which were created and processed with focal stacking image techniques. 
+
+I prefer updating the terms to reflect the modern nomenclature. Also, I don't have German language skills. I only wanted a good read and I don't consider this as a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material, I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the case that others with native skills would help, with the result that the final effort may be free and available online. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he himself emphasizes. He seemed determined to show people the truth about meteorites.
 
 # 1:
 
@@ -299,13 +301,13 @@ Our researchers, with the exception of Gümbel, speak of the meteorites as volca
 
 Rightly Quenstedt has alone has declared the question an open one and said: "...it is reserved for the microscope to solve the riddle of the composition of the meteorites!" Handbook of Mineralogy p. 722.
 
-# SECTION II
+# Section II
 
-## THE ORGANIC NATURE OF THE CHONDRITE
+## The Organic Nature of the Chondrite
 
-### CHAPTER I
+### Chapter I
 
-#### ORGANIC OR UNORGANIC?
+#### Organic or Inorganic?
 
 In order to prove that a plant or animal organism is present, I consider it necessary to prove:
 1. a unified form,
@@ -366,13 +368,13 @@ If they were crystals and had broken sheets (of course olivine has none, yet the
 
 All this evidence is of course unknown to the botanist and zoologist, while every mineralogist knows it. Therefore I must ask the botanist and zoologist colleague to confirm what my photographs show. These forms are not mineral forms. With this the mineralogist has done his part, and now it passes into the hands of the paleontologist, or rather the zoologist, and now begins the positive proof.
 
-### CHAPTER II
+### Chapter II
 
-#### THE INDIVIDUAL FORMS
+#### The Individual Forms
 
-##### A. SPONGE
+##### A. Sponge
 
-###### 1. URANIA
+###### 1. Urania
 
 Round, lobed bodies with an obvious place of growth. Table 2 gives a larger image of an Urania (compared with Table 5, Fig. 1, the same picture). One sees here: the acute general form, the outermost lobed edge (white, on the left), the folds, which develop while contracting, the place of growth. Even more clearly is the latter as a chalice, Table 4, Figure 3.
 
@@ -402,7 +404,7 @@ After all this I think the Urania is a sessile sponge, that contracts in a spira
 
 Urania composes three twentieths of the rock mass. 
 
-###### 2. NEEDLE-SPONGE
+###### 2. Needle-Sponge
 
 Table 7, the forms of Figures 1, 2, 3, 4, 5, and 6 show a spicule framework. Figure 1 points to Astrospongia. The needles are regularly crossed. Figure 6 is an irregularly massive spicule framework with a cavity, which from the picture suggests is very weak. These two forms seem unquestionable to me.
 
@@ -410,7 +412,7 @@ Almost certain are Figures 2 and 5 (in Figure 2, the white line is a rock crack)
 
 The shape of Figure 4 I kept in the arrangement of tables as a sponge. After changing the arrangement was no longer possible, I realized this form was the skewed average of a crinoid and what I initially considered to be needles - are fine crinoid arms. I note that the determination is very difficult because of the exceptionally plain meteoritic crinoid forms, which means a decision must be avoided pending further investigation. The cavity of the needle sponge can be confused for the food channel of the crinoid arms, when the latter are stretched straight and the limbs are no longer clearly preserved. This fact of the matter, however unpleasent for the investigator of individual forms, is all the more rewarding for the one who pursues the development of the forms - for proving the development of one form to another. It is always enough one to the other. This puts us in a more favorable position.
 
-##### B. CORAL
+##### B. Coral
 
 Here we have such well preserved terrestrial forms that not a doubt is left remaining.
 
@@ -438,7 +440,7 @@ Broken or kinked arms also appear in Table 25, Figure 4 with this form there are
 
 All coral forms throughout make up about a twentieth the total volume of the chondrite rock, but constituting the remaining sixteen twentieths, that which is by far the greatest part of the whole mass:
 
-##### C. CRINOIDS
+##### C. Crinoids
 
 They are found in the simplest form, from their articulately divided arms to the developed crinoid with stem, crown, main and auxiliary arms. Their preservation is good for the most part. The difficulty lies only in the thousands of possible directions of cutting, which always give different perspectives of the same object. The pear-shaped bodies, which are regarded as glass are crinoids - their crowns.
 
@@ -482,7 +484,7 @@ The final determination of the genera and even the species requires more materia
 
 Thus the forms are presented. I have been pursuing a plan, of making a statistical study on the occurance of the forms, to count out something such as the occurance of same forms that one finds in 500 thin sections. I bring this up, because I felt I had to say, that I did not think such would have a great value. Each multiplication of my collection by twelve new ones would change the ratio. I therefore preferred to give an approximate numerical ratio for the individual forms.
 
-### CHAPTER III
+### Chapter III
 
 #### All Life
 
@@ -500,7 +502,7 @@ This gives us the greatest baseline for geology - we have the chronological deve
 
 Admittedly organisms in iron, in the Earth's core, and in the meteoritic iron must also be detected. It is this task which I set for myself in what follows next. The previous results allow for a hopeful solution.
 
-### CHAPTER IV
+### Chapter IV
 
 #### Stone in the Stone
 
@@ -514,7 +516,7 @@ This situation is possible, even probable, that it was a falling-in of pieces of
 
 Under all circumstances, however, the ratio in the chondritic rock is the opposite as that in the sedimentary layers of our Earth. In these are the organisms stored, the rock strata enclose them; there is simply nothing but organisms and the rock strata are masses of such. I put an image of an actual rock-pieces in Borkut [Ukraine]. Table 32, Figure 2 next to that (Figure 1) I have depicted a form, slate-blue like Urania, however, without a set structure, also their outlines are inconsistent, which could be the lack of filler. If it were an organic form, it would be of the lowest nature. For comparison I show in Table 32, Figure 4 a thin section of Lias γ𝛿 [Early Jurassic] (Zwischenkalk), here shells are located in limestone, but most parts are merely pieces of shells; the parts are crushed in all sizes, and, regarding their origin, they are tumbled beyond any recognition. In the chondrite there is no place left which can leave doubt as to their composition.
 
-### CHAPTER V
+### Chapter V
 
 #### Reproduction
 
@@ -526,9 +528,27 @@ Good preservation is an impossiblity. This is because meteoritic forms face the 
 
 I will refer to a single fact here, which is a considerable point of proof for the organic nature of the forms: the always occurring assocation of the individual forms. Many forms that one finds collectively resemble each other: few stand individually and at the same time as a unit. I hold this as highly significant. If several individuals of the same species come together, it goes to follow from this, that there stands mother or sibling relationships. The same phenomenon is known to occur in the terrestrial type. This would seem to signify, as minerals often do, to which form it belongs, undoubtedly the same applies to other species mineral filling, so a mineralogical ground from which the difference derivative of structure coud be inferred.
 
-### CHAPTER VI
+### Chapter VI
 
 #### Development
+
+After having depicted the single forms, I now must discuss their proportions to each other, the development of the unfolding of forms.
+
+That Urania is the simplest form, this is certain. This forms establishes however the inception of what follows.
+
+These layers in the hemispherical lobes, these tubular layers, they part themselves crosswise - which nowadays would constitute the arm, connects a canal. It develops a crown between the arms and the growth point and the simplest crinoid is there. If this seems like a twisted chain of events, the forms involuntarily demand it. But just as we necessarily find somewhere in living forms a line of development, so should we also not find that the same changes have taken place here? Certainly. Only, I believe, they are found with more quantity and much greater visibility of transitions in the meteoritic forms. One can find the ancestor of the Pentacrinus Briareus nowhere else on Earth except with the corals, and one can see the origin of the coral in the sponge form: it is decidedly a lower form than that of the coral.
+
+What this meteorite-creation gives of such great importance to the evolutionary theory is not only the occurance of animal forms in the deepest strata, but also consistent types for all meteoritic organisms. This becomes clear after ones views hundreds of thin sections one after the other.
+
+The scale of the organisms is uniform, at least one thousand times smaller than the ones on the Earth: the development of the individual forms attain approximately equal highest points. The construction of the forms correspond perfectly with the circumstances, under which they grew, namely the extremely shortened life time, which was an experience it had: it is a hasty, relatively incomplete creation. The crinoid is the highest representative of this animal world. I hold that the most advanced is the form in Table 22, Figures 1, 3, 5, and 6, because he really embodies the five number.
+
+One will not want to go so far, however, as to derive the crinoids through the corals, so the form of the Urania must offer some clue. I show some forms which have the loose branches. They are indicated in their descriptions. In particular, I find at high magnification overlying arms.
+
+Even here an adequate observation of a single is not enough for a complete conclusion.
+
+# Section III
+
+## Meteoritic Iron
 
 
 
