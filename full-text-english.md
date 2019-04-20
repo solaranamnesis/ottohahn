@@ -75,9 +75,9 @@
 
 I take Hahn's perspective while translating and I try to convey his point as best I can. In some respects I feel his argument is that of a lawyer and as such, I try to follow suit. I believe he considered this discovery to be of the highest order: the first modern realization that humanity, and the Earth in general, is being visited by alien representatives daily, albeit of a fossil variety.
 
-I consider myself familiar with meteorites although not a mineral expert by any means. It is my goal to simply be a photographer. I photograph meteorites and the images speak for themselves. All of my images can be viewed online at my Solar Anamnesis website. There one will find images of all types of meteorites in the highest resolution possible which were created and processed with focal stacking image techniques. 
-
 I prefer updating the terms to reflect the modern nomenclature. Also, I don't have German language skills. I only wanted a good read and I don't consider this as a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material, I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the case that others with native skills would help, with the result that the final effort may be free and available online. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he himself emphasizes. He seemed determined to show people the truth about meteorites.
+
+I consider myself familiar with meteorites although not a mineral expert by any means. It is my goal to simply be a photographer. I photograph meteorites and the images speak for themselves. All of my images can be viewed online at my Solar Anamnesis website. There one will find images of all types of meteorites in the highest resolution possible which were created and processed with focal stacking image techniques.
 
 # 1:
 
@@ -551,6 +551,18 @@ Even here an adequate observation of a single is not enough for a complete concl
 # Section III
 
 ## Meteoritic Iron
+
+As I have already indicated in my "Primordial Cell", the structure of the meteoritic irons is nothing other than a single mat of unicellular plants. The so-called Widmanstätten figures are, for the most part nothing other than these unicellular plants.
+
+A piece of the Toluca iron meteorite lies in front of me, in which the cylindrical cells alternately emerge from each other, the two are often copulated. The individual cells show a double cell wall (iron band), show cross partitioning, show clear round root points; in some there is a marrow substance (which is is really called), indeed, in the inside of the cell there is yet more structure. All of the cells lie in a mat of filler (iron-filler).
+
+If one compares these figures with the forms of the Lias slate, especially Algacites [Fucoides] granulatus and ask yourself, of the two, which one shows a plant structure clearest, the Toluca iron or the Algacites [Fucoides] from Lias-Epsilon.
+
+These forms are cylindrical, from time to time one sees (on average) approximately polyhedral surfaces: they have walls. What especially distinguishes them from crystals (which can be foreseen from the round forms) are the grow sites.
+
+
+
+
 
 
 
