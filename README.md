@@ -24,6 +24,6 @@ Could this be true? Did Darwin really leap out of his chair? Did he believe life
 Source and more information about Hahn:
 http://darwin-online.org.uk/content/frameset?itemID=A690&viewtype=text&pageseq=1
 
-### To view the original German as a PDF, click the link below, then click "view online":
+### To view the original German 1880 edition as a PDF, click the link below, then click "view online":
 [Catalogue SUDOC](http://www.sudoc.fr/194662241)
 
