@@ -81,7 +81,7 @@ I prefer updating the terms to reflect the modern nomenclature. I only wanted a 
 
 It was not those inconsequential matter-of-fact attacks on my "Primordial Cell" that prevented me from tiring in my efforts to establish certain new geological facts, but rather it was the untenability of the previous views regarding the undisputedly most important part of the geological sciences, that part through which it relates to the cosmos — that is, in the doctrine of the so-called plutonic rocks.
 
-If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth and also the knowledge pertaining to its real genesis will always be hidden from us - then, at the end of this book, then there is now an alternative: the meteorite, which reveals a distant time window, where no researcher has yet ventured.
+If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth and also the knowledge pertaining to its real genesis will always be hidden from us, then, at the end of this book there is yet a prospect: the way through this remoteness is the meteorite, which has not yet been boldy pursued by researchers.
 
 With this as my guide I now continue.
 
