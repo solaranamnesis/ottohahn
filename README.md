@@ -4,10 +4,10 @@
 
 Attempt at a translation from the original German to English, I welcome all pull requests of submitted translations and/or edits.
 
-[English - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/full-text-english.md) 
-English - PDF 
-German - Plain Text 
-German - PDF 
+[English - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/full-text-english.md)  
+English - PDF  
+German - Plain Text  
+German - PDF  
 
 ## Background:
 
