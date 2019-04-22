@@ -73,11 +73,9 @@
 
 #### Translation note:
 
-I take Hahn's perspective while translating and I try to convey his point as best I can. In some respects I feel his argument is that of a lawyer and as such, I try to follow suit. I believe he considered this discovery to be of the highest order: the first modern realization that humanity, and the Earth in general, is being visited by alien representatives daily, albeit of a fossil variety.
+I take Hahn's perspective while translating and try to convey his point as best I can. I feel his argument is that of a lawyer and as such, I try to follow suit. I believe he considered this discovery to be of the highest order: the first modern realization that humanity, and the Earth in general, is being visited by alien representatives daily, albeit of a fossil variety.
 
-I prefer updating the terms to reflect the modern nomenclature. Also, I don't have German language skills. I only wanted a good read and I don't consider this as a professional translation by any means. When I saw that Hahn's book was never published in English, and since I really like reading historical material, I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the case that others with native skills would help, with the result that the final effort may be free and available online. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he himself emphasizes. He seemed determined to show people the truth about meteorites.
-
-I consider myself familiar with meteorites although not a mineral expert by any means. It is my goal to simply be a photographer. I photograph meteorites and the images speak for themselves. All of my images can be viewed online at my Solar Anamnesis website. There one will find images of all types of meteorites in the highest resolution possible which were created and processed with focal stacking image techniques.
+I prefer updating the terms to reflect the modern nomenclature. I only wanted a good read and I don't consider this as a professional translation. When I saw that Hahn's book was never published in English, and since I really like reading historical material, I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the case that others with native skills would help, with the result that the final effort may be free and available online. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he himself emphasizes. He seemed determined to show people the truth about meteorites.
 
 # 1:
 
@@ -512,7 +510,7 @@ When I said this: the chondrite is nothing but a weave of animals, a mat of anim
 
 There are, however, very small, sharply outlined places in this animal-bone stone, which could probably (but not necessary) be from the beginning rocks. These are slate-blue, uncommon inclusions with 3 - 5 mm. diameters lacking definite recurring forms, which include distinct cystals in their grayish mass, these are on average either squares or rhombuses, at other times it includes hexagons. This mineral can be either augite or olivine. Here the crystalline form pronounces in favor of a mineral. The sole existence of this speaks for my views. Why have the crystals not grown themselves identically everywhere? And why should there not be hollow cavities remaining in the organisms? It is known that fillers in organic forms later crystallize. And, in the end-filled organic forms cavities are found, in which their outlines look like surfaces recessing at an angle.
 
-The reason, for why I acknowledge that these inclusions are inorganic parts of the chondrites, as actual meteoritic stone (sone in the stone), is, since the outlines do not give the indication, that their form does not address itself as being organic. These inclusions may be deposits of an already developed rocky mass or they have may have only developed in the cavities.
+The reason, for why I acknowledge that these inclusions are inorganic parts of the chondrites, as actual meteoritic stone (sone in the stone), is, since the outlines do not give the indication, that their form does not address itself as being organic. These inclusions may be deposits of an already developed rocky mass or they may have only developed in the cavities.
 
 This situation is possible, even probable, that it was a falling-in of pieces of already deposited rock, that were fully developed, and does not need to be denied: it does not knock on the fact, that in the olivine strata formations exist and that these are the cause of the construction of the planet bodies, their self-constructed development and complex composition.
 
@@ -554,16 +552,18 @@ Even here an adequate observation of a single is not enough for a complete concl
 
 As I have already indicated in my "Primordial Cell", the structure of the meteoritic irons is nothing other than a single mat of unicellular plants. The so-called Widmanstätten figures are, for the most part nothing other than these unicellular plants.
 
-A piece of the Toluca iron meteorite lies in front of me, in which the cylindrical cells alternately emerge from each other, the two are often copulated. The individual cells show a double cell wall (iron band), show cross partitioning, show clear round root points; in some there is a marrow substance (which is is really called), indeed, in the inside of the cell there is yet more structure. All of the cells lie in a mat of filler (iron-filler).
+A piece of the Toluca iron meteorite lies in front of me, in which the cylindrical cells alternately emerge from each other, the two are often copulated. The individual cells show a double cell wall (iron band), show cross partitioning, show clear round root points; in some there is a marrow substance (which it is really called), indeed, in the inside of the cell there is yet more structure. All of the cells lie in a mat of filler (iron-filler).
 
-If one compares these figures with the forms of the Lias slate, especially Algacites [Fucoides] granulatus and ask yourself, of the two, which one shows a plant structure clearest, the Toluca iron or the Algacites [Fucoides] from Lias-Epsilon.
+Compare these figures with the forms of the Lias slate, especially Algacites [Fucoides] granulatus and ask yourself, of the two, which one shows a plant structure clearest, the Toluca iron or the Algacites [Fucoides] from Lias-Epsilon?
 
-These forms are cylindrical, from time to time one sees (on average) approximately polyhedral surfaces: they have walls. What especially distinguishes them from crystals (which can be foreseen from the round forms) are the grow sites.
+These forms are cylindrical, from time to time one sees (on average) approximately polyhedral surfaces: they have walls. What especially distinguishes them from crystals (which can be foreseen from the round forms) are the growth sites.
 
+Crystals, which grow together, set themselves against one particular crystal surface as well along particular surfaces, (dendrites of silver, copper); they place themselves along the surfaces of another, without entering into them, but in the meteoritic iron one finds penetration instead. The cross section is not a straight line (crystal surface), but a curve.
 
+Here ends all similarities with crystals, unless one assumes that there could be cylindrical crystals, which grow out of each other. The claim, that these figures have fixed mathematical positions, may be correct here and there by chance; all researchers allow this alone, that nowhere are the angles constant, which with dendrites is always the case. If one finds a place, out of which an octahedron, a cube, or a different regular crystal form derive their location, even a rhombohedron: immediately the order compared with another is quite different. And how can one speak of crystal laws, when from identical minerals not once has this fixed crystal system been repeated? Because one finds, as I have said, rhombohedral slices next to regular ones.
 
+I find just two objections that seem to be justified:
 
-
-
+1\. The objection, that the figures are occasional sheets:
 
 
