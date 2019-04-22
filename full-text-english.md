@@ -139,7 +139,7 @@ As one examines the panels of this work, it immediately becomes certain that the
 
 Thus, the origin was established with regard to the parts. However, in my study of twenty chondrites (and 360 thin sections of them), the assertion made in my "Primordial Cell" confirmed that the rock of the chondrites is not a type of sedimentary rock as on our Earth, in which fossils are embedded, that it is not a conglomerate formation; rather, its whole mass is entirely formed of organic beings, like our coral rocks. So not a plant, as I assumed earlier, but plant-animals! The whole stone is life: — I think science will forgive me the first mistake.
 
-Needless to say, the meteoritic iron was now subject to additional testing. Here it remains as my first observation.
+Needless to say, the iron meteorites were now subject to additional testing. Here it remains as my first observation.
 
 However, time and circumstances, especially the lack of available materials prevented me from concluding the investigation prior to this publication. But if I repeat today the first assertion that the meteoritic iron is nothing but a mat of plants, then I may now regard myself as more legitimate than at the time when I wrote the “Primordial Cell” in asserting the prior statement. I have to add that I also found life forms in iron. The researchers who avoided the forms of chondrites that I depict may have overlooked the fact that the so-called Widmanstätten's figures are, for the most part, plant cells and not crystals.
 
@@ -548,9 +548,9 @@ Even here an adequate observation of a single is not enough for a complete concl
 
 # Section III
 
-## Meteoritic Iron
+## The Iron Meteorites
 
-As I have already indicated in my "Primordial Cell", the structure of the meteoritic irons is nothing other than a single mat of unicellular plants. The so-called Widmanstätten figures are, for the most part nothing other than these unicellular plants.
+As I have already indicated in my "Primordial Cell", the structure of the iron meteorites is nothing other than a single mat of unicellular plants. The so-called Widmanstätten figures are, for the most part nothing other than these unicellular plants.
 
 A piece of the Toluca iron meteorite lies in front of me, in which the cylindrical cells alternately emerge from each other, the two are often copulated. The individual cells show a double cell wall (iron band), show cross partitioning, show clear round root points; in some there is a marrow substance (which it is really called), indeed, in the inside of the cell there is yet more structure. All of the cells lie in a mat of filler (iron-filler).
 
