@@ -47,7 +47,7 @@
 
 ### Section III
 
-#### Meteoritic Iron
+#### The Iron Meteorites
 
 ### Section IV
 
@@ -79,9 +79,9 @@ I prefer updating the terms to reflect the modern nomenclature. I only wanted a 
 
 # 1:
 
-It was not the inconsequential attacks on my "Primordial Cell" that made me tire in my efforts to establish certain new geological facts, but rather it was the untenability of the previous views regarding the most undisputedly important part of the geological sciences, in the part through which it is related to the cosmos — that is, the doctrine of the so-called plutonic rocks.
+It was not those inconsequential matter-of-fact attacks on my "Primordial Cell" that prevented me from tiring in my efforts to establish certain new geological facts, but rather it was the untenability of the previous views regarding the undisputedly most important part of the geological sciences, that part through which it relates to the cosmos — that is, in the doctrine of the so-called plutonic rocks.
 
-If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth and also the knowledge pertaining to its real genesis will always be hidden from us - then, at the end of this book, then there is now an alternative: the meteorite, which reveals a distant time window, where no researcher has yet ventured.
+If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth and also the knowledge pertaining to its real genesis will always be hidden from us, then, at the end of this book there is yet a prospect: the way through this remoteness is the meteorite, which has not yet been boldy pursued by researchers.
 
 With this as my guide I now continue.
 
@@ -93,11 +93,11 @@ It is a world of life in a rock which fell to Earth and brought us tidings of th
 
 Admittedly, the meteorites, namely the chondrites, for these are the ones which are preferentially subject to my investigations, have no life of higher construction; instead, all are lower life forms - the same ones which prevail in the Silurian strata - sponges, corals, and crinoids - it is with these species that similar characteristics are found.
 
-The chondrites that I have studied are olivine enstatite rock. They have undergone alterations, though not considerable, since the time of their formation as the remains of life and up until they landed here. They have been permeated with a silicate solution, in a similar manner to how the Jura deposits are with a solution of lime. While it was part of the parent body, it probably went through planetary cycles just as new layers follow old ones down to the lowest strata of our Earth, under the influence of which the former have undergone a certain, though not so considerable transformation as one usually assumes.
+The chondrites that I have studied are olivine enstatite rock. They have undergone alterations, though not considerable, since the time of their formation as the remains of life and up until they landed here. They have been permeated with a silicate solution, in a similar manner to how the Jura deposits are with a solution of lime. While it was part of the parent body, it probably went through planetary cycles just as new layers follow old ones down to the lowest strata of our Earth, under the influence of which the former have undergone a certain, though not as considerable as one assumes, transformation.
 
-Only the surface of the meteorites have changed considerably, and indeed only at the last moment of their planetesimal existence, and mostly due to the influence of frictional heat created, in this case, by the Earth's atmosphere. But the original meteorite itself essentially remains. We now see that before us is a piece of a planet as it was in the process of becoming, and thus the history of our Earth's body is now open to us, provided that we are correct that the meteorites, in their formation, are homogeneous in their chemical composition with the same world matter which formed the Earth and vice versa. At the same time, by sending me the "Meteorite of Ovifak" (I owe it to the kindness of Professor Dr. von Nordenskjöld) I was offered the opportunity to bring this rock into the investigation.
+Only the surface of the meteorites has changed considerably, indeed only at the last moment of their planetesimal existence and mostly due to the influence of frictional heating created, in this case, by the Earth's atmosphere. But the original meteorite itself essentially remains. We now see that before us is a piece of a planet as it was in the process of becoming, and thus the history of our Earth's body is now open to us, provided that we are correct that the meteorites, in their formation, are homogeneous in their chemical composition with the same world matter which formed the Earth and vice versa. At the same time, by sending me the "Meteorite of Ovifak" (I owe it to the kindness of Professor Dr. von Nordenskjöld) I was offered the opportunity to bring this rock into the investigation.
 
-I consider it to be earthly - as the deepest layer our Earth, i.e. the olivine layer, which belongs under the granite. I call the original layer the Olivine Formation. Since the rock is very similar to a meteorite, it was natural to declare it to be the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
+I consider it to be terrestrial - as part of the deepest layer our Earth, i.e. the olivine layer, which belongs under the granite. I call this original layer the Olivine Formation. Since the rock is very similar to a meteorite, it is natural to declare it to be the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
 
 Thus, we have established two solid points, from which a lever can be set.
 
@@ -137,9 +137,9 @@ But, of course - our science is doubtful - it rightly demands more stringent evi
 
 As one examines the panels of this work, it immediately becomes certain that these are not mineral forms, but organic forms, that we have before us the images of life, images of life of the lowest order, a creation which, in greater part, finds some of its closest relatives on Earth - with regard to the corals and crinoids, this is determined with absolute certainty; however, the sponges only have a little such similarity with the forms of the terrestrial genera of the Earth.
 
-Thus, the origin was established with regard to the parts. However, in my study of 20 chondrites (and 360 thin sections of them), the assertion made in my "Primordial Cell" confirmed that the rock of the chondrites is not a type of sedimentary rock as on our Earth, in which fossils are embedded, that it is not a conglomerate formation; rather, its whole mass is entirely formed of organic beings, like our coral rocks. So not plant, as I assumed earlier, but Pflanzenthiere! The whole stone a life: — I think science will forgive me the first mistake.
+Thus, the origin was established with regard to the parts. However, in my study of twenty chondrites (and 360 thin sections of them), the assertion made in my "Primordial Cell" confirmed that the rock of the chondrites is not a type of sedimentary rock as on our Earth, in which fossils are embedded, that it is not a conglomerate formation; rather, its whole mass is entirely formed of organic beings, like our coral rocks. So not a plant, as I assumed earlier, but plant-animals! The whole stone is life: — I think science will forgive me the first mistake.
 
-Needless to say, the meteoric iron was now subject to another test. Here it remained at my first observation.
+Needless to say, the iron meteorites were now subject to additional testing. Here it remains as my first observation.
 
 However, time and circumstances, especially the lack of available materials prevented me from concluding the investigation prior to this publication. But if I repeat today the first assertion that the meteoritic iron is nothing but a mat of plants, then I may now regard myself as more legitimate than at the time when I wrote the “Primordial Cell” in asserting the prior statement. I have to add that I also found life forms in iron. The researchers who avoided the forms of chondrites that I depict may have overlooked the fact that the so-called Widmanstätten's figures are, for the most part, plant cells and not crystals.
 
@@ -548,9 +548,9 @@ Even here an adequate observation of a single is not enough for a complete concl
 
 # Section III
 
-## Meteoritic Iron
+## The Iron Meteorites
 
-As I have already indicated in my "Primordial Cell", the structure of the meteoritic irons is nothing other than a single mat of unicellular plants. The so-called Widmanstätten figures are, for the most part nothing other than these unicellular plants.
+As I have already indicated in my "Primordial Cell", the structure of the iron meteorites is nothing other than a single mat of unicellular plants. The so-called Widmanstätten figures are, for the most part nothing other than these unicellular plants.
 
 A piece of the Toluca iron meteorite lies in front of me, in which the cylindrical cells alternately emerge from each other, the two are often copulated. The individual cells show a double cell wall (iron band), show cross partitioning, show clear round root points; in some there is a marrow substance (which it is really called), indeed, in the inside of the cell there is yet more structure. All of the cells lie in a mat of filler (iron-filler).
 
