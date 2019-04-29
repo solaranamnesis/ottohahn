@@ -566,4 +566,12 @@ I find just two objections that seem to be justified:
 
 1\. The objection, that the figures are occasional sheets:
 
+Against this I want to object, that, once a cylinderical form is verified, the forms are just not crystalline, and now the result is not that they are cylinderical crystals, but on the contrary, that the plates, which bear the same structure, are not crystals.
+
+2\. The second objection is that: How is it supposed to be that plants transform themselves into iron? This objection is not difficult to refute. One has only to think of our many fossilized fossils, especially the fossilized stems in the Lias; one recalls the so-called Mansfeld [buds] ears in the Zechstein (Cupressites Ulmanni), where cypresses are transformed thru silver-bearing copper. One should think that such an objection could be made.
+
+But now I am well through uniting with an revered friend, Professor Dr. H. [Gustav Karl Wilhelm Hermann] Karsten in Schaffhausen, who presently is in a position to furnish evidence for the transformation of plants into iron. Karsten has already proven in the year 1869, that our lowest plants absorb iron through entirely outstanding means; I owe the iron plants of today to his kindness. With his permission I include an excerpt from his excellent work, "The Chemistry of Plant Cells", Vienna 1869, p. 53 which here follows: "Bring Oidium lactis or yeast, in heavy moist air (not under liquid) which has for some time been in contact with lactose, together with metallic iron, by scattering iron filings on the vegetated milk yeast via a glass objective, at first some of the iron touches the cells, later many are vaguely situated then more or less a rapid intensive red color soon comes to a surpising size."
+
+
+
 
