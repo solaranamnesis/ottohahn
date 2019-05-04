@@ -71,15 +71,7 @@
 
 # THE METEORITE (CHONDRITE) AND ITS ORGANISMS
 
-#### Translation note:
-
-I take Hahn's perspective while translating and try to convey his point as best I can. I feel his argument is that of a lawyer and as such, I try to follow suit. I believe he considered this discovery to be of the highest order: the first modern realization that humanity, and the Earth in general, is being visited by alien representatives daily, albeit of a fossil variety.
-
-I prefer updating the terms to reflect the modern nomenclature. I only wanted a good read and I don't consider this as a professional translation. When I saw that Hahn's book was never published in English, and since I really like reading historical material, I thought I could have fun and translate it myself to get the gist of what he was saying about meteorites. This is only public in the case that others with native skills would help, with the result that the final effort may be free and available online. This is an excellent work with incredible microphotographs at high magnifications (consider the collodion process was invented in 1851, the gelatin dry plate in 1871, this book published in 1880). You can tell the author went through a lot of hard work to bring it all together, as he himself emphasizes. He seemed determined to show people the truth about meteorites.
-
-# 1:
-
-It was not those inconsequential matter-of-fact attacks on my "Primordial Cell" that prevented me from tiring in my efforts to establish certain new geological facts, but rather it was the untenability of the previous views regarding the undisputedly most important part of the geological sciences, that part through which it relates to the cosmos — that is, in the doctrine of the so-called plutonic rocks.
+It was not those partly inconsequential attacks on my "Primordial Cell" that prevented me from tiring in my efforts to establish certain new geological facts, but rather it was the untenability of the previous views regarding the undisputedly most important part of the geological sciences, that part through which it relates to the cosmos — that is, in the doctrine of the so-called plutonic rocks.
 
 If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth and also the knowledge pertaining to its real genesis will always be hidden from us, then, at the end of this book there is yet a prospect: the way through this remoteness is the meteorite, which has not yet been boldy pursued by researchers.
 
@@ -103,7 +95,7 @@ Thus, we have established two solid points, from which a lever can be set.
 
 The chondrites, an olivine-feldspar (enstatite) rock, consists of an animal world, they are not part of a layer of sedimentary rock, nor a conglomerate, but a thick mat of animals, a tissue whose meshes were all once living beings, and life of the lowest kind, the beginnings of creation.
 
-However, I could not make a systematic enumeration of life which is preserved in the meteorites: I just wanted to prove that _it is_ - _here it is_. I therefore only depicted the organic beings which I could content myself with determining undoubtedly, on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both for future investigation.
+However, I could not make a systematic enumeration of life which is preserved in the meteorites: I just wanted to prove that _it is so_ - _that is it_. I therefore only depicted the organic beings which I could content myself with determining undoubtedly, on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both for future investigation.
 
 It is to be expected that my enumeration will be, through further research and with the help of richer material than I have available, multiplied and supplemented. In particular, sudivisions had to be avoided: since every newly discovered being would overturn any divisions and make the effort arduous, and any work in vain.
 
@@ -115,13 +107,13 @@ Anyone who even superficially surveys the forms will soon find that they provide
 
 In such beginnings, mistakes are inevitable, so it is only a small demand to ask to forgive them. Nor did I want to delay the publication of this work too long, and therefore have it just as it is now available.
 
-# 2:
-
 ## Section 1
 
 ### Previous Views On the Meteorite
 
 ### History and Overview
+
+Δός μοι χέντρον.
 
 Last year, when I wrote down in my diary certain new observations about the composition of the rocks of our Earth and finally also of the meteorities, the importance of the latter to geology was not fully clear to me.
 
