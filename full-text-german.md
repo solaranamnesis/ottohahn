@@ -234,24 +234,24 @@ Ich habe mich vorzugsweise mit den Chondriten beschäftigt und, wo ich von Meteo
 
 Ich habe untersucht:
 
-1753. 3. Juli Tabor, Böhmen.  
-1794. 16. Juni Siena, Toskana.  
-1803. 26. April l'Aigle, Normandie.  
-1807. 14. Decbr. Weston, Connecticut.  
-1810. 23. Novbr. Tipperary, Irland.  
-1833. 25. Novbr. Blansko, Brunn.  
-1841. 12. Juli Château-Renard, Loiret.  
-1847. 25. Febr. Linn [Marion] Co, Iowa.  
-1849. 31. Oct. Cabarras [Monroe] Co, Nordcarol.  
-1852. 4. Septbr. Mezö-Madaras.  
-1852. 13. Octbr. Borkut, Ungarn.  
-1855. 13. Mai Bremervörde, Hanover.  
-1857. 28. Febr. Parnallee, Ostindien.  
-1857. 1. April Heredia, Costa-Rica.  
-1860. 1. Mai New-Concord, Ohio.  
-1866. 9. Juni Knyahinya, Ungarn.  
-1868. 30. Jan. Pultusk, Warschau.  
-1872. 31. Aug. Olvinio.  
+1753 03 Juli Tabor, Böhmen.  
+1794 16 Juni Siena, Toskana.  
+1803 26 April l'Aigle, Normandie.  
+1807 14 Decbr. Weston, Connecticut.  
+1810 23 Novbr. Tipperary, Irland.  
+1833 25 Novbr. Blansko, Brunn.  
+1841 12 Juli Château-Renard, Loiret.  
+1847 25 Febr. Linn [Marion] Co, Iowa.  
+1849 31 Oct. Cabarras [Monroe] Co, Nordcarol.  
+1852 04 Septbr. Mezö-Madaras.  
+1852 13 Octbr. Borkut, Ungarn.  
+1855 13 Mai Bremervörde, Hanover.  
+1857 28 Febr. Parnallee, Ostindien.  
+1857 01 April Heredia, Costa-Rica.  
+1860 01 Mai New-Concord, Ohio.  
+1866 09 Juni Knyahinya, Ungarn.  
+1868 30 Jan. Pultusk, Warschau.  
+1872 31 Aug. Olvinio.  
 Simbirsk.
 
 Alle Gesteine sind durchaus beglaubigt. Ich habe hier vor Allem der Liberalität meines verehrten Lehrers, Herrn Professor Dr. von Quenstedts, mit welcher er mir die vorzügliche Tübinger Universitäts-Sammlung (welche bekanntlich zum grössten Theil vom Freiherrn von Reichenbach in Wien stammt) dankend zu gedenken.
