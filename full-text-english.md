@@ -238,8 +238,8 @@ Weston, Connecticut - December 14, 1807
 Tipperary, Ireland - November 23, 1810  
 Blansko, Brünn - November 25, 1833  
 Château-Renard, Loiret - July 12, 1841  
-Linn County [Marion], Iowa - February 25, 1847  
-Cabarras County [Monroe], North Carolina - October 31, 1849  
+Linn [Marion] County, Iowa - February 25, 1847  
+Cabarras [Monroe] County, North Carolina - October 31, 1849  
 Mezö-Madaras [Romania] - September 4, 1852  
 Borkut, Ungarn - October 13, 1852  
 Bremervörde, Hanover - May 13, 1855  

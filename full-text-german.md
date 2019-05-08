@@ -210,3 +210,51 @@ Gümbel fasst, nachdem er die Meteorite in die Olivingesteine unserer Erde einge
 
 „So geistreich, fährt er (S. 68) fort, diese Hypothesen Daubrée's und Tschermak's sind (Entstehung aus zertrümmertem Vulkangestein), so kann ich mich doch in Bezug auf die Entstehung der Kügelchen (Chondren) ihrer Ansicht auf Grund meiner neuesten Untersuchungen nicht anschliessen. Ich habe im Gegensatze zu Tschermak's Annahme nachzuweisen gesucht, dass das innere Gefüge der Chondren nicht ausser Zusammenhang mit ihrer kugeligen Gestalt stehe, und dass man diese Kügelchen weder als Stücke eines Mineralkrystalls, noch eines festen Gesteins ansehen könne. Spricht schon ihre nicht geglättete, nicht polirte Oberfläche, welche, wenn durch Abreibung oder Abrollung gebildet, bei solcher Härte des Materials spiegelglatt sein müsste, während sie rauh, höckerig, oft strichweise krystallinisch facettirt erscheint, gegen die Abreibungstheorie, so ist auch gar kein Grund einzusehen, wesshalb nicht alle anderen Mineral splitterchen wie Sandkörner abgerundet seien und wesshalb namentlich das Meteoreisen, das Schwefeleisen und das sehr harte Chromeisen, wie ich in dem Meteorit von L'Aigle mich überzeugt habe, stets nichtgerundete, oft äusserst fein zerschlitzte Formen besitzen. Wie wäre es zudem denkbar, dass, wie häufig beobachtet wird, innerhalb der Kügelchen concentrische Anhäufung von Meteoreisen vorkommen? Auch erscheint die excentrisch faserige Struktur der meisten Kügelchen in ihrem einseitig gelegenen Ausstrahlungspunkte in Bezug auf die Oberfläche nicht als zufällig, sondern der Art der Struktur der Hagelkörner nachgebildet. Dieses innere Gefüge steht im engsten Zusammenhange mit dem Akt ihrer Entstehung, welche nur als eine Verdichtung Mineral bildender Stoffe unter gleichzeitiger drehender Bewegung in Dämpfen, welche das Material zur Fortbildung lieferten, sich erklären lässt, wobei in der Richtung der Bewegung einseitig mehr Material sich ansetzte.“
 
+Weiter freilich spricht Gümbel sich dahin aus, dass das Material, aus welchem die Chondrite bestehen, durch eine gestörte Crystallisation und Zertrümmerung in Folge von explosiven Vorgängen innerhalb eines Raumes sich gebildet habe, welcher von den die Mineralien bildenden Stoffe liefernden Dampf- und Wasserstoffgasen erfüllt war. Er schliesst S. 72 bei Besprechung des Meteorites von Kaba:
+
+„Vielleicht gelingt es dennoch, die Anwesenheit organischer Wesen auf ausserirdischen Körpern nachzuweisen.“ Ich hoffe dies sei gelungen. - Aus seinen Abbildungen ersieht man, dass bei der Untersuchung ein schlechtes Material zu Gebot stand. Auch hätten immerhin mehr Dünnschliffe gefertigt werden müssen, zudem reicht die Vergrösserung bei Weitem nicht. Ich verweise hier auf das Folgende und die Beschreibung meiner Tafeln.
+
+Was ich in dem Berichte Gümbels so hoch schätze, ist die gewissenhafte vorurtheilsfreie, ich möchte sagen unpartheiische Beobachtung. Ich habe mir erlaubt, die Schrift Gümbels wörtlich anzuführen, weil es mir in der That schwer wird, solche Darstellungen zusammenzufassen und Thatsachen und Deutung zu trennen.
+
+Richtige Beobachtungen und unrichtige Erklärungen stehen so nahe beisammen, dass es unmöglich ist beides zu sondern. Ich glaubte, als ich die Gümbel'sche Abhandlung (nach dem Abschluss meiner Untersuchungen und meines Manuscripts) durchlas, in jedem Augenblick auf meine Resultate zu treten. Aber wie die Woge der Brandung den, welcher das Land gewinnen will, jedesmal dann wieder ergreift und zurückwirft, wenn er schon das Land gefasst zu haben glaubt, so auch hier: allemal reisst das alte Dogma den geehrten Forscher von der rettenden Klippe hinweg in den bodenlosen Strudel der Traditionen zurück.
+
+Daubrée's verdienstvolles Werk „Experimentalgeologie“ erhielt ich erst in der Uebersetzung zur Hand und ebenfalls nach Abschluss meiner Arbeit. Dass es diese widerlegte, wird wohl Niemand finden. Daubrée hat selbst Knyahinga abgebildet. M. hat gepresst, geschmolzen, aufgelöst, berechnet, nur nicht - gesehen.
+
+## DIE METEORITE UND IHRE MINERALOGISCHEN EIGENSCHAFTEN.
+
+### 1.
+
+Die Literatur der Meteorite ist eine sehr umfangreiche. Sie ist jedoch, was die Art und Zahl, chemische Zusammensetzung betrifft, so bekannt, dass ich auf diesen Theil derselben, also insbesondere die früheren Arbeiten, nicht einzugehen brauche.
+
+### 2.
+
+Die Meteorite werden eingetheilt in Eisen und Steine, zwischen beiden steht jedoch noch eine Klasse: Halbeisen, d. h. eine Verbindung von gediegenem Eisen und Stein - die Pallasite. Während die Eisen eine ziemliche Uebereinstimmung, sowohl in ihrer chemischen Zusammensetzung, als in der Form ihrer Struktur zeigen, sind die Pallasite (je nach dem Vorwiegen des Eisens) sehr verschieden. Aber es finden sich noch weitere Verschiedenheiten darunter. Hainholz z. B. hat neben Eisen und Olivin ein blaues Mineral (Enstatit) und in diesem einen grossen Reichthum von Thierformen. - Die Steine werden eingetheilt in Chondrite, Stannerite [eukriten], Luotolaxer [howarditen], Bokkefelder [karbonatisch], Bishopvillit [aubriten], (Quenstedt, Klar und Wahr S. 280 folg.)
+
+Ich habe mich vorzugsweise mit den Chondriten beschäftigt und, wo ich von Meteoriten rede, rede ich von dieser allerdings auch am zahlreichsten vertretenen Klasse von Stein-Meteoriten.
+
+Ich habe untersucht:
+
+1753. 3. Juli Tabor, Böhmen.  
+1794. 16. Juni Siena, Toskana.  
+1803. 26. April l'Aigle, Normandie.  
+1807. 14. Decbr. Weston, Connecticut.  
+1810. 23. Novbr. Tipperary, Irland.  
+1833. 25. Novbr. Blansko, Brunn.  
+1841. 12. Juli Château-Renard, Loiret.  
+1847. 25. Febr. Linn [Marion] Co, Iowa.  
+1849. 31. Oct. Cabarras [Monroe] Co, Nordcarol.  
+1852. 4. Septbr. Mezö-Madaras.  
+1852. 13. Octbr. Borkut, Ungarn.  
+1855. 13. Mai Bremervörde, Hanover.  
+1857. 28. Febr. Parnallee, Ostindien.  
+1857. 1. April Heredia, Costa-Rica.  
+1860. 1. Mai New-Concord, Ohio.  
+1866. 9. Juni Knyahinya, Ungarn.  
+1868. 30. Jan. Pultusk, Warschau.  
+1872. 31. Aug. Olvinio.  
+Simbirsk.
+
+Alle Gesteine sind durchaus beglaubigt. Ich habe hier vor Allem der Liberalität meines verehrten Lehrers, Herrn Professor Dr. von Quenstedts, mit welcher er mir die vorzügliche Tübinger Universitäts-Sammlung (welche bekanntlich zum grössten Theil vom Freiherrn von Reichenbach in Wien stammt) dankend zu gedenken.
+
+### 3.
+
