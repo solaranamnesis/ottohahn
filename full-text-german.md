@@ -305,11 +305,11 @@ Richtig allein hat Quenstedt die Frage für eine offene erklärt und gesagt: es 
 ##### ORGANISCH ODER UNORGANISCH?
 
 Um den Beweis zu führen, dass ein pflanzlicher oder thierischer Organismus vorliege, halte ich für nothwendig darzuthun:
-1. eine geschlossene Form,
-2. eine wiederkehrende Form,
-3. wiederkehrend in Entwicklungsstufen,
-4. Struktur und zwar entweder Zellen oder Gefässe,
-5. Aehnlichkeit mit bekannten Formen.
+1\. eine geschlossene Form,
+2\. eine wiederkehrende Form,
+3\. wiederkehrend in Entwicklungsstufen,
+4\. Struktur und zwar entweder Zellen oder Gefässe,
+5\. Aehnlichkeit mit bekannten Formen.
 Sind diese Erfordernisse da, so bleibt nur noch zu entscheiden, ob Pflanze oder Thier? Nun fragt sich, erfüllen meine Formen diese Forderungen?
 
-	Ich glaube, ehe ich an den positiven Beweis gehe, den negativen Beweis führen zu sollen.
+Ich glaube, ehe ich an den positiven Beweis gehe, den negativen Beweis führen zu sollen.

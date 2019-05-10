@@ -302,12 +302,11 @@ Rightly Quenstedt has alone has declared the question an open one and said: "...
 #### Organic or Inorganic?
 
 In order to prove that a plant or animal organism is present, I consider it necessary to prove:
-1. a unified form,
-2. a recurring form,
-3. recurring in developmental stages,
-4. structure, either cells or vessels,
-5. similarity to known forms.
-
+1\. a unified form,
+2\. a recurring form,
+3\. recurring in developmental stages,
+4\. structure, either cells or vessels,
+5\. similarity to known forms.
 If these requirements are valid, it remains only to decide, whether plant or animal? Now you ask yourself, do my forms fulfill these requirements?
 
 I believe, before I go to the positive proof, the negative proof ought to lead.
