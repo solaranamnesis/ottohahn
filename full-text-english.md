@@ -243,7 +243,7 @@ Cabarras [Monroe] County, North Carolina - October 31, 1849
 Mezö-Madaras [Romania] - September 4, 1852  
 Borkut, Ungarn - October 13, 1852  
 Bremervörde, Hanover - May 13, 1855  
-Parnallee, Ostindien - February 28, 1857  
+Parnallee, East India [Tamil Nadu] - February 28, 1857  
 Heredia, Costa Rica - April 1, 1857  
 New Concord, Ohio - May 1, 1860  
 Knyahinya, Ungarn. - June 9, 1866  

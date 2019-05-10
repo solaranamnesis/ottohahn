@@ -246,7 +246,7 @@ Ich habe untersucht:
 1852 04 Septbr. Mezö-Madaras.  
 1852 13 Octbr. Borkut, Ungarn.  
 1855 13 Mai Bremervörde, Hanover.  
-1857 28 Febr. Parnallee, Ostindien.  
+1857 28 Febr. Parnallee, Ostindien [Tamil Nadu].  
 1857 01 April Heredia, Costa-Rica.  
 1860 01 Mai New-Concord, Ohio.  
 1866 09 Juni Knyahinya, Ungarn.  
@@ -254,7 +254,62 @@ Ich habe untersucht:
 1872 31 Aug. Olvinio.  
 Simbirsk.
 
-Alle Gesteine sind durchaus beglaubigt. Ich habe hier vor Allem der Liberalität meines verehrten Lehrers, Herrn Professor Dr. von Quenstedts, mit welcher er mir die vorzügliche Tübinger Universitäts-Sammlung (welche bekanntlich zum grössten Theil vom Freiherrn von Reichenbach in Wien stammt) dankend zu gedenken.
+Alle Gesteine sind durchaus beglaubigt. Ich habe hier vor Allem der Liberalität meines verehrten Lehrers, Herrn Professor Dr. [Friedrich August] von Quenstedts, mit welcher er mir die vorzügliche Tübinger Universitäts-Sammlung (welche bekanntlich zum grössten Theil vom Freiherrn [Karl Ludwig] von Reichenbach in Wien stammt) dankend zu gedenken.
 
 ### 3.
 
+Von Knyahinya besitze ich 360 Dünnschliffe, von L'Aigle 6, von Pultusk 6, von den übrigen 1-3. Ich werde sämmtliche Steine kurz nach dem Fallort benennen. Bei Herstellung der Dünnschliffe habe ich die Schnitte in 2 Richtungen genommen. Es ergab sich nämlich nach mehreren Versuchen an Knyahinya, dass derselbe nach einer bestimmten Richtung bricht.
+
+Es konnte dies aus den Einschlüssen entnommen werden, welche, nachdem einmal die Stellung gefunden war, regelmässig bestimmte Formen-Durchschitte ergaben, welchen dann die Formen in einem senkrecht auf diese Stellung gefertigten Schnitte entsprachen.
+
+Waren die Formen an diesem Steine gestellt, so wäre wohl dieselbe Stellung in den übrigen Steinen zu erhalten gewesen, vorausgesetzt natürlich, dass das Material zu Gebot gestanden hätte. Bei einzelnen ergab sich dieselbe zufällig - bei anderen nicht, es musste aber aus den angeführten Gründen auf weitere Feststellung in dieser Richtung verzichtet werden.
+
+Ich fertigte ferner die Schliffe absichtlich in dreierlei Dicke: schwer durchsichtig, um die ganzen Einschlüsse möglichst vollständig zu bekommen: sehr dünn, um die Strukturverhältnisse klar zu stellen; den grössten Theil aber so, dass beides noch zur Anschauung kam.
+
+Ich reihe hier eine Bemerkung an, welche mir Jeder bestätigen wird, welcher sich mit Dünnschliffen von Petrefacten beschäftigt hat.
+
+Nur in seltenen Fällen ist in völlig durchsichtigen, also ganz dünnen Schliffen, noch die Struktur sichtbar. Wer seinen Schliff, wenn er halbdurchsichtig, im Microscop betrachtet, ist im höchsten Grad erfreut über die schönen Formen und Linien. In der Freude darüber will er die Sache noch besser machen und erwartet bei fortgesetztem Schleifen ein vollendetes Bild. Aber wenn er den Schliff zum zweiten Mal unter das Microscop legt - ist nichts mehr da als eine fast strukturlose Fläche, kaum angedeutete, sogar in den Umrissen verschwommene Formen, aus welchen nun das, was man vorher schon mit der Lupe wahrnahm, nicht einmal mehr mit dem Microscop zu ersehen ist. Diese Erscheinung hängt aber mit der Art der Metamorphose des Gesteins und der darin eingeschlossenen Formen zusammen. Die Sache ist jedoch bekannt und bedarf deshalb keiner weiteren Ausführung. Ich musste der Thatsache nur deshalb erwähnen, damit solche, welche Beobachtungen erst anstellen wollen, ohne dass sie dieselbe kennen, nicht überrascht werden und ihre Beobachtungsweise verbessern können.
+
+### 4.
+
+Dass die Chondrite zum grössten Theile aus Bronzit-Enstatit (Augit) und Olivin sowie Magnetkies bestehen, ist eine in der Wissenschaft angenomme Thatsache. Quenstedt, Handbuch der Mineralogie S. 722.
+
+Insbesondere aber sind die Einschlüsse, welche ich für Corallen erkläre, für Enstatit angesprochen worden. Damit glaubte man die Struktur derselben erklären zu können. Andere gingen noch weiter und erklärten die Einschlüsse zum Theil für Gläser: (Tschermak).
+
+Ehe ich also an die Begründung meiner Ansicht komme, muss die microscopische Erscheinung des hauptsächlich vorkommenden Minerals, des Enstatits, genau festgestellt werden.
+
+Ich erlaube mir hier Kürze halber dasjenige anzuführen, was [Karl Heinrich Ferdinand] Rosenbusch in seinem Buch: Microscopische Physiographie der petrographisch wichtigen Mineralien Stuttgart 1873 S. 252, über Enstatit (und Bronzit) sagt: „Bekanntlich hat man seit den optischen Untersuchungen von [Alfred] Des Cloizeaux den Enstatit, Bronzit und Hypersthen als rhombisch krystallisirend vom Pyroxen getrennt und sie in eine eigene Gruppe zusammengestellt. Dieselben zeigen neben der Spaltung nach dem Prisma von 87° noch weitere Spaltungen nach den vertikalen Pinakoiden, über deren relative Vollkommenheit die Angaben der verschiedenen Forscher nicht genau übereinstimmen. Chemisch bilden diese 3 Mineralien eine ununterbrochene Reihe, an deren Anfange der fast eisenfreie Enstatit und an deren Ende der sehr eisenreiche Hypersthen steht. Enstatit und Bronzit sind sich überdies auch in allen physikalischen Eigenschaften so ähnlich, dass eine Trennung derselben in zwei Species kaum durchzuführen sein dürfte. Der Hypersthen dagegen zeigt eine verschiedene optische Orientierung und mag daher immerhin eine eigene Species bilden. Interessant ist die von Tschermak gegebene Zusammenstellung der negativen Winkel der optischen Axen und des Eisengehaltes der drei genannten Mineralien, wobei es sich ergiebt, dass mit zunehmendem Gehalte an FeO der Winkel der optischen Axen stetig abnimmt. Die Mikrostruktur aller Mineralien der Enstatit-Gruppe ist im Allgemeinen eine so ähnliche, dass im speciellen Falle eine sichere Entscheidung unter ihnen nur durch chemische und genaue optische Anlayse gegeben werden kann.“
+
+„Enstatit und Bronzit finden sich in den Gesteinen nicht als Krystalle, sondern fast nur in unregelmässig begrenzten Krystallkörnern, welche meistens eine sehr dichte Streifung erkennen lassen, die bei dem Enstatit mehr geradlinig, bei dem Bronzit mehr sanft wellig gewunden verläuft. Doch ist dieser Unterschied kein durchgreifender. Die gleiche Streifung zeigt auch der monokline Diallag und der rhombische Bastit, der sich aber durch andere, später zu besprechende, optische Erscheinungen nicht unschwer vom Bronzit trennen lässt. Traf der Schliff den Enstatit oder Bronzit stark geneigt zu seiner Hauptspaltungsfläche, so ist die Oberfläche nicht in gleicher Weise feinfaserig, sondern treppenförmig rauh. Querliegende Absonderungsflächen und Zerbrechungen sind nicht selten.“
+
+„An fremdartigen Einlagerungen sind beide verhältnismässig arm; ja sie fehlen z. B. im Enstatit aus dem Pseudophit des Aloysthals in Mähren und in manchen Enstatiten oder Bronziten der Lherzolithe und Olivinfelsen ganz. Ersterer ist nur von häufigen Adern des Pseudophit durchzogen, von welchen aus in senkrechter Richtung feinfaserige Zersetzungsprodukte in den Enstatit eindringen. Andere Vorkommnisse und selbst andere Individuen desselben Handstücks enthalten dagegen oft massenhafte Einschlüsse von grünen oder braunen Lamellen, Leistchen und Körnern (je nach der Lage der Schliffebene), welche ausnahmslos der vollkommensten Spaltungsrichtung parallel gelagert sind. Der Gedanke liegt nahe, dass die verschiedenen Angaben über die relative Vollkommenheit der pinakoidalen (∞P∞) Spaltung gegenüber der prismatischen vielleicht auf die mehr oder weniger massenhafte Anwesenseit dieser Interpositionen zurückzuführen seien, die zweifellos auch den metalloiden Schiller auf dem Brachypinakoid bedingen. Dann wäre aber die Leichtigkeit der Trennung in der genannten Richtung mehr eine Absonderung, als eine eigentliche Spaltbarkeit.“
+
+„Der Enstatit ohne und der Bronzit mit metallischem Schimmer auf der brachypinakoidalen Spaltungsfläche finden sich in Serpentinen von Aloysthal in Mähren (Enstatit) und Mont Brésouars in den Vogesen, in den Lherzolithen und Olivinfelsen, in manchen Olivingabbros, in Streng's Enstatitfels vom Radauthal bei Harzburg und in den Olivinbomben des Dreiser Weihers, sowie in manchen Meteoriten; also stets in Gesellschaft des Olivin und in veränderten Olivingesteinen.“
+
+Für diejenigen, welchen das Buch nicht zu Gebote steht, gebe ich 2 Abbildungen, die eine von Bronzit vom Kupferberg Tafel I. 1, die andere von Enstatit von Texas Tafel I. 2, welche mit den Rosenbusch'schen ziemlich übereinstimmen.
+
+Was den Olivin betrifft, so bedarf es keiner Abbildung, da die Formen dieses Gesteins durch Zirkel vollständig erschöpft sind. Es genügt zu sagen, dass reiner frischer Olivin keine Struktur zeigt. Struktur zeigt der Olivin blos, wenn man seine Einschlüsse oder Anwachsstellen des Crystalls oder Zersetzungserscheinungen (Serpentinbildung) Struktur nennen wollte. Aber sicher findet sich in keinem Crystall etwas, was meinen Formen auch nur ähnlich sieht. Was die Behauptung betrifft, die Kugeln seien Gläser, so wird nicht einmal unterschieden, welche chemische Zusammensetzung diese Gläser gegenüber Enstatit, Bronzit und Olivin haben sollen. Offenbar werden alle Formen zusammen geworfen und für Gläser erklärt, obgleich Enstatit nach Quenstedt (Mineralogie S. 318) unschmelzbar, nach Naumann-Zirkel S. 585 wenigstens schwer schmelzbar ist. Es wird sogar behauptet, dass diese Gläser erst im Fallen entstanden seien. Allein Feuereinwirkungen finden sich blos in der Rinde. Die Schmelzrinde der meisten Meteorite hat kaum 2 mm Durchmesser.
+
+Die Behauptung, es seien Gläser, wurde der Mittheilung meiner ersten Dünnschliffe entgegengehalten und dabei auf die Aehnlichkeit der meteoritischen Form mit solchen Gläsern in dem Gesteine unserer Erde hingewiesen. So wurde ich von [Ferdinand] Zirkel auf einen Sphaerulit-Liparit verwiesen, dessen Abbildung ich Taf. I. Fig. 3 gebe. Diese Form sollte darthun, dass meine Urania eine Täuschung sei. Ich halte die Form im Liparit für eine Crystallit-Bildung (wahrscheinlich Zeolith). Nun betrachte man die Strukturbilder daneben Tafel I, Figur 4, 5, 6!
+
+Unsere Forscher, mit Ausnahme Gümbels, sprechen von den Meteoriten als vulkanischen Bomben, erklären das Gestein als identisch mit dem Vulkangesteine der Erde, zählen also den Meteorstein ohne Bedenken zu den vulkanischen. Der Gegenbeweis ist der Gegenstand dieses Buchs.
+
+Richtig allein hat Quenstedt die Frage für eine offene erklärt und gesagt: es sei dem Microscop vorbehalten, das Räthsel der Zusammensetzung der Meteorite zu lösen! Handbuch der Mineralogie S. 722.
+
+## II. ABSCHNITT.
+
+### DIE ORGANISCHE NATUR DER CHONDRITE.
+
+#### I. CAPITEL.
+
+##### ORGANISCH ODER UNORGANISCH?
+
+Um den Beweis zu führen, dass ein pflanzlicher oder thierischer Organismus vorliege, halte ich für nothwendig darzuthun:
+1. eine geschlossene Form,
+2. eine wiederkehrende Form,
+3. wiederkehrend in Entwicklungsstufen,
+4. Struktur und zwar entweder Zellen oder Gefässe,
+5. Aehnlichkeit mit bekannten Formen.
+Sind diese Erfordernisse da, so bleibt nur noch zu entscheiden, ob Pflanze oder Thier? Nun fragt sich, erfüllen meine Formen diese Forderungen?
+
+	Ich glaube, ehe ich an den positiven Beweis gehe, den negativen Beweis führen zu sollen.
