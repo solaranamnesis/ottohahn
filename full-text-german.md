@@ -313,3 +313,52 @@ Um den Beweis zu führen, dass ein pflanzlicher oder thierischer Organismus vorl
 Sind diese Erfordernisse da, so bleibt nur noch zu entscheiden, ob Pflanze oder Thier? Nun fragt sich, erfüllen meine Formen diese Forderungen?
 
 Ich glaube, ehe ich an den positiven Beweis gehe, den negativen Beweis führen zu sollen.
+
+Der Beweis nämlich, den ich für das Dasein organischer Wesen antrete, ist ein doppelter: ein negativer, indem ich darthue, dass die meteoritischen Formen nicht dem Mineralreich angehören: ein positiver, indem ich die Uebereinstimmung derselben mit den Formen unserer Erde, sei es lebender oder ausgestorbener, begründe: das erste also, was zu beweisen, ist der Satz:
+
+Die Einschlüsse der Meteoriten sind keine Mineralbildungen.
+
+1\. Unsere Mineralogen erklären die Einschlüsse der Chondrite für Enstatit, Bronzit, Olivin.
+
+Olivin hat keinen sichtbaren Blätterbruch, Enstatit und Bronzit einen deutlichen. Ich bilde einen Bronzit von Kupferberg, Tafel I. 1. einen Enstatit von Texas, Tafel I. 2. (Dünnschliff bei 75 facher Vergrösserung) ab. Figur 2. zeigt einen der besten Blätterbrüche. Man vergleiche nun damit zuerst Tafel I. Figur 4, einen Theil eines Favositen des Meteorsteins von Knyahinya (etwa 250 mal vergrössert) und man wird wohl nicht mehr davon reden, dass der Blätterbruch die Ursache der Strukturerscheinungen der Chondrite sei. Nun betrachte man aber noch sämmtliche Tafeln und es wird diese Erklärung ein für allemal abgethan sein.
+
+2\. Wenn die Einschlüsse der Chondrite nach der bisherigen Deutung aus Enstatit oder Olivin bestehen, oder wenn es Gläser wären: wie wäre es, frage ich, möglich, dass dasselbe Mineral oder Glas im Ganzen in so verschiedenen Formen (Umrissen und Strukturen), und verschiedene Minerale in so scharf übereinstimmenden Formen auftreten? Man betrachte einmal einen Hypersthen, eine Hornblende, einen Augit! Abgesehen von einigen sichtbaren, leicht zu erklärenden Einschlüssen - (und um diese handelt es sich ja hier nicht) immer dasselbe Bild! Von höchstens 3 Mineralen hundert verschiedene Bilder!
+
+Das Mineral ist einfach, muss seinem Begriff nach einfach sein und daher stets das Bild einer homogenen Masse (Fläche) geben, höchstens mit einigen Einschlüssen. Wie sollte nun dasselbe Mineral in so verschiedenen Strukturen, dabei in so übereinstimmenden von den Crystallformen abweichenden Umrissen vorkommen?
+
+3\. Die Minerale sind entweder crystallisirt oder nicht crystallisirt. - In dem ersten Zustand haben sie bestimmte gesetzmässige also wiederkehrende Formen: sie rühren von Flächen, welche im Durchschnitt sich als gerade Linien projiciren. Diese Formen (Linien und Winkel) sind wiederkehrend, wechseln bloss der Grösse, nicht dem Verhältniss nach. Solche Formen finden sich unter den von mir als organisch angesprochenen Formen nicht. Hier ist keine Form mit einer Fläche oder mit einem Winkel; Alle sind Kugeln, Ellipsen mit Abweichungen von der mathematischen Form, Abweichungen, welche aber doch constante sind. Also ganz abgesehen von der übereinstimmenden Struktur, zeigt sich eine Constanz der Umrisse, aber andere Formen als die Crystallformen des Enstatits, des Olivins sie geben müssten.
+
+Allerdings kommen seltene, kleine Stellen mit wirklichen Crystallen vor, aber in einer Weise, welche durchaus auf den Beweiswerth dieser Thatsachen nicht einwirkt. Hierüber siehe unten und Tafel XXXII. Fig. 2.
+
+4\. Waren die Minerale ursprünglich crystallisirt, haben aber durch mechanische Gewalt ihre Crystall-Form verloren, so ist die einzige Form, welche hier sich wiederholen könnte, die Kugel oder eine dieser sich nähernde Form, etwa die Ellipse. Hier wäre eine Wiederholung möglich, ohne dass aus der Form ein Schluss gezogen werden könnte. In den Rollsteinen schneidet die Oberfläche den Körper in einer Weise, dass sofort die Einwirkung der mechanischen Gewalt hervortritt, - insbesondere werden Einschlüsse ganz willkürlich getroffen.
+
+In den Meteoreinschlüssen aber ist die Struktur im Stein stets, ich möchte sagen: symmetrisch, im Einklang mit den Umrissen.
+
+5\. Bei Verwitterung von Crystallen ändern sich die Schichten von aussen nach innen - concentrisch: - von Verwitterung aber ist keine Spur in den Einschlüssen der Chondrite zu sehen und die Strukturen sind stets excentrisch.
+
+6\. Was die Einschlüsse der Mineralien betrifft, so können diese je nach ihrer Beschaffenheit verschiedene Bilder geben. Es kommen ganz willkürliche Formen der Einlagerung vor, wie Glas-Flüssigkeits-Einschlüsse, Crystalliten.
+
+Wo aber ein Formengesetz in der Einlagerung auftritt, richtet sich dieses stets nach der Crystallform. Beides trifft bei den Meteoritformen nicht zu. Keine Spur von Einlagerung nach einer Crystallform!
+
+7\. Ein Blätterbruch wird nur sichtbar, wenn durch mechanische Gewalt Spalten und nun Lichtbrechungserscheinungen auf den Spaltungsflächen entstehen. Ohne diese ist er nicht wahrnehmbar. Spaltungsflächen sind nicht da, Lichtbrechungserscheinungen zeigen die Meteorit-Einschlüsse auch nicht, blos "Einstäubungen".
+
+Es finden sich in den terrestrischen Mineralien Interpositionen parallel mit dem Blätterbruch eingelagert: diese zeigen die Meteoriten nicht.
+
+Ich glaube, der Anblick meiner Formen wird eine weitere Auseinandersetzung über ihre Verschiedenheit von Mineral- und insbesondere von Crystallbildern nicht nothwendig machen.
+
+8\. Es ist aber soviel von Crystalliten, von Crystallconcretionen gesprochen worden.
+
+Für solche wurden die Enstatit-Bronzit-Olivin-Kugeln bisher gehalten. Gümbel wies dementgegen darauf hin, dass es keine Kugel gebe, wo der Mittelpunkt nicht excentrisch liege!
+
+Hier gerade tritt der wesentliche Unterschied zwischen den Meteorit-Formen und den Crystalliten recht deutlich hervor.
+
+Die Crystalliten legen sich stets um einen Punkt (concentrisch) an. Die Formen in den Meteoriten sind alle elliptisch und birnförmig: wenn die äussere Form aber auch kugelig ist, sind die angeblichen Einschlüsse excentrisch geordnet und zwar liegt der Mittelpunkt an der Peripherie, (sogar jenseits derselben, nämlich dann, wenn er weggeschliffen ist, was Gümb el übersah) - eine Erscheinung, welche nie im Mineralreich vorkommt. Es ist eben die Bedingung der Crystalliten- d. h. Kugelbildung, dass die Crystalle um Einen Crystall gleichmassig sich anlegen, wodurch dann nothwendig die concentrische Form entsteht.
+
+Wären also die Kugeln in den Meteoriten Crystalliten, so müssten sie, wenigstens nach dem Gesetz der Erde, concentrische Bildungen aufweisen.
+
+9\. Schliesslich muss ich einen Widerspruch aufzeigen, in welchen die Wissenschaft mit sich gerieth, wenn sie die Struktur der Chondriten aus der Mineral-Eigenschaft erklären wollte. Dies ist das optische Verhalten dieser Einschlüsse.
+
+Wären sie Crystalle und wäre der Blätterbruch (freilich Olivin hat keinen, und doch finden sich auch in den angeblichen Olivin-Kugeln Strukturen, also Blätterbruch!) die Ursache der Struktur, so müsste das Mineral nothwendig das Licht brechen. Bei den meissten der Einschlüsse zeigt sich aber keine Lichtbrechung, nicht einmal Aggregat-Polarisation! - So können sie also weder einfache Mineralien noch Crystalle sein, am allerwenigsten liesse sich die Struktur aus Blätterbrüchen erklären. Diese Thatsache, das optische Verhalten, sollte allein schon zur richtigen Deutung geführt haben.
+
+All diese Beweise sind freilich dem Botaniker und Zoologen fremd, während sie jeder Mineraloge kennt: daher muss ich diesen bitten dem Collegen Botaniker und Zoologen das eben Vorgetragene zu bestätigen, zu bestätigen was meine Lichtbilder zeigen: Diese Formen sind keine Mineralformen. Damit hat der Mineraloge seinen Antheil an der Arbeit gethan und nunmehr geht sie in die Hand des Paläontologen, oder richtiger des Zoologen über und es beginnt die positive Beweisführung.
+
