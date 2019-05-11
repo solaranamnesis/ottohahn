@@ -340,7 +340,7 @@ In den Meteoreinschlüssen aber ist die Struktur im Stein stets, ich möchte sag
 
 Wo aber ein Formengesetz in der Einlagerung auftritt, richtet sich dieses stets nach der Crystallform. Beides trifft bei den Meteoritformen nicht zu. Keine Spur von Einlagerung nach einer Crystallform!
 
-7\. Ein Blätterbruch wird nur sichtbar, wenn durch mechanische Gewalt Spalten und nun Lichtbrechungserscheinungen auf den Spaltungsflächen entstehen. Ohne diese ist er nicht wahrnehmbar. Spaltungsflächen sind nicht da, Lichtbrechungserscheinungen zeigen die Meteorit-Einschlüsse auch nicht, blos "Einstäubungen".
+7\. Ein Blätterbruch wird nur sichtbar, wenn durch mechanische Gewalt Spalten und nun Lichtbrechungserscheinungen auf den Spaltungsflächen entstehen. Ohne diese ist er nicht wahrnehmbar. Spaltungsflächen sind nicht da, Lichtbrechungserscheinungen zeigen die Meteorit-Einschlüsse auch nicht, blos „Einstäubungen“.
 
 Es finden sich in den terrestrischen Mineralien Interpositionen parallel mit dem Blätterbruch eingelagert: diese zeigen die Meteoriten nicht.
 
@@ -422,4 +422,131 @@ Tafel XI. Fig. 4. Diese Form kehrt ebenfalls mehrfach wieder. Eigenthümliche Co
 
 Bei höherer Vergrösserung zeigen Zwischenwände Taf. XI. Fig. 1, 2, 3, 6.
 Tafel XII. Fig. 1-3 zeigen deutliche Lammellarstruktur. Die Querfurche in Fig. 4 erinnert an Fungia. Wahrscheinlich gehören auch hierher Tafel XXX. Fig. 1, 2 und Tafel XX.
+
+Die Uebereinstimmung der Struktur in Tafel XX. mit Tafel XXX. Fig. 1 (in zwei verschiedenen Schliffen) würde allein hinreichen jeden Gedanken an eine unorganische Bildung auszuschliessen. Ueberdies kehrt die Form in 350 Schliffen etwa zwanzigmal wieder.
+
+Tafel XII. Fig. 5 habe ich nur einmal gefunden. Im Original sind deutliche Lamellen, welche im Bilde bloss am unteren Theil hervortreten. Fig. 6 ist ein milch weisses Object, daher undeutlich. Ich glaube Sternform zu erkennen und habe die Form desshalb als Sterncoralle hierher gestellt.
+
+Tafel XIII. Fig. 1-4 sind Corallen, welche ganz unzweifelhaft den Röhrencorallen angehören. Es sind im Original deutlich zu unterscheiden: Glasartige Zwischenmasse, schwarze Röhrenwand, gelbe Füllmasse der Röhren, zuweilen sind beide letztere schwarz. Diese Form kommt hundertfältig vor und zwar in allen Chondriten. Fig. 5 aus Lamellen zusammengesetzt zeigt deutliche Hohlräume und Fig. 6 Röhren mit Zwischenwänden. Die Formen gehören zu den grössten Formen: sie haben bis zu 3 mm. Durchmesser.
+
+Tafel XXV. 1 und 2. Die Form ist hier so ausgezeichnet erhalten, dass an dem Vorhandensein eines Organismus nicht gezweifelt werden kann, um so weniger, als sie in zwei Schliffen übereinstimmend vorkommt und auch sonst häufig wiederkehrt. Vergl. Tafel II. links unten, Taf. V. Fig. 6. Ich habe die Formen Tafel I. Fig. 6 und Tafel XXV. Fig. 1, 2 in der Folge zu den Crinoiden gestellt; die Canäle sind unzweifelhaft, die Querlinien lassen sich auch als Crinoiden-Glieder deuten. Man sieht Einschnitte, ferner sind die Arme geknickt, was sich bloss bei Crinoiden denken lässt.
+
+Geknickte Arme zeigt auch Tafel XXV. Fig. 4. Von dieser Form sind mehrere Exemplare da, welche genau dasselbe Bild geben.
+
+Während die Corallenformen etwa 1/20 des Volumens der Gesammtmasse des Chondrit-Gesteins einnehmen, bilden den Rest mit 16/20 - also den bei weitem grössten Theil der ganzen Masse:
+
+###### C. DIE CRINOIDEN.
+
+Sie finden sich von der einfachsten Form eines gegliederten Armes bis zum ausgebildeten Crinoiden mit Stiel, Krone, Haupt- und Hilfsarmen. Ihre Erhaltung ist grösstentheils sehr gut. Die Schwierigkeit liegt bloss in den tausenderlei Richtungen der Schnitte, welche immer verschiedene Bilder desselben Objects geben. Die birnförmigen Körper, welche man als Gläser ansah, sind Crinoiden-Kronen.
+
+Ich stelle 4 Crinoiden in aufrechter Stellung und in grossem Format in Tafel XVI-XIX dar und einen im Querschnitt Tafel XX.
+
+Tafel XXI. Fig. 1-5 zeigt senkrechte Durchschnitte eines schon höher entwickelten Crinoiden. Es sind Hauptarme mit Hilfsarmen und deutlichen Gelenkflächen.
+
+Tafel XXI. Fig. 3 zeigt Stiel und Krone. (2 und 4 doppelte Vergrösserung von 1 und 3.) Fig. 5, aus einem andern Dünnschliffe, ist da, um die Uebereinstimmung der Formen zu zeigen. In Fig. 6 glaube ich die Mundöffnung in dem Höcker zwischen den Armen erhalten zu sehen.
+
+Tafel XXII. Fig. 1, 3, 4, 5 und Tafel XXIII. Fig. 1, 2 zeigen die Zahl 5 der Arme, sowie die Hilfsarme.
+
+In Tafel XXIII. Fig. 2 und 3 sieht man die Knickung der Arme durch Druck von oben.
+
+Tafel XXII. Fig. 2 und 4 erinnern an Comatula.
+
+Eine besondere Art sind die Crinoiden, welche bloss aus einer beliebigen Anzahl von Armen bestehen. Zu diesen rechne ich Tafel XXIII. Fig. 4, 5, Tafel XXIV. 4, 5, 6, Tafel XXVI. (Es ist auf dem Bilde Tafel XXIV. Fig. 6 in kleinerem Maßstab die Coralle aus Cabarras, Tafel XIII. Fig. 6.)
+
+Tafel XXIX. Fig. 1, 2, 3, 4, 5, 6 und Tafel XXVII. Fig. 3 geben Bilder von Crinoiden von oben gesehen.
+
+Tafel XXVII. Fig. 2 und Tafel XXIX. Fig. 4 zeigen Crinoiden von unten: hier tritt der Stielansatz als heller Punkt hervor. Diese Querschnitte kehren in dutzend Fällen in übereinstimmender Form wieder. (Man vergleiche auch Tafel III. Fig. 2 links oben. Bessere Durchschnitte kann man wohl nicht fordern: die Muskelschichten sind hier deutlich sichtbar.)
+
+Eigenthümliche Verschlingungen zeigen Tafel XXVI. Fig. 1-4.
+
+Die deutlichsten Querschnitte geben Tafel XXV. Fig. 5 und 6. Ein Längsschnitt ist Tafel XXVII. Fig. 3 mit geknickten Armen.
+
+Tafel XXIV Fig. 1 und 2 sind Formen, welche ich anfangs für Corallen ansah.
+Tafel XXVIII. Fig. 1 könnte doch diesen letzteren zuzuzählen sein (die Struktur sollte deutlicher erhalten sein, um endgültig zu entscheiden).
+
+Etwas deutlicher ist Tafel XXVII. Fig. 1: eine scheinbare Aussenwand, welche aber nichts als der Durchschnitt des regelmässig gelagerten Hauptarms ist.
+
+Ein sehr schönes Bild giebt Tafel XXX. 3; ob Crinoid? ist zweifelhaft. Nur bemerke ich, dass die beiden Theile symmetrisch und die Arme nicht aneinander gelegt sind, sondern sich kreuzen.
+
+Tafel XXX. Fig. 5 mit einem Anschnitt hatte ich anfangs zu den Uranien gestellt. Sie wird den Crinoiden zuzuzählen sein.
+
+Tafel XXXI. Fig. 1-3 sind offenbar dieselben Formen. In Fig. 1 und 3 ist eine deutliche Furche wahrzunehmen, vielleicht die Stelle wo zwei Crinoiden-Arme sich aneinander legen. Im Polarisationsapparat tritt diese Furche noch deutlicher hervor. Fig. 4, zwei Individuen zusammengelegt, liesse die Deutung auf Schwamm oder Coralle offen. Fig. 5 mit Maschenstruktur in dem mittleren Theil, ein Gewebe von Gliedern, zeigt oben Arme mit deutlicher Struktur. Gehören diese Dinge zu sammen? Da die Form nur einmal vorkommt, wage ich keine Entscheidung. Auffallend ist nur die Aehnlichkeit des Mittelbildes mit der Struktur des Schreibersits im Meteoreisen. Fig. 6 findet sich zweimal, wesshalb ich beide Theile als zusammenhängend angesehen habe.
+
+Dieselbe Maschenstruktur zeigt Tafel XXX. Fig. 6 bei Lupenvergrösserung. Die Struktur beider stimmt, wie erwähnt, mit der Struktur des Schreibersits in dem Meteoreisen und kehrt mehrmals wieder.
+
+Wie ich schon im Eingang bemerkte, halte ich es nicht für meine Aufgabe Spezies zu machen. Meine Aufgabe war nur das Dasein von Organismen mit dem Nachweise geschlossener wiederkehrender Formen von organischer Struktur unzweifelhaft festzustellen. Diess glaube ich gethan zu haben und ich denke, es sollte Niemand auch nur den mindesten Zweifel mehr hegen, (insbesondere nach dem Anblick eines Dünnschliffes im Original), dass es sich hier nicht um Mineralformen handle. Sind aber nur 5 organische Formen unzweifelhaft nachgewiesen, so sind auch die übrigen weniger gut erhaltenen Formen organisch.
+
+Um endgültig Genera und gar Spezies festzustellen, gehört mehr Material und jahrelange Untersuchung dazu. (Für ersteres werde ich dankbar sein.) Vor Allem müsste ich mehr Zeit haben, als die Nachtstunden und mehr Kraft, als mir mein anstrengender Beruf übrig lässt, um die Arbeit zu vollenden. Doch meine ich den geforderten Punkt gegeben zu haben, auf welchem man stehen kann.
+
+Zum Schluss verweise ich auf die Tafelerklärung.
+
+Damit sind die Formen vorgeführt. Ich habe eine Zeitlang den Plan verfolgt, eine förmliche Statistik über das Vorkommen der Formen in meiner Dünnschliffsammlung zu machen, aufzuzählen, wie oft ein und dieselbe Form in den 500 Dünnschliffen sich findet. Ich stand davon ab, weil ich mir sagen musste, dass es doch keinen grossen Werth haben werde. Jede Vermehrung meiner Sammlung um nur 12 Nummern würde die Verhältnisszahl ändern. Ich zog daher vor, bei einzelnen Formen das Zahlenverhältniss annähernd anzugeben.
+
+#### III. CAPITEL.
+
+##### ALLES LEBEN.
+
+Es sind im Vorstehenden die einzelnen Formen zur Anschauung gebracht. Alle diese Formen sind nicht todt eingebettet, sondern die eine aus der anderen gewachsen und in Wahrheit lebend vom Leben begraben. Hier kann freilich nur die Anschauung Ueberzeugung geben. - Zu diesem Zweck betrachte man in sämmtlichen Bildern die einzelnen Formen mit ihrer Umgebung!
+
+Was auf den ersten Blick auch nur als ein heller Fleck erscheint, bei genauerer Untersuchung zeigt es den Durchschnitt eines Schwamms, einer Coralle, oder eines Crinoidengliedes. Nirgends sind, wie Gümbel ganz richtig beobachtet hat, zerstückte, zerbrochene, abgerollte Formen, Splitter - auch ist kein Bindemittel zwischen denselben. Nur die Weichtheile fehlen, alles Andere ist erhalten, wie es sich im Leben im Wasser bewegte. Die Crinoidenformen zeigen diess am deutlichsten. Denn auch diese sind höchstens auf die Seite gebogen, gewunden, selten geknickt; man sieht auch den nur schwachen mechanischen Wiederstand gegen den über dem Haupt entstandenen Nachbar. - Aber Alles aneinander, auseinander gewachsen, Nichts niedergelegt, Nichts todt eingebettet. Da ist auch keine Masse, welche ein Grab hätte bilden können.
+
+Die Thatsache, dass nichts Unorganisches in dem Chondrit-Gestein und kein Raum ohne Leben darin ist, halte ich für ebenso bedeutend, als das Dasein der Organismen selbst. Diese Thatsache erst wirft auf die Entstehung des Planeten das volle Licht. Nimmt man hinzu, dass das Gestein, welche diese Bildungen einschliesst, aus Mineralen besteht, welche dem sogenannten Urgebirge, ja „vulkanischem“ Gebirge angehören: so muss unsere Geologie nothwendig einen andern Weg in der Erklärung der Thatsachen einschlagen. Ich glaube nun freilich keineswegs, dass es Schwämme, Corallen, Crinoiden aus den Mineralen gegeben habe, welche heute die Formen bilden. Die Organismen müssen ursprünlich anders zusammengesetzt gewesen sein, müssen also eine Umwandlung erlitten haben.
+
+So viel ist, denke ich, über allen Zweifel erhaben, dass das, was jetzt Hornblende, Augit, Olivin ist und die genannten Formen ausfüllt, früher in einem andern Zustand gewesen sein muss, nämlich eine flüssige, und zwar wasserflüssige Lösung.
+
+Nun finden wir aber diese Minerale in unserem Urgebirge in Formen, welche nicht Krystalle, wohl aber den meteoritischen ähnlich sind. Wir finden Gebirgsmassen aus solchen Formen zusammengesetzt. Also waren es auch hier höchst wahrscheinlich organische Formen, nachher verwandelt in das, was wir jetzt Gestein nennen. Dieses Gestein weist aber auf eine Schichte, welche ganz unzweifelhaft mit der meteoritischen (den Chondriten) näher, ja nächst verwandt ist - den Olivin. Und unter diesem muss Eisen liegen: das bezeugt das specifische Gewicht der Erde. - Wieder eine gleiche Thatsache sehen wir in den gefallenen Eisen-Meteoriten: hier, wie im Ovifak-Gestein finden wir Uebergänge, Zusammensetzung von Eisen und Olivin.
+
+Damit sind uns die grössten Grundlinien der Geologie gegeben - wir haben die zeitliche Entwicklung des Erdkörpers. Die Formentwicklung - die Ursache der Entwicklung der Formen selbst ist damit zugleich aufgeschlossen. Ist der Organismus in den untersten Schichten, die wir kennen, die Ursache der Massenbildung, so wird er auch die Ursache des Anfangs des Planeten selbst gewesen sein.
+
+Die Annahme einer blossen Massenanziehung, der mechanische Anfang der Erde und der Weltkörper überhaupt, wäre damit widerlegt.
+
+Allerdings müssten auch noch Organismen im Eisen, im Erdkern, in dem Meteoreisen nachgewiesen werden. Diese Aufgabe habe ich mir als nächste gestellt; die bisherigen Resultate lassen ihre Lösung hoffen.
+
+#### IV. CAPITEL.
+
+##### STEIN IM STEIN.
+
+Wenn ich gesagt habe: die Chondrite sind nichts als ein Thiergewebe, ein Thierfilz, so leidet diess eine Einschränkung.
+
+Es kommen allerdings in diesem Thierknochengesteine ganz kleine, scharf umschriebene Stellen vor, welche von Anfang an wahrscheinlich (aber nicht nothwendig) Gestein sind. Das sind blaugraue, seltene Einschlüsse von 3-5 mm. Durchmesser ohne bestimmt wiederkehrende Form, welche in der grauen Masse deutliche Krystalle eines gelbgrünlichen Minerals, dessen Durchschnitte das einemal Quadrate oder Rhomben, das anderemal Sechsecke sind, einschliessen. Dieses Mineral kann Augit oder Olivin sein. Hier spricht die Krystallform für ein Mineral. Allein das Vorhandensein solcher Theile spricht auch für meine Ansicht. Warum hätten sich die Krystalle nicht überall gleich gebildet? Und warum sollten nicht auch Hohlräume neben Organismen übrig bleiben? Sodann ist bekannt, dass auch blosse Füllmassen in organischen Formen nachträglich krystallisiren. Endlich finden sich aber auch in organischen Formen Ausfüllungen von Höhlen, welche sich in ihren Umrissen dem Aussehen von Flächen und Winkeln nähern.
+
+Der Grund, warum ich diese Einschlüsse aber doch als unorganische Theile der Chondrite zugebe, als eigentlichen Meteorstein (Stein im Stein), ist, weil die Umrisse einen Anhaltspunkt nicht geben, um die Form als organische anzusprechen. Diese Einschlüsse können Einlagerungen einer schon gebildeten Gesteinsmasse sein oder könnten sie sich in den Hohlräumen erst gebildet haben.
+
+Dass eine Schlammablagerung möglich, dass ein Hineinfallen von Theilen eines schon abgelagerten, also fertig gebildeten Gesteins möglich, sogar wahrschein lich sei, braucht nicht geleugnet zu werden: es stösst die Thatsache nicht um, dass in den Olivinschichten organische Bildungen vorhanden und dass diese den Aufbau des Planetenkörpers bewirkt, den Bauselbst gebildet und zusammengesetzt haben.
+
+Unter allen Umständen aber ist im Chondrit-Gestein das Verhältniss das umgekehrte wie bei den Sedimentschichten unserer Erde. In diesen sind die Organismen eingelagert, das Gestein umschliesst sie; jenes ist eben nichts als Organismen und das Gestein ist eine Masse solcher. Ich füge ein Bild eines wirklichen Gesteintheils aus Borkut bei. Tafel XXXII. Fig. 2. Daneben (Fig. 1) habe ich eine Form abgebildet, graublau wie Urania, aber ohne bestimmte Struktur, auch in ihren Umrissen unbeständig, wesshalb sie eine blosse Füllmasse sein könnte. Wäre sie eine organische Form, so wäre sie die eines niedersten Wesens. Zur Vergleichung bilde ich in Tafel XXXII. Figur 4 einen Dünnschliff von Lias yS (Zwischenkalk) ab. Hier liegen die Schalen zum Theil ganz im Kalke, grösstentheils aber sind es bloss Stücke von Schalen; die Theile sind in alle Grössen zerschlagen, und, was ihre Herkunft betrifft, gerollt bis zur Unkenntlichkeit. Im Chondrite bleibt fast keine Stelle, welche Zweifel über ihre Zusammensetzung übrig liesse.
+
+#### V. CAPITEL.
+
+##### FORTPFLANZUNG.
+
+In den Steinen findet sich eine Unzahl runder und birnförmiger Formen von 0,10 mm. - 0,50 mm. Durchmesser, mit kaum angedeuteter Struktur. Ich halte diese für die ersten Entwicklungsformen. Unter diesen hebt sich am meisten hervor eine Kugelform aus durchsichtigem Gestein, in der Mitte die Anfänge von Canälen. Da finden sich Kugeln mit einem Canale, mit zwei weiteren unterhalb und oberhalb des grösseren, und so fort bis zu den Formen Tafel XIII. Fig. 1-4. Die Sache ist hier, glaube ich, sicher. Diese Form lässt sich nicht nur in allen Chondriten nachweisen; in allen finden sich auch alle Entwicklungsstufen von einem bis zu 20 und mehr Canälen: sie ist die häufigste und zugleich, wegen der deutlichen Struktur der Canäle, sicherste. Sie hat sich desshalb auch in denjenigen Chondriten erhalten, welche die übrigen Formen kaum mehr zeigen. Die Entwicklung besteht also darin, dass sich die Canäle vermehren.
+
+Nun finden sich aber eine Menge von Kugel- und Birnformen mit schwach angedeuteter Struktur. Sie scheinen aus Sarcode bestanden zu haben, als sie einst begraben wurden. Ich würde es nicht wagen, diese Formen hereinzuziehen, wenn sie nicht doch eine bestimmte Gliederung zeigten. Sie bestehen aus zwei, drei, vier, fünf lappenförmigen Armen und sind wahrscheinlich die Anfänge von Crinoiden.
+
+Dass die Feststellung von Entwicklungsformen am schwierigsten ist, ist bekannt. Ich erlaube mir daher hier auch nicht zu weit vorzugreifen. Was ich hier sage, kann nur ein Fingerzeig für künftige Forschung sein.
+
+Die gute Erhaltung ist eine Unmöglichkeit. Die meteoritischen Formen werden daher auch zum mindesten das Schicksal der lebenden theilen: es ist immer die letzte Arbeit, die ersten Anfänge der Entwicklung, die Embryonen festzustellen.
+
+Nur einer Thatsache will ich hier noch erwähnen, welche zugleich ein erhebliches Beweismoment für die organische Natur der Formen ist: die immer auftretende Vergesellschaftung der einzelnen Formen. Die meisten Formen finden sich mit gleichen zusammen: wenige stehen einzeln und zugleich als Unica da. Ich halte dies für sehr wichtig. Wenn mehrere Individuen der gleichen Species sich zusammenfinden, so geht daraus hervor, dass sie im Mutter- oder Geschwisterverhältnisse stehen. Dieselbe Erscheinung tritt auch bei den terrestrischen Arten auf. Dies wird um so bedeutender, als oft das Mineral, aus welchem eine Form besteht, unzweifelhaft das gleiche ist mit dem eine andere Species ausfüllenden Mineral, also ein mineralogischer Grund nicht da ist, aus welchem die Verschiedenheit der Struktur abgeleitet werden könnte.
+
+#### VI. CAPITEL.
+
+##### ENTWICKELUNG.
+
+Nachdem ich die einzelnen Formen dargestellt habe, habe ich auch ihr Verhältniss zu einander, die Entwickelung der Formen aus einander, zu besprechen.
+
+Dass Urania die einfachste Form ist, ist sicher. Diese Form bildet aber auch den Anfang zu den folgenden.
+
+Der halbrunde Lappen theilt sich in Schichten, diese Schichten in Röhren, die Röhren theilen sich quer - jetzt bilden sich Arme, welche ein Canal verbindet. Es entwickelt sich eine Krone zwischen Armen und Anwachsstelle und der einfachste Crinoid ist da. - Mag diese Kette allzukühn geschlungen erscheinen, die Formen fordern unwillkürlich dazu auf. - Aber muss denn, wenn wir nur irgendwo in unseren lebenden Formen eine Entwickelungsreihe feststellen wollen, nicht auch hier dieselbe Wandlung vor sich gegangen sein? - Sicher. Nur, glaube ich, finden sich in den meteoritischen Formen mehr und viel sichtbarere Uebergänge. Man kann den Stammvater des Pentacrinus Briareus auf unserer Erde nirgends anders suchen, als in den Corallen und gewiss darf man den Anfang der Corallen selbst in der Schwammform erblicken: sie ist entschieden eine niederere Form als die der Corallen.
+
+Was der Meteorschöpfung die grösste Wichtigkeit für die Entwickelungslehre gibt, ist nicht nur das Vorkommen von Thierformen in den tiefsten Schichten, sondern der einheitliche Typus aller meteoritischen Organismen. Dieses wird klar, wenn man hunderte von Dünn-Schliffen nach einander betrachtet. Die Grösse der Organismen ist eine gleichartige, verhältnissmässig mindestens 1000 mal kleinere als die der Erde: die Entwickelung der einzelnen Formen erreicht annähernd einen gleichen Höhepunkt. Der Aufbau der Formen entspricht vollkommen den Umständen, unter welchen sie entstanden, nämlich der überaus kurzen Lebenszeit, welche sie gehabt haben können: es ist eine hastige, relativ unvollkommene Schöpfung. Der Crinoid ist der höchste Repräsentant dieser Thierwelt. Ich halte für den höchstentwickelten die Form Tafel XXII. Fig. 1, 3, 5, 6, weil er schon die Fünfzahl enthält.
+
+Will man aber nicht so weit gehen, die Crinoiden nicht durch die Corallen hindurch ableiten, so bietet die Form der Urania selbst Anhaltspunkte. Ich habe noch einige Formen abgebildet, welche lose Glieder zeigen. Sie sind in der Beschreibung bezeichnet. Insbesondere fand ich bei höherer Vergrösserung übereinanderliegende Arme.
+
+Auch hier reicht die Beobachtung im Einzelnen noch nicht hin, um abschliessen zu können.
+
+## III. ABSCHNITT.
+
+### DAS METEOREISEN.
 
