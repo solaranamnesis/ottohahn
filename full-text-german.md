@@ -362,3 +362,64 @@ Wären sie Crystalle und wäre der Blätterbruch (freilich Olivin hat keinen, un
 
 All diese Beweise sind freilich dem Botaniker und Zoologen fremd, während sie jeder Mineraloge kennt: daher muss ich diesen bitten dem Collegen Botaniker und Zoologen das eben Vorgetragene zu bestätigen, zu bestätigen was meine Lichtbilder zeigen: Diese Formen sind keine Mineralformen. Damit hat der Mineraloge seinen Antheil an der Arbeit gethan und nunmehr geht sie in die Hand des Paläontologen, oder richtiger des Zoologen über und es beginnt die positive Beweisführung.
 
+#### II. CAPITEL.
+
+##### DIE EINZELNEN FORMEN.
+
+###### A. SCHWÄMME.
+
+###### 1. URANIA.
+
+Rundlappige Körper mit deutlicher Anwachsstelle. Tafel II. giebt ein grösseres Normalbild einer Urania (vergleiche Tafel V. Fig. 1, dasselbe Bild). Man sieht hier: die Gesammtform scharf, den äussersten Lappenrand angeschitten (weiss links), die Falten, welche beim Zusammenziehen entstehen, die Anwachsstelle. Noch deutlicher ist letztere mit Kelch, Tafel IV. Fig. 3.
+
+Urania spiralförmig zusammengelegt Tafel III. Fig. 5, 6.
+
+In der Windung begriffen Tafel IV. Fig. 1: die Struktur besteht in einer Aussenhaut über lamellaren Schichten Tafel III. Fig. 4. Tafel IV. Fig. 6 (letzere mit der Lupe zu betrachten). Mittlerer Durchmesser der Urania 1 mm, Farbe smalteblau.
+
+Diese Struktur wurde für den Blätterbruch des Bronzits gehalten! Ob Tafel IV. Fig. 4 zu den Uranien gehört, ist zweifelhaft. Aeussere Form und Farbe sprechen dafür. Die Anschnitte an beiden Seiten zeigen deutliche Struktur.
+
+Tafel V. Fig. 5 zeigt vollständig gewundene Lappen. Entweder ist es ein Körper spiralförmig aufgewunden oder sind es mehrere Lappen, von welchen der äussere die inneren mantelartig umgiebt.
+
+Tafel IV. Fig. 6 ist ein Querschnitt, welcher allerdings wenig zeigt. Im Objekt selbst sieht man den Durchschnitt der Aussenhaut weiss.
+
+Tafel V. Fig. 2 zeigt so deutliche Schichtung, dass wenn die äussere Form nicht wäre, man versucht sein könnte, die Form zu den Corallen zu stellen.
+
+Tafel IV. Fig. 5 zeigt Querschnitte durch beide Flügel der Lappen.
+
+Tafel VI. Fig. 3 Lamellen-Struktur. Fig. 5 und 6 können auch die einfachsten Crinoiden sein, deren Arme sich an einander angelegt haben. Hinsichtlich des Uebergangs der Formen in andere muss ich auf das betreffende Capitel verweisen.
+
+Am räthselhaftesten ist Tafel VI. Fig. 1 und 2. Bei Fig. 1 ist die matte Stelle im Präparat gelb, die gestreifte blau. Ich habe sie neben Fig. 2 gestellt, diese zeigt deutlich zwei Lappen, welche wie zwei Muschelschaalen an einer Stelle verbunden sind und beim ersten Anblick auch vollkommen den Eindruck eines Zweischalers machen. (Es ist nicht ein blosser Anschnitt.) Denkt man an Muscheln, so könnte die matte Stelle von Fig. 1 der Steinkern sein. Allein die Struktur ist eben Uranienartig.
+
+Tafel V. Fig. 3. 2 Individuen zeigen die Struktur überaus deutlich, ebenso die Anwachsstellen. In Fig. 4 (welche ein schlechtes Bild giebt) legen sich mehrere Individuen fächerartig aneinander.
+
+Bei Tafel III. Fig. 3, IV. 1, 2 glaubt man oben eine runde Mundöffnung angedeutet zu sehen.
+
+Hiernach halte ich die Urania für einen festgewachsenen Schwamm, welcher sich spiralförmig zusammenzieht, hiebei Wasser einsaugt und austreibt, wie unsere lebenden Schwämme.
+
+Urania nimmt etwa 3/20 der Gesteins-Masse ein.
+
+###### 2. NADEL-SCHWÄMME.
+
+Tafel VII. Die Formen Fig. 1, 2, 3, 5, 6 zeigen ein Nadelgerüste. Fig. 1 stelle ich zu Astrospongia. Die Nadeln liegen regelmässig gekreuzt. Fig. 6 ist ein unregelmässiges Nadelgerüste mit einem Hohlraum, welchen das Bild allerdings sehr schwach andeutet. Diese beiden Formen scheinen mir unzweifelhaft zu sein.
+
+Annähernd sicher sind Fig. 2 und 5 (in Fig. 2 ist der weisse Strich ein Gesteinsriss).
+
+Die Form Figur 4 habe ich bei der Zusammenstellung der Tafeln für einen Schwamm gehalten. Nachdem eine Aenderung der Anordnung nicht mehr möglich war, erkannte ich in dieser Form den schiefen Durchschnitt eines Crinoiden und was ich Anfangs für Nadeln hielt - als feine Crinoidenarme. Ich bemerke, dass die Bestimmung sehr schwierig ist wegen der ausserordentlich einfachen meteoritischen Crinoidenformen, wesshalb eine Entscheidung weiterer Untersuchung aufgespart bleiben muss. Es lässt sich der Hohlraum der Schwammnadeln mit dem Nahrungskanal der Crinoidenarme verwechseln, wenn letztere gerade gestreckt liegen und die Glieder nicht mehr deutlich erhalten sind. Diese Thatsache, so wenig angenehm sie für den Untersucher der einzelnen Formen ist, ist um so lohnender für denjenigen, welcher dem Zusammenhang der Formen nachgeht - für den Nachweis der Entwickelung einer Form aus der andern. Es reicht immer eine an die andere hin. In günstigere Lage versetzen uns
+
+###### B. DIE CORALLEN.
+
+Hier haben wir so wohl erhaltene terrestrische Formen, dass ein Zweifel nicht übrig bleibt.
+
+Tafel VIII. zeigt ein Musterbild, Tafel IX. dessen Canalstruktur: deutliche Knospen-Canäle, welche die Röhren (denn solche sind es) verbinden. Dazu kommt die mit einem Blätterbruch absolut nicht zu verwechselnde Curvenrichtung der Canäle, dazu kommen die ganz deutlichen Röhrenöffnungen und endlich die ebenso deutliche Anwachsstelle. (Tafel I. Fig. 4 zeigt ein noch schärferes Bild desselben Objects.) Leider geben Färbungen des Präparats dem Struktur-Bild Tafel IX. widerwärtigen Schatten. Die Knospen-Canäle stehen 0,003 mm von einander ab. Gewiss alles, was man von einer Struktur eines Favositen verlangen kann.
+
+Tafel X. Fig. 3, 4 zeigen uns das Bild des Favosites multiformis aus dem Silur so, dass man hier auch nicht einmal Spezies zu trennen vermöchte.
+
+Auf Tafel XI. in Fig. 1, 2, 3 (wo 2 auch die Anwachsstellen zeigt) wird jeder Forscher das Bild lebender Corallenformen leicht erkennen, umsomehr als in Fig. 1 oben noch die Becherform (Hohlraum) angedeutet ist. Dasselbe Object zeigt ferner in den Röhren Querscheidewände, die klar hervortreten. Leider ist ein Theil des Bildes in Folge der gelben Färbung des Präparats in der Photographie durch Schwarz verdeckt.
+
+Tafel X. Fig. 1 und 2 zeigen weniger gut erhaltene Quer- und Längsschnitte, doch hebt die ganz gleiche Wiederholung beider in mehreren Schliffen den Zweifel daran, dass es organische Formen sind, und sind es solche, so können es bloss Corallen sein. Fig. 3 scheint eine Becher-Coralle zu sein, Fig. 4 ist an dieselbe angewachsen. Dass Fig. 6 Corallenstruktur hat, bedarf wohl keines Nachweises. Diese Form kehrt mehrfach wieder.
+
+Tafel XI. Fig. 4. Diese Form kehrt ebenfalls mehrfach wieder. Eigenthümliche Corallenformen zeigen Fig. 5 und 6. - Fig. 5 ist gebildet aus Röhrenringen und höchstwahrscheinlich auch Fig. 6. Ich bemerke, dass diese Form hundertmal wiederkehrt.
+
+Bei höherer Vergrösserung zeigen Zwischenwände Taf. XI. Fig. 1, 2, 3, 6.
+Tafel XII. Fig. 1-3 zeigen deutliche Lammellarstruktur. Die Querfurche in Fig. 4 erinnert an Fungia. Wahrscheinlich gehören auch hierher Tafel XXX. Fig. 1, 2 und Tafel XX.
+
