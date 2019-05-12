@@ -696,3 +696,93 @@ Nun aber wären die Tage der Erde doch gezählt gewesen, wenn nicht eben durch d
 
 ##### DIE ZUKUNFT UNSERES PLANETEN.
 
+Der Fall von Planeten-Trümmern auf unsere Erde, (für diesen Ursprung der Meteorite sprechen die meisten Gründe) liesse ein mechanisches Enden, einen gewaltsamen Tod auch für unsere Erde fürchten. Geschah es jenem oder jenen Planeten, von welchen die Meteorite herrühren, dass sie zertrümmert wurden, und zwar wurden sie es wohl nicht durch eine Kraft von innen, sondern durch Anstoss von aussen: so müssten wir darauf gefasst sein, dass auch unserer Erde einmal dieses Schicksal widerfahren werde, wenigstens drohte es uns. Ich muss es den Astronomen überlassen, sich und ihre Zeitgenossen darüber zu trösten.
+
+Aber auch auf das andere, oben schon angedeutete Aufhören des Lebens auf der Oberfläche müssten wir gefasst sein, allerdings ein weniger blutiges, aber darum nicht tröstlicheres Ende, nämlich auf das Schicksal des allmählichen Absterbens, des Erlöschens der Lebenskraft durch die Verbindung der Baustoffe zu unlöslichen Verbindungen: wür müssten fürchten, es werde unsere Atmosphäre in der Bildung unlöslicher Verbindungen aus den noch übrigen Baustoffen fortfahren und es werde mit dem Verlust an verfügbarem Baustoff der Kreislauf ein stets schwächerer und langsamerer werden und endlich - aufhören.
+
+Vor diesem sonst fast vorausberechenbaren Verlaufe bewahrt uns einzig und allein - das Wasser; das Wasser, welches unsere Erde in ihrer Bildung sich anzueignen und festzuhalten vermochte.
+
+Dadurch, dass die geschaffenen Wesen selbst die Verbindungen wieder lösen, welche sich in ihren Körpern bilden - dass also insbesondere die Pflanze das was sie aufsaugt, selbst wieder zerlegt, während das Thier diese Ausscheidungen in sich aufnimmt, um sie dann alsbald wieder auszuscheiden und der Pflanze (nicht dem Boden) zurückzugeben: durch all diess ist ein Kreislauf geschaffen, dessen Ende nicht abzusehen ist.
+
+Dieser Vorgang und nicht die Abkühlung der Erdrinde, von welcher so viel geredet worden ist, bildet die wahre Geschichte unserer Erdoberfläche. Allerdings scheinen wir an unserem Trabanten, dem Mond, ein schreckendes Beispiel zu haben: Dort, glaube ich, ist das Leben erloschen. Nicht Meere sind dort, wie man glaubte und nicht Vulkane waren es, sondern der Mangel oder der Verlust des Wassers wird es gewesen sein, was diesem Planeten einen vorzeitigen Tod bereitete, was das Leben bald nach der Geburt wieder verlöschen liess.*
+
+Die Wärme auf unserer Erdoberfläche scheint mir mehr von der Erhaltung der die Kälte des Weltraums abwehrenden Atmosphäre abzuhängen. Die grössere Höhe der Erdatmosphäre am Aequator in Folge der Drehung der Erde und nicht der Auffallswinkel der Sonnenstrahlen allein ist die Ursache der dort höheren und constanten Wärme: sonst wäre unter dem Aequator 500m über dem Meere nicht schon eine Abkühlung von mehreren Graden Durchschnittswärme; sonst müsste die Schneemasse des Chimborasso sofort schmelzen.
+
+Mag nun auch die Wärme in Folge der vom Wasser vermittelten chemischen Prozesse mit der Zeit abnehmen, soviel ist gewiss, dass unsere Erdoberfläche ohne den schützenden Mantel der Atmosphäre, trotzdem sie tagtäglich neue Sonnenwärme aufnimmt, doch schon bei Nacht einer so niederen Temperatur verfiele, dass sie das Leben nicht erhalten könnte, wie dies neuerer Zeit als Ursache des Erlöschens alles Lebens auf dem Monde behauptet wird.
+
+Die Wärme strömt uns von der Sonne zu und wird durch die Atmosphäre zurückgehalten, so dass sie nicht sofort, wie sie da ist, wieder in den Weltraum ausströmen kann. So sind wir von einem doppelten, schützenden Mantel umgeben: der Erdrinde, welche die Wärme aufsaugt, und der Luft, welche sie zurückhält, (sie ist das Kleid der Erde), und zwischen beiden leben wir, lebt die ganze Schöpfung im steten Austausch der Stoffe. Hier lebt der Mensch, hier entstehen dieselben Wesen, welche einst den ersten Grundstein zum grossen Bau der Erde gelegt haben. Und gerade diese niederen Wesen bezeugen heute noch durch ihre riesenhafte Vermehrung, durch ihre Erhaltung in einer Temperatur, in welcher höhere Wesen sofort sterben, dass sie fähig waren die ersten Bildner der Erde selbst zu sein.
+
+Also nur, wenn die Quelle des Lichts und der Wärme selbst versiegte, müsste das Leben auf der Erde erstarren; vom Erlöschen des fraglich feurigen Erdkerns haben wir nichts zu fürchten. Für die Erhaltung des Lebens sorgt der Stoffwechsel unter dem Einfluss der licht- und wärmestrahlenden Sonne. Licht und Wärme sind also Vater und Mutter alles Lebendigen; sie verhindern, dass das Organische vor der Zeit zum Unorganischen werde, indem sie letzteres stets wieder zu neuen Verbindungen führen. Möchte aber auch noch so viel Licht und Wärme der Erde zuströmen, ohne die fortwährende Thätigkeit, ohne die Umbildung durch die organische Zelle wäre doch das Leben unseres Planeten nach Jahren zu zählen.
+
+Der Anfang des Planeten war die Zelle, sie erhält ihn, so lange noch ein Lichtstrahl die Erde trifft.
+
+Möglich ist es dass mit der Zeit doch Aenderungen in der chemischen Zusammensetzung der Erdoberfläche und der Atmosphäre durch Niederschläge und feste Verbindungen eintreten, wodurch Baustoffe aus dem Kreislauf ausgeschieden werden. Sicher aber werden unter solchen veränderten Lebensbedingungen auch andere, ähnliche und (nach der bisherigen Erfahrung) höher organisirte Wesen entstehen. Ja es lässt sich denken, dass hier auf der Erde eine Verfeinerung der Organismen eintreten werde in demselben Verhältniss, wie sie nach der Olivin-Granitzeit eingetreten ist, dass Geschöpfe entstehen, welchen zu ihrer Erhaltung in höherem Masse Wasser und Gase genügen, was ja bei vielen Pflanzen jetzt schon nahezu der Fall ist.
+
+*Nicht die Abnahme der Erdwärme oder der von der Sonne ausgestrahlten Wärme wäre das nächst drohende Schreckgespenst, sondern das Verschwinden unserer Atmosphäre.
+
+## ERKLÄRUNG DER TAFELN.
+
+### VORBEMERKUNG.
+
+Die Steine, von welchen ich meine Dünnschliffe nahm, sind durchaus beglaubigte.
+
+Die Dünnschliffe selbst sind von mir unter der unermüdlichen Beihilfe meiner Schwägerin, Fräulein Pauline Schloz, hergestellt. So beläuft sich meine Sammlung auf 560 Nummern (worunter 360 Knyahinya), wohl die grösste Sammlung, welche es überhaupt giebt.
+
+Bezüglich der Herstellung der Dünnschliffe muss ich eines Umstands erwähnen, welcher auf die Darstellung von Einfluss war.
+
+Jeder, welcher Versteinerungen geschliffen hat, weiss, dass nur ganz wenige einen dünnen Schliff gestatten. Nicht allein wegen des häufig opaken oder gar undurchsichtigen Materials (Kalk, Thon), sondern desshalb, weil die Struktur mit einem Male verschwindet, wenn sie bis zur (vermutheten) Durchsichtigkeit geschliffen werden.
+
+Es hängt das mit der Art und Weise der jedem Versteinerungsprozess zu Grunde liegenden Umbildung zusammen.
+
+So ist man vor die Wahl gestellt, entweder einen ziemlich dunklen Schliff vor sich zu haben, worin man wenig sieht, oder - von dem Wunsch nach schärferen Umrissen getrieben, wobei man stets vergeblich nach höheren Objectiven greift - einen Schliff zu bekommen, welcher nichts mehr zeigt.
+
+Diese beiden Klippen konnten bei dem Meteoriten-Material (welches, beiläufig gesagt, wegen des Eisens dem Schliff ziemliche Schwierigkeiten entgegensetzt) nur dadurch vermieden werden, dass abwechselungsweise dünnere und dickere Schliffe gefertigt wurden.
+
+Was die Auswahl der Formen betrifft, so werden künftige Forscher mich wohl entschuldigen, wenn ich diese und jene Form übersah. Meine Absicht freilich war, sämmtliche Formen, welche in meinem Material enthalten sind, abzubilden. Die Abbildungen sollten nicht nur Bilder, sondern auch ein Gesammtbild geben: gerade darauf lege ich ja in der Schlussfrage über die Natur des Gesteins das grösste Gewicht.
+
+Was die Anordnung der Tafeln betrifft, so hängt diese mit der Anordnung des Stoffs zusammen. Da ich mir aber doch bewusst war, das ganze Material bei weitem noch nicht erschöpft zu haben: so gab ich mir auch nicht die Mühe, die einzelnen Formen zu bestimmen, oder Ansichten über den genetischen Zusammenhang derselben auszusprechen, zu begründen und hienach die Anordnung zu treffen: es genügte wohl eine vorläufige Orientirung in dieser Richtung. Heute handelt es sich doch vorerst nur um den Beweis, dass das Gestein organisch und nicht darum, was alles darin ist.
+
+Namen zu geben, vermied ich nicht aus Furcht damit der Kritik in die Hände zu fallen, sondern weil ich zur Einsicht kam, dass durch Namengebung vorerst nichts oder nicht viel gewonnen ist.
+
+Lange stand ich vor der Wahl, ob ich wirklich den Weg der photographischen Darstellung einschlagen solle. Ich kam aber mehr aus äusseren Rücksichten zu dem betreffenden Entschlüsse.
+
+Es ist bei der Kritik meiner „Urzelle“ viel von Phantasie die Rede gewesen. Dass die Abbildungen nicht auf der Höhe der Zeit stehen - wusste ich: dass sie aber doch richtig sind, das mag z. B. die photographische Abbildung der Objecte meiner „Urzelle“ Taf. XXXII. Fig. 5 verglichen mit Tafel IV. und V. der „Urzelle“ ergeben.
+
+Ich möchte hiebei noch Herrn Dr. Kuntze in Leipzig fragen, ob er solche künstliche Algen etwa beizubringen weiss - zutreffendenfalls wäre ich sehr dankbar für Ueberlassung eines solchen Präparats um mich von einem Irrthum zu überzeugen.* Meines Wissens sind die Dendriten und „künstlichen Algen“, welche mir so ohne alle Prüfung und Kenntniss entgegengehalten wurden, bloss Streifen ohne Gliederung und Absonderung. Ihrer Entstehung entsprechend ist es eine meist gleichmässig vertheilte, zusammenhängende Farbstoffmasse, welche zwischen zwei Stein-Platten liegt, also in einer vollkommenen Fläche, und so Pflanzenschatten gleicht.
+
+Ich gebe zu, dass „künstliche Algen“ nach den Begriffen gewisser Forscher von Algen gemacht werden können. Aber ich muss auch darauf hinweisen, dass alle Gebilde, welche fadenoder bandartig sind, ohne viel Besinnens bisher für Algen erklärt wurden. Um zu wissen, dass man eine Alge vor sich habe, gehört noch etwas mehr dazu. So sind Dinge für Pflanzen erklärt worden, welche sicher nicht halb so viel Form und Struktur zeigen, als meine Bilder in der „Urzelle“. Nicht alle Faden- oder Bündelformen in Gesteinen oder anderen Massen würde ich, auf dieses Merkmal allein hin, für Algen erklären.
+
+Meine Abbildungen in der „Urzelle“ zeigen deutliche Zellenwände und Zellen; wären diese Dinge künstliche Algen oder Dendriten, so könnten sie keine Querwände haben.
+
+Hiermit kehre ich zu meinem Gegenstand zurück.
+
+Die Photographie hat grosse Nachtheile für die wissenschaftliche Darstellung, das weiss jeder Forscher. Bei dem vorliegenden Gegenstand aber musste ich diesen Weg gehen, einfach weil mir sonst wieder von „Phantasie“ hätte gesprochen werden können. Die Sonne und das Collodium zusammen täuschen nicht und müssen jeden derartigen Vorwurf von vornherein von mir abwenden. - Wohl aber enthält das photographische Bild weniger als der Gegenstand. Das wurde besonders bei meinen besten Objecten fühlbar. Es konnte ferner besonders bei höheren Vergrösserungen nur ein Theil des Schliffs zur Darstellung gebracht werden, aber auch dieser nicht scharf, weil das darüber- und darunterliegende Gestein das eingestellte Bild verwischte. Zu hohe Vergrösserungen (das bemerke ich etwaigen Mitarbeitern an der Sache) taugen desshalb durchaus nicht für Gesteinsdünnschliffe. Ein weiterer hindernder Umstand ist, dass die Gesteine aus stark lichtbrechenden und das Licht verschieden brechenden Mineralien bestehen; dadurch entstehen Lichtreflexe der unangenehmsten Art, welche ein Ungeübter leicht für Formen ansehen kann. Um dies zu vermeiden, habe ich mich stets der schwächsten Vergrösserungen bedient und habe unvollkommene Strukturbilder zurückgelegt.
+
+Die photographischen Bilder stehen also eher unter dem Object. Allein, wie gesagt, ich musste wegen der Glaubwürdigkeit der Darstellung diesen Weg gehen.
+
+Eine Ursache weiterer besonders empfindlicher Mängel der photographischen Darstellung besteht in der Wirkung der Farben auf das Bild. Unter den schlimmen ist Gelb die schlimmste.
+
+Wo Gelb im Präparat ist, erscheint statt aller Struktur ein schwarzer Fleck. Mit keinem Mittel war diesem Uebel abzuhelfen. Und gerade das Gelb des Olivins ist dasjenige, welches absolut keinen Lichtstrahl durchlässt. Das macht sich am meisten geltend bei der Coralle, Tafel I. Fig. 6: der schwarze Ring auf dem Bilde ist ein lichtes Gelb (Eisen). - Dem Gelb folgt Braun, welches ebenfalls sehr dunkelt. Blau hat den entgegengesetzten Fehler, es wird zu licht, doch zeigt es noch Strukturen.
+
+Dass der hohe Preis des Materials gewisse Sparsamkeit in den Präparaten auferlegt, ist selbstredend. Es ist dadurch die Auswahl beschränkt. Gerade dieser Umstand ist der Grund, dass die Schliffe von dem Forscher selbst hergestellt werden müssen. Das ist eine Aufgabe. Aber es ist auch nur so ein gründliches, freilich durch grossen Zeitaufwand erschwertes Studium der Sache möglich.
+
+Zur Vergrösserung und photographischen Darstellung habe ich mich des mittleren mikrophotographischen Apparats von Seibert & Krafft in Wetzlar bedient und kann denselben nur rühmlichst empfehlen. Die Bilder wurden unter meiner Leitung im photographischen Atelier der Herren Otto Lauer & Carl Bossler hier gefertigt. Da wir alle noch keine Uebung in dieser Art Aufnahmen hatten, so war die Beihilfe des Herrn Dr. Schreiner , Assistenten am chemischen Labaratorium in Tübingen eine äusserst erwünschte. Weitere Hilfe habe ich nicht zu verzeichnen, wohl aber glaube ich nicht unerwähnt lassen zu dürfen, die völlige Theilnahmslosigkeit aller derjenigen Gelehrten, welche die Sache am meisten berührt.
+
+Bei der Anordnung des Stoffs habe ich die Schwämme vorangestellt, diesen die Corallen und dann die Crinoiden folgen lassen.
+
+Entsprechend der Häufigkeit des Vorkommens habe ich auch die einzelnen Gattungen in der Zahl sich vertreten lassen. Leider musste ich manches bessere Object wegen der gelben Färbung zurücklegen. Wenn es sich bewährt, was Gümbel in seiner trefflichen Abhandlung über die bayerischen Meteoriten sagt, dass es ihm gelungen sei, die gelbe Farbe durch Säuren zu entfernen, so wäre viel gewonnen.
+
+Was die Vergrösserungen betrifft, oder richtiger das Format der Vergrösserungen, so kam in Betracht, dass eben die Einrichtung der Camera die Einhaltung eines bestimmten Formats auferlegt. Das führt zu dem Missstand, dass die Formen zuletzt alle gleich gross erscheinen.
+
+Die Angabe der Vergrösserung, d. h. das Verhältniss der wahren Grösse zum Durchmesser des dargestellten Bildes ist also ein sehr wenig bezeichnendes.
+
+Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirkliche Grösse des Objects unmittelbar zu bezeichnen.
+
+*Aehnlich ist Dr. Kuntze mit der Flora Columbiae von Dr. H. Karsten verfahren. Ehe sich derselbe gegen die Anschuldigung, welche Dr. W. Joos auf diese Kritiken hin gegen ihn erhoben, reinigt, hat er kein Recht mehr, in der Wissenschaft gehört zu werden.
+
+## TAFELVERZEICHNISS.
+
+1\. Die Numerirung der Abbildungen geschieht von links oben nach rechts unten.
+
+2\. Abkürzungen: V. heisst Vergrösserung, D. heisst wirklicher Durchmesser, mm heisst Millimeter.
+
