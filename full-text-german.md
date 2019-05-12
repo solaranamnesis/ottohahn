@@ -614,3 +614,23 @@ Sobald das Eisen als Planetenkern angenommen wird, glaube ich es hiermit aber al
 
 ### DAS EISEN VON OVIFAK.
 
+Durch die Güte des Herrn Professors Dr. von Nordenskjöld wurden mir 6 Stücke des Eisens von Ovifak und des Basalts, in welchem dasselbe gefunden wurde, zur Untersuchung gegeben.
+
+Wöhler (Neues Jahrbuch für Mineralogie 1869, S. 32) hält es auf Grund seiner chemischen Zusammensetzung nicht für meteoritisch. Das Vorkommen eines der mir vorliegenden Stücke in einer Kluft spricht ebenfalls nicht für meteoritischen Ursprung. Eisentheile mit Widmannstätten'schen Figuren finden sich auch im Basalt und im Olivingestein eingewachsen, und doch werden beide nicht als meteoritisch angesprochen. Endlich finden sich völlige Uebergänge von Stein in Eisen, woraus hervorgeht, dass das Eisen nicht zufällig in den Basalt gefallen ist. Es wäre doch ein grosses Wunder, wenn dieses Eisen gerade zu der Zeit, als der Basalt flüssig war, in denselben gefallen wäre, ganz abgesehen davon, dass dieses Eisen, wie festgestellt ist, sich kaum einige Jahre erhalten würde. - Und doch soll dieses Eisen seiner Struktur wegen meteoritisch sein.
+
+Wir wissen aber, dass unser Erdkern mindestens von der Dichtigkeit dieses Metalles ist, und es wird derselbe wahrscheinlich auch aus Eisen von derselben Beschaffenheit bestehen, so dass die Wahrscheinlichkeit nahe läge, dass wir in dem Eisen von Ovifak den Eisenkern der Erde zu Tage treten sehen.
+
+Damit wäre uns unendlich mehr gewonnen, als mit einem neuen Meteoriten.
+
+Auf der Fläche dieses Eisens, das ich freilich, da ich dieses schreibe, anzugreifen die Erlaubniss noch nicht habe, finde ich Strukturen, welche denen der Crinoiden in den Chondriten sehr ähnlich sind.
+
+Eine Untersuchung im Dünnschliffe aber muss ich auf die Zeit aufsparen, wo mir das Material zur freien Verfügung gestellt wird.
+
+## V. ABSCHNITT.
+
+### SCHLUSSFOLGERUNGEN.
+
+#### I. CAPITEL.
+
+##### URSPRUNG DER METEORITE.
+
