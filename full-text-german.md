@@ -812,39 +812,39 @@ Fig. 6. aus Knyahinya D. 1 mm. (Schichtung wie 5, doch im Bilde nicht wiedergege
 
 ### Tafel IV. Urania.
 
-Fig. 1. aus Knyahinya D. 0,90 mm.
-Fig. 2. aus Siena D. 3 mm. (der dunkle Strich rührt von gelber Färbung des Präparats)
-Fig. 3. aus Knyahinya D. 0,60 mm.
-Fig. 4. aus Knyahinya D. 0,90 mm. (Luftblase)
-Fig. 5. aus Knyahinya D. 1,60 mm.
-Fig. 6. aus Knyahinya D. 1,00 mm. (Luftblase)
+Fig. 1. aus Knyahinya D. 0,90 mm.  
+Fig. 2. aus Siena D. 3 mm. (der dunkle Strich rührt von gelber Färbung des Präparats)  
+Fig. 3. aus Knyahinya D. 0,60 mm.  
+Fig. 4. aus Knyahinya D. 0,90 mm. (Luftblase)  
+Fig. 5. aus Knyahinya D. 1,60 mm.  
+Fig. 6. aus Knyahinya D. 1,00 mm. (Luftblase)  
 
 ### Tafel V. Urania
 
-Fig. 1. aus Knyahinya D. 1,40 mm. (siehe Taf. II. Rings Crinoidendurchschnitte. Form unten links, vergl. Taf. I. Fig. 6 und Taf. XXV. 1, 2)
-Fig. 2. aus Knyahinya D. 1,80 mm.
-Fig. 3. aus Knyahinya D. 1,80 mm.
-Fig. 4. aus Knyahinya D. 1,30 mm. (undeutliches Bild)
-Fig. 5. aus Knyahinya D. 1,40 mm. (Luftblase)
-Fig. 6. aus Knyahinya D. 0,60 mm. (mangelhaftes Bild. Der weisse Ring ist der Durchschnitt)
+Fig. 1. aus Knyahinya D. 1,40 mm. (siehe Taf. II. Rings Crinoidendurchschnitte. Form unten links, vergl. Taf. I. Fig. 6 und Taf. XXV. 1, 2)  
+Fig. 2. aus Knyahinya D. 1,80 mm.  
+Fig. 3. aus Knyahinya D. 1,80 mm.  
+Fig. 4. aus Knyahinya D. 1,30 mm. (undeutliches Bild)  
+Fig. 5. aus Knyahinya D. 1,40 mm. (Luftblase)  
+Fig. 6. aus Knyahinya D. 0,60 mm. (mangelhaftes Bild. Der weisse Ring ist der Durchschnitt)  
 
 ### Tafel VI. Urania
 
-Fig. 1. aus Siena D. 4,00 mm.
-Fig. 2. aus Knyahinya D. 0,80 mm.
-Fig. 3. aus Siena D. 1,20 mm.
-Fig. 4. aus Knyahinya D. 0,70 mm. (in der Mitte zu stark beleuchtet)
-Fig. 5. aus Knyahinya D. 0,30 mm.
-Fig. 6. aus Knyahinya D. 0,90 mm. (Luftblase)
+Fig. 1. aus Siena D. 4,00 mm.  
+Fig. 2. aus Knyahinya D. 0,80 mm.  
+Fig. 3. aus Siena D. 1,20 mm.  
+Fig. 4. aus Knyahinya D. 0,70 mm. (in der Mitte zu stark beleuchtet)  
+Fig. 5. aus Knyahinya D. 0,30 mm.  
+Fig. 6. aus Knyahinya D. 0,90 mm. (Luftblase)  
 
 ### Tafel VII. Schwämme
 
-Fig. 1. aus Knyahinya D. 2,30 mm.
-Fig. 2. aus Knyahinya D. 1,80 mm. (ein Riss im Präparat. Die Nadeln)
-Fig. 3. aus Knyahinya D. 2,10 mm.
-Fig. 4. (Crinoid-Querschnitt?) aus Knyahinya D. 3,00 mm.
-Fig. 5. Schwamm? D. 1,00 mm.
-Fig. 6. Schwamm? D. 2,40 mm.
+Fig. 1. aus Knyahinya D. 2,30 mm.  
+Fig. 2. aus Knyahinya D. 1,80 mm. (ein Riss im Präparat. Die Nadeln)  
+Fig. 3. aus Knyahinya D. 2,10 mm.  
+Fig. 4. (Crinoid-Querschnitt?) aus Knyahinya D. 3,00 mm.  
+Fig. 5. Schwamm? D. 1,00 mm.  
+Fig. 6. Schwamm? D. 2,40 mm.  
 
 ### Tafel VIII. Coralle
 
@@ -856,165 +856,179 @@ Strukturbild aus links oben Tafel VIII.
 
 ### Tafel X. Corallen
 
-Fig. 1. aus Knyahinya Querschnitt D. 0,40 mm.
-Fig. 2. Längsschnitt 0,50 mm.
-Fig. 3. aus Knyahinya D. 1,80 mm.
-Fig. 4. aus Knyahinya D. 0,90 mm. (siehe Taf. VIII. IX.)
-Fig. 5. aus Knyahinya D. 0,30 mm.
-Fig. 6. aus Knyahinya D. 0,80 mm.
+Fig. 1. aus Knyahinya Querschnitt D. 0,40 mm.  
+Fig. 2. Längsschnitt 0,50 mm.  
+Fig. 3. aus Knyahinya D. 1,80 mm.  
+Fig. 4. aus Knyahinya D. 0,90 mm. (siehe Taf. VIII. IX.)  
+Fig. 5. aus Knyahinya D. 0,30 mm.  
+Fig. 6. aus Knyahinya D. 0,80 mm.  
 
 ### Tafel XI. Corallen
 
-Fig. 1. aus Knyahinya D. 1,20 mm.
-Fig. 2. aus Knyahinya D. 1,00 mm.
-Fig. 3. aus Knyahinya D. 1,80 mm.
-Fig. 4. aus Knyahinya D. 1,20 mm.
-Fig. 5. aus Parnallee D. 0,80 mm.
-Fig. 6. aus Moung County D. 0,60 mm.
+Fig. 1. aus Knyahinya D. 1,20 mm.  
+Fig. 2. aus Knyahinya D. 1,00 mm.  
+Fig. 3. aus Knyahinya D. 1,80 mm.  
+Fig. 4. aus Knyahinya D. 1,20 mm.  
+Fig. 5. aus Parnallee D. 0,80 mm.  
+Fig. 6. aus Moung County D. 0,60 mm.  
 
 ### Tafel XII. Corallen
 
-Fig. 1. aus Knyahinya D. 0,80 mm.
-Fig. 2. aus Knyahinya D. 1,20 mm.
-Fig. 3. aus Knyahinya D. 1,30 mm.
-Fig. 4. aus Knyahinya D. 1,40 mm.
-Fig. 5. aus Knyahinya D. 2,00 mm.
-Fig. 6. aus Knyahinya D. 3,20 mm.
+Fig. 1. aus Knyahinya D. 0,80 mm.  
+Fig. 2. aus Knyahinya D. 1,20 mm.  
+Fig. 3. aus Knyahinya D. 1,30 mm.  
+Fig. 4. aus Knyahinya D. 1,40 mm.  
+Fig. 5. aus Knyahinya D. 2,00 mm.  
+Fig. 6. aus Knyahinya D. 3,20 mm.  
 
 ### Tafel XIII. Corallen
 
-Fig. 1. aus Parnallee D. 0,20 mm.
-Fig. 2. aus Knyahinya D. 0,80 mm.
-Fig. 3. aus Siena D. 0,20 mm.
-Fig. 4. aus Knyahinya D. 1,80 mm.
-Fig. 5. aus Knyahinya D. 1,70 mm.
-Fig. 6. aus Cabarras D. 0,30 mm.
+Fig. 1. aus Parnallee D. 0,20 mm.  
+Fig. 2. aus Knyahinya D. 0,80 mm.  
+Fig. 3. aus Siena D. 0,20 mm.  
+Fig. 4. aus Knyahinya D. 1,80 mm.  
+Fig. 5. aus Knyahinya D. 1,70 mm.  
+Fig. 6. aus Cabarras D. 0,30 mm.  
 
-### Tafel XIV. Coralle D. 0,90 mm.
+### Tafel XIV.
 
-### Tafel XV. Coralle. Strukturbild von XIV. Der linke obere Theil des Präparats, Vergrösserung 300, zeigt die Knospen-Canäle.
+Coralle D. 0,90 mm.
+
+### Tafel XV.
+
+Coralle. Strukturbild von XIV. Der linke obere Theil des Präparats, Vergrösserung 300, zeigt die Knospen-Canäle.
 
 #### Crinoiden
 
-### Tafel XVI. aus Knyahinya D. 0,40 mm.
+### Tafel XVI.
 
-### Tafel XVII. aus Knyahinya D. 2,00 mm.
+aus Knyahinya D. 0,40 mm.
 
-### Tafel XVIII. aus Knyahinya, 4 Hauptarme durchschnitten, D. 2,20 mm.
+### Tafel XVII.
 
-### Tafel XIX. Crinoid, vergl. Taf. XXV. 1 und 2.
+aus Knyahinya D. 2,00 mm.
 
-### Tafel XX. Crinoid und Coralle durchschnitten aus Knyahinya D. 1,20 mm.
+### Tafel XVIII.
+
+aus Knyahinya, 4 Hauptarme durchschnitten, D. 2,20 mm.
+
+### Tafel XIX.
+
+Crinoid, vergl. Taf. XXV. 1 und 2.
+
+### Tafel XX.
+
+Crinoid und Coralle durchschnitten aus Knyahinya D. 1,20 mm.
 
 ### Tafel XXI. Crinoiden
 
-Fig. 1. aus Knyahinya D. 0,80 mm.
-Fig. 2. vergrössertes Bild von Fig. 1
-Fig. 3. aus Knyahinya D. 1,20 mm.
-Fig. 4. vergrössertes Bild von Fig. 3
-Fig. 5. aus Knyahinya D. 1,80 mm. (ich bemerke die Aehnlichkeit mit Fig. 1)
-Fig. 6. aus Knyahinya D. 0,30 mm. (die Mundöffnung zwischen den Armen sichtbar)
+Fig. 1. aus Knyahinya D. 0,80 mm.  
+Fig. 2. vergrössertes Bild von Fig. 1  
+Fig. 3. aus Knyahinya D. 1,20 mm.  
+Fig. 4. vergrössertes Bild von Fig. 3  
+Fig. 5. aus Knyahinya D. 1,80 mm. (ich bemerke die Aehnlichkeit mit Fig. 1)  
+Fig. 6. aus Knyahinya D. 0,30 mm. (die Mundöffnung zwischen den Armen sichtbar)  
 
 ### Tafel XXII. Crinoiden
 
-Fig. 1. aus Knyahinya D. 0,50 mm.
-Fig. 2. aus Knyahinya D. 0,60 mm.
-Fig. 3. aus Knyahinya (Titelbild) D. 1,50 mm.
-Fig. 4. aus Knyahinya D. 0,70 mm.
-Fig. 5. aus Knyahinya D. 0,60 mm.
-Fig. 6. aus Knyahinya D. 1,20 mm.
+Fig. 1. aus Knyahinya D. 0,50 mm.  
+Fig. 2. aus Knyahinya D. 0,60 mm.  
+Fig. 3. aus Knyahinya (Titelbild) D. 1,50 mm.  
+Fig. 4. aus Knyahinya D. 0,70 mm.  
+Fig. 5. aus Knyahinya D. 0,60 mm.  
+Fig. 6. aus Knyahinya D. 1,20 mm.  
 
 ### Tafel XXIII. Crinoiden
 
-Fig. 1. aus Knyahinya D. 0,90 mm.
-Fig. 2. aus Knyahinya D. 1,60 mm.
-Fig. 3. aus Knyahinya D. 1,00 mm.
-Fig. 4. aus Knyahinya D. 1,40 mm.
-Fig. 5. aus Knyahinya D. 1,30 mm.
-Fig. 6. aus Knyahinya D. 0,60 mm.
+Fig. 1. aus Knyahinya D. 0,90 mm.  
+Fig. 2. aus Knyahinya D. 1,60 mm.  
+Fig. 3. aus Knyahinya D. 1,00 mm.  
+Fig. 4. aus Knyahinya D. 1,40 mm.  
+Fig. 5. aus Knyahinya D. 1,30 mm.  
+Fig. 6. aus Knyahinya D. 0,60 mm.  
 
 ### Tafel XXIV. Crinoiden
 
-Fig. 1. aus Siena D. 0,80 mm.
-Fig. 2. aus Knyahinya D. 2,80 mm.
-Fig. 3. aus Knyahinya D. 1,00 mm.
-Fig. 4. aus Knyahinya D. 2,00 mm.
-Fig. 5. aus Knyahinya D. 1,50 mm.
-Fig. 6. aus Cabarras D. 0,80 mm.
+Fig. 1. aus Siena D. 0,80 mm.  
+Fig. 2. aus Knyahinya D. 2,80 mm.  
+Fig. 3. aus Knyahinya D. 1,00 mm.  
+Fig. 4. aus Knyahinya D. 2,00 mm.  
+Fig. 5. aus Knyahinya D. 1,50 mm.  
+Fig. 6. aus Cabarras D. 0,80 mm.  
 
 ### Tafel XXV. Crinoiden
 
-Fig. 1. aus Knyahinya D. 1,20 mm.
-Fig. 2. aus Knyahinya D. 1,20 mm.
-Fig. 3. aus Knyahinya D. 1,80 mm.
-Fig. 4. aus Knyahinya D. 0,60 mm.
-Fig. 5. aus Siena D. 1,80 mm.
-Fig. 6. aus Knyahinya D. 1,40 mm. (Beide letztere Querschnitte von Crinoiden)
+Fig. 1. aus Knyahinya D. 1,20 mm.  
+Fig. 2. aus Knyahinya D. 1,20 mm.  
+Fig. 3. aus Knyahinya D. 1,80 mm.  
+Fig. 4. aus Knyahinya D. 0,60 mm.  
+Fig. 5. aus Siena D. 1,80 mm.  
+Fig. 6. aus Knyahinya D. 1,40 mm. (Beide letztere Querschnitte von Crinoiden)  
 
 ### Tafel XXVI. Crinoiden
 
-Fig. 1. aus Knyahinya D. 0,20 mm.
-Fig. 2. aus Knyahinya D. 2,00 mm.
-Fig. 3. aus Knyahinya D. 1,20 mm.
-Fig. 4. aus Knyahinya D. 1,20 mm. (bis hieher gewundene Crinoiden)
-Fig. 5. aus Knyahinya D. 2,00 mm.
-Fig. 6. aus Knyahinya D. 2,20 mm. (die dunkle Linie in 5 und 6 ist der Nahrungskanal)
+Fig. 1. aus Knyahinya D. 0,20 mm.  
+Fig. 2. aus Knyahinya D. 2,00 mm.  
+Fig. 3. aus Knyahinya D. 1,20 mm.  
+Fig. 4. aus Knyahinya D. 1,20 mm. (bis hieher gewundene Crinoiden)  
+Fig. 5. aus Knyahinya D. 2,00 mm.  
+Fig. 6. aus Knyahinya D. 2,20 mm. (die dunkle Linie in 5 und 6 ist der Nahrungskanal)  
 
 ### Tafel XXVII. Crinoiden
 
-Fig. 1. aus Knyahinya D. 0,80 mm.
-Fig. 2. aus Knyahinya D. 1,50 mm.
-Fig. 3. aus Knyahinya D. 1,40 mm.
-Fig. 4. aus Knyahinya D. 1,40 mm.
-Fig. 5. aus Knyahinya D. 1,20 mm.
-Fig. 6. aus Knyahinya D. 1,00 mm.
+Fig. 1. aus Knyahinya D. 0,80 mm.  
+Fig. 2. aus Knyahinya D. 1,50 mm.  
+Fig. 3. aus Knyahinya D. 1,40 mm.  
+Fig. 4. aus Knyahinya D. 1,40 mm.  
+Fig. 5. aus Knyahinya D. 1,20 mm.  
+Fig. 6. aus Knyahinya D. 1,00 mm.  
 
 ### Tafel XXVIII. Crinoiden
 
-Fig. 1. aus Knyahinya (Coralle?) D. 3,00 mm. aus demselben Dünnschl. wie Taf. XVIII.
-Fig. 2. aus Knyahinya D. 1,20 mm.
-Fig. 3. aus Knyahinya D. 2,30 mm.
-Fig. 4. aus Knyahinya D. 0,90 mm.
-Fig. 5. aus Knyahinya D. 1,50 mm.
-Fig. 6. aus Knyahinya D. 1,40 mm.
+Fig. 1. aus Knyahinya (Coralle?) D. 3,00 mm. aus demselben Dünnschl. wie Taf. XVIII.  
+Fig. 2. aus Knyahinya D. 1,20 mm.  
+Fig. 3. aus Knyahinya D. 2,30 mm.  
+Fig. 4. aus Knyahinya D. 0,90 mm.  
+Fig. 5. aus Knyahinya D. 1,50 mm.  
+Fig. 6. aus Knyahinya D. 1,40 mm.  
 
 ### Tafel XXVIX. Crinoiden
 
 (1-3 von oben gesehen, 4 von unten.)
 
-Fig. 1. aus Knyahinya D. 0,20 mm.
-Fig. 2. aus Knyahinya D. 0,90 mm.
-Fig. 3. aus Tabor D. 2,10 mm.
-Fig. 4. aus Knyahinya D. 1,10 mm.
-Fig. 5. aus Borkut D. 1,50 mm.
-Fig. 6. aus Knyahinya D. 1,30 mm. (zweifelhaft)
+Fig. 1. aus Knyahinya D. 0,20 mm.  
+Fig. 2. aus Knyahinya D. 0,90 mm.  
+Fig. 3. aus Tabor D. 2,10 mm.  
+Fig. 4. aus Knyahinya D. 1,10 mm.  
+Fig. 5. aus Borkut D. 1,50 mm.  
+Fig. 6. aus Knyahinya D. 1,30 mm. (zweifelhaft)  
 
 ### Tafel XXX.
 
-Fig. 1. aus Knyahinya D. 1,10 mm. (Coralle?)
-Fig. 2. aus Knyahinya D. 1,40 mm. (Coralle und Crinoid, vergl. Taf. XX.)
-Fig. 3. aus Knyahinya D. 0,30 mm. (die Arme nezförmig verschlungen)
-Fig. 4. aus Knyahinya D. 1,85 mm. (Anschnitt)
-Fig. 5. aus Knyahinya D. 0,70 mm. (Anschnitt)
-Fig. 6. aus Knyahinya D. 0,40 mm. (Struktur dem des Schreibersits im Meteoreisen gleich)
+Fig. 1. aus Knyahinya D. 1,10 mm. (Coralle?)  
+Fig. 2. aus Knyahinya D. 1,40 mm. (Coralle und Crinoid, vergl. Taf. XX.)  
+Fig. 3. aus Knyahinya D. 0,30 mm. (die Arme nezförmig verschlungen)  
+Fig. 4. aus Knyahinya D. 1,85 mm. (Anschnitt)  
+Fig. 5. aus Knyahinya D. 0,70 mm. (Anschnitt)  
+Fig. 6. aus Knyahinya D. 0,40 mm. (Struktur dem des Schreibersits im Meteoreisen gleich)  
 
 ### Tafel XXXI. Problematica
 
-Fig. 1. aus Knyahinya D. 1,20 mm. (nicht ganz vollständiges Bild)
-Fig. 2. aus Knyahinya D. 0,50 mm.
-Fig. 3. aus Knyahinya D. 1,20 mm. (Drei übereinstimmende Formen aus 3 Dünnschliffen, in 1 und 2 beidemale der horizontale Ausschnitt)
-Fig. 4. aus Knyahinya (ob Schwamm oder Coralle?) D. 0,90 mm.
-Fig. 5. aus Knyahinya D. 1,50 mm.
-Fig. 6. aus Knyahinya D. 1,40 mm.
+Fig. 1. aus Knyahinya D. 1,20 mm. (nicht ganz vollständiges Bild)  
+Fig. 2. aus Knyahinya D. 0,50 mm.  
+Fig. 3. aus Knyahinya D. 1,20 mm. (Drei übereinstimmende Formen aus 3 Dünnschliffen, in 1 und 2 beidemale der horizontale Ausschnitt)  
+Fig. 4. aus Knyahinya (ob Schwamm oder Coralle?) D. 0,90 mm.  
+Fig. 5. aus Knyahinya D. 1,50 mm.  
+Fig. 6. aus Knyahinya D. 1,40 mm.  
 
 ### Tafel XXXII.
 
-Fig. 1. aus Knyahinya (Einschluss) D. 1,50 mm.
-Fig. 2. Borkutkugel D. 1,00 mm.
-Fig. 3. Nummulit von Kempten. Die Canäle sind (mit der Lupe) scharf zu erkennen
-Fig. 4. Dünnschliff von Lias γδ. Dieser Dünnschliff ist der von mir zusammengestellten Sammlung von 30 Dünnschliffen von Sedimentgesteinen entnommen, gefertigt von Geognost Hildebrand in Ohmenhausen bei Reutlingen, welche ich zum Studium der microscopischen Beschaffenheit der Sedimentgesteine nebst Einschlüssen dringend empfehle.
-Fig. 5. „Eozoon canadense“, angebliches Canalsystem des Eozoon
-Fig. 6. desgl. Beide Gesteine, denen die Schliffe entnommen sind, von mir in Little Nation gesammelt. Man vergleiche Canalsystem des Nummuliten Fig. 3 mit diesem angeblichen Canalsystem! Bild 3 und 5 sollen dasselbe Ding sein.
+Fig. 1. aus Knyahinya (Einschluss) D. 1,50 mm.  
+Fig. 2. Borkutkugel D. 1,00 mm.  
+Fig. 3. Nummulit von Kempten. Die Canäle sind (mit der Lupe) scharf zu erkennen  
+Fig. 4. Dünnschliff von Lias γδ. Dieser Dünnschliff ist der von mir zusammengestellten Sammlung von 30 Dünnschliffen von Sedimentgesteinen entnommen, gefertigt von Geognost Hildebrand in Ohmenhausen bei Reutlingen, welche ich zum Studium der microscopischen Beschaffenheit der Sedimentgesteine nebst Einschlüssen dringend empfehle.  
+Fig. 5. „Eozoon canadense“, angebliches Canalsystem des Eozoon  
+Fig. 6. desgl. Beide Gesteine, denen die Schliffe entnommen sind, von mir in Little Nation gesammelt. Man vergleiche Canalsystem des Nummuliten Fig. 3 mit diesem angeblichen Canalsystem! Bild 3 und 5 sollen dasselbe Ding sein.  
 
 Zu Fig. 5 vergleiche Urzelle Taf. 4. 5.
 
