@@ -376,119 +376,121 @@ All diese Beweise sind freilich dem Botaniker und Zoologen fremd, während sie j
 
 ###### 1. URANIA.
 
-Rundlappige Körper mit deutlicher Anwachsstelle. Tafel II. giebt ein grösseres Normalbild einer Urania (vergleiche Tafel V. Fig. 1, dasselbe Bild). Man sieht hier: die Gesammtform scharf, den äussersten Lappenrand angeschitten (weiss links), die Falten, welche beim Zusammenziehen entstehen, die Anwachsstelle. Noch deutlicher ist letztere mit Kelch, Tafel IV. Fig. 3.
+Rundlappige Körper mit deutlicher Anwachsstelle. Tafel II. gibt ein größeres Normalbild einer Urania (vergleiche Tafel V. Figur 1, dasselbe Bild). Man sieht hier: die Gesamtform scharf, den äußersten Lappenrand angeschnitten (weis links), die Falten, welche beim Zusammenziehen entstehen, die Anwachsstelle. Noch deutlicher ist letztere mit Kelch, Tafel IV. Figur 3.
 
-Urania spiralförmig zusammengelegt Tafel III. Fig. 5, 6.
+Urania spiralförmig zusammengelegt Tafel III. Figur 5, 6.
 
-In der Windung begriffen Tafel IV. Fig. 1: die Struktur besteht in einer Aussenhaut über lamellaren Schichten Tafel III. Fig. 4. Tafel IV. Fig. 6 (letzere mit der Lupe zu betrachten). Mittlerer Durchmesser der Urania 1 mm, Farbe smalteblau.
+In der Windung begriffen Tafel IV. Figur 1: die Struktur besteht in einer Außenhaut über lamellaren Schichten Tafel III. Figur 4. Tafel IV. Figur 6 (letztere mit der Lupe zu betrachten). Mittlerer Durchmesser der Urania 1 mm, Farbe smalteblau.
 
-Diese Struktur wurde für den Blätterbruch des Bronzits gehalten! Ob Tafel IV. Fig. 4 zu den Uranien gehört, ist zweifelhaft. Aeussere Form und Farbe sprechen dafür. Die Anschnitte an beiden Seiten zeigen deutliche Struktur.
+Diese Struktur wurde für den Blätterbruch des Bronzits gehalten! Ob Tafel IV. Figur 4 zu den Uranien gehört, ist zweifelhaft. Äußern Form und Farbe sprechen dafür. Die Anschnitte an beiden Seiten zeigen deutliche Struktur.
 
-Tafel V. Fig. 5 zeigt vollständig gewundene Lappen. Entweder ist es ein Körper spiralförmig aufgewunden oder sind es mehrere Lappen, von welchen der äussere die inneren mantelartig umgiebt.
+Tafel V. Figur 5 zeigt vollständig gewundene Lappen. Entweder ist es ein Körper spiralförmig aufgewunden oder sind es mehrere Lappen, von welchen der äußere die inneren mantelartig umgibt.
 
-Tafel IV. Fig. 6 ist ein Querschnitt, welcher allerdings wenig zeigt. Im Objekt selbst sieht man den Durchschnitt der Aussenhaut weiss.
+Tafel IV. Figur 6 ist ein Querschnitt, welcher allerdings wenig zeigt. Im Objekt selbst sieht man den Durchschnitt der Außenhaut weis.
 
-Tafel V. Fig. 2 zeigt so deutliche Schichtung, dass wenn die äussere Form nicht wäre, man versucht sein könnte, die Form zu den Corallen zu stellen.
+Tafel V. Figur 2 zeigt so deutliche Schichtung, dass wenn die äußere Form nicht wäre, man versucht sein könnte, die Form zu den Korallen zu stellen.
 
-Tafel IV. Fig. 5 zeigt Querschnitte durch beide Flügel der Lappen.
+Tafel IV. Figur 5 zeigt Querschnitte durch beide Flügel der Lappen.
 
-Tafel VI. Fig. 3 Lamellen-Struktur. Fig. 5 und 6 können auch die einfachsten Crinoiden sein, deren Arme sich an einander angelegt haben. Hinsichtlich des Uebergangs der Formen in andere muss ich auf das betreffende Capitel verweisen.
+Tafel VI. Figur 3 Lamellen-Struktur. Figur 5 und 6 können auch die einfachsten Crinoiden sein, deren Arme sich an einander angelegt haben. Hinsichtlich des Übergangs der Formen in andere muss ich auf das betreffende Kapitel verweisen.
 
-Am räthselhaftesten ist Tafel VI. Fig. 1 und 2. Bei Fig. 1 ist die matte Stelle im Präparat gelb, die gestreifte blau. Ich habe sie neben Fig. 2 gestellt, diese zeigt deutlich zwei Lappen, welche wie zwei Muschelschaalen an einer Stelle verbunden sind und beim ersten Anblick auch vollkommen den Eindruck eines Zweischalers machen. (Es ist nicht ein blosser Anschnitt.) Denkt man an Muscheln, so könnte die matte Stelle von Fig. 1 der Steinkern sein. Allein die Struktur ist eben Uranienartig.
+Am rätselhaften ist Tafel VI. Figur 1 und 2. Bei Figur 1 ist die matte Stelle im Präparat gelb, die gestreifte blau. Ich habe sie neben Figur 2 gestellt, diese zeigt deutlich zwei Lappen, welche wie zwei Muschelschalen an einer Stelle verbunden sind und beim ersten Anblick auch vollkommen den Eindruck eines Zweischaligen machen. (Es ist nicht ein bloßer Anschnitt.) Denkt man an Muscheln, so könnte die matte Stelle von Figur 1 der Steinkern sein. Allein die Struktur ist eben Uranienartig.
 
-Tafel V. Fig. 3. 2 Individuen zeigen die Struktur überaus deutlich, ebenso die Anwachsstellen. In Fig. 4 (welche ein schlechtes Bild giebt) legen sich mehrere Individuen fächerartig aneinander.
+Tafel V. Figur 3. 2 Individuen zeigen die Struktur überaus deutlich, ebenso die Anwachsstellen. In Figur 4 (welche ein schlechtes Bild gibt) legen sich mehrere Individuen fächerartig aneinander.
 
-Bei Tafel III. Fig. 3, IV. 1, 2 glaubt man oben eine runde Mundöffnung angedeutet zu sehen.
+Bei Tafel III. Figur 3, IV. 1, 2 glaubt man oben eine runde Mundöffnung angedeutet zu sehen.
 
-Hiernach halte ich die Urania für einen festgewachsenen Schwamm, welcher sich spiralförmig zusammenzieht, hiebei Wasser einsaugt und austreibt, wie unsere lebenden Schwämme.
+Hiernach halte ich die Urania für einen festgewachsenen Schwamm, welcher sich spiralförmig zusammenzieht, hiebe Wasser einsaugt und austreibt, wie unsere lebenden Schwämme.
 
 Urania nimmt etwa 3/20 der Gesteins-Masse ein.
 
 ###### 2. NADEL-SCHWÄMME.
 
-Tafel VII. Die Formen Fig. 1, 2, 3, 5, 6 zeigen ein Nadelgerüste. Fig. 1 stelle ich zu Astrospongia. Die Nadeln liegen regelmässig gekreuzt. Fig. 6 ist ein unregelmässiges Nadelgerüste mit einem Hohlraum, welchen das Bild allerdings sehr schwach andeutet. Diese beiden Formen scheinen mir unzweifelhaft zu sein.
+Tafel VII. Die Formen Figur 1, 2, 3, 5, 6 zeigen ein Nadelgerüste. Figur 1 stelle ich zu Astrospongia. Die Nadeln liegen regelmäßig gekreuzt. Figur 6 ist ein unregelmäßiges Nadelgerüste mit einem Hohlraum, welchen das Bild allerdings sehr schwach andeutet. Diese beiden Formen scheinen mir unzweifelhaft zu sein.
 
-Annähernd sicher sind Fig. 2 und 5 (in Fig. 2 ist der weisse Strich ein Gesteinsriss).
+Annähernd sicher sind Figur 2 und 5 (in Figur 2 ist der weiße Strich ein Gesteinsriss).
 
-Die Form Figur 4 habe ich bei der Zusammenstellung der Tafeln für einen Schwamm gehalten. Nachdem eine Aenderung der Anordnung nicht mehr möglich war, erkannte ich in dieser Form den schiefen Durchschnitt eines Crinoiden und was ich Anfangs für Nadeln hielt - als feine Crinoidenarme. Ich bemerke, dass die Bestimmung sehr schwierig ist wegen der ausserordentlich einfachen meteoritischen Crinoidenformen, wesshalb eine Entscheidung weiterer Untersuchung aufgespart bleiben muss. Es lässt sich der Hohlraum der Schwammnadeln mit dem Nahrungskanal der Crinoidenarme verwechseln, wenn letztere gerade gestreckt liegen und die Glieder nicht mehr deutlich erhalten sind. Diese Thatsache, so wenig angenehm sie für den Untersucher der einzelnen Formen ist, ist um so lohnender für denjenigen, welcher dem Zusammenhang der Formen nachgeht - für den Nachweis der Entwickelung einer Form aus der andern. Es reicht immer eine an die andere hin. In günstigere Lage versetzen uns
+Die Form Figur 4 habe ich bei der Zusammenstellung der Tafeln für einen Schwamm gehalten. Nachdem eine Änderung der Anordnung nicht mehr möglich war, erkannte ich in dieser Form den schiefen Durchschnitt eines Crinoiden und was ich Anfangs für Nadeln hielt — als feine Crinoidenarme. Ich bemerke, dass die Bestimmung sehr schwierig ist wegen der außerordentlich einfachen meteoritischen Crinoidenformen, weshalb eine Entscheidung weiterer Untersuchung aufgespart bleiben muss. Es lässt sich der Hohlraum der Schwammnadeln mit dem Nahrungskanal der Crinoidenarme verwechseln, wenn letztere gerade gestreckt liegen und die Glieder nicht mehr deutlich erhalten sind. Diese Tatsache, so wenig angenehm sie für den Untersucher der einzelnen Formen ist, ist um so lohnender für denjenigen, welcher dem Zusammenhang der Formen nachgeht — für den Nachweis der Entwickelung einer Form aus der andern. Es reicht immer eine an die andere hin. In günstigere Lage versetzen uns:
 
-###### B. DIE CORALLEN.
+###### B. DIE KORALLEN.
 
 Hier haben wir so wohl erhaltene terrestrische Formen, dass ein Zweifel nicht übrig bleibt.
 
-Tafel VIII. zeigt ein Musterbild, Tafel IX. dessen Canalstruktur: deutliche Knospen-Canäle, welche die Röhren (denn solche sind es) verbinden. Dazu kommt die mit einem Blätterbruch absolut nicht zu verwechselnde Curvenrichtung der Canäle, dazu kommen die ganz deutlichen Röhrenöffnungen und endlich die ebenso deutliche Anwachsstelle. (Tafel I. Fig. 4 zeigt ein noch schärferes Bild desselben Objects.) Leider geben Färbungen des Präparats dem Struktur-Bild Tafel IX. widerwärtigen Schatten. Die Knospen-Canäle stehen 0,003 mm von einander ab. Gewiss alles, was man von einer Struktur eines Favositen verlangen kann.
+Tafel VIII. zeigt ein Musterbild, Tafel IX. dessen Kanalstruktur: deutliche Knospen-Kanäle, welche die Röhren (denn solche sind es) verbinden. Dazu kommt die mit einem Blätterbruch absolut nicht zu verwechselnde Kurvenrichtung der Kanäle, dazu kommen die ganz deutlichen Röhrenöffnungen und endlich die ebenso deutliche Anwachsstelle. (Tafel I. Figur 4 zeigt ein noch schärferes Bild desselben Objekts.) Leider geben Färbungen des Präparats dem Struktur-Bild Tafel IX. widerwärtigen Schatten. Die Knospen-Kanäle stehen 0,003 mm von einander ab. Gewiss alles, was man von einer Struktur eines Favositen verlangen kann.
 
-Tafel X. Fig. 3, 4 zeigen uns das Bild des Favosites multiformis aus dem Silur so, dass man hier auch nicht einmal Spezies zu trennen vermöchte.
+Tafel X. Figur 3, 4 zeigen uns das Bild des Favosites multiformis aus dem Silur so, dass man hier auch nicht einmal Spezies zu trennen vermöchte.
 
-Auf Tafel XI. in Fig. 1, 2, 3 (wo 2 auch die Anwachsstellen zeigt) wird jeder Forscher das Bild lebender Corallenformen leicht erkennen, umsomehr als in Fig. 1 oben noch die Becherform (Hohlraum) angedeutet ist. Dasselbe Object zeigt ferner in den Röhren Querscheidewände, die klar hervortreten. Leider ist ein Theil des Bildes in Folge der gelben Färbung des Präparats in der Photographie durch Schwarz verdeckt.
+Auf Tafel XI. in Figur 1, 2, 3 (wo 2 auch die Anwachsstellen zeigt) wird jeder Forscher das Bild lebender Korallenformen leicht erkennen, umso mehr als in Figur 1 oben noch die Becherform (Hohlraum) angedeutet ist. Dasselbe Objekt zeigt ferner in den Röhren Querscheidewände, die klar hervortreten. Leider ist ein Teil des Bildes in Folge der gelben Färbung des Präparats in der Photographie durch Schwarz verdeckt.
 
-Tafel X. Fig. 1 und 2 zeigen weniger gut erhaltene Quer- und Längsschnitte, doch hebt die ganz gleiche Wiederholung beider in mehreren Schliffen den Zweifel daran, dass es organische Formen sind, und sind es solche, so können es bloss Corallen sein. Fig. 3 scheint eine Becher-Coralle zu sein, Fig. 4 ist an dieselbe angewachsen. Dass Fig. 6 Corallenstruktur hat, bedarf wohl keines Nachweises. Diese Form kehrt mehrfach wieder.
+Tafel X. Figur 1 und 2 zeigen weniger gut erhaltene Quer- und Längsschnitte, doch hebt die ganz gleiche Wiederholung beider in mehreren Schliffen den Zweifel daran, dass es organische Formen sind, und sind es solche, so können es bloß Korallen sein. Figur 3 scheint eine Becher-Koralle zu sein, Figur 4 ist an dieselbe angewachsen. Dass Figur 6 Korallenstruktur hat, bedarf wohl keines Nachweises. Diese Form kehrt mehrfach wieder.
 
-Tafel XI. Fig. 4. Diese Form kehrt ebenfalls mehrfach wieder. Eigenthümliche Corallenformen zeigen Fig. 5 und 6. - Fig. 5 ist gebildet aus Röhrenringen und höchstwahrscheinlich auch Fig. 6. Ich bemerke, dass diese Form hundertmal wiederkehrt.
+Tafel XI. Figur 4. Diese Form kehrt ebenfalls mehrfach wieder. Eigentümliche Korallenformen zeigen Figur 5 und 6. — Figur 5 ist gebildet aus Röhrenringen und höchstwahrscheinlich auch Figur 6. Ich bemerke, dass diese Form hundertmal wiederkehrt.
 
-Bei höherer Vergrösserung zeigen Zwischenwände Taf. XI. Fig. 1, 2, 3, 6.
-Tafel XII. Fig. 1-3 zeigen deutliche Lammellarstruktur. Die Querfurche in Fig. 4 erinnert an Fungia. Wahrscheinlich gehören auch hierher Tafel XXX. Fig. 1, 2 und Tafel XX.
+Bei höherer Vergrößerung zeigen Zwischenwände Tafel XI. Figur 1, 2, 3, 6.
 
-Die Uebereinstimmung der Struktur in Tafel XX. mit Tafel XXX. Fig. 1 (in zwei verschiedenen Schliffen) würde allein hinreichen jeden Gedanken an eine unorganische Bildung auszuschliessen. Ueberdies kehrt die Form in 350 Schliffen etwa zwanzigmal wieder.
+Tafel XII. Figur 1-3 zeigen deutliche Lammellarstruktur. Die Querfurche in Figur 4 erinnert an Fungia. Wahrscheinlich gehören auch hierher Tafel XXX. Figur 1, 2 und Tafel XX.
 
-Tafel XII. Fig. 5 habe ich nur einmal gefunden. Im Original sind deutliche Lamellen, welche im Bilde bloss am unteren Theil hervortreten. Fig. 6 ist ein milch weisses Object, daher undeutlich. Ich glaube Sternform zu erkennen und habe die Form desshalb als Sterncoralle hierher gestellt.
+Die Übereinstimmung der Struktur in Tafel XX. mit Tafel XXX. Figur 1 (in zwei verschiedenen Schliffen) würde allein hinreichen jeden Gedanken an eine unorganische Bildung auszuschließen. Überdies kehrt die Form in 350 Schliffen etwa zwanzigmal wieder.
 
-Tafel XIII. Fig. 1-4 sind Corallen, welche ganz unzweifelhaft den Röhrencorallen angehören. Es sind im Original deutlich zu unterscheiden: Glasartige Zwischenmasse, schwarze Röhrenwand, gelbe Füllmasse der Röhren, zuweilen sind beide letztere schwarz. Diese Form kommt hundertfältig vor und zwar in allen Chondriten. Fig. 5 aus Lamellen zusammengesetzt zeigt deutliche Hohlräume und Fig. 6 Röhren mit Zwischenwänden. Die Formen gehören zu den grössten Formen: sie haben bis zu 3 mm. Durchmesser.
+Tafel XII. Figur 5 habe ich nur einmal gefunden. Im Original sind deutliche Lamellen, welche im Bilde bloß am unteren Teil hervortreten. Figur 6 ist ein milchweißes Objekt, daher undeutlich. Ich glaube Sternform zu erkennen und habe die Form deshalb als Sternkoralle hierher gestellt.
 
-Tafel XXV. 1 und 2. Die Form ist hier so ausgezeichnet erhalten, dass an dem Vorhandensein eines Organismus nicht gezweifelt werden kann, um so weniger, als sie in zwei Schliffen übereinstimmend vorkommt und auch sonst häufig wiederkehrt. Vergl. Tafel II. links unten, Taf. V. Fig. 6. Ich habe die Formen Tafel I. Fig. 6 und Tafel XXV. Fig. 1, 2 in der Folge zu den Crinoiden gestellt; die Canäle sind unzweifelhaft, die Querlinien lassen sich auch als Crinoiden-Glieder deuten. Man sieht Einschnitte, ferner sind die Arme geknickt, was sich bloss bei Crinoiden denken lässt.
+Tafel XIII. Figur 1-4 sind Korallen, welche ganz unzweifelhaft den Röhrenkorallen angehören. Es sind im Original deutlich zu unterscheiden: Glasartige Zwischenmasse, schwarze Röhrenwand, gelbe Füllmasse der Röhren, zuweilen sind beide letztere schwarz. Diese Form kommt hundertfältig vor und zwar in allen Chondriten. Figur 5 aus Lamellen zusammengesetzt zeigt deutliche Hohlräume und Figur 6 Röhren mit Zwischenwänden. Die Formen gehören zu den größten Formen: sie haben bis zu 3 mm. Durchmesser.
 
-Geknickte Arme zeigt auch Tafel XXV. Fig. 4. Von dieser Form sind mehrere Exemplare da, welche genau dasselbe Bild geben.
+Tafel XXV. 1 und 2. Die Form ist hier so ausgezeichnet erhalten, dass an dem Vorhandensein eines Organismus nicht gezweifelt werden kann, um so weniger, als sie in zwei Schliffen übereinstimmend vorkommt und auch sonst häufig wiederkehrt. Vergl. Tafel II. links unten, Tafel V. Figur 6. Ich habe die Formen Tafel I. Figur 6 und Tafel XXV. Figur 1, 2 in der Folge zu den Crinoiden gestellt; die Kanäle sind unzweifelhaft, die Querlinien lassen sich auch als Crinoiden-Glieder deuten. Man sieht Einschnitte, ferner sind die Arme geknickt, was sich bloß bei Crinoiden denken lässt.
 
-Während die Corallenformen etwa 1/20 des Volumens der Gesammtmasse des Chondrit-Gesteins einnehmen, bilden den Rest mit 16/20 - also den bei weitem grössten Theil der ganzen Masse:
+Geknickte Arme zeigt auch Tafel XXV. Figur 4. Von dieser Form sind mehrere Exemplare da, welche genau dasselbe Bild geben.
+
+Während die Korallenformen etwa 1/20 des Volumens der Gesamtmasse des Chondrit-Gesteins einnehmen, bilden den Rest mit 16/20 — also den bei weitem größten Teil der ganzen Masse:
 
 ###### C. DIE CRINOIDEN.
 
-Sie finden sich von der einfachsten Form eines gegliederten Armes bis zum ausgebildeten Crinoiden mit Stiel, Krone, Haupt- und Hilfsarmen. Ihre Erhaltung ist grösstentheils sehr gut. Die Schwierigkeit liegt bloss in den tausenderlei Richtungen der Schnitte, welche immer verschiedene Bilder desselben Objects geben. Die birnförmigen Körper, welche man als Gläser ansah, sind Crinoiden-Kronen.
+Sie finden sich von der einfachsten Form eines gegliederten Armes bis zum ausgebildeten Crinoiden mit Stiel, Krone, Haupt- und Hilfsarmen. Ihre Erhaltung ist größtenteils sehr gut. Die Schwierigkeit liegt bloß in den tausenderlei Richtungen der Schnitte, welche immer verschiedene Bilder desselben Objekts geben. Die birnenförmigen Körper, welche man als Gläser ansah, sind Crinoiden-Kronen.
 
-Ich stelle 4 Crinoiden in aufrechter Stellung und in grossem Format in Tafel XVI-XIX dar und einen im Querschnitt Tafel XX.
+Ich stelle 4 Crinoiden in aufrechter Stellung und in großem Format in Tafel XVI-XIX dar und einen im Querschnitt Tafel XX.
 
-Tafel XXI. Fig. 1-5 zeigt senkrechte Durchschnitte eines schon höher entwickelten Crinoiden. Es sind Hauptarme mit Hilfsarmen und deutlichen Gelenkflächen.
+Tafel XXI. Figur 1-5 zeigt senkrechte Durchschnitte eines schon höher entwickelten Crinoiden. Es sind Hauptarme mit Hilfsarmen und deutlichen Gelenkflächen.
 
-Tafel XXI. Fig. 3 zeigt Stiel und Krone. (2 und 4 doppelte Vergrösserung von 1 und 3.) Fig. 5, aus einem andern Dünnschliffe, ist da, um die Uebereinstimmung der Formen zu zeigen. In Fig. 6 glaube ich die Mundöffnung in dem Höcker zwischen den Armen erhalten zu sehen.
+Tafel XXI. Figur 3 zeigt Stiel und Krone. (2 und 4 doppelte Vergrößerung von 1 und 3.) Figur 5, aus einem andern Dünnschliffe, ist da, um die Übereinstimmung der Formen zu zeigen. In Figur 6 glaube ich die Mundöffnung in dem Höcker zwischen den Armen erhalten zu sehen.
 
-Tafel XXII. Fig. 1, 3, 4, 5 und Tafel XXIII. Fig. 1, 2 zeigen die Zahl 5 der Arme, sowie die Hilfsarme.
+Tafel XXII. Figur 1, 3, 4, 5 und Tafel XXIII. Figur 1, 2 zeigen die Zahl 5 der Arme, sowie die Hilfsarme.
 
-In Tafel XXIII. Fig. 2 und 3 sieht man die Knickung der Arme durch Druck von oben.
+In Tafel XXIII. Figur 2 und 3 sieht man die Knickung der Arme durch Druck von oben.
 
-Tafel XXII. Fig. 2 und 4 erinnern an Comatula.
+Tafel XXII. Figur 2 und 4 erinnern an Comatula.
 
-Eine besondere Art sind die Crinoiden, welche bloss aus einer beliebigen Anzahl von Armen bestehen. Zu diesen rechne ich Tafel XXIII. Fig. 4, 5, Tafel XXIV. 4, 5, 6, Tafel XXVI. (Es ist auf dem Bilde Tafel XXIV. Fig. 6 in kleinerem Maßstab die Coralle aus Cabarras, Tafel XIII. Fig. 6.)
+Eine besondere Art sind die Crinoiden, welche bloß aus einer beliebigen Anzahl von Armen bestehen. Zu diesen rechne ich Tafel XXIII. Figur 4, 5, Tafel XXIV. 4, 5, 6, Tafel XXVI. (Es ist auf dem Bilde Tafel XXIV. Figur 6 in kleinerem Maßstab die Koralle aus Cabarras, Tafel XIII. Figur 6.)
 
-Tafel XXIX. Fig. 1, 2, 3, 4, 5, 6 und Tafel XXVII. Fig. 3 geben Bilder von Crinoiden von oben gesehen.
+Tafel XXIX. Figur 1, 2, 3, 4, 5, 6 und Tafel XXVII. Figur 3 geben Bilder von Crinoiden von oben gesehen.
 
-Tafel XXVII. Fig. 2 und Tafel XXIX. Fig. 4 zeigen Crinoiden von unten: hier tritt der Stielansatz als heller Punkt hervor. Diese Querschnitte kehren in dutzend Fällen in übereinstimmender Form wieder. (Man vergleiche auch Tafel III. Fig. 2 links oben. Bessere Durchschnitte kann man wohl nicht fordern: die Muskelschichten sind hier deutlich sichtbar.)
+Tafel XXVII. Figur 2 und Tafel XXIX. Figur 4 zeigen Crinoiden von unten: hier tritt der Stielansatz als heller Punkt hervor. Diese Querschnitte kehren in dutzend Fällen in übereinstimmender Form wieder. (Man vergleiche auch Tafel III. Figur 2 links oben. Bessere Durchschnitte kann man wohl nicht fordern: die Muskelschichten sind hier deutlich sichtbar.)
 
-Eigenthümliche Verschlingungen zeigen Tafel XXVI. Fig. 1-4.
+Eigentümliche Verschlingungen zeigen Tafel XXVI. Figur 1-4.
 
-Die deutlichsten Querschnitte geben Tafel XXV. Fig. 5 und 6. Ein Längsschnitt ist Tafel XXVII. Fig. 3 mit geknickten Armen.
+Die deutlichsten Querschnitte geben Tafel XXV. Figur 5 und 6. Ein Längsschnitt ist Tafel XXVII. Figur 3 mit geknickten Armen.
 
-Tafel XXIV Fig. 1 und 2 sind Formen, welche ich anfangs für Corallen ansah.
-Tafel XXVIII. Fig. 1 könnte doch diesen letzteren zuzuzählen sein (die Struktur sollte deutlicher erhalten sein, um endgültig zu entscheiden).
+Tafel XXIV Figur 1 und 2 sind Formen, welche ich anfangs für Korallen ansah.
 
-Etwas deutlicher ist Tafel XXVII. Fig. 1: eine scheinbare Aussenwand, welche aber nichts als der Durchschnitt des regelmässig gelagerten Hauptarms ist.
+Tafel XXVIII. Figur 1 könnte doch diesen letzteren zuzuzählen sein (die Struktur sollte deutlicher erhalten sein, um endgültig zu entscheiden).
 
-Ein sehr schönes Bild giebt Tafel XXX. 3; ob Crinoid? ist zweifelhaft. Nur bemerke ich, dass die beiden Theile symmetrisch und die Arme nicht aneinander gelegt sind, sondern sich kreuzen.
+Etwas deutlicher ist Tafel XXVII. Figur 1: eine scheinbare Außenwand, welche aber nichts als der Durchschnitt des regelmäßig gelagerten Hauptarms ist.
 
-Tafel XXX. Fig. 5 mit einem Anschnitt hatte ich anfangs zu den Uranien gestellt. Sie wird den Crinoiden zuzuzählen sein.
+Ein sehr schönes Bild gibt Tafel XXX. 3; ob Crinoid? ist zweifelhaft. Nur bemerke ich, dass die beiden Teile symmetrisch und die Arme nicht aneinander gelegt sind, sondern sich kreuzen.
 
-Tafel XXXI. Fig. 1-3 sind offenbar dieselben Formen. In Fig. 1 und 3 ist eine deutliche Furche wahrzunehmen, vielleicht die Stelle wo zwei Crinoiden-Arme sich aneinander legen. Im Polarisationsapparat tritt diese Furche noch deutlicher hervor. Fig. 4, zwei Individuen zusammengelegt, liesse die Deutung auf Schwamm oder Coralle offen. Fig. 5 mit Maschenstruktur in dem mittleren Theil, ein Gewebe von Gliedern, zeigt oben Arme mit deutlicher Struktur. Gehören diese Dinge zu sammen? Da die Form nur einmal vorkommt, wage ich keine Entscheidung. Auffallend ist nur die Aehnlichkeit des Mittelbildes mit der Struktur des Schreibersits im Meteoreisen. Fig. 6 findet sich zweimal, wesshalb ich beide Theile als zusammenhängend angesehen habe.
+Tafel XXX. Figur 5 mit einem Anschnitt hatte ich anfangs zu den Uranien gestellt. Sie wird den Crinoiden zuzuzählen sein.
 
-Dieselbe Maschenstruktur zeigt Tafel XXX. Fig. 6 bei Lupenvergrösserung. Die Struktur beider stimmt, wie erwähnt, mit der Struktur des Schreibersits in dem Meteoreisen und kehrt mehrmals wieder.
+Tafel XXXI. Figur 1-3 sind offenbar dieselben Formen. In Figur 1 und 3 ist eine deutliche Furche wahrzunehmen, vielleicht die Stelle wo zwei Crinoiden-Arme sich aneinander legen. Im Polarisationsapparat tritt diese Furche noch deutlicher hervor. Figur 4, zwei Individuen zusammengelegt, ließe die Deutung auf Schwamm oder Koralle offen. Figur 5 mit Maschenstruktur in dem mittleren Teil, ein Gewebe von Gliedern, zeigt oben Arme mit deutlicher Struktur. Gehören diese Dinge zu stammen? Da die Form nur einmal vorkommt, wage ich keine Entscheidung. Auffallend ist nur die Ähnlichkeit des Mittelbildes mit der Struktur des Schreibersits im Meteoreisen. Figur 6 findet sich zweimal, weshalb ich beide Teile als zusammenhängend angesehen habe.
 
-Wie ich schon im Eingang bemerkte, halte ich es nicht für meine Aufgabe Spezies zu machen. Meine Aufgabe war nur das Dasein von Organismen mit dem Nachweise geschlossener wiederkehrender Formen von organischer Struktur unzweifelhaft festzustellen. Diess glaube ich gethan zu haben und ich denke, es sollte Niemand auch nur den mindesten Zweifel mehr hegen, (insbesondere nach dem Anblick eines Dünnschliffes im Original), dass es sich hier nicht um Mineralformen handle. Sind aber nur 5 organische Formen unzweifelhaft nachgewiesen, so sind auch die übrigen weniger gut erhaltenen Formen organisch.
+Dieselbe Maschenstruktur zeigt Tafel XXX. Figur 6 bei Lupenvergrößerung. Die Struktur beider stimmt, wie erwähnt, mit der Struktur des Schreibersits in dem Meteoreisen und kehrt mehrmals wieder.
+
+Wie ich schon im Eingang bemerkte, halte ich es nicht für meine Aufgabe Spezies zu machen. Meine Aufgabe war nur das Dasein von Organismen mit dem Nachweise geschlossener wiederkehrender Formen von organischer Struktur unzweifelhaft festzustellen. Dies glaube ich getan zu haben und ich denke, es sollte Niemand auch nur den mindesten Zweifel mehr hegen, (insbesondere nach dem Anblick eines Dünnschliffes im Original), dass es sich hier nicht um Mineralformen handle. Sind aber nur 5 organische Formen unzweifelhaft nachgewiesen, so sind auch die übrigen weniger gut erhaltenen Formen organisch.
 
 Um endgültig Genera und gar Spezies festzustellen, gehört mehr Material und jahrelange Untersuchung dazu. (Für ersteres werde ich dankbar sein.) Vor Allem müsste ich mehr Zeit haben, als die Nachtstunden und mehr Kraft, als mir mein anstrengender Beruf übrig lässt, um die Arbeit zu vollenden. Doch meine ich den geforderten Punkt gegeben zu haben, auf welchem man stehen kann.
 
 Zum Schluss verweise ich auf die Tafelerklärung.
 
-Damit sind die Formen vorgeführt. Ich habe eine Zeitlang den Plan verfolgt, eine förmliche Statistik über das Vorkommen der Formen in meiner Dünnschliffsammlung zu machen, aufzuzählen, wie oft ein und dieselbe Form in den 500 Dünnschliffen sich findet. Ich stand davon ab, weil ich mir sagen musste, dass es doch keinen grossen Werth haben werde. Jede Vermehrung meiner Sammlung um nur 12 Nummern würde die Verhältnisszahl ändern. Ich zog daher vor, bei einzelnen Formen das Zahlenverhältniss annähernd anzugeben.
+Damit sind die Formen vorgeführt. Ich habe eine Zeitlang den Plan verfolgt, eine förmliche Statistik über das Vorkommen der Formen in meiner Dünnschliffsammlung zu machen, aufzuzählen, wie oft ein und dieselbe Form in den 500 Dünnschliffen sich findet. Ich stand davon ab, weil ich mir sagen musste, dass es doch keinen großen Wert haben werde. Jede Vermehrung meiner Sammlung um nur 12 Nummern würde die Verhältniszahl ändern. Ich zog daher vor, bei einzelnen Formen das Zahlenverhältnis annähernd anzugeben.
 
-#### III. CAPITEL.
+#### III. KAPITEL.
 
 ##### ALLES LEBEN.
 
