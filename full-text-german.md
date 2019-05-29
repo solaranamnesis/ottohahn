@@ -646,87 +646,87 @@ Eine Untersuchung im Dünnschliffe aber muss ich auf die Zeit aufsparen, wo mir 
 
 Dass kleine Planeten, Planeten im Gewicht von 1/2 Kilogramm auf die Erde fallen und solche daher auch kreisen, ist ganz gewiss. Es lassen sich nun folgende Möglichkeiten denken:
 
-1\. die Meteorite kreisen ausserhalb des Sonnensystems (ein solcher will einmal von Petit in Toulouse beobachtet worden sein),
+1\. die Meteorite kreisen außerhalb des Sonnensystems (ein solcher will einmal von Petit in Toulouse beobachtet worden sein),
 
-2\. die Meteorite kreisen innerhalb des Sonnensystems und zwar: für sich um die Sonne, - um die Sonne mit Planeten (vielleicht also auch einzelne mit der Erde) - um die Sonne, die Planeten und deren Trabanten,
+2\. die Meteorite kreisen innerhalb des Sonnensystems und zwar: für sich um die Sonne, — um die Sonne mit Planeten (vielleicht also auch einzelne mit der Erde) — um die Sonne, die Planeten und deren Trabanten,
 
 3\. die Meteorite kreisen in allen diesen Bahnen.
 
-Man weiss aus langjährigen Beobachtungen jetzt sicher, dass in gewissen Zeitabschnitten (10. August, 13. November) Schwärme von Meteoriten unserer Erde sich nähern und unsere Erdbahn schneiden; weiss dass diese Schwärme in gewissen Jahren zahlreicher sind, als in andern, weiss, dass einzelne Meteorite auf unsere Erde fallen, eine Thatsache, welche ihren Grund in der Anziehung der Erde hat. - Die Bahnen der Meteorite aber sind noch nicht festgestellt, weder die der Schwärme, noch die von einzelnen; weder von solchen, welche gefallen, noch von solchen, welche bloss an der Erde vorbeigezogen sind. Somit lässt sich aus den Bahnen, welche man nicht kennt, nichts für die Entstehung der Meteoriten ableiten.
+Man weis aus langjährigen Beobachtungen jetzt sicher, dass in gewissen Zeitabschnitten (10. August, 13. November) Schwärme von Meteoriten unserer Erde sich nähern und unsere Erdbahn schneiden; weis dass diese Schwärme in gewissen Jahren zahlreicher sind, als in andern, weis, dass einzelne Meteorite auf unsere Erde fallen, eine Tatsache, welche ihren Grund in der Anziehung der Erde hat. — Die Bahnen der Meteorite aber sind noch nicht festgestellt, weder die der Schwärme, noch die von einzelnen; weder von solchen, welche gefallen, noch von solchen, welche bloß an der Erde vorbeigezogen sind. Somit lässt sich aus den Bahnen, welche man nicht kennt, nichts für die Entstehung der Meteoriten ableiten.
 
-Nun fragt es sich, was aus der Zusammensetzung der Meteorite folgt. Ihre chemischen Elemente sind dieselben, wie die unserer Erde. Diese Thatsache lässt sich nun auf gemeinsame Entstehung, also darauf deuten, dass die Erde mit den Meteoriten Eine Masse gebildet habe, wie darauf, dass die Entstehung und Entwicklung aller Planeten dieselbe sei. Die blosse Thatsache der chemischen Gleichheit lässt also verschiedene Folgerungen offen. Nun habe ich aber irdische Organismen in den Meteoriten nachgewiesen und es kann noch nicht einmal als gewiss angenommen werden, dass die nicht übereinstimmenden auf der Erde nicht auch vorkommen. - Zu meinem Bedauern muss ich es gestehen, dass die Zahl der Zweifel durch meine Entdeckung eben nur vermehrt worden ist.
+Nun fragt es sich, was aus der Zusammensetzung der Meteorite folgt. Ihre chemischen Elemente sind dieselben, wie die unserer Erde. Diese Tatsache lässt sich nun auf gemeinsame Entstehung, also darauf deuten, dass die Erde mit den Meteoriten Eine Masse gebildet habe, wie darauf, dass die Entstehung und Entwicklung aller Planeten dieselbe sei. Die bloße Tatsache der chemischen Gleichheit lässt also verschiedene Folgerungen offen. Nun habe ich aber irdische Organismen in den Meteoriten nachgewiesen und es kann noch nicht einmal als gewiss angenommen werden, dass die nicht übereinstimmenden auf der Erde nicht auch vorkommen. — Zu meinem Bedauern muss ich es gestehen, dass die Zahl der Zweifel durch meine Entdeckung eben nur vermehrt worden ist.
 
 Aufs Neue erheben sich jetzt die Fragen: Entstanden die Meteorite mit der Erde? Kommen sie von der Erde? Waren sie also von Anfang an mit der Erde eine Masse und wurden von ihr getrennt, so dass sie vielleicht eine Art unsichtbarer Trabanten derselben gewesen wären oder gar noch sind?
 
-Ich hebe zunächst nur diese Fragen hervor, denn sie sind für die Geologie die wichtigsten. Das specifische Gewicht der Erde und das Gestein von Ovifak machen es wahrscheinlich, dass die Erde ganz aus denselben Gesteinen zusammengesetzt ist wie die Meteorite, vorausgesetzt, dass Eisen- und Stein-Meteorite zusammengehören. Daraus liesse sich schliessen, dass die Meteorite ursprünglich ein Theil der Erde gewesen, und zwar zur Zeit, als die Erdbildung bis zu den Olivinschichten vorgeschritten war, und dass sie jetzt erst von ihr losgelösst worden seien. Letzteres müsste geschehen sein in Folge des Stosses eines Weltkörpers auf die Erde, denn ohne einen solchen wäre eine Trennnng nicht zu erklären, es müsste denn die Erdanziehung plötzlich aufgehört, oder doch in so hohem Grade sich gemindert haben, dass ein Theil ihrer Masse aus ihrem Anziehungskreis hinausgeschleudert werden konnte. - An ein Zerspringen, also an einen Stoss von innen durch Gaskraft und dergleichen ist schwer zu glauben, obgleich auch das nicht völlig ausgeschlossen wäre.
+Ich hebe zunächst nur diese Fragen hervor, denn sie sind für die Geologie die wichtigsten. Das spezifische Gewicht der Erde und das Gestein von Ovifak machen es wahrscheinlich, dass die Erde ganz aus denselben Gesteinen zusammengesetzt ist wie die Meteorite, vorausgesetzt, dass Eisen- und Stein-Meteorite zusammengehören. Daraus ließe sich schließen, dass die Meteorite ursprünglich ein Teil der Erde gewesen, und zwar zur Zeit, als die Erdbildung bis zu den Olivinschichten vorgeschritten war, und dass sie jetzt erst von ihr losgelöst worden seien. Letzteres müsste geschehen sein in Folge des Stoßes eines Weltkörpers auf die Erde, denn ohne einen solchen wäre eine Trennung nicht zu erklären, es müsste denn die Erdanziehung plötzlich aufgehört, oder doch in so hohem Grade sich gemindert haben, dass ein Teil ihrer Masse aus ihrem Anziehungskreis hinausgeschleudert werden konnte. — An ein Zerspringen, also an einen Stoß von innen durch Gaskraft und dergleichen ist schwer zu glauben, obgleich auch das nicht völlig ausgeschlossen wäre.
 
 Man kann also auch jetzt aus chemischen und morphologischen Gründen so wenig als aus der Gesteinsbeschaffenheit einen Schluss ziehen, ob die Meteorite Kinder oder Brüder der Erde sind und man ist zunächst auf den Ausspruch des Astronomen angewiesen.
 
-Wenn nun aber dieser bestätigt, dass die Meteorite vermöge ihrer Bahnen nicht ein Theil der Erdmasse gewesen sein können, so treten zweitens die Fragen ein: wie verhalten sich die einzelnen Fälle zu einander? Sind die Steine und Eisen ursprünglich zusammengehörig, oder haben Steine und Eisen verschiedenen Ursprung? Und drittens wäre die Frage: haben wenigstens die chemisch und morphologisch gleichen Steine Einem Planeten angehört, welcher durch irgend eine Ursache in Trümmer ging?
+Wenn nun aber dieser bestätigt, dass die Meteorite vermöge ihrer Bahnen nicht ein Teil der Erdmasse gewesen sein können, so treten zweitens die Fragen ein: wie verhalten sich die einzelnen Fälle zu einander? Sind die Steine und Eisen ursprünglich zusammengehörig, oder haben Steine und Eisen verschiedenen Ursprung? Und drittens wäre die Frage: haben wenigstens die chemisch und morphologisch gleichen Steine Einem Planeten angehört, welcher durch irgend eine Ursache in Trümmer ging?
 
-Letzteres könnte auf den ersten Anblick eben aus der chemisch-morphologischen Aehnlichkeit gefolgert werden und in der That, die Sache schiene ganz einfach und klar. Aber es wäre doch noch eine andere Möglichkeit, die Möglichkeit, dass unter gleichen Bedingungen sich eine Unzahl kleiner Planeten bilden könnte und vielleicht heute noch bildet. Die Stücke wären dann nicht Trümmer, sondern eigene Weltkörper.
+Letzteres könnte auf den ersten Anblick eben aus der chemisch-morphologischen Ähnlichkeit gefolgert werden und in der Tat, die Sache schiene ganz einfach und klar. Aber es wäre doch noch eine andere Möglichkeit, die Möglichkeit, dass unter gleichen Bedingungen sich eine Unzahl kleiner Planeten bilden könnte und vielleicht heute noch bildet. Die Stücke wären dann nicht Trümmer, sondern eigene Weltkörper.
 
-Eisen und Steine könnten nun eigene Weltkörper sein - die Grösse allein stünde der Annahme nicht im Wege. - Wenn aber die kleinen Massen aus Wassergeschöpfen bestehen und sie bestehen ja auch aus einer bloss mikroskopischen Schöpfung - so fragt es sich: lebten diese im Wasser oder im Wasserdampf? Genügte ihnen ein fortwährender Niederschlag von Wasser, wie wir ihn sehr leicht uns denken können, da wir heute noch Gegenden auf unserer Erde haben, wo stets Regen fällt wie in anderen kein Regentropfen. Dieser Frage ist entgegen zu halten, dass auch zu der mikroskopischen Schöpfung Baustoffe nothwendig waren, welche nicht unter, sondern über den Geschöpfen gesucht werden müssen, denn nur aus wässrigen Lösungen konnte sich die mikroskopische Thierwelt aufbauen.
+Eisen und Steine könnten nun eigene Weltkörper sein — die Größe allein stünde der Annahme nicht im Wege. — Wenn aber die kleinen Massen aus Wassergeschöpfen bestehen und sie bestehen ja auch aus einer bloß mikroskopischen Schöpfung — so fragt es sich: lebten diese im Wasser oder im Wasserdampf? Genügte ihnen ein fortwährender Niederschlag von Wasser, wie wir ihn sehr leicht uns denken können, da wir heute noch Gegenden auf unserer Erde haben, wo stets Regen fällt wie in anderen kein Regentropfen. Dieser Frage ist entgegen zu halten, dass auch zu der mikroskopischen Schöpfung Baustoffe notwendig waren, welche nicht unter, sondern über den Geschöpfen gesucht werden müssen, denn nur aus wässrigen Lösungen konnte sich die mikroskopische Tierwelt aufbauen.
 
-Diese Thierwelt ist aber schon eine wenigstens zum Theil höher organisirte. Eine einzellige Pflanze, ein Hefenpilz mag der Anfang eines Planeten gewesen sein: ein Crinoid konnte es aus inneren Gründen nicht sein, denn hier müssen wir einen längeren Zeitraum und daher auch eine grössere Masse uns denken, durch welche diese Stufe der Entwicklung erreicht werden konnte.
+Diese Tierwelt ist aber schon eine wenigstens zum Teil höher organisierte. Eine einzellige Pflanze, ein Hefenpilz mag der Anfang eines Planeten gewesen sein: ein Crinoid konnte es aus inneren Gründen nicht sein, denn hier müssen wir einen längeren Zeitraum und daher auch eine größere Masse uns denken, durch welche diese Stufe der Entwicklung erreicht werden konnte.
 
-Diese Thatsachen leiten uns in Verbindung mit der Wahrscheinlichkeit, dass Eisen der Kern des Chondrit-Planeten gewesen sei, dahin: die Chondrite als Trümmer eines und desselben Weltkörpers anzusehen, Trümmer, welche nach der Zerstörung des Planeten kreisten, bis sie glücklicherweise in den Fallkreis unserer Erde kamen. Auch die Formen der Meteorite selbst sprechen endlich für Trümmer.
+Diese Tatsachen leiten uns in Verbindung mit der Wahrscheinlichkeit, dass Eisen der Kern des Chondrit-Planeten gewesen sei, dahin: die Chondrite als Trümmer eines und desselben Weltkörpers anzusehen, Trümmer, welche nach der Zerstörung des Planeten kreisten, bis sie glücklicherweise in den Fallkreis unserer Erde kamen. Auch die Formen der Meteorite selbst sprechen endlich für Trümmer.
 
 Wir haben also nur eine hypothetische Gewissheit: nämlich die Wahrscheinlichkeit der ursprünglichen Zusammengehörigkeit der zu uns gelangten Trümmer.
 
-Sollten sie aber auch von unserer Erde gekommen, Theile derselben gewesen sein: ihre Zusammensetzung aus Organismen ist immerhin noch eine Thatsache, welche wichtig genug wäre für unsere Erdgeschichte. Stammen sie aber nicht von der Erde, so geben sie uns die Erklärung zweier Thatsachen: die Entstehung eines Planeten und die Wahrscheinlichkeit für die Art und Weise der Entstehung unserer Erde. Waren sie aber jeder ein Planet für sich, so bezeugen sie eine Schöpfungskraft, welche wirklich unsere Begriffe von der Entstehung organischer Formen und deren Verlauf weit hinter sich liesse.
+Sollten sie aber auch von unserer Erde gekommen, Teile derselben gewesen sein: ihre Zusammensetzung aus Organismen ist immerhin noch eine Tatsache, welche wichtig genug wäre für unsere Erdgeschichte. Stammen sie aber nicht von der Erde, so geben sie uns die Erklärung zweier Tatsachen: die Entstehung eines Planeten und die Wahrscheinlichkeit für die Art und Weise der Entstehung unserer Erde. Waren sie aber jeder ein Planet für sich, so bezeugen sie eine Schöpfungskraft, welche wirklich unsere Begriffe von der Entstehung organischer Formen und deren Verlauf weit hinter sich ließe.
 
-#### II. CAPITEL.
+#### II. KAPITEL.
 
 ##### DIE ERDBILDUNG.
 
-Anschliessend an die bisherigen Resultate liessen sich auch für die Erdbildung einige Schlüsse ziehen. Höchst wahrscheinlich zeigt der Erddurchschnitt dieselbe Gesteins-Reihenfolge, wie die Meteorite, welche vom Eisen zum Pallasite (Olivin mit Eisen), von da zu Olivin-, Enstatit-, (Feldspat)-Gestein übergehen.
+Anschließend an die bisherigen Resultate ließen sich auch für die Erdbildung einige Schlüsse ziehen. Höchst wahrscheinlich zeigt der Erddurchschnitt dieselbe Gesteins-Reihenfolge, wie die Meteorite, welche vom Eisen zum Pallasite (Olivin mit Eisen), von da zu Olivin-, Enstatit-, (Feldspat)-Gestein übergehen.
 
-Auf der Erde folgt dem Olivin der Granit, ein Feldspatgestein: diese Reihenfolge entspricht auch dem specifischen Gewicht der Minerale.
+Auf der Erde folgt dem Olivin der Granit, ein Feldspatgestein: diese Reihenfolge entspricht auch dem spezifischen Gewicht der Minerale.
 
-Es haben Hornblende 3-3,40, Olivin 3,35, Enstatit 3,10-3,29, Orthoklas 2,53-3,10, Quarz 2-2,80 specifisches Gewicht. Das hohe specifische Gewicht der Hornblende rührt offenbar noch von dem Eisengehalte her. Diese Aufeinanderfolge im Gewicht, wie in der Lagerung spricht ebenfalls entschieden für Bildung im Wasser, in wässeriger Lösung. Hier muss ich wiederholen, was ich schon in der „Urzelle“ sagte: die Schöpfung, d. h. die organische Bildung kann nicht mit den Krebsen (Trilobiten) angefangen haben. Wir finden ja überall in den späteren Schichten eine stete Entwicklungsreihe der Formen, warum sollte bloss im Anfang dieses Gesetz nicht gewaltet haben?
+Es haben Hornblende 3-3,40, Olivin 3,35, Enstatit 3,10-3,29, Orthoklas 2,53-3,10, Quarz 2-2,80 spezifisches Gewicht. Das hohe spezifische Gewicht der Hornblende rührt offenbar noch von dem Eisengehalte her. Diese Aufeinanderfolge im Gewicht, wie in der Lagerung spricht ebenfalls entschieden für Bildung im Wasser, in wässeriger Lösung. Hier muss ich wiederholen, was ich schon in der „Urzelle“ sagte: die Schöpfung, d. h. die organische Bildung kann nicht mit den Krebsen (Trilobiten) angefangen haben. Wir finden ja überall in den späteren Schichten eine stete Entwicklungsreihe der Formen, warum sollte bloß im Anfang dieses Gesetz nicht gewaltet haben?
 
-Schon dieses würde zu der Annahme des organischen Ursprungs der unmittelbaren Vorläufer des Silur, des Gneisses und des Granits führen.
+Schon dieses würde zu der Annahme des organischen Ursprungs der unmittelbaren Vorläufer des Silur, des Gneises und des Granits führen.
 
-Mit dem Beweise der organischen Zusammensetzung der Chondrite ist das Hauptargument gefallen, welches bis daher im Wege stund, den Granit für ein Wassergebilde anzusehen: beide Gesteine enthalten vorzugsweise Feldspat. - Was den Granit betrifft, so habe ich Formen darin gefunden, welche denen der Chondrite ähnlich sind.
+Mit dem Beweise der organischen Zusammensetzung der Chondrite ist das Hauptargument gefallen, welches bis daher im Wege stunde, den Granit für ein Wassergebilde anzusehen: beide Gesteine enthalten vorzugsweise Feldspat. — Was den Granit betrifft, so habe ich Formen darin gefunden, welche denen der Chondrite ähnlich sind.
 
-Ich will hier zum Beweis des Ursprungs des Granits nicht nur aus Wasser, sondern aus Organismen, einige Punkte nachtragen. Feldspat und Quarz krystallisiren, ich möchte sagen, leidenschaftlich. Im Granit finden sich aber beide Mineralie regelmässig nicht krystallisirt; der Feldspat zeigt bloss einen Blätterbruch. Einen solchen zeigt aber auch jede in Kalk verwandelte Versteinerung, z. B. ein Crinoidenstiel. Warum kommt der Feldspat im Granit nicht krystallisirt vor? Weil er durch eine stärkere formbildende Kraft gebunden war. Der Feldspat des Granits (wo letzerer wirklich erhalten ist) zeigt ferner stets bestimmte, stets wiederkehrende Formen, nicht Conglomerat- oder Roll-, auch, wie ich bemerkte, keine Krystall-Formen. - Auch hier wächst immer eine Form aus der andern heraus. Diese Formen sind Schwammformen. Der Quarz füllt die Hohlräume.
+Ich will hier zum Beweis des Ursprungs des Granits nicht nur aus Wasser, sondern aus Organismen, einige Punkte nachtragen. Feldspat und Quarz kristallisieren, ich möchte sagen, leidenschaftlich. Im Granit finden sich aber beide Minerale regelmäßig nicht kristallisiert; der Feldspat zeigt bloß einen Blätterbruch. Einen solchen zeigt aber auch jede in Kalk verwandelte Versteinerung, z. B. ein Crinoidenstiel. Warum kommt der Feldspat im Granit nicht kristallisiert vor? Weil er durch eine stärkere formbildende Kraft gebunden war. Der Feldspat des Granits (wo letzterer wirklich erhalten ist) zeigt ferner stets bestimmte, stets wiederkehrende Formen, nicht Konglomerat- oder Roll-, auch, wie ich bemerkte, keine Kristall-Formen. — Auch hier wächst immer eine Form aus der andern heraus. Diese Formen sind Schwammformen. Der Quarz füllt die Hohlräume.
 
-Auch auf die Gebirgsbildung möchte ich hinweisen. Dr. Stapff, welcher den Gebirgsbau im Gotthard-Tunnel gewiss zur Genüge beobachtet hat, erklärt (Neues Jahrbuch für Mineralogie 1869, S. 792), dass er keine Spur einer Massen-Hebung oder Zertrümmerung im Gotthard-Tunnel, dem grössten Aufschluss des Erdinnern den man kennt, beobachtet habe. Dieses „Urgebirge“ ist nach seiner Feststellung ein Sedimentgebirge. Ja! es ist sogar denkbar, dass es sich gebildet hat, als unsere Atmosphäre noch den grössten Theil des Wassers in sich gefasst hielt, eine Atmosphäre, welche nicht durch Feuer im Erdinnern, wohl aber durch die chemische Wärme mehr erwärmt war als sie es heute ist. Ist dem aber so, so bleibt für die Entstehung der Urgesteine, wie Urgebirge kein Erklärungsgrund als das organische Leben.
+Auch auf die Gebirgsbildung möchte ich hinweisen. Dr. Stapff, welcher den Gebirgsbau im Gotthard-Tunnel gewiss zur Genüge beobachtet hat, erklärt (Neues Jahrbuch für Mineralogie 1869, S. 792), dass er keine Spur einer Massen-Hebung oder Zertrümmerung im Gotthard-Tunnel, dem größten Aufschluss des Erdinnern den man kennt, beobachtet habe. Dieses „Urgebirge“ ist nach seiner Feststellung ein Sedimentgebirge. Ja! es ist sogar denkbar, dass es sich gebildet hat, als unsere Atmosphäre noch den größten Teil des Wassers in sich gefasst hielt, eine Atmosphäre, welche nicht durch Feuer im Erdinnern, wohl aber durch die chemische Wärme mehr erwärmt war als sie es heute ist. Ist dem aber so, so bleibt für die Entstehung der Urgesteine, wie Urgebirge kein Erklärungsgrund als das organische Leben.
 
-Heute noch können niedere Thiere und Pflanzen einen Hitzgrad ertragen, welcher für andere Wesen absolut tödtlich wirkt, somit steht auch der Annahme organischen Lebens bei erhöhtem Wärmegrad nichts im Wege. Apatit und Graphit können ebenfalls als Zeugen organischer Thätigkeit gelten. Mit dem Niederschlag der Kieselerde (Kieselsäure) war das Erdgerippe fertig: es bestand aus den Knochen der abgestorbenen Thiere; Thon, Kalk, Salz nebst Gasen und Wasser bildeten nun die Baustoffe für die fernere Thätigkeit auf der Erd-Oberfläche. Weil dieser (nicht Erstarrungs-, sondern Niederschlags-) Process in der Hauptsache abgeschlossen war, erhielt nun der Organismus Raum und Zeit zu einer höheren Entwicklung, welche bis dahin unmöglich war, denn jede neue Bildung begrub die kaum entstandene. Jetzt erst, nachdem eine schwer lösliche Verbindung als Mantel um die Erde gelegt war, konnte die Formen-Entwicklung in ihre Rechte eintreten. Die Erdperioden wurden jetzt länger; mit dem Vorrath an feineren Baustoffen kam das Gesetz der Symmetrie in Geltung. Aber noch eine weitere Ursache trat hinzu: die niedersten Organismen sind Kinder der Nacht; ein Pilz erstirbt im Licht der Sonne. Die ganze bisherige Schöpfung, bis zum Niederschlag der dichteren Baustoffe, war eine Nachtschöpfung: die fortwährenden chemischen Verbindungen mussten eine Wärme erzeugen, welche dem Wasser nicht gestattete, in dem Grade zum Meere zu werden wie heute. Endlich waren die chemischen Verbindungen in der Hauptsache abgeschlossen und es war dadurch eine Oberfläche, eine Art Schale geschaffen. Jetzt aber trat der Licht- und Wärmestrahl der Sonne in Wirkung, welchem bis dahin der Weg bis zur festeren Oberfläche durch eine hohe und dichte Atmosphäre verschlossen war. Es beginnt die Lichtschöpfung; das Königreich der Sonne hat das Reich der Nacht auf unserem Erdball überwunden, hat die Nacht in die Tiefen der Erde gebannt.
+Heute noch können niedere Tiere und Pflanzen einen Hitzegrad ertragen, welcher für andere Wesen absolut tödlich wirkt, somit steht auch der Annahme organischen Lebens bei erhöhtem Wärmegrad nichts im Wege. Apatit und Graphit können ebenfalls als Zeugen organischer Tätigkeit gelten. Mit dem Niederschlag der Kieselerde (Kieselsäure) war das Erdgerippe fertig: es bestand aus den Knochen der abgestorbenen Tiere; Ton, Kalk, Salz nebst Gasen und Wasser bildeten nun die Baustoffe für die fernere Tätigkeit auf der Erd-Oberfläche. Weil dieser (nicht Erstarrungs-, sondern Niederschlags-) Prozess in der Hauptsache abgeschlossen war, erhielt nun der Organismus Raum und Zeit zu einer höheren Entwicklung, welche bis dahin unmöglich war, denn jede neue Bildung begrub die kaum entstandene. Jetzt erst, nachdem eine schwer lösliche Verbindung als Mantel um die Erde gelegt war, konnte die Formen-Entwicklung in ihre Rechte eintreten. Die Erdperioden wurden jetzt länger; mit dem Vorrat an feineren Baustoffen kam das Gesetz der Symmetrie in Geltung. Aber noch eine weitere Ursache trat hinzu: die niedersten Organismen sind Kinder der Nacht; ein Pilz erstirbt im Licht der Sonne. Die ganze bisherige Schöpfung, bis zum Niederschlag der dichteren Baustoffe, war eine Nachtschöpfung: die fortwährenden chemischen Verbindungen mussten eine Wärme erzeugen, welche dem Wasser nicht gestattete, in dem Grade zum Meere zu werden wie heute. Endlich waren die chemischen Verbindungen in der Hauptsache abgeschlossen und es war dadurch eine Oberfläche, eine Art Schale geschaffen. Jetzt aber trat der Licht- und Wärmestrahl der Sonne in Wirkung, welchem bis dahin der Weg bis zur festeren Oberfläche durch eine hohe und dichte Atmosphäre verschlossen war. Es beginnt die Lichtschöpfung; das Königreich der Sonne hat das Reich der Nacht auf unserem Erdball überwunden, hat die Nacht in die Tiefen der Erde gebannt.
 
-So, durch das Licht, erklärt sich nun auch das mit dem Silur plötzlich und mächtig hervortretende höhere Leben: es war der erste Ruhepunkt der Schöpfung. Unter dem Einfluss des Lichtes sehen wir nun eine Entwicklung beginnen, welche so weit von der früheren abstand, als heute das Leben am Pol absteht von dem am Aequator. So erklärt sich auch die plötzliche Aenderung. Hätte es sich bloss um Abkühlung gehandelt, so müsste die Schöpfung einen viel langsameren Uebergang aufweisen. Was nach dem Niederschlag des Magnesium, Silicium, Kalium, Natrium noch im Wasser gelöst blieb, war verhältnissmässig wenig; hier konnte nun das Licht anfangen zu wirken. Durch diese Annahme erklärt sich allein, dass das Leben auf der ganzen Erde, dass auch auf ihrer ganzen Oberfläche Wasser war, sowie dass Wasserthiere noch Gebirge aufbauen konnten, welche weit über den jetzigen Spiegel des Meeres reichen. Diese Gebirge sind nicht gehoben, auch nicht nach mechanischem Gesetze (durch Schwungkraft) hinaufgetrieben, ebensowenig durch Erkaltung der Oberfläche herausgepresst worden; denn als Letztere erkaltete (richtiger „vertrocknete“), konnten höchstens Sprünge und Klüfte entstehen und unter der Oberfläche war kein Brei, sondern feste Masse. Was ist nun nach meinen jetzigen Feststellungen Oberfläche, jetzt nachdem die Grenze des Urgebirgs und der folgenden Schichten aufgehoben ist?* Was diese Schichte hinsichtlich ihrer Schöpfung von dem Urgebirge scheidet, ist nur die Wirkung des Lichts, welche um so stärker werden musste, je mehr sich die Wasserdämpfe verdichteten und das Wasser die Klüfte des Erdballs ausfüllte.
+So, durch das Licht, erklärt sich nun auch das mit dem Silur plötzlich und mächtig hervortretende höhere Leben: es war der erste Ruhepunkt der Schöpfung. Unter dem Einfluss des Lichtes sehen wir nun eine Entwicklung beginnen, welche so weit von der früheren Abstand, als heute das Leben am Pol absteht von dem am Äquator. So erklärt sich auch die plötzliche Änderung. Hätte es sich bloß um Abkühlung gehandelt, so müsste die Schöpfung einen viel langsameren Übergang aufweisen. Was nach dem Niederschlag des Magnesium, Silicium, Kalium, Natrium noch im Wasser gelöst blieb, war verhältnismäßig wenig; hier konnte nun das Licht anfangen zu wirken. Durch diese Annahme erklärt sich allein, dass das Leben auf der ganzen Erde, dass auch auf ihrer ganzen Oberfläche Wasser war, sowie dass Wassertiere noch Gebirge aufbauen konnten, welche weit über den jetzigen Spiegel des Meeres reichen. Diese Gebirge sind nicht gehoben, auch nicht nach mechanischem Gesetze (durch Schwungkraft) hinaufgetrieben, ebensowenig durch Erkaltung der Oberfläche herausgepresst worden; denn als Letztere erkaltete (richtiger „vertrocknete“), konnten höchstens Sprünge und Klüfte entstehen und unter der Oberfläche war kein Brei, sondern feste Masse. Was ist nun nach meinen jetzigen Feststellungen Oberfläche, jetzt nachdem die Grenze des Urgebirgs und der folgenden Schichten aufgehoben ist?* Was diese Schichte hinsichtlich ihrer Schöpfung von dem Urgebirge scheidet, ist nur die Wirkung des Lichts, welche um so stärker werden musste, je mehr sich die Wasserdämpfe verdichteten und das Wasser die Klüfte des Erdballs ausfüllte.
 
-Nun aber wären die Tage der Erde doch gezählt gewesen, wenn nicht eben durch das Licht gesorgt worden wäre, dass der Niederschlagsprocess sich nicht rasch vollendet, dass die einzigen noch übrigen chemischen Verbindungen sich nicht rasch vollzogen hätten und damit das Leben der Erde und auf der Erde für ewig zum Stillstand gebracht gewesen wäre. Die Schöpfungen des Lichts waren neue, höhere Organismen. Diese Organismen bauten sich auf aus den noch nicht in organische Verbindungen getretenen Abfallstoffen der bisherigen Schöpfung und dadurch wurde dem Tode Halt geboten. Dieser wäre eingetreten und die Erde wäre zur Wüste geworden, wenn nicht eben die durch das Licht geschaffenen Organismen mit ihrer Nahrung und durch ihre Einathmung Verbindungen eingingen und solche wieder lösten und so einen Kreislauf, Leben genannt, bewirkten. Es ist also das Licht, welches unsere Erde vor dem Tode schützt, der auf ihrem Satelliten schon eingetreten zu sein scheint. Das Licht aber wirkt durch das Wasser. Das Wasser verbindet den Stein und den Aether, und diess eröffnet uns den Blick in die Zukunft unseres Planeten.
+Nun aber wären die Tage der Erde doch gezählt gewesen, wenn nicht eben durch das Licht gesorgt worden wäre, dass der Niederschlagsprocess sich nicht rasch vollendet, dass die einzigen noch übrigen chemischen Verbindungen sich nicht rasch vollzogen hätten und damit das Leben der Erde und auf der Erde für ewig zum Stillstand gebracht gewesen wäre. Die Schöpfungen des Lichts waren neue, höhere Organismen. Diese Organismen bauten sich auf aus den noch nicht in organische Verbindungen getretenen Abfallstoffen der bisherigen Schöpfung und dadurch wurde dem Tode Halt geboten. Dieser wäre eingetreten und die Erde wäre zur Wüste geworden, wenn nicht eben die durch das Licht geschaffenen Organismen mit ihrer Nahrung und durch ihre Einatmung Verbindungen eingingen und solche wieder lösten und so einen Kreislauf, Leben genannt, bewirkten. Es ist also das Licht, welches unsere Erde vor dem Tode schützt, der auf ihrem Satelliten schon eingetreten zu sein scheint. Das Licht aber wirkt durch das Wasser. Das Wasser verbindet den Stein und den Äther, und dies eröffnet uns den Blick in die Zukunft unseres Planeten.
 
-*Man hat bei der Hebungstheorie vergessen, dass eine Gewalt, welche nöthig wäre, um Gebirge zu heben, diese zugleich zermalmt hätte: bei der Pressungstheorie ist man nicht im Stande zu sagen, wo denn eigentlich das Gebirge geblieben ist, durch welches „der Brei“ gepresst worden wäre! Die ganze Oberfläche kann doch nicht herausgepresst worden sein.
+*Man hat bei der Hebungstheorie vergessen, dass eine Gewalt, welche nötig wäre, um Gebirge zu heben, diese zugleich zermalmt hätte: bei der Pressungstheorie ist man nicht im Stande zu sagen, wo denn eigentlich das Gebirge geblieben ist, durch welches „der Brei“ gepresst worden wäre! Die ganze Oberfläche kann doch nicht herausgepresst worden sein.
 
-#### III. CAPITEL.
+#### III. KAPITEL.
 
 ##### DIE ZUKUNFT UNSERES PLANETEN.
 
-Der Fall von Planeten-Trümmern auf unsere Erde, (für diesen Ursprung der Meteorite sprechen die meisten Gründe) liesse ein mechanisches Enden, einen gewaltsamen Tod auch für unsere Erde fürchten. Geschah es jenem oder jenen Planeten, von welchen die Meteorite herrühren, dass sie zertrümmert wurden, und zwar wurden sie es wohl nicht durch eine Kraft von innen, sondern durch Anstoss von aussen: so müssten wir darauf gefasst sein, dass auch unserer Erde einmal dieses Schicksal widerfahren werde, wenigstens drohte es uns. Ich muss es den Astronomen überlassen, sich und ihre Zeitgenossen darüber zu trösten.
+Der Fall von Planeten-Trümmern auf unsere Erde, (für diesen Ursprung der Meteorite sprechen die meisten Gründe) ließe ein mechanisches Enden, einen gewaltsamen Tod auch für unsere Erde fürchten. Geschah es jenem oder jenen Planeten, von welchen die Meteorite herrühren, dass sie zertrümmert wurden, und zwar wurden sie es wohl nicht durch eine Kraft von innen, sondern durch Anstoß von außen: so müssten wir darauf gefasst sein, dass auch unserer Erde einmal dieses Schicksal widerfahren werde, wenigstens drohte es uns. Ich muss es den Astronomen überlassen, sich und ihre Zeitgenossen darüber zu trösten.
 
-Aber auch auf das andere, oben schon angedeutete Aufhören des Lebens auf der Oberfläche müssten wir gefasst sein, allerdings ein weniger blutiges, aber darum nicht tröstlicheres Ende, nämlich auf das Schicksal des allmählichen Absterbens, des Erlöschens der Lebenskraft durch die Verbindung der Baustoffe zu unlöslichen Verbindungen: wür müssten fürchten, es werde unsere Atmosphäre in der Bildung unlöslicher Verbindungen aus den noch übrigen Baustoffen fortfahren und es werde mit dem Verlust an verfügbarem Baustoff der Kreislauf ein stets schwächerer und langsamerer werden und endlich - aufhören.
+Aber auch auf das andere, oben schon angedeutete Aufhören des Lebens auf der Oberfläche müssten wir gefasst sein, allerdings ein weniger blutiges, aber darum nicht tröstlicheres Ende, nämlich auf das Schicksal des allmählichen Absterbens, des Erlöschens der Lebenskraft durch die Verbindung der Baustoffe zu unlöslichen Verbindungen: wür müssten fürchten, es werde unsere Atmosphäre in der Bildung unlöslicher Verbindungen aus den noch übrigen Baustoffen fortfahren und es werde mit dem Verlust an verfügbarem Baustoff der Kreislauf ein stets schwächerer und langsamerer werden und endlich — aufhören.
 
-Vor diesem sonst fast vorausberechenbaren Verlaufe bewahrt uns einzig und allein - das Wasser; das Wasser, welches unsere Erde in ihrer Bildung sich anzueignen und festzuhalten vermochte.
+Vor diesem sonst fast vorausberechenbaren Verlaufe bewahrt uns einzig und allein — das Wasser; das Wasser, welches unsere Erde in ihrer Bildung sich anzueignen und festzuhalten vermochte.
 
-Dadurch, dass die geschaffenen Wesen selbst die Verbindungen wieder lösen, welche sich in ihren Körpern bilden - dass also insbesondere die Pflanze das was sie aufsaugt, selbst wieder zerlegt, während das Thier diese Ausscheidungen in sich aufnimmt, um sie dann alsbald wieder auszuscheiden und der Pflanze (nicht dem Boden) zurückzugeben: durch all diess ist ein Kreislauf geschaffen, dessen Ende nicht abzusehen ist.
+Dadurch, dass die geschaffenen Wesen selbst die Verbindungen wieder lösen, welche sich in ihren Körpern bilden — dass also insbesondere die Pflanze das was sie aufsaugt, selbst wieder zerlegt, während das Thier diese Ausscheidungen in sich aufnimmt, um sie dann alsbald wieder auszuscheiden und der Pflanze (nicht dem Boden) zurückzugeben: durch all diess ist ein Kreislauf geschaffen, dessen Ende nicht abzusehen ist.
 
-Dieser Vorgang und nicht die Abkühlung der Erdrinde, von welcher so viel geredet worden ist, bildet die wahre Geschichte unserer Erdoberfläche. Allerdings scheinen wir an unserem Trabanten, dem Mond, ein schreckendes Beispiel zu haben: Dort, glaube ich, ist das Leben erloschen. Nicht Meere sind dort, wie man glaubte und nicht Vulkane waren es, sondern der Mangel oder der Verlust des Wassers wird es gewesen sein, was diesem Planeten einen vorzeitigen Tod bereitete, was das Leben bald nach der Geburt wieder verlöschen liess.*
+Dieser Vorgang und nicht die Abkühlung der Erdrinde, von welcher so viel geredet worden ist, bildet die wahre Geschichte unserer Erdoberfläche. Allerdings scheinen wir an unserem Trabanten, dem Mond, ein schreckendes Beispiel zu haben: Dort, glaube ich, ist das Leben erloschen. Nicht Meere sind dort, wie man glaubte und nicht Vulkane waren es, sondern der Mangel oder der Verlust des Wassers wird es gewesen sein, was diesem Planeten einen vorzeitigen Tod bereitete, was das Leben bald nach der Geburt wieder verlöschen ließ.*
 
-Die Wärme auf unserer Erdoberfläche scheint mir mehr von der Erhaltung der die Kälte des Weltraums abwehrenden Atmosphäre abzuhängen. Die grössere Höhe der Erdatmosphäre am Aequator in Folge der Drehung der Erde und nicht der Auffallswinkel der Sonnenstrahlen allein ist die Ursache der dort höheren und constanten Wärme: sonst wäre unter dem Aequator 500m über dem Meere nicht schon eine Abkühlung von mehreren Graden Durchschnittswärme; sonst müsste die Schneemasse des Chimborasso sofort schmelzen.
+Die Wärme auf unserer Erdoberfläche scheint mir mehr von der Erhaltung der die Kälte des Weltraums abwehrenden Atmosphäre abzuhängen. Die größere Höhe der Erdatmosphäre am Äquator in Folge der Drehung der Erde und nicht der Ausfallswinkel der Sonnenstrahlen allein ist die Ursache der dort höheren und konstanten Wärme: sonst wäre unter dem Äquator 500m über dem Meere nicht schon eine Abkühlung von mehreren Graden Durchschnittswärme; sonst müsste die Schneemasse des Chimborasso sofort schmelzen.
 
 Mag nun auch die Wärme in Folge der vom Wasser vermittelten chemischen Prozesse mit der Zeit abnehmen, soviel ist gewiss, dass unsere Erdoberfläche ohne den schützenden Mantel der Atmosphäre, trotzdem sie tagtäglich neue Sonnenwärme aufnimmt, doch schon bei Nacht einer so niederen Temperatur verfiele, dass sie das Leben nicht erhalten könnte, wie dies neuerer Zeit als Ursache des Erlöschens alles Lebens auf dem Monde behauptet wird.
 
-Die Wärme strömt uns von der Sonne zu und wird durch die Atmosphäre zurückgehalten, so dass sie nicht sofort, wie sie da ist, wieder in den Weltraum ausströmen kann. So sind wir von einem doppelten, schützenden Mantel umgeben: der Erdrinde, welche die Wärme aufsaugt, und der Luft, welche sie zurückhält, (sie ist das Kleid der Erde), und zwischen beiden leben wir, lebt die ganze Schöpfung im steten Austausch der Stoffe. Hier lebt der Mensch, hier entstehen dieselben Wesen, welche einst den ersten Grundstein zum grossen Bau der Erde gelegt haben. Und gerade diese niederen Wesen bezeugen heute noch durch ihre riesenhafte Vermehrung, durch ihre Erhaltung in einer Temperatur, in welcher höhere Wesen sofort sterben, dass sie fähig waren die ersten Bildner der Erde selbst zu sein.
+Die Wärme strömt uns von der Sonne zu und wird durch die Atmosphäre zurückgehalten, so dass sie nicht sofort, wie sie da ist, wieder in den Weltraum ausströmen kann. So sind wir von einem doppelten, schützenden Mantel umgeben: der Erdrinde, welche die Wärme aufsaugt, und der Luft, welche sie zurückhält, (sie ist das Kleid der Erde), und zwischen beiden leben wir, lebt die ganze Schöpfung im steten Austausch der Stoffe. Hier lebt der Mensch, hier entstehen dieselben Wesen, welche einst den ersten Grundstein zum großen Bau der Erde gelegt haben. Und gerade diese niederen Wesen bezeugen heute noch durch ihre riesenhafte Vermehrung, durch ihre Erhaltung in einer Temperatur, in welcher höhere Wesen sofort sterben, dass sie fähig waren die ersten Bildner der Erde selbst zu sein.
 
-Also nur, wenn die Quelle des Lichts und der Wärme selbst versiegte, müsste das Leben auf der Erde erstarren; vom Erlöschen des fraglich feurigen Erdkerns haben wir nichts zu fürchten. Für die Erhaltung des Lebens sorgt der Stoffwechsel unter dem Einfluss der licht- und wärmestrahlenden Sonne. Licht und Wärme sind also Vater und Mutter alles Lebendigen; sie verhindern, dass das Organische vor der Zeit zum Unorganischen werde, indem sie letzteres stets wieder zu neuen Verbindungen führen. Möchte aber auch noch so viel Licht und Wärme der Erde zuströmen, ohne die fortwährende Thätigkeit, ohne die Umbildung durch die organische Zelle wäre doch das Leben unseres Planeten nach Jahren zu zählen.
+Also nur, wenn die Quelle des Lichts und der Wärme selbst versiegte, müsste das Leben auf der Erde erstarren; vom Erlöschen des fraglich feurigen Erdkerns haben wir nichts zu fürchten. Für die Erhaltung des Lebens sorgt der Stoffwechsel unter dem Einfluss der licht- und wärmestrahlenden Sonne. Licht und Wärme sind also Vater und Mutter alles Lebendigen; sie verhindern, dass das Organische vor der Zeit zum Unorganischen werde, indem sie letzteres stets wieder zu neuen Verbindungen führen. Möchte aber auch noch so viel Licht und Wärme der Erde zuströmen, ohne die fortwährende Tätigkeit, ohne die Umbildung durch die organische Zelle wäre doch das Leben unseres Planeten nach Jahren zu zählen.
 
 Der Anfang des Planeten war die Zelle, sie erhält ihn, so lange noch ein Lichtstrahl die Erde trifft.
 
-Möglich ist es dass mit der Zeit doch Aenderungen in der chemischen Zusammensetzung der Erdoberfläche und der Atmosphäre durch Niederschläge und feste Verbindungen eintreten, wodurch Baustoffe aus dem Kreislauf ausgeschieden werden. Sicher aber werden unter solchen veränderten Lebensbedingungen auch andere, ähnliche und (nach der bisherigen Erfahrung) höher organisirte Wesen entstehen. Ja es lässt sich denken, dass hier auf der Erde eine Verfeinerung der Organismen eintreten werde in demselben Verhältniss, wie sie nach der Olivin-Granitzeit eingetreten ist, dass Geschöpfe entstehen, welchen zu ihrer Erhaltung in höherem Masse Wasser und Gase genügen, was ja bei vielen Pflanzen jetzt schon nahezu der Fall ist.
+Möglich ist es dass mit der Zeit doch Änderungen in der chemischen Zusammensetzung der Erdoberfläche und der Atmosphäre durch Niederschläge und feste Verbindungen eintreten, wodurch Baustoffe aus dem Kreislauf ausgeschieden werden. Sicher aber werden unter solchen veränderten Lebensbedingungen auch andere, ähnliche und (nach der bisherigen Erfahrung) höher organisierte Wesen entstehen. Ja es lässt sich denken, dass hier auf der Erde eine Verfeinerung der Organismen eintreten werde in demselben Verhältnis, wie sie nach der Olivin-Granitzeit eingetreten ist, dass Geschöpfe entstehen, welchen zu ihrer Erhaltung in höherem Masse Wasser und Gase genügen, was ja bei vielen Pflanzen jetzt schon nahezu der Fall ist.
 
 *Nicht die Abnahme der Erdwärme oder der von der Sonne ausgestrahlten Wärme wäre das nächst drohende Schreckgespenst, sondern das Verschwinden unserer Atmosphäre.
 
@@ -736,29 +736,29 @@ Möglich ist es dass mit der Zeit doch Aenderungen in der chemischen Zusammenset
 
 Die Steine, von welchen ich meine Dünnschliffe nahm, sind durchaus beglaubigte.
 
-Die Dünnschliffe selbst sind von mir unter der unermüdlichen Beihilfe meiner Schwägerin, Fräulein Pauline Schloz, hergestellt. So beläuft sich meine Sammlung auf 560 Nummern (worunter 360 Knyahinya), wohl die grösste Sammlung, welche es überhaupt giebt.
+Die Dünnschliffe selbst sind von mir unter der unermüdlichen Beihilfe meiner Schwägerin, Fräulein Pauline Schloz, hergestellt. So beläuft sich meine Sammlung auf 560 Nummern (worunter 360 Knyahinya), wohl die größte Sammlung, welche es überhaupt gibt.
 
 Bezüglich der Herstellung der Dünnschliffe muss ich eines Umstands erwähnen, welcher auf die Darstellung von Einfluss war.
 
-Jeder, welcher Versteinerungen geschliffen hat, weiss, dass nur ganz wenige einen dünnen Schliff gestatten. Nicht allein wegen des häufig opaken oder gar undurchsichtigen Materials (Kalk, Thon), sondern desshalb, weil die Struktur mit einem Male verschwindet, wenn sie bis zur (vermutheten) Durchsichtigkeit geschliffen werden.
+Jeder, welcher Versteinerungen geschliffen hat, weis, dass nur ganz wenige einen dünnen Schliff gestatten. Nicht allein wegen des häufig opaken oder gar undurchsichtigen Materials (Kalk, Ton), sondern deshalb, weil die Struktur mit einem Male verschwindet, wenn sie bis zur (vermuteten) Durchsichtigkeit geschliffen werden.
 
 Es hängt das mit der Art und Weise der jedem Versteinerungsprozess zu Grunde liegenden Umbildung zusammen.
 
-So ist man vor die Wahl gestellt, entweder einen ziemlich dunklen Schliff vor sich zu haben, worin man wenig sieht, oder - von dem Wunsch nach schärferen Umrissen getrieben, wobei man stets vergeblich nach höheren Objectiven greift - einen Schliff zu bekommen, welcher nichts mehr zeigt.
+So ist man vor die Wahl gestellt, entweder einen ziemlich dunklen Schliff vor sich zu haben, worin man wenig sieht, oder — von dem Wunsch nach schärferen Umrissen getrieben, wobei man stets vergeblich nach höheren Objektiven greift — einen Schliff zu bekommen, welcher nichts mehr zeigt.
 
-Diese beiden Klippen konnten bei dem Meteoriten-Material (welches, beiläufig gesagt, wegen des Eisens dem Schliff ziemliche Schwierigkeiten entgegensetzt) nur dadurch vermieden werden, dass abwechselungsweise dünnere und dickere Schliffe gefertigt wurden.
+Diese beiden Klippen konnten bei dem Meteoriten-Material (welches, beiläufig gesagt, wegen des Eisens dem Schliff ziemliche Schwierigkeiten entgegensetzt) nur dadurch vermieden werden, dass abwechslungsweise dünnere und dickere Schliffe gefertigt wurden.
 
-Was die Auswahl der Formen betrifft, so werden künftige Forscher mich wohl entschuldigen, wenn ich diese und jene Form übersah. Meine Absicht freilich war, sämmtliche Formen, welche in meinem Material enthalten sind, abzubilden. Die Abbildungen sollten nicht nur Bilder, sondern auch ein Gesammtbild geben: gerade darauf lege ich ja in der Schlussfrage über die Natur des Gesteins das grösste Gewicht.
+Was die Auswahl der Formen betrifft, so werden künftige Forscher mich wohl entschuldigen, wenn ich diese und jene Form übersah. Meine Absicht freilich war, sämtliche Formen, welche in meinem Material enthalten sind, abzubilden. Die Abbildungen sollten nicht nur Bilder, sondern auch ein Gesamtbild geben: gerade darauf lege ich ja in der Schlussfrage über die Natur des Gesteins das größte Gewicht.
 
-Was die Anordnung der Tafeln betrifft, so hängt diese mit der Anordnung des Stoffs zusammen. Da ich mir aber doch bewusst war, das ganze Material bei weitem noch nicht erschöpft zu haben: so gab ich mir auch nicht die Mühe, die einzelnen Formen zu bestimmen, oder Ansichten über den genetischen Zusammenhang derselben auszusprechen, zu begründen und hienach die Anordnung zu treffen: es genügte wohl eine vorläufige Orientirung in dieser Richtung. Heute handelt es sich doch vorerst nur um den Beweis, dass das Gestein organisch und nicht darum, was alles darin ist.
+Was die Anordnung der Tafeln betrifft, so hängt diese mit der Anordnung des Stoffs zusammen. Da ich mir aber doch bewusst war, das ganze Material bei weitem noch nicht erschöpft zu haben: so gab ich mir auch nicht die Mühe, die einzelnen Formen zu bestimmen, oder Ansichten über den genetischen Zusammenhang derselben auszusprechen, zu begründen und hiernach die Anordnung zu treffen: es genügte wohl eine vorläufige Orientierung in dieser Richtung. Heute handelt es sich doch vorerst nur um den Beweis, dass das Gestein organisch und nicht darum, was alles darin ist.
 
-Namen zu geben, vermied ich nicht aus Furcht damit der Kritik in die Hände zu fallen, sondern weil ich zur Einsicht kam, dass durch Namengebung vorerst nichts oder nicht viel gewonnen ist.
+Namen zu geben, vermied ich nicht aus Furcht damit der Kritik in die Hände zu fallen, sondern weil ich zur Einsicht kam, dass durch Namensgebung vorerst nichts oder nicht viel gewonnen ist.
 
-Lange stand ich vor der Wahl, ob ich wirklich den Weg der photographischen Darstellung einschlagen solle. Ich kam aber mehr aus äusseren Rücksichten zu dem betreffenden Entschlüsse.
+Lange stand ich vor der Wahl, ob ich wirklich den Weg der photographischen Darstellung einschlagen solle. Ich kam aber mehr aus äußeren Rücksichten zu dem betreffenden Entschlüsse.
 
-Es ist bei der Kritik meiner „Urzelle“ viel von Phantasie die Rede gewesen. Dass die Abbildungen nicht auf der Höhe der Zeit stehen - wusste ich: dass sie aber doch richtig sind, das mag z. B. die photographische Abbildung der Objecte meiner „Urzelle“ Taf. XXXII. Fig. 5 verglichen mit Tafel IV. und V. der „Urzelle“ ergeben.
+Es ist bei der Kritik meiner „Urzelle“ viel von Phantasie die Rede gewesen. Dass die Abbildungen nicht auf der Höhe der Zeit stehen — wusste ich: dass sie aber doch richtig sind, das mag z. B. die photographische Abbildung der Objekte meiner „Urzelle“ Tafel XXXII. Figur 5 verglichen mit Tafel IV. und V. der „Urzelle“ ergeben.
 
-Ich möchte hiebei noch Herrn Dr. Kuntze in Leipzig fragen, ob er solche künstliche Algen etwa beizubringen weiss - zutreffendenfalls wäre ich sehr dankbar für Ueberlassung eines solchen Präparats um mich von einem Irrthum zu überzeugen.* Meines Wissens sind die Dendriten und „künstlichen Algen“, welche mir so ohne alle Prüfung und Kenntniss entgegengehalten wurden, bloss Streifen ohne Gliederung und Absonderung. Ihrer Entstehung entsprechend ist es eine meist gleichmässig vertheilte, zusammenhängende Farbstoffmasse, welche zwischen zwei Stein-Platten liegt, also in einer vollkommenen Fläche, und so Pflanzenschatten gleicht.
+Ich möchte hiebe noch Herrn Dr. Kuntze in Leipzig fragen, ob er solche künstliche Algen etwa beizubringen weis — zutreffendenfalls wäre ich sehr dankbar für Überlassung eines solchen Präparats um mich von einem Irrtum zu überzeugen.* Meines Wissens sind die Dendriten und „künstlichen Algen“, welche mir so ohne alle Prüfung und Kenntnis entgegengehalten wurden, bloß Streifen ohne Gliederung und Absonderung. Ihrer Entstehung entsprechend ist es eine meist gleichmäßig verteilte, zusammenhängende Farbstoffmasse, welche zwischen zwei Stein-Platten liegt, also in einer vollkommenen Fläche, und so Pflanzenschatten gleicht.
 
 Ich gebe zu, dass „künstliche Algen“ nach den Begriffen gewisser Forscher von Algen gemacht werden können. Aber ich muss auch darauf hinweisen, dass alle Gebilde, welche fadenoder bandartig sind, ohne viel Besinnens bisher für Algen erklärt wurden. Um zu wissen, dass man eine Alge vor sich habe, gehört noch etwas mehr dazu. So sind Dinge für Pflanzen erklärt worden, welche sicher nicht halb so viel Form und Struktur zeigen, als meine Bilder in der „Urzelle“. Nicht alle Faden- oder Bündelformen in Gesteinen oder anderen Massen würde ich, auf dieses Merkmal allein hin, für Algen erklären.
 
@@ -766,35 +766,35 @@ Meine Abbildungen in der „Urzelle“ zeigen deutliche Zellenwände und Zellen;
 
 Hiermit kehre ich zu meinem Gegenstand zurück.
 
-Die Photographie hat grosse Nachtheile für die wissenschaftliche Darstellung, das weiss jeder Forscher. Bei dem vorliegenden Gegenstand aber musste ich diesen Weg gehen, einfach weil mir sonst wieder von „Phantasie“ hätte gesprochen werden können. Die Sonne und das Collodium zusammen täuschen nicht und müssen jeden derartigen Vorwurf von vornherein von mir abwenden. - Wohl aber enthält das photographische Bild weniger als der Gegenstand. Das wurde besonders bei meinen besten Objecten fühlbar. Es konnte ferner besonders bei höheren Vergrösserungen nur ein Theil des Schliffs zur Darstellung gebracht werden, aber auch dieser nicht scharf, weil das darüber- und darunterliegende Gestein das eingestellte Bild verwischte. Zu hohe Vergrösserungen (das bemerke ich etwaigen Mitarbeitern an der Sache) taugen desshalb durchaus nicht für Gesteinsdünnschliffe. Ein weiterer hindernder Umstand ist, dass die Gesteine aus stark lichtbrechenden und das Licht verschieden brechenden Mineralien bestehen; dadurch entstehen Lichtreflexe der unangenehmsten Art, welche ein Ungeübter leicht für Formen ansehen kann. Um dies zu vermeiden, habe ich mich stets der schwächsten Vergrösserungen bedient und habe unvollkommene Strukturbilder zurückgelegt.
+Die Photographie hat große Nachteile für die wissenschaftliche Darstellung, das weis jeder Forscher. Bei dem vorliegenden Gegenstand aber musste ich diesen Weg gehen, einfach weil mir sonst wieder von „Phantasie“ hätte gesprochen werden können. Die Sonne und das Kollodium zusammen täuschen nicht und müssen jeden derartigen Vorwurf von vornherein von mir abwenden. — Wohl aber enthält das photographische Bild weniger als der Gegenstand. Das wurde besonders bei meinen besten Objekten fühlbar. Es konnte ferner besonders bei höheren Vergrößerungen nur ein Teil des Schliffs zur Darstellung gebracht werden, aber auch dieser nicht scharf, weil das darüber- und darunterliegende Gestein das eingestellte Bild verwischte. Zu hohe Vergrößerungen (das bemerke ich etwaigen Mitarbeitern an der Sache) taugen deshalb durchaus nicht für Gesteinsdünnschliffe. Ein weiterer hindernder Umstand ist, dass die Gesteine aus stark lichtbrechenden und das Licht verschieden brechenden Mineralien bestehen; dadurch entstehen Lichtreflexe der unangenehmsten Art, welche ein Ungeübter leicht für Formen ansehen kann. Um dies zu vermeiden, habe ich mich stets der schwächsten Vergrößerungen bedient und habe unvollkommene Strukturbilder zurückgelegt.
 
-Die photographischen Bilder stehen also eher unter dem Object. Allein, wie gesagt, ich musste wegen der Glaubwürdigkeit der Darstellung diesen Weg gehen.
+Die photographischen Bilder stehen also eher unter dem Objekt. Allein, wie gesagt, ich musste wegen der Glaubwürdigkeit der Darstellung diesen Weg gehen.
 
 Eine Ursache weiterer besonders empfindlicher Mängel der photographischen Darstellung besteht in der Wirkung der Farben auf das Bild. Unter den schlimmen ist Gelb die schlimmste.
 
-Wo Gelb im Präparat ist, erscheint statt aller Struktur ein schwarzer Fleck. Mit keinem Mittel war diesem Uebel abzuhelfen. Und gerade das Gelb des Olivins ist dasjenige, welches absolut keinen Lichtstrahl durchlässt. Das macht sich am meisten geltend bei der Coralle, Tafel I. Fig. 6: der schwarze Ring auf dem Bilde ist ein lichtes Gelb (Eisen). - Dem Gelb folgt Braun, welches ebenfalls sehr dunkelt. Blau hat den entgegengesetzten Fehler, es wird zu licht, doch zeigt es noch Strukturen.
+Wo Gelb im Präparat ist, erscheint statt aller Struktur ein schwarzer Fleck. Mit keinem Mittel war diesem Übel abzuhelfen. Und gerade das Gelb des Olivins ist dasjenige, welches absolut keinen Lichtstrahl durchlässt. Das macht sich am meisten geltend bei der Koralle, Tafel I. Figur 6: der schwarze Ring auf dem Bilde ist ein lichtes Gelb (Eisen). — Dem Gelb folgt Braun, welches ebenfalls sehr dunkelt. Blau hat den entgegengesetzten Fehler, es wird zu licht, doch zeigt es noch Strukturen.
 
-Dass der hohe Preis des Materials gewisse Sparsamkeit in den Präparaten auferlegt, ist selbstredend. Es ist dadurch die Auswahl beschränkt. Gerade dieser Umstand ist der Grund, dass die Schliffe von dem Forscher selbst hergestellt werden müssen. Das ist eine Aufgabe. Aber es ist auch nur so ein gründliches, freilich durch grossen Zeitaufwand erschwertes Studium der Sache möglich.
+Dass der hohe Preis des Materials gewisse Sparsamkeit in den Präparaten auferlegt, ist selbstredend. Es ist dadurch die Auswahl beschränkt. Gerade dieser Umstand ist der Grund, dass die Schliffe von dem Forscher selbst hergestellt werden müssen. Das ist eine Aufgabe. Aber es ist auch nur so ein gründliches, freilich durch großen Zeitaufwand erschwertes Studium der Sache möglich.
 
-Zur Vergrösserung und photographischen Darstellung habe ich mich des mittleren mikrophotographischen Apparats von Seibert & Krafft in Wetzlar bedient und kann denselben nur rühmlichst empfehlen. Die Bilder wurden unter meiner Leitung im photographischen Atelier der Herren Otto Lauer & Carl Bossler hier gefertigt. Da wir alle noch keine Uebung in dieser Art Aufnahmen hatten, so war die Beihilfe des Herrn Dr. Schreiner , Assistenten am chemischen Labaratorium in Tübingen eine äusserst erwünschte. Weitere Hilfe habe ich nicht zu verzeichnen, wohl aber glaube ich nicht unerwähnt lassen zu dürfen, die völlige Theilnahmslosigkeit aller derjenigen Gelehrten, welche die Sache am meisten berührt.
+Zur Vergrößerung und photographischen Darstellung habe ich mich des mittleren mikrophotographischen Apparats von Seibert & Krafft in Wetzlar bedient und kann denselben nur rühmlich empfehlen. Die Bilder wurden unter meiner Leitung im photographischen Atelier der Herren Otto Lauer & Carl Bossler hier gefertigt. Da wir alle noch keine Übung in dieser Art Aufnahmen hatten, so war die Beihilfe des Herrn Dr. Schreiner , Assistenten am chemischen Laboratorium in Tübingen eine äußerst erwünschte. Weitere Hilfe habe ich nicht zu verzeichnen, wohl aber glaube ich nicht unerwähnt lassen zu dürfen, die völlige Teilnahmslosigkeit aller derjenigen Gelehrten, welche die Sache am meisten berührt.
 
-Bei der Anordnung des Stoffs habe ich die Schwämme vorangestellt, diesen die Corallen und dann die Crinoiden folgen lassen.
+Bei der Anordnung des Stoffs habe ich die Schwämme vorangestellt, diesen die Korallen und dann die Crinoiden folgen lassen.
 
-Entsprechend der Häufigkeit des Vorkommens habe ich auch die einzelnen Gattungen in der Zahl sich vertreten lassen. Leider musste ich manches bessere Object wegen der gelben Färbung zurücklegen. Wenn es sich bewährt, was Gümbel in seiner trefflichen Abhandlung über die bayerischen Meteoriten sagt, dass es ihm gelungen sei, die gelbe Farbe durch Säuren zu entfernen, so wäre viel gewonnen.
+Entsprechend der Häufigkeit des Vorkommens habe ich auch die einzelnen Gattungen in der Zahl sich vertreten lassen. Leider musste ich manches bessere Objekt wegen der gelben Färbung zurücklegen. Wenn es sich bewährt, was Gümbel in seiner trefflichen Abhandlung über die bayerischen Meteoriten sagt, dass es ihm gelungen sei, die gelbe Farbe durch Säuren zu entfernen, so wäre viel gewonnen.
 
-Was die Vergrösserungen betrifft, oder richtiger das Format der Vergrösserungen, so kam in Betracht, dass eben die Einrichtung der Camera die Einhaltung eines bestimmten Formats auferlegt. Das führt zu dem Missstand, dass die Formen zuletzt alle gleich gross erscheinen.
+Was die Vergrößerungen betrifft, oder richtiger das Format der Vergrößerungen, so kam in Betracht, dass eben die Einrichtung der Kamera die Einhaltung eines bestimmten Formats auferlegt. Das führt zu dem Missstand, dass die Formen zuletzt alle gleich groß erscheinen.
 
-Die Angabe der Vergrösserung, d. h. das Verhältniss der wahren Grösse zum Durchmesser des dargestellten Bildes ist also ein sehr wenig bezeichnendes.
+Die Angabe der Vergrößerung, d. h. das Verhältnis der wahren Größe zum Durchmesser des dargestellten Bildes ist also ein sehr wenig bezeichnendes.
 
-Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirkliche Grösse des Objects unmittelbar zu bezeichnen.
+Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirkliche Größe des Objekts unmittelbar zu bezeichnen.
 
-*Aehnlich ist Dr. Kuntze mit der Flora Columbiae von Dr. H. Karsten verfahren. Ehe sich derselbe gegen die Anschuldigung, welche Dr. W. Joos auf diese Kritiken hin gegen ihn erhoben, reinigt, hat er kein Recht mehr, in der Wissenschaft gehört zu werden.
+*Ähnlich ist Dr. Kuntze mit der Flora Columbiae von Dr. H. Karsten verfahren. Ehe sich derselbe gegen die Anschuldigung, welche Dr. W. Joos auf diese Kritiken hin gegen ihn erhoben, reinigt, hat er kein Recht mehr, in der Wissenschaft gehört zu werden.
 
 ## TAFELVERZEICHNISS.
 
-1\. Die Numerirung der Abbildungen geschieht von links oben nach rechts unten.
+1\. Die Nummerierung der Abbildungen geschieht von links oben nach rechts unten.
 
-2\. Abkürzungen: V. heisst Vergrösserung, D. heisst wirklicher Durchmesser, mm heisst Millimeter.
+2\. Abkürzungen: V. heißt Vergrößerung, D. heißt wirklicher Durchmesser, mm heißt Millimeter.
 
 ### Tafel I.
 
@@ -804,7 +804,7 @@ Fig. 1. Enstatit (-Bronzit) vom Kupferberg V.
 Fig. 2. Enstatit von Texas V.  
 Fig. 3. Sphaerulit-Liparit von Lipari V.  
 Fig. 4. ein Theil der Coralle Taf. VIII., IX. u. X  
-Fig. 5. Kettencoralle D. 0,90 mm.  
+Fig. 5. Kettenkoralle D. 0,90 mm.  
 Fig. 6. Crinoid D. 1,20 mm.  
 
 ### Tafel II. Urania
@@ -836,7 +836,7 @@ Fig. 2. aus Knyahinya D. 1,80 mm.
 Fig. 3. aus Knyahinya D. 1,80 mm.  
 Fig. 4. aus Knyahinya D. 1,30 mm. (undeutliches Bild)  
 Fig. 5. aus Knyahinya D. 1,40 mm. (Luftblase)  
-Fig. 6. aus Knyahinya D. 0,60 mm. (mangelhaftes Bild. Der weisse Ring ist der Durchschnitt)  
+Fig. 6. aus Knyahinya D. 0,60 mm. (mangelhaftes Bild. Der weiße Ring ist der Durchschnitt)  
 
 ### Tafel VI. Urania
 
@@ -856,15 +856,15 @@ Fig. 4. (Crinoid-Querschnitt?) aus Knyahinya D. 3,00 mm.
 Fig. 5. Schwamm? D. 1,00 mm.  
 Fig. 6. Schwamm? D. 2,40 mm.  
 
-### Tafel VIII. Coralle
+### Tafel VIII. Koralle
 
 (Favosites) aus Knyahinya (vergl. Taf. I. Fig. 4)
 
-### Tafel IX. Coralle
+### Tafel IX. Koralle
 
 Strukturbild aus links oben Tafel VIII.
 
-### Tafel X. Corallen
+### Tafel X. Korallen
 
 Fig. 1. aus Knyahinya Querschnitt D. 0,40 mm.  
 Fig. 2. Längsschnitt 0,50 mm.  
@@ -873,7 +873,7 @@ Fig. 4. aus Knyahinya D. 0,90 mm. (siehe Taf. VIII. IX.)
 Fig. 5. aus Knyahinya D. 0,30 mm.  
 Fig. 6. aus Knyahinya D. 0,80 mm.  
 
-### Tafel XI. Corallen
+### Tafel XI. Korallen
 
 Fig. 1. aus Knyahinya D. 1,20 mm.  
 Fig. 2. aus Knyahinya D. 1,00 mm.  
@@ -882,7 +882,7 @@ Fig. 4. aus Knyahinya D. 1,20 mm.
 Fig. 5. aus Parnallee D. 0,80 mm.  
 Fig. 6. aus Moung County D. 0,60 mm.  
 
-### Tafel XII. Corallen
+### Tafel XII. Korallen
 
 Fig. 1. aus Knyahinya D. 0,80 mm.  
 Fig. 2. aus Knyahinya D. 1,20 mm.  
@@ -891,7 +891,7 @@ Fig. 4. aus Knyahinya D. 1,40 mm.
 Fig. 5. aus Knyahinya D. 2,00 mm.  
 Fig. 6. aus Knyahinya D. 3,20 mm.  
 
-### Tafel XIII. Corallen
+### Tafel XIII. Korallen
 
 Fig. 1. aus Parnallee D. 0,20 mm.  
 Fig. 2. aus Knyahinya D. 0,80 mm.  
@@ -902,11 +902,11 @@ Fig. 6. aus Cabarras D. 0,30 mm.
 
 ### Tafel XIV.
 
-Coralle D. 0,90 mm.
+Koralle D. 0,90 mm.
 
 ### Tafel XV.
 
-Coralle. Strukturbild von XIV. Der linke obere Theil des Präparats, Vergrösserung 300, zeigt die Knospen-Canäle.
+Koralle. Strukturbild von XIV. Der linke obere Teil des Präparats, Vergrößerung 300, zeigt die Knospen-Kanäle.
 
 #### Crinoiden
 
@@ -928,15 +928,15 @@ Crinoid, vergl. Taf. XXV. 1 und 2.
 
 ### Tafel XX.
 
-Crinoid und Coralle durchschnitten aus Knyahinya D. 1,20 mm.
+Crinoid und Koralle durchschnitten aus Knyahinya D. 1,20 mm.
 
 ### Tafel XXI. Crinoiden
 
 Fig. 1. aus Knyahinya D. 0,80 mm.  
-Fig. 2. vergrössertes Bild von Fig. 1  
+Fig. 2. vergrößertes Bild von Fig. 1  
 Fig. 3. aus Knyahinya D. 1,20 mm.  
-Fig. 4. vergrössertes Bild von Fig. 3  
-Fig. 5. aus Knyahinya D. 1,80 mm. (ich bemerke die Aehnlichkeit mit Fig. 1)  
+Fig. 4. vergrößertes Bild von Fig. 3  
+Fig. 5. aus Knyahinya D. 1,80 mm. (ich bemerke die Ähnlichkeit mit Fig. 1)  
 Fig. 6. aus Knyahinya D. 0,30 mm. (die Mundöffnung zwischen den Armen sichtbar)  
 
 ### Tafel XXII. Crinoiden
@@ -980,7 +980,7 @@ Fig. 6. aus Knyahinya D. 1,40 mm. (Beide letztere Querschnitte von Crinoiden)
 Fig. 1. aus Knyahinya D. 0,20 mm.  
 Fig. 2. aus Knyahinya D. 2,00 mm.  
 Fig. 3. aus Knyahinya D. 1,20 mm.  
-Fig. 4. aus Knyahinya D. 1,20 mm. (bis hieher gewundene Crinoiden)  
+Fig. 4. aus Knyahinya D. 1,20 mm. (bis hierher gewundene Crinoiden)  
 Fig. 5. aus Knyahinya D. 2,00 mm.  
 Fig. 6. aus Knyahinya D. 2,20 mm. (die dunkle Linie in 5 und 6 ist der Nahrungskanal)  
 
@@ -1015,8 +1015,8 @@ Fig. 6. aus Knyahinya D. 1,30 mm. (zweifelhaft)
 
 ### Tafel XXX.
 
-Fig. 1. aus Knyahinya D. 1,10 mm. (Coralle?)  
-Fig. 2. aus Knyahinya D. 1,40 mm. (Coralle und Crinoid, vergl. Taf. XX.)  
+Fig. 1. aus Knyahinya D. 1,10 mm. (Koralle?)  
+Fig. 2. aus Knyahinya D. 1,40 mm. (Koralle und Crinoid, vergl. Taf. XX.)  
 Fig. 3. aus Knyahinya D. 0,30 mm. (die Arme nezförmig verschlungen)  
 Fig. 4. aus Knyahinya D. 1,85 mm. (Anschnitt)  
 Fig. 5. aus Knyahinya D. 0,70 mm. (Anschnitt)  
@@ -1027,7 +1027,7 @@ Fig. 6. aus Knyahinya D. 0,40 mm. (Struktur dem des Schreibersits im Meteoreisen
 Fig. 1. aus Knyahinya D. 1,20 mm. (nicht ganz vollständiges Bild)  
 Fig. 2. aus Knyahinya D. 0,50 mm.  
 Fig. 3. aus Knyahinya D. 1,20 mm. (Drei übereinstimmende Formen aus 3 Dünnschliffen, in 1 und 2 beidemale der horizontale Ausschnitt)  
-Fig. 4. aus Knyahinya (ob Schwamm oder Coralle?) D. 0,90 mm.  
+Fig. 4. aus Knyahinya (ob Schwamm oder Koralle?) D. 0,90 mm.  
 Fig. 5. aus Knyahinya D. 1,50 mm.  
 Fig. 6. aus Knyahinya D. 1,40 mm.  
 
@@ -1035,10 +1035,10 @@ Fig. 6. aus Knyahinya D. 1,40 mm.
 
 Fig. 1. aus Knyahinya (Einschluss) D. 1,50 mm.  
 Fig. 2. Borkutkugel D. 1,00 mm.  
-Fig. 3. Nummulit von Kempten. Die Canäle sind (mit der Lupe) scharf zu erkennen  
-Fig. 4. Dünnschliff von Lias γδ. Dieser Dünnschliff ist der von mir zusammengestellten Sammlung von 30 Dünnschliffen von Sedimentgesteinen entnommen, gefertigt von Geognost Hildebrand in Ohmenhausen bei Reutlingen, welche ich zum Studium der microscopischen Beschaffenheit der Sedimentgesteine nebst Einschlüssen dringend empfehle.  
-Fig. 5. „Eozoon canadense“, angebliches Canalsystem des Eozoon  
-Fig. 6. desgl. Beide Gesteine, denen die Schliffe entnommen sind, von mir in Little Nation gesammelt. Man vergleiche Canalsystem des Nummuliten Fig. 3 mit diesem angeblichen Canalsystem! Bild 3 und 5 sollen dasselbe Ding sein.  
+Fig. 3. Nummulit von Kempten. Die Kanäle sind (mit der Lupe) scharf zu erkennen  
+Fig. 4. Dünnschliff von Lias γδ. Dieser Dünnschliff ist der von mir zusammengestellten Sammlung von 30 Dünnschliffen von Sedimentgesteinen entnommen, gefertigt von Geognost Hildebrand in Ohmenhausen bei Reutlingen, welche ich zum Studium der mikroskopischen Beschaffenheit der Sedimentgesteine nebst Einschlüssen dringend empfehle.  
+Fig. 5. „Eozoon canadense“, angebliches Kanalsystem des Eozoon  
+Fig. 6. desgl. Beide Gesteine, denen die Schliffe entnommen sind, von mir in Little Nation gesammelt. Man vergleiche Kanalsystem des Nummuliten Fig. 3 mit diesem angeblichen Kanalsystem! Bild 3 und 5 sollen dasselbe Ding sein.  
 
 Zu Fig. 5 vergleiche Urzelle Taf. 4. 5.
 
