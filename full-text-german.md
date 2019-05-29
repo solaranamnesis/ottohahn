@@ -18,7 +18,7 @@
 
 #### Die bisherigen Ansichten über die Meteorite.
 
-#### Geschichte und Ueberblick
+#### Geschichte und Überblick
 
 #### Die Meteorite und ihre mineralogischen Eigenschaften
 
@@ -26,23 +26,23 @@
 
 #### Die organische Natur der Chondrite.
 
-#### I. Capitel. Organisch oder unorganisch?
+#### I. Kapitel. Organisch oder unorganisch?
 
-#### II. Capitel. Die einzelnen Formen
+#### II. Kapitel. Die einzelnen Formen
 
 ##### A. Schwämme: 1. Urania 23. 2. Nadelschwämme
 
-##### B. Die Corallen
+##### B. Die Korallen
 
 ##### C. Crinoiden
 
-#### III. Capitel. Alles Leben
+#### III. Kapitel. Alles Leben
 
-#### IV. Capitel. Stein im Stein
+#### IV. Kapitel. Stein im Stein
 
-#### V. Capitel. Fortpflanzung
+#### V. Kapitel. Fortpflanzung
 
-#### VI. Capitel. Entwicklung
+#### VI. Kapitel. Entwicklung
 
 ### III. ABSCHNITT.
 
@@ -56,17 +56,17 @@
 
 #### Schlussfolgerungen.
 
-#### I. Capitel. Ursprung der Meteorite
+#### I. Kapitel. Ursprung der Meteorite
 
-#### II Capitel. Die Erdbildung
+#### II Kapitel. Die Erdbildung
 
-#### III. Capitel. Die Zukunft unseres Planeten
+#### III. Kapitel. Die Zukunft unseres Planeten
 
 ### Erklärung der Tafeln.
 
 ### Vorbemerkung
 
-### Tafelverzeichniss
+### Tafelverzeichnis
 
 # DIE METEORITE (CHONDRITE) UND IHRE ORGANISMEN.
 
