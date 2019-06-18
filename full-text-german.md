@@ -800,7 +800,7 @@ Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirklic
 
 Zusammenstellung von Mineral-Strukturen mit organischen aus Chondriten.
 
-Fig. 1. Enstatit (-Bronzit) vom Kupferberg V.  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-1_edit-b2.jpg) Enstatit (-Bronzit) vom Kupferberg V.  
 Fig. 2. Enstatit von Texas V.  
 Fig. 3. Sphaerulit-Liparit von Lipari V.  
 Fig. 4. ein Theil der Coralle Taf. VIII., IX. u. X  
