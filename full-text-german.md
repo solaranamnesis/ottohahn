@@ -813,65 +813,65 @@ Zusammenstellung von Mineral-Strukturen mit organischen aus Chondriten.
 
 ### Tafel III. Urania.
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,60 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,30 mm. (man übersehe nicht die prachtvollen Crinoidenglieder links oben!)  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1 mm.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1 mm. (zu beachten die Schichtung oben)  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1 mm. (Schichtung wie 5, doch im Bilde nicht wiedergegeben, 5 und 6 aus einem Dünnschliff.)  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-1_edit-b.jpg) aus Knyahinya D. 0,60 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-2_edit-b.jpg) aus Knyahinya D. 1,30 mm. (man übersehe nicht die prachtvollen Crinoidenglieder links oben!)  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-3_edit-b.jpg) aus Knyahinya D. 1 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-4_edit-b.jpg) aus Knyahinya D. 1 mm.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-5_edit-b2.jpg) aus Knyahinya D. 1 mm. (zu beachten die Schichtung oben)  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-6_edit-b2.jpg) aus Knyahinya D. 1 mm. (Schichtung wie 5, doch im Bilde nicht wiedergegeben, 5 und 6 aus einem Dünnschliff.)  
 
 ### Tafel IV. Urania.
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,90 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Siena D. 3 mm. (der dunkle Strich rührt von gelber Färbung des Präparats)  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,60 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,90 mm. (Luftblase)  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,60 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,00 mm. (Luftblase)  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg) aus Knyahinya D. 0,90 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-2_edit-b.jpg) aus Siena D. 3 mm. (der dunkle Strich rührt von gelber Färbung des Präparats)  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-3_edit-b.jpg) aus Knyahinya D. 0,60 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-4_edit-b.jpg) aus Knyahinya D. 0,90 mm. (Luftblase)  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-5_edit-b.jpg) aus Knyahinya D. 1,60 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-6_edit-b.jpg) aus Knyahinya D. 1,00 mm. (Luftblase)  
 
 ### Tafel V. Urania
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,40 mm. (siehe Taf. II. Rings Crinoidendurchschnitte. Form unten links, vergl. Taf. I. Fig. 6 und Taf. XXV. 1, 2)  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,80 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,80 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,30 mm. (undeutliches Bild)  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,40 mm. (Luftblase)  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,60 mm. (mangelhaftes Bild. Der weiße Ring ist der Durchschnitt)  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-1_edit-b.jpg) aus Knyahinya D. 1,40 mm. (siehe Taf. II. Rings Crinoidendurchschnitte. Form unten links, vergl. Taf. I. Fig. 6 und Taf. XXV. 1, 2)  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-2_edit-b2.jpg) aus Knyahinya D. 1,80 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-3_edit-b.jpg) aus Knyahinya D. 1,80 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-4_edit-b.jpg) aus Knyahinya D. 1,30 mm. (undeutliches Bild)  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-5_edit-b2.jpg) aus Knyahinya D. 1,40 mm. (Luftblase)  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-6_edit-b2.jpg) aus Knyahinya D. 0,60 mm. (mangelhaftes Bild. Der weiße Ring ist der Durchschnitt)  
 
 ### Tafel VI. Urania
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Siena D. 4,00 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,80 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Siena D. 1,20 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,70 mm. (in der Mitte zu stark beleuchtet)  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,30 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,90 mm. (Luftblase)  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-1_edit-b2.jpg) aus Siena D. 4,00 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-2_edit-b.jpg) aus Knyahinya D. 0,80 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-3_edit-b.jpg) aus Siena D. 1,20 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-4_edit-b.jpg) aus Knyahinya D. 0,70 mm. (in der Mitte zu stark beleuchtet)  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-5_edit-b.jpg) aus Knyahinya D. 0,30 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-6_edit-b2.jpg) aus Knyahinya D. 0,90 mm. (Luftblase)  
 
 ### Tafel VII. Schwämme
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 2,30 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,80 mm. (ein Riss im Präparat. Die Nadeln)  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 2,10 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) (Crinoid-Querschnitt?) aus Knyahinya D. 3,00 mm.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) Schwamm? D. 1,00 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) Schwamm? D. 2,40 mm.  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_7-1_edit-b.jpg) aus Knyahinya D. 2,30 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_7-2_edit-b.jpg) aus Knyahinya D. 1,80 mm. (ein Riss im Präparat. Die Nadeln)  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_7-3_edit-b.jpg) aus Knyahinya D. 2,10 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_7-4_edit-b.jpg) (Crinoid-Querschnitt?) aus Knyahinya D. 3,00 mm.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_7-5_edit-b.jpg) Schwamm? D. 1,00 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_7-6_edit-b.jpg) Schwamm? D. 2,40 mm.  
 
 ### Tafel VIII. Koralle
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) (Favosites) aus Knyahinya (vergl. Taf. I. Fig. 4)
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_8-1_edit-b2.jpg) (Favosites) aus Knyahinya (vergl. Taf. I. Fig. 4)
 
 ### Tafel IX. Koralle
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) Strukturbild aus links oben Tafel VIII.
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_9-1_edit-b3.jpg) Strukturbild aus links oben Tafel VIII.
 
 ### Tafel X. Korallen
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya Querschnitt D. 0,40 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) Längsschnitt 0,50 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,80 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,90 mm. (siehe Taf. VIII. IX.)  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,30 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,80 mm.  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-1_edit-b.jpg) aus Knyahinya Querschnitt D. 0,40 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-2_edit-b.jpg) Längsschnitt 0,50 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-3_edit-b2.jpg) aus Knyahinya D. 1,80 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-4_edit-b.jpg) aus Knyahinya D. 0,90 mm. (siehe Taf. VIII. IX.)  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-5_edit-b.jpg) aus Knyahinya D. 0,30 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-6_edit-b.jpg) aus Knyahinya D. 0,80 mm.  
 
 ### Tafel XI. Korallen
 
