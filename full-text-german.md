@@ -801,104 +801,104 @@ Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirklic
 Zusammenstellung von Mineral-Strukturen mit organischen aus Chondriten.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-1_edit-b2.jpg) Enstatit (-Bronzit) vom Kupferberg V.  
-Fig. 2. Enstatit von Texas V.  
-Fig. 3. Sphaerulit-Liparit von Lipari V.  
-Fig. 4. ein Theil der Coralle Taf. VIII., IX. u. X  
-Fig. 5. Kettenkoralle D. 0,90 mm.  
-Fig. 6. Crinoid D. 1,20 mm.  
+[Fig. 2.]() Enstatit von Texas V.  
+[Fig. 3.]() Sphaerulit-Liparit von Lipari V.  
+[Fig. 4.]() ein Theil der Coralle Taf. VIII., IX. u. X  
+[Fig. 5.]() Kettenkoralle D. 0,90 mm.  
+[Fig. 6.]() Crinoid D. 1,20 mm.  
 
 ### Tafel II. Urania
 
-aus Knyahinya. Dieselbe Tafel V. Fig. 1.
+[Fig. 1.]() aus Knyahinya. Dieselbe Tafel V. Fig. 1.
 
 ### Tafel III. Urania.
 
-Fig. 1. aus Knyahinya D. 0,60 mm.  
-Fig. 2. aus Knyahinya D. 1,30 mm. (man übersehe nicht die prachtvollen Crinoidenglieder links oben!)  
-Fig. 3. aus Knyahinya D. 1 mm.  
-Fig. 4. aus Knyahinya D. 1 mm.  
-Fig. 5. aus Knyahinya D. 1 mm. (zu beachten die Schichtung oben)  
-Fig. 6. aus Knyahinya D. 1 mm. (Schichtung wie 5, doch im Bilde nicht wiedergegeben, 5 und 6 aus einem Dünnschliff.)  
+[Fig. 1.]() aus Knyahinya D. 0,60 mm.  
+[Fig. 2.]() aus Knyahinya D. 1,30 mm. (man übersehe nicht die prachtvollen Crinoidenglieder links oben!)  
+[Fig. 3.]() aus Knyahinya D. 1 mm.  
+[Fig. 4.]() aus Knyahinya D. 1 mm.  
+[Fig. 5.]() aus Knyahinya D. 1 mm. (zu beachten die Schichtung oben)  
+[Fig. 6.]() aus Knyahinya D. 1 mm. (Schichtung wie 5, doch im Bilde nicht wiedergegeben, 5 und 6 aus einem Dünnschliff.)  
 
 ### Tafel IV. Urania.
 
-Fig. 1. aus Knyahinya D. 0,90 mm.  
-Fig. 2. aus Siena D. 3 mm. (der dunkle Strich rührt von gelber Färbung des Präparats)  
-Fig. 3. aus Knyahinya D. 0,60 mm.  
-Fig. 4. aus Knyahinya D. 0,90 mm. (Luftblase)  
-Fig. 5. aus Knyahinya D. 1,60 mm.  
-Fig. 6. aus Knyahinya D. 1,00 mm. (Luftblase)  
+[Fig. 1.]() aus Knyahinya D. 0,90 mm.  
+[Fig. 2.]() aus Siena D. 3 mm. (der dunkle Strich rührt von gelber Färbung des Präparats)  
+[Fig. 3.]() aus Knyahinya D. 0,60 mm.  
+[Fig. 4.]() aus Knyahinya D. 0,90 mm. (Luftblase)  
+[Fig. 5.]() aus Knyahinya D. 1,60 mm.  
+[Fig. 6.]() aus Knyahinya D. 1,00 mm. (Luftblase)  
 
 ### Tafel V. Urania
 
-Fig. 1. aus Knyahinya D. 1,40 mm. (siehe Taf. II. Rings Crinoidendurchschnitte. Form unten links, vergl. Taf. I. Fig. 6 und Taf. XXV. 1, 2)  
-Fig. 2. aus Knyahinya D. 1,80 mm.  
-Fig. 3. aus Knyahinya D. 1,80 mm.  
-Fig. 4. aus Knyahinya D. 1,30 mm. (undeutliches Bild)  
-Fig. 5. aus Knyahinya D. 1,40 mm. (Luftblase)  
-Fig. 6. aus Knyahinya D. 0,60 mm. (mangelhaftes Bild. Der weiße Ring ist der Durchschnitt)  
+[Fig. 1.]() aus Knyahinya D. 1,40 mm. (siehe Taf. II. Rings Crinoidendurchschnitte. Form unten links, vergl. Taf. I. Fig. 6 und Taf. XXV. 1, 2)  
+[Fig. 2.]() aus Knyahinya D. 1,80 mm.  
+[Fig. 3.]() aus Knyahinya D. 1,80 mm.  
+[Fig. 4.]() aus Knyahinya D. 1,30 mm. (undeutliches Bild)  
+[Fig. 5.]() aus Knyahinya D. 1,40 mm. (Luftblase)  
+[Fig. 6.]() aus Knyahinya D. 0,60 mm. (mangelhaftes Bild. Der weiße Ring ist der Durchschnitt)  
 
 ### Tafel VI. Urania
 
-Fig. 1. aus Siena D. 4,00 mm.  
-Fig. 2. aus Knyahinya D. 0,80 mm.  
-Fig. 3. aus Siena D. 1,20 mm.  
-Fig. 4. aus Knyahinya D. 0,70 mm. (in der Mitte zu stark beleuchtet)  
-Fig. 5. aus Knyahinya D. 0,30 mm.  
-Fig. 6. aus Knyahinya D. 0,90 mm. (Luftblase)  
+[Fig. 1.]() aus Siena D. 4,00 mm.  
+[Fig. 2.]() aus Knyahinya D. 0,80 mm.  
+[Fig. 3.]() aus Siena D. 1,20 mm.  
+[Fig. 4.]() aus Knyahinya D. 0,70 mm. (in der Mitte zu stark beleuchtet)  
+[Fig. 5.]() aus Knyahinya D. 0,30 mm.  
+[Fig. 6.]() aus Knyahinya D. 0,90 mm. (Luftblase)  
 
 ### Tafel VII. Schwämme
 
-Fig. 1. aus Knyahinya D. 2,30 mm.  
-Fig. 2. aus Knyahinya D. 1,80 mm. (ein Riss im Präparat. Die Nadeln)  
-Fig. 3. aus Knyahinya D. 2,10 mm.  
-Fig. 4. (Crinoid-Querschnitt?) aus Knyahinya D. 3,00 mm.  
-Fig. 5. Schwamm? D. 1,00 mm.  
-Fig. 6. Schwamm? D. 2,40 mm.  
+[Fig. 1.]() aus Knyahinya D. 2,30 mm.  
+[Fig. 2.]() aus Knyahinya D. 1,80 mm. (ein Riss im Präparat. Die Nadeln)  
+[Fig. 3.]() aus Knyahinya D. 2,10 mm.  
+[Fig. 4.]() (Crinoid-Querschnitt?) aus Knyahinya D. 3,00 mm.  
+[Fig. 5.]() Schwamm? D. 1,00 mm.  
+[Fig. 6.]() Schwamm? D. 2,40 mm.  
 
 ### Tafel VIII. Koralle
 
-(Favosites) aus Knyahinya (vergl. Taf. I. Fig. 4)
+[Fig. 1.]() (Favosites) aus Knyahinya (vergl. Taf. I. Fig. 4)
 
 ### Tafel IX. Koralle
 
-Strukturbild aus links oben Tafel VIII.
+[Fig. 1.]() Strukturbild aus links oben Tafel VIII.
 
 ### Tafel X. Korallen
 
-Fig. 1. aus Knyahinya Querschnitt D. 0,40 mm.  
-Fig. 2. Längsschnitt 0,50 mm.  
-Fig. 3. aus Knyahinya D. 1,80 mm.  
-Fig. 4. aus Knyahinya D. 0,90 mm. (siehe Taf. VIII. IX.)  
-Fig. 5. aus Knyahinya D. 0,30 mm.  
-Fig. 6. aus Knyahinya D. 0,80 mm.  
+[Fig. 1.]() aus Knyahinya Querschnitt D. 0,40 mm.  
+[Fig. 2.]() Längsschnitt 0,50 mm.  
+[Fig. 3.]() aus Knyahinya D. 1,80 mm.  
+[Fig. 4.]() aus Knyahinya D. 0,90 mm. (siehe Taf. VIII. IX.)  
+[Fig. 5.]() aus Knyahinya D. 0,30 mm.  
+[Fig. 6.]() aus Knyahinya D. 0,80 mm.  
 
 ### Tafel XI. Korallen
 
-Fig. 1. aus Knyahinya D. 1,20 mm.  
-Fig. 2. aus Knyahinya D. 1,00 mm.  
-Fig. 3. aus Knyahinya D. 1,80 mm.  
-Fig. 4. aus Knyahinya D. 1,20 mm.  
-Fig. 5. aus Parnallee D. 0,80 mm.  
-Fig. 6. aus Moung County D. 0,60 mm.  
+[Fig. 1.]() aus Knyahinya D. 1,20 mm.  
+[Fig. 2.]() aus Knyahinya D. 1,00 mm.  
+[Fig. 3.]() aus Knyahinya D. 1,80 mm.  
+[Fig. 4.]() aus Knyahinya D. 1,20 mm.  
+[Fig. 5.]() aus Parnallee D. 0,80 mm.  
+[Fig. 6.]() aus Moung County D. 0,60 mm.  
 
 ### Tafel XII. Korallen
 
-Fig. 1. aus Knyahinya D. 0,80 mm.  
-Fig. 2. aus Knyahinya D. 1,20 mm.  
-Fig. 3. aus Knyahinya D. 1,30 mm.  
-Fig. 4. aus Knyahinya D. 1,40 mm.  
-Fig. 5. aus Knyahinya D. 2,00 mm.  
-Fig. 6. aus Knyahinya D. 3,20 mm.  
+[Fig. 1.]() aus Knyahinya D. 0,80 mm.  
+[Fig. 2.]() aus Knyahinya D. 1,20 mm.  
+[Fig. 3.]() aus Knyahinya D. 1,30 mm.  
+[Fig. 4.]() aus Knyahinya D. 1,40 mm.  
+[Fig. 5.]() aus Knyahinya D. 2,00 mm.  
+[Fig. 6.]() aus Knyahinya D. 3,20 mm.  
 
 ### Tafel XIII. Korallen
 
-Fig. 1. aus Parnallee D. 0,20 mm.  
-Fig. 2. aus Knyahinya D. 0,80 mm.  
-Fig. 3. aus Siena D. 0,20 mm.  
-Fig. 4. aus Knyahinya D. 1,80 mm.  
-Fig. 5. aus Knyahinya D. 1,70 mm.  
-Fig. 6. aus Cabarras D. 0,30 mm.  
+[Fig. 1.]() aus Parnallee D. 0,20 mm.  
+[Fig. 2.]() aus Knyahinya D. 0,80 mm.  
+[Fig. 3.]() aus Siena D. 0,20 mm.  
+[Fig. 4.]() aus Knyahinya D. 1,80 mm.  
+[Fig. 5.]() aus Knyahinya D. 1,70 mm.  
+[Fig. 6.]() aus Cabarras D. 0,30 mm.  
 
 ### Tafel XIV.
 
