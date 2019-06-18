@@ -977,68 +977,68 @@ Zusammenstellung von Mineral-Strukturen mit organischen aus Chondriten.
 
 ### Tafel XXVI. Crinoiden
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,20 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 2,00 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,20 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,20 mm. (bis hierher gewundene Crinoiden)  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 2,00 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 2,20 mm. (die dunkle Linie in 5 und 6 ist der Nahrungskanal)  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-1_edit-b.jpg) aus Knyahinya D. 0,20 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-2_edit-b.jpg) aus Knyahinya D. 2,00 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-3_edit-b.jpg) aus Knyahinya D. 1,20 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-4_edit-b.jpg) aus Knyahinya D. 1,20 mm. (bis hierher gewundene Crinoiden)  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-5_edit-b.jpg) aus Knyahinya D. 2,00 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-6_edit-b.jpg) aus Knyahinya D. 2,20 mm. (die dunkle Linie in 5 und 6 ist der Nahrungskanal)  
 
 ### Tafel XXVII. Crinoiden
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,80 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,50 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,40 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,40 mm.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,20 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,00 mm.  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-1_edit-b.jpg) aus Knyahinya D. 0,80 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-2_edit-b.jpg) aus Knyahinya D. 1,50 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-3_edit-b.jpg) aus Knyahinya D. 1,40 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-4_edit-b.jpg) aus Knyahinya D. 1,40 mm.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-5_edit-b.jpg) aus Knyahinya D. 1,20 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-6_edit-b.jpg) aus Knyahinya D. 1,00 mm.  
 
 ### Tafel XXVIII. Crinoiden
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya (Coralle?) D. 3,00 mm. aus demselben Dünnschl. wie Taf. XVIII.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,20 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 2,30 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,90 mm.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,50 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,40 mm.  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-1_edit-b.jpg) aus Knyahinya (Coralle?) D. 3,00 mm. aus demselben Dünnschl. wie Taf. XVIII.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-2_edit-b.jpg) aus Knyahinya D. 1,20 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-3_edit-b.jpg) aus Knyahinya D. 2,30 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-4_edit-b.jpg) aus Knyahinya D. 0,90 mm.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-5_edit-b.jpg) aus Knyahinya D. 1,50 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-6_edit-b.jpg) aus Knyahinya D. 1,40 mm.  
 
 ### Tafel XXVIX. Crinoiden
 
 (1-3 von oben gesehen, 4 von unten.)
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,20 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,90 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Tabor D. 2,10 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,10 mm.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Borkut D. 1,50 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,30 mm. (zweifelhaft)  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-1_edit-b.jpg) aus Knyahinya D. 0,20 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-2_edit-b.jpg) aus Knyahinya D. 0,90 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-3_edit-b.jpg) aus Tabor D. 2,10 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-4_edit-b.jpg) aus Knyahinya D. 1,10 mm.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-5_edit-b.jpg) aus Borkut D. 1,50 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-6_edit-b.jpg) aus Knyahinya D. 1,30 mm. (zweifelhaft)  
 
 ### Tafel XXX.
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,10 mm. (Koralle?)  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,40 mm. (Koralle und Crinoid, vergl. Taf. XX.)  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,30 mm. (die Arme nezförmig verschlungen)  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,85 mm. (Anschnitt)  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,70 mm. (Anschnitt)  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,40 mm. (Struktur dem des Schreibersits im Meteoreisen gleich)  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-1_edit-b.jpg) aus Knyahinya D. 1,10 mm. (Koralle?)  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-2_edit-b.jpg) aus Knyahinya D. 1,40 mm. (Koralle und Crinoid, vergl. Taf. XX.)  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-3_edit-b.jpg) aus Knyahinya D. 0,30 mm. (die Arme nezförmig verschlungen)  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-4_edit-b.jpg) aus Knyahinya D. 1,85 mm. (Anschnitt)  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-5_edit-b.jpg) aus Knyahinya D. 0,70 mm. (Anschnitt)  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-6_edit-b.jpg) aus Knyahinya D. 0,40 mm. (Struktur dem des Schreibersits im Meteoreisen gleich)  
 
 ### Tafel XXXI. Problematica
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,20 mm. (nicht ganz vollständiges Bild)  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,50 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,20 mm. (Drei übereinstimmende Formen aus 3 Dünnschliffen, in 1 und 2 beidemale der horizontale Ausschnitt)  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya (ob Schwamm oder Koralle?) D. 0,90 mm.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,50 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,40 mm.  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-1_edit-b.jpg) aus Knyahinya D. 1,20 mm. (nicht ganz vollständiges Bild)  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-2_edit-b.jpg) aus Knyahinya D. 0,50 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-3_edit-b.jpg) aus Knyahinya D. 1,20 mm. (Drei übereinstimmende Formen aus 3 Dünnschliffen, in 1 und 2 beidemale der horizontale Ausschnitt)  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-4_edit-b.jpg) aus Knyahinya (ob Schwamm oder Koralle?) D. 0,90 mm.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-5_edit-b.jpg) aus Knyahinya D. 1,50 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-6_edit-b.jpg) aus Knyahinya D. 1,40 mm.  
 
 ### Tafel XXXII.
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya (Einschluss) D. 1,50 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) Borkutkugel D. 1,00 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) Nummulit von Kempten. Die Kanäle sind (mit der Lupe) scharf zu erkennen  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) Dünnschliff von Lias γδ. Dieser Dünnschliff ist der von mir zusammengestellten Sammlung von 30 Dünnschliffen von Sedimentgesteinen entnommen, gefertigt von Geognost Hildebrand in Ohmenhausen bei Reutlingen, welche ich zum Studium der mikroskopischen Beschaffenheit der Sedimentgesteine nebst Einschlüssen dringend empfehle.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) „Eozoon canadense“, angebliches Kanalsystem des Eozoon  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) desgl. Beide Gesteine, denen die Schliffe entnommen sind, von mir in Little Nation gesammelt. Man vergleiche Kanalsystem des Nummuliten Fig. 3 mit diesem angeblichen Kanalsystem! Bild 3 und 5 sollen dasselbe Ding sein.  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-1_edit-b.jpg) aus Knyahinya (Einschluss) D. 1,50 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-2_edit-b.jpg) Borkutkugel D. 1,00 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-3_edit-b.jpg) Nummulit von Kempten. Die Kanäle sind (mit der Lupe) scharf zu erkennen  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-4_edit-b.jpg) Dünnschliff von Lias γδ. Dieser Dünnschliff ist der von mir zusammengestellten Sammlung von 30 Dünnschliffen von Sedimentgesteinen entnommen, gefertigt von Geognost Hildebrand in Ohmenhausen bei Reutlingen, welche ich zum Studium der mikroskopischen Beschaffenheit der Sedimentgesteine nebst Einschlüssen dringend empfehle.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-5_edit-b.jpg) „Eozoon canadense“, angebliches Kanalsystem des Eozoon  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-6_edit-b.jpg) desgl. Beide Gesteine, denen die Schliffe entnommen sind, von mir in Little Nation gesammelt. Man vergleiche Kanalsystem des Nummuliten Fig. 3 mit diesem angeblichen Kanalsystem! Bild 3 und 5 sollen dasselbe Ding sein.  
 
 Zu Fig. 5 vergleiche Urzelle Taf. 4. 5.
 
