@@ -902,33 +902,33 @@ Zusammenstellung von Mineral-Strukturen mit organischen aus Chondriten.
 
 ### Tafel XIV.
 
-Koralle D. 0,90 mm.
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_14-1_edit-b2.jpg) Koralle D. 0,90 mm.
 
 ### Tafel XV.
 
-Koralle. Strukturbild von XIV. Der linke obere Teil des Präparats, Vergrößerung 300, zeigt die Knospen-Kanäle.
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_15-1_edit-b3.jpg) Koralle. Strukturbild von XIV. Der linke obere Teil des Präparats, Vergrößerung 300, zeigt die Knospen-Kanäle.
 
 #### Crinoiden
 
 ### Tafel XVI.
 
-aus Knyahinya D. 0,40 mm.
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_16-1_edit-b2.jpg) aus Knyahinya D. 0,40 mm.
 
 ### Tafel XVII.
 
-aus Knyahinya D. 2,00 mm.
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_17-1_edit-b2.jpg) aus Knyahinya D. 2,00 mm.
 
 ### Tafel XVIII.
 
-aus Knyahinya, 4 Hauptarme durchschnitten, D. 2,20 mm.
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_18-1_edit-b2.jpg) aus Knyahinya, 4 Hauptarme durchschnitten, D. 2,20 mm.
 
 ### Tafel XIX.
 
-Crinoid, vergl. Taf. XXV. 1 und 2.
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_19-1_edit-b2.jpg) Crinoid, vergl. Taf. XXV. 1 und 2.
 
 ### Tafel XX.
 
-Crinoid und Koralle durchschnitten aus Knyahinya D. 1,20 mm.
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_20-1_edit-b2.jpg) Crinoid und Koralle durchschnitten aus Knyahinya D. 1,20 mm.
 
 ### Tafel XXI. Crinoiden
 
