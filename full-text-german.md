@@ -869,36 +869,36 @@ Zusammenstellung von Mineral-Strukturen mit organischen aus Chondriten.
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-1_edit-b.jpg) aus Knyahinya Querschnitt D. 0,40 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-2_edit-b.jpg) Längsschnitt 0,50 mm.  
 [Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-3_edit-b2.jpg) aus Knyahinya D. 1,80 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-4_edit-b.jpg) aus Knyahinya D. 0,90 mm. (siehe Taf. VIII. IX.)  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-5_edit-b2.jpg) aus Knyahinya D. 0,90 mm. (siehe Taf. VIII. IX.)  
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-5_edit-b.jpg) aus Knyahinya D. 0,30 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-6_edit-b.jpg) aus Knyahinya D. 0,80 mm.  
 
 ### Tafel XI. Korallen
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,20 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,00 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,80 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,20 mm.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Parnallee D. 0,80 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Moung County D. 0,60 mm.  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-1_edit-b.jpg) aus Knyahinya D. 1,20 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-2_edit-b.jpgmeteorite_11-1_edit-b.jpg) aus Knyahinya D. 1,00 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-3_edit-b.jpg) aus Knyahinya D. 1,80 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-4_edit-b.jpg) aus Knyahinya D. 1,20 mm.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-5_edit-b.jpg) aus Parnallee D. 0,80 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-6_edit-b.jpg) aus Moung County D. 0,60 mm.  
 
 ### Tafel XII. Korallen
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,80 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,20 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,30 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,40 mm.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 2,00 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 3,20 mm.  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_12-1_edit-b.jpg) aus Knyahinya D. 0,80 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_12-2_edit-b.jpg) aus Knyahinya D. 1,20 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_12-3_edit-b.jpg) aus Knyahinya D. 1,30 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_12-4_edit-b.jpg) aus Knyahinya D. 1,40 mm.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_12-5_edit-b.jpg) aus Knyahinya D. 2,00 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_12-6_edit-b.jpg) aus Knyahinya D. 3,20 mm.  
 
 ### Tafel XIII. Korallen
 
-[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Parnallee D. 0,20 mm.  
-[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 0,80 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Siena D. 0,20 mm.  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,80 mm.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Knyahinya D. 1,70 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/) aus Cabarras D. 0,30 mm.  
+[Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-1_edit-b.jpg) aus Parnallee D. 0,20 mm.  
+[Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-2_edit-b.jpg) aus Knyahinya D. 0,80 mm.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-3_edit-b.jpg) aus Siena D. 0,20 mm.  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-4_edit-b.jpg) aus Knyahinya D. 1,80 mm.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-5_edit-b.jpg) aus Knyahinya D. 1,70 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-6_edit-b.jpg) aus Cabarras D. 0,30 mm.  
 
 ### Tafel XIV.
 
