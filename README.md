@@ -7,7 +7,7 @@ Attempt at a translation from the original German to English, I welcome all pull
 [English - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/full-text-english.md)  
 English - PDF  
 [German - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/full-text-german.md)  
-[German - PDF](https://cdn.solaranamnesis.com/OttoHahn/DIE-METEORITE.pdf)  
+[German - PDF](https://cdn.solaranamnesis.com/OttoHahn/DIE-METEORITE-CHONDRITE-UND-IHRE-ORGANISMEN-OTTO-HAHN.pdf)  
 
 ## Background:
 
