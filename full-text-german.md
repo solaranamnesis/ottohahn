@@ -384,21 +384,21 @@ In der Windung begriffen [Tafel IV. Figur 1](https://cdn.solaranamnesis.com/Otto
 
 Diese Struktur wurde für den Blätterbruch des Bronzits gehalten! Ob [Tafel IV. Figur 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-4_edit-b.jpg) zu den Uranien gehört, ist zweifelhaft. Äußern Form und Farbe sprechen dafür. Die Anschnitte an beiden Seiten zeigen deutliche Struktur.
 
-Tafel V. Figur 5 zeigt vollständig gewundene Lappen. Entweder ist es ein Körper spiralförmig aufgewunden oder sind es mehrere Lappen, von welchen der äußere die inneren mantelartig umgibt.
+[Tafel V. Figur 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-5_edit-b2.jpg) zeigt vollständig gewundene Lappen. Entweder ist es ein Körper spiralförmig aufgewunden oder sind es mehrere Lappen, von welchen der äußere die inneren mantelartig umgibt.
 
-Tafel IV. Figur 6 ist ein Querschnitt, welcher allerdings wenig zeigt. Im Objekt selbst sieht man den Durchschnitt der Außenhaut weis.
+[Tafel IV. Figur 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-6_edit-b.jpg) ist ein Querschnitt, welcher allerdings wenig zeigt. Im Objekt selbst sieht man den Durchschnitt der Außenhaut weis.
 
-Tafel V. Figur 2 zeigt so deutliche Schichtung, dass wenn die äußere Form nicht wäre, man versucht sein könnte, die Form zu den Korallen zu stellen.
+[Tafel V. Figur 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-2_edit-b2.jpg) zeigt so deutliche Schichtung, dass wenn die äußere Form nicht wäre, man versucht sein könnte, die Form zu den Korallen zu stellen.
 
-Tafel IV. Figur 5 zeigt Querschnitte durch beide Flügel der Lappen.
+[Tafel IV. Figur 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-5_edit-b.jpg) zeigt Querschnitte durch beide Flügel der Lappen.
 
-Tafel VI. Figur 3 Lamellen-Struktur. Figur 5 und 6 können auch die einfachsten Crinoiden sein, deren Arme sich an einander angelegt haben. Hinsichtlich des Übergangs der Formen in andere muss ich auf das betreffende Kapitel verweisen.
+[Tafel VI. Figur 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-3_edit-b.jpg) Lamellen-Struktur. [Figur 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-5_edit-b.jpg) und [6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-6_edit-b2.jpg) können auch die einfachsten Crinoiden sein, deren Arme sich an einander angelegt haben. Hinsichtlich des Übergangs der Formen in andere muss ich auf das betreffende Kapitel verweisen.
 
-Am rätselhaften ist Tafel VI. Figur 1 und 2. Bei Figur 1 ist die matte Stelle im Präparat gelb, die gestreifte blau. Ich habe sie neben Figur 2 gestellt, diese zeigt deutlich zwei Lappen, welche wie zwei Muschelschalen an einer Stelle verbunden sind und beim ersten Anblick auch vollkommen den Eindruck eines Zweischaligen machen. (Es ist nicht ein bloßer Anschnitt.) Denkt man an Muscheln, so könnte die matte Stelle von Figur 1 der Steinkern sein. Allein die Struktur ist eben Uranienartig.
+Am rätselhaften ist [Tafel VI. Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-1_edit-b2.jpg) und [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-2_edit-b.jpg). Bei [Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-1_edit-b2.jpg) ist die matte Stelle im Präparat gelb, die gestreifte blau. Ich habe sie neben [Figur 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-2_edit-b.jpg) gestellt, diese zeigt deutlich zwei Lappen, welche wie zwei Muschelschalen an einer Stelle verbunden sind und beim ersten Anblick auch vollkommen den Eindruck eines Zweischaligen machen. (Es ist nicht ein bloßer Anschnitt.) Denkt man an Muscheln, so könnte die matte Stelle von [Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-1_edit-b2.jpg) der Steinkern sein. Allein die Struktur ist eben Uranienartig.
 
-Tafel V. Figur 3. 2 Individuen zeigen die Struktur überaus deutlich, ebenso die Anwachsstellen. In Figur 4 (welche ein schlechtes Bild gibt) legen sich mehrere Individuen fächerartig aneinander.
+[Tafel V. Figur 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-3_edit-b.jpg). 2 Individuen zeigen die Struktur überaus deutlich, ebenso die Anwachsstellen. In [Figur 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-4_edit-b.jpg) (welche ein schlechtes Bild gibt) legen sich mehrere Individuen fächerartig aneinander.
 
-Bei Tafel III. Figur 3, IV. 1, 2 glaubt man oben eine runde Mundöffnung angedeutet zu sehen.
+Bei [Tafel III. Figur 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-3_edit-b.jpg), [IV. 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-2_edit-b.jpg) glaubt man oben eine runde Mundöffnung angedeutet zu sehen.
 
 Hiernach halte ich die Urania für einen festgewachsenen Schwamm, welcher sich spiralförmig zusammenzieht, hiebe Wasser einsaugt und austreibt, wie unsere lebenden Schwämme.
 
