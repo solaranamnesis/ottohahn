@@ -448,17 +448,17 @@ Sie finden sich von der einfachsten Form eines gegliederten Armes bis zum ausgeb
 
 Ich stelle 4 Crinoiden in aufrechter Stellung und in großem Format in Tafel XVI-XIX dar und einen im Querschnitt Tafel XX.
 
-Tafel XXI. Figur 1-5 zeigt senkrechte Durchschnitte eines schon höher entwickelten Crinoiden. Es sind Hauptarme mit Hilfsarmen und deutlichen Gelenkflächen.
+[Tafel XXI. Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-2_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-3_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-5_edit-b.jpg) zeigt senkrechte Durchschnitte eines schon höher entwickelten Crinoiden. Es sind Hauptarme mit Hilfsarmen und deutlichen Gelenkflächen.
 
-Tafel XXI. Figur 3 zeigt Stiel und Krone. (2 und 4 doppelte Vergrößerung von 1 und 3.) Figur 5, aus einem andern Dünnschliffe, ist da, um die Übereinstimmung der Formen zu zeigen. In Figur 6 glaube ich die Mundöffnung in dem Höcker zwischen den Armen erhalten zu sehen.
+[Tafel XXI. Figur 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-3_edit-b.jpg) zeigt Stiel und Krone. ([2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-2_edit-b.jpg) [und 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-4_edit-b.jpg) doppelte Vergrößerung [von 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-1_edit-b.jpg) [und 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-3_edit-b.jpg)) [Figur 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-5_edit-b.jpg), aus einem andern Dünnschliffe, ist da, um die Übereinstimmung der Formen zu zeigen. In [Figur 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-6_edit-b.jpg) glaube ich die Mundöffnung in dem Höcker zwischen den Armen erhalten zu sehen.
 
-Tafel XXII. Figur 1, 3, 4, 5 und Tafel XXIII. Figur 1, 2 zeigen die Zahl 5 der Arme, sowie die Hilfsarme.
+[Tafel XXII. Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-1_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-5_edit-b.jpg) und [Tafel XXIII. Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-2_edit-b.jpg) zeigen die Zahl 5 der Arme, sowie die Hilfsarme.
 
-In Tafel XXIII. Figur 2 und 3 sieht man die Knickung der Arme durch Druck von oben.
+In [Tafel XXIII. Figur 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-2_edit-b.jpg) [und 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-3_edit-b.jpg) sieht man die Knickung der Arme durch Druck von oben.
 
-Tafel XXII. Figur 2 und 4 erinnern an Comatula.
+[Tafel XXII. Figur 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-2_edit-b.jpg) [und 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-4_edit-b.jpg) erinnern an Comatula.
 
-Eine besondere Art sind die Crinoiden, welche bloß aus einer beliebigen Anzahl von Armen bestehen. Zu diesen rechne ich Tafel XXIII. Figur 4, 5, Tafel XXIV. 4, 5, 6, Tafel XXVI. (Es ist auf dem Bilde Tafel XXIV. Figur 6 in kleinerem Maßstab die Koralle aus Cabarras, Tafel XIII. Figur 6.)
+Eine besondere Art sind die Crinoiden, welche bloß aus einer beliebigen Anzahl von Armen bestehen. Zu diesen rechne ich [Tafel XXIII. Figur 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-5_edit-b.jpg), [Tafel XXIV. 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-5_edit-b.jpg), [6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-6_edit-b.jpg), Tafel XXVI. (Es ist auf dem Bilde [Tafel XXIV. Figur 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-6_edit-b.jpg) in kleinerem Maßstab die Koralle aus Cabarras, [Tafel XIII. Figur 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-6_edit-b.jpg))
 
 Tafel XXIX. Figur 1, 2, 3, 4, 5, 6 und Tafel XXVII. Figur 3 geben Bilder von Crinoiden von oben gesehen.
 
