@@ -446,7 +446,7 @@ Während die Korallenformen etwa 1/20 des Volumens der Gesamtmasse des Chondrit-
 
 Sie finden sich von der einfachsten Form eines gegliederten Armes bis zum ausgebildeten Crinoiden mit Stiel, Krone, Haupt- und Hilfsarmen. Ihre Erhaltung ist größtenteils sehr gut. Die Schwierigkeit liegt bloß in den tausenderlei Richtungen der Schnitte, welche immer verschiedene Bilder desselben Objekts geben. Die birnenförmigen Körper, welche man als Gläser ansah, sind Crinoiden-Kronen.
 
-Ich stelle 4 Crinoiden in aufrechter Stellung und in großem Format in Tafel XVI-XIX dar und einen im Querschnitt Tafel XX.
+Ich stelle 4 Crinoiden in aufrechter Stellung und in großem Format in [Tafel XVI](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_16-1_edit-b2.jpg), [XVII](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_17-1_edit-b2.jpg), [XVIII](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_18-1_edit-b2.jpg), [XIX](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_19-1_edit-b2.jpg) dar und einen im Querschnitt [Tafel XX.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_20-1_edit-b2.jpg)
 
 [Tafel XXI. Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-2_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-3_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-5_edit-b.jpg) zeigt senkrechte Durchschnitte eines schon höher entwickelten Crinoiden. Es sind Hauptarme mit Hilfsarmen und deutlichen Gelenkflächen.
 
