@@ -880,7 +880,7 @@ Zusammenstellung von Mineral-Strukturen mit organischen aus Chondriten.
 [Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-3_edit-b.jpg) aus Knyahinya D. 1,80 mm.  
 [Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-4_edit-b.jpg) aus Knyahinya D. 1,20 mm.  
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-5_edit-b.jpg) aus Parnallee D. 0,80 mm.  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-6_edit-b.jpg) aus Moung County D. 0,60 mm.  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-6_edit.jpg) aus Moung County D. 0,60 mm.  
 
 ### Tafel XII. Korallen
 
