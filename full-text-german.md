@@ -460,27 +460,27 @@ In [Tafel XXIII. Figur 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteor
 
 Eine besondere Art sind die Crinoiden, welche bloß aus einer beliebigen Anzahl von Armen bestehen. Zu diesen rechne ich [Tafel XXIII. Figur 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-5_edit-b.jpg), [Tafel XXIV. 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-5_edit-b.jpg), [6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-6_edit-b.jpg), Tafel XXVI. (Es ist auf dem Bilde [Tafel XXIV. Figur 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-6_edit-b.jpg) in kleinerem Maßstab die Koralle aus Cabarras, [Tafel XIII. Figur 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-6_edit-b.jpg))
 
-Tafel XXIX. Figur 1, 2, 3, 4, 5, 6 und Tafel XXVII. Figur 3 geben Bilder von Crinoiden von oben gesehen.
+[Tafel XXIX. Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-2_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-3_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-4_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-5_edit-b.jpg), [6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-6_edit-b.jpg) und [Tafel XXVII. Figur 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-3_edit-b.jpg) geben Bilder von Crinoiden von oben gesehen.
 
-Tafel XXVII. Figur 2 und Tafel XXIX. Figur 4 zeigen Crinoiden von unten: hier tritt der Stielansatz als heller Punkt hervor. Diese Querschnitte kehren in dutzend Fällen in übereinstimmender Form wieder. (Man vergleiche auch Tafel III. Figur 2 links oben. Bessere Durchschnitte kann man wohl nicht fordern: die Muskelschichten sind hier deutlich sichtbar.)
+[Tafel XXVII. Figur 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-2_edit-b.jpg) und [Tafel XXIX. Figur 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_29-4_edit-b.jpg) zeigen Crinoiden von unten: hier tritt der Stielansatz als heller Punkt hervor. Diese Querschnitte kehren in dutzend Fällen in übereinstimmender Form wieder. (Man vergleiche auch [Tafel III. Figur 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-2_edit-b.jpg) links oben. Bessere Durchschnitte kann man wohl nicht fordern: die Muskelschichten sind hier deutlich sichtbar.)
 
-Eigentümliche Verschlingungen zeigen Tafel XXVI. Figur 1-4.
+Eigentümliche Verschlingungen zeigen [Tafel XXVI. Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-2_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-3_edit-b.jpg), [4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-4_edit-b.jpg).
 
-Die deutlichsten Querschnitte geben Tafel XXV. Figur 5 und 6. Ein Längsschnitt ist Tafel XXVII. Figur 3 mit geknickten Armen.
+Die deutlichsten Querschnitte geben [Tafel XXV. Figur 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_25-5_edit-b.jpg) [und 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_25-6_edit-b.jpg). Ein Längsschnitt ist [Tafel XXVII. Figur 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-3_edit-b.jpg) mit geknickten Armen.
 
-Tafel XXIV Figur 1 und 2 sind Formen, welche ich anfangs für Korallen ansah.
+[Tafel XXIV Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-1_edit-b.jpg) [und 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-2_edit-b.jpg) sind Formen, welche ich anfangs für Korallen ansah.
 
-Tafel XXVIII. Figur 1 könnte doch diesen letzteren zuzuzählen sein (die Struktur sollte deutlicher erhalten sein, um endgültig zu entscheiden).
+[Tafel XXVIII. Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-1_edit-b.jpg) könnte doch diesen letzteren zuzuzählen sein (die Struktur sollte deutlicher erhalten sein, um endgültig zu entscheiden).
 
-Etwas deutlicher ist Tafel XXVII. Figur 1: eine scheinbare Außenwand, welche aber nichts als der Durchschnitt des regelmäßig gelagerten Hauptarms ist.
+Etwas deutlicher ist [Tafel XXVII. Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-1_edit-b.jpg): eine scheinbare Außenwand, welche aber nichts als der Durchschnitt des regelmäßig gelagerten Hauptarms ist.
 
-Ein sehr schönes Bild gibt Tafel XXX. 3; ob Crinoid? ist zweifelhaft. Nur bemerke ich, dass die beiden Teile symmetrisch und die Arme nicht aneinander gelegt sind, sondern sich kreuzen.
+Ein sehr schönes Bild gibt [Tafel XXX. Figur 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-3_edit-b.jpg); ob Crinoid? ist zweifelhaft. Nur bemerke ich, dass die beiden Teile symmetrisch und die Arme nicht aneinander gelegt sind, sondern sich kreuzen.
 
-Tafel XXX. Figur 5 mit einem Anschnitt hatte ich anfangs zu den Uranien gestellt. Sie wird den Crinoiden zuzuzählen sein.
+[Tafel XXX. Figur 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-5_edit-b.jpg) mit einem Anschnitt hatte ich anfangs zu den Uranien gestellt. Sie wird den Crinoiden zuzuzählen sein.
 
-Tafel XXXI. Figur 1-3 sind offenbar dieselben Formen. In Figur 1 und 3 ist eine deutliche Furche wahrzunehmen, vielleicht die Stelle wo zwei Crinoiden-Arme sich aneinander legen. Im Polarisationsapparat tritt diese Furche noch deutlicher hervor. Figur 4, zwei Individuen zusammengelegt, ließe die Deutung auf Schwamm oder Koralle offen. Figur 5 mit Maschenstruktur in dem mittleren Teil, ein Gewebe von Gliedern, zeigt oben Arme mit deutlicher Struktur. Gehören diese Dinge zu stammen? Da die Form nur einmal vorkommt, wage ich keine Entscheidung. Auffallend ist nur die Ähnlichkeit des Mittelbildes mit der Struktur des Schreibersits im Meteoreisen. Figur 6 findet sich zweimal, weshalb ich beide Teile als zusammenhängend angesehen habe.
+[Tafel XXXI. Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-2_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-3_edit-b.jpg) sind offenbar dieselben Formen. In [Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-1_edit-b.jpg) [und 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-3_edit-b.jpg) ist eine deutliche Furche wahrzunehmen, vielleicht die Stelle wo zwei Crinoiden-Arme sich aneinander legen. Im Polarisationsapparat tritt diese Furche noch deutlicher hervor. [Figur 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-4_edit-b.jpg), zwei Individuen zusammengelegt, ließe die Deutung auf Schwamm oder Koralle offen. [Figur 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-5_edit-b.jpg) mit Maschenstruktur in dem mittleren Teil, ein Gewebe von Gliedern, zeigt oben Arme mit deutlicher Struktur. Gehören diese Dinge zu stammen? Da die Form nur einmal vorkommt, wage ich keine Entscheidung. Auffallend ist nur die Ähnlichkeit des Mittelbildes mit der Struktur des Schreibersits im Meteoreisen. [Figur 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-6_edit-b.jpg) findet sich zweimal, weshalb ich beide Teile als zusammenhängend angesehen habe.
 
-Dieselbe Maschenstruktur zeigt Tafel XXX. Figur 6 bei Lupenvergrößerung. Die Struktur beider stimmt, wie erwähnt, mit der Struktur des Schreibersits in dem Meteoreisen und kehrt mehrmals wieder.
+Dieselbe Maschenstruktur zeigt [Tafel XXX. Figur 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-6_edit-b.jpg) bei Lupenvergrößerung. Die Struktur beider stimmt, wie erwähnt, mit der Struktur des Schreibersits in dem Meteoreisen und kehrt mehrmals wieder.
 
 Wie ich schon im Eingang bemerkte, halte ich es nicht für meine Aufgabe Spezies zu machen. Meine Aufgabe war nur das Dasein von Organismen mit dem Nachweise geschlossener wiederkehrender Formen von organischer Struktur unzweifelhaft festzustellen. Dies glaube ich getan zu haben und ich denke, es sollte Niemand auch nur den mindesten Zweifel mehr hegen, (insbesondere nach dem Anblick eines Dünnschliffes im Original), dass es sich hier nicht um Mineralformen handle. Sind aber nur 5 organische Formen unzweifelhaft nachgewiesen, so sind auch die übrigen weniger gut erhaltenen Formen organisch.
 
@@ -1002,7 +1002,7 @@ Zusammenstellung von Mineral-Strukturen mit organischen aus Chondriten.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-5_edit-b.jpg) aus Knyahinya D. 1,50 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-6_edit-b.jpg) aus Knyahinya D. 1,40 mm.  
 
-### Tafel XXVIX. Crinoiden
+### Tafel XXIX. Crinoiden
 
 (1-3 von oben gesehen, 4 von unten.)
 
