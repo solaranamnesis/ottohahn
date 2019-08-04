@@ -23,13 +23,13 @@
 
 #### [Meteorites and their Mineralogical Properties](full-text-english.md#meteorites-and-their-mineralogical-properties-1)
 
-### [Section 2](full-text-english.md#section-ii-1)
+### [Section 2](full-text-english.md#section-2-1)
 
 #### [The Organic Nature of the Chondrite](full-text-english.md#the-organic-nature-of-the-chondrite-1)
 
 #### [Chapter 1. Organic or Inorganic?](full-text-english.md#organic-or-inorganic)
 
-#### [Chapter 2. The Individual Forms](full-text-english.md#chapter-ii)
+#### [Chapter 2. The Individual Forms](full-text-english.md#chapter-2)
 
 ##### [A. Sponges:](full-text-english.md#a-sponges) [1. Urania](full-text-english.md#1-urania) [2. Needle Sponges](full-text-english.md#2-needle-sponge)
 
@@ -37,15 +37,15 @@
 
 ##### [C. Crinoids](full-text-english.md#c-crinoids-1)
 
-#### [Chapter 3. All Life](full-text-english.md#chapter-iii)
+#### [Chapter 3. All Life](full-text-english.md#chapter-3)
 
-#### [Chapter 4. Stone in the Stone](full-text-english.md#chapter-iv)
+#### [Chapter 4. Stone in the Stone](full-text-english.md#chapter-4)
 
-#### [Chapter 5. Reproduction](full-text-english.md#chapter-v)
+#### [Chapter 5. Reproduction](full-text-english.md#chapter-5)
 
-#### [Chapter 6. Development](full-text-english.md#chapter-vi)
+#### [Chapter 6. Development](full-text-english.md#chapter-6)
 
-### [Section 3](full-text-english.md#section-iii-1)
+### [Section 3](full-text-english.md#section-3-1)
 
 #### [The Iron Meteorites](full-text-english.md#the-iron-meteorites-1)
 
