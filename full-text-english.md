@@ -49,25 +49,25 @@
 
 #### [The Iron Meteorites](full-text-english.md#the-iron-meteorites-1)
 
-### [Section 4]()
+### [Section 4](full-text-english.md)
 
-#### [The Iron of Ovifak]()
+#### [The Iron of Ovifak](full-text-english.md)
 
-### [Section 5]()
+### [Section 5](full-text-english.md)
 
-### [Conclusions]()
+### [Conclusions](full-text-english.md)
 
-#### [Chapter 1. Origin of Meteorites]()
+#### [Chapter 1. Origin of Meteorites](full-text-english.md)
 
-#### [Chapter 2. The Formation of Earth]()
+#### [Chapter 2. The Formation of Earth](full-text-english.md)
 
-#### [Chapter 3. The Future of our Planet]()
+#### [Chapter 3. The Future of our Planet](full-text-english.md)
 
-### [Explanation of the Panels]()
+### [Explanation of the Panels](full-text-english.md)
 
-### [Preliminary Note]()
+### [Preliminary Note](full-text-english.md)
 
-### [Table Index]()
+### [Table Index](full-text-english.md)
 
 # THE METEORITE (CHONDRITE) AND ITS ORGANISMS
 
