@@ -70,6 +70,8 @@
 
 # DIE METEORITE (CHONDRITE) UND IHRE ORGANISMEN.
 
+## Einleitung
+
 Nicht die zum Teil wenig sachlichen Angriffe auf meine „Urzelle“ waren es, welche mich in meinen Anstrengungen, gewisse neue geologische Tatsachen festzustellen — nicht ermüden ließen: es war die durch Beobachtungen gewonnene Überzeugung von der Unhaltbarkeit der bisherigen Anschauung in dem unstreitig wichtigsten Teile der geologischen Wissenschaft, in dem Teile, durch welchen er gerade mit dem Kosmos zusammenhängt — in der Lehre von den sogenannten plutonischen Gesteinen.
 
 Hatte ich es im ersten Teile meiner „Urzelle“ noch mit Ergebung hingenommen, dass der Erdkern und damit auch die Erkenntnis der wirklichen Entstehungs-Geschichte unserer Erde uns stets verborgen bleiben werde: so bot sich doch am Schluss dieses Buchs schon ein Ausblick: der Meteorstein zeigte die ferne Durchfahrt, welche noch von keinem Forscher gewagt worden war.
