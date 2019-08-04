@@ -31,7 +31,7 @@
 
 #### [Chapter 2. The Individual Forms](full-text-english.md#chapter-ii)
 
-##### [A. Sponges:](full-text-english.md#a-sponge) [1. Urania](full-text-english.md#1-urania) [2. Needle Sponges](full-text-english.md#2-needle-sponge)
+##### [A. Sponges:](full-text-english.md#a-sponges) [1. Urania](full-text-english.md#1-urania) [2. Needle Sponges](full-text-english.md#2-needle-sponge)
 
 ##### [B. Coral](full-text-english.md#b-coral-1)
 
@@ -295,11 +295,11 @@ Our researchers, with the exception of Gümbel, speak of the meteorites as volca
 
 Rightly Quenstedt has alone has declared the question an open one and said: "...it is reserved for the microscope to solve the riddle of the composition of the meteorites!" Handbook of Mineralogy p. 722.
 
-# Section II
+# Section 2
 
 ## The Organic Nature of the Chondrite
 
-### Chapter I
+### Chapter 1
 
 #### Organic or Inorganic?
 
@@ -361,11 +361,11 @@ If they were crystals and had broken sheets (of course olivine has none, yet the
 
 All this evidence is of course unknown to the botanist and zoologist, while every mineralogist knows it. Therefore I must ask the botanist and zoologist colleague to confirm what my photographs show. These forms are not mineral forms. With this the mineralogist has done his part, and now it passes into the hands of the paleontologist, or rather the zoologist, and now begins the positive proof.
 
-### Chapter II
+### Chapter 2
 
 #### The Individual Forms
 
-##### A. Sponge
+##### A. Sponges
 
 ###### 1. Urania
 
