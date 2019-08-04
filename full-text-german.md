@@ -12,17 +12,17 @@
 
 # INHALTSÜBERSICHT.
 
-## [Einleitung](full-text-german.md#die-meteorite-chondrite-und-ihre-organismen-1)
+## [Einleitung](full-text-german.md#einleitung-1)
 
-### I. ABSCHNITT.
+### [I. ABSCHNITT.](full-text-german.md#i-abschnitt-1)
 
 #### Die bisherigen Ansichten über die Meteorite.
 
 #### Geschichte und Überblick
 
-#### Die Meteorite und ihre mineralogischen Eigenschaften
+#### [Die Meteorite und ihre mineralogischen Eigenschaften](full-text-german.md#die-meteorite-und-ihre-mineralogischen-eigenschaften-1)
 
-### II. ABSCHNITT.
+### [II. ABSCHNITT.](full-text-german.md#ii-abschnitt-1)
 
 #### Die organische Natur der Chondrite.
 
