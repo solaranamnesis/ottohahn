@@ -477,7 +477,7 @@ The final determination of the genera and even the species requires more materia
 
 Thus the forms are presented. I have been pursuing a plan, of making a statistical study on the occurance of the forms, to count out something such as the occurance of same forms that one finds in 500 thin sections. I bring this up, because I felt I had to say, that I did not think such would have a great value. Each multiplication of my collection by twelve new ones would change the ratio. I therefore preferred to give an approximate numerical ratio for the individual forms.
 
-### Chapter III
+### Chapter 3
 
 #### All Life
 
@@ -495,7 +495,7 @@ This gives us the greatest baseline for geology - we have the chronological deve
 
 Admittedly organisms in iron, in the Earth's core, and in the meteoritic iron must also be detected. It is this task which I set for myself in what follows next. The previous results allow for a hopeful solution.
 
-### Chapter IV
+### Chapter 4
 
 #### Stone in the Stone
 
@@ -509,7 +509,7 @@ This situation is possible, even probable, that it was a falling-in of pieces of
 
 Under all circumstances, however, the ratio in the chondritic rock is the opposite as that in the sedimentary layers of our Earth. In these are the organisms stored, the rock strata enclose them; there is simply nothing but organisms and the rock strata are masses of such. I put an image of an actual rock-pieces in Borkut [Ukraine]. Table 32, Figure 2 next to that (Figure 1) I have depicted a form, slate-blue like Urania, however, without a set structure, also their outlines are inconsistent, which could be the lack of filler. If it were an organic form, it would be of the lowest nature. For comparison I show in Table 32, Figure 4 a thin section of Lias γ𝛿 [Early Jurassic] (Zwischenkalk), here shells are located in limestone, but most parts are merely pieces of shells; the parts are crushed in all sizes, and, regarding their origin, they are tumbled beyond any recognition. In the chondrite there is no place left which can leave doubt as to their composition.
 
-### Chapter V
+### Chapter 5
 
 #### Reproduction
 
@@ -521,7 +521,7 @@ Good preservation is an impossiblity. This is because meteoritic forms face the 
 
 I will refer to a single fact here, which is a considerable point of proof for the organic nature of the forms: the always occurring assocation of the individual forms. Many forms that one finds collectively resemble each other: few stand individually and at the same time as a unit. I hold this as highly significant. If several individuals of the same species come together, it goes to follow from this, that there stands mother or sibling relationships. The same phenomenon is known to occur in the terrestrial type. This would seem to signify, as minerals often do, to which form it belongs, undoubtedly the same applies to other species mineral filling, so a mineralogical ground from which the difference derivative of structure coud be inferred.
 
-### Chapter VI
+### Chapter 6
 
 #### Development
 
@@ -539,7 +539,7 @@ One will not want to go so far, however, as to derive the crinoids through the c
 
 Even here an adequate observation of a single is not enough for a complete conclusion.
 
-# Section III
+# Section 3
 
 ## The Iron Meteorites
 
