@@ -73,7 +73,7 @@
 
 ## Introduction
 
-It was not the inconsequential attacks on my "Primordial Cell" that gave me stamina to establish certain new geological facts, but rather it was the untenability of all previous views regarding the undisputedly most important part of the geological sciences, the part through which it relates to the cosmos - that is, the doctrine of the so-called plutonic rocks.
+It was not the inconsequential attacks on my "Primordial Cell" that gave me stamina to establish certain new geological facts, but rather it was the untenability of all previous views regarding the undisputedly most important part of the geological sciences, the part through which it relates to the cosmos — that is, the doctrine of the so-called plutonic rocks.
 
 If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth, and also the knowledge pertaining to its real genesis, will always remain hidden from us, then, at the end of this book there is yet a possibility: that the meteorite provides a way through the distant past although not yet actively pursued by researchers.
 
@@ -83,21 +83,21 @@ I did this, accompanied on the one hand by sharp and pronounced sarcasm from the
 
 The results yielded from this strenuous endeavor of almost super human effort over the previous year are laid down in the following pages.
 
-It is a world of animals in a rock which arrived on Earth to bring us tidings of the smallest beings from a most distant place - a life world which a mortal eye could hardly hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked universally and evenly in the universe.
+It is a world of animals in a rock which arrived on Earth to bring us tidings of the smallest beings from a most distant place — a life world which a mortal eye could hardly hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked universally and evenly in the universe.
 
-Admittedly, the meteorites, namely the chondrites, for these are the ones which are preferentially subject to my investigations, have no life of higher construction; rather, all are lower life forms - the same ones which prevail in the Silurian strata - sponges, corals, and crinoids - it is with these species that similar characteristics are found.
+Admittedly, the meteorites, namely the chondrites, for these are the ones which are preferentially subject to my investigations, have no life of higher construction; rather, all are lower life forms — the same ones which prevail in the Silurian strata — sponges, corals, and crinoids — it is with these species that similar characteristics are found.
 
 The chondrites that I have studied are olivine enstatite rock. They have undergone alterations, though not considerable, since the time of their formation as the remains of life, up until they landed on Earth. They have been permeated with a silicate solution, in a similar manner to how the Jura deposits are with a solution of lime. While it was part of the parent body it probably went through planetary cycles, just as new layers follow old ones down to the lowest strata on our Earth, under the influence of which the former have undergone a certain, though not as considerable as one assumes, transformation.
 
 Only the surface of the meteorites has changed considerably, indeed only at the last moment of their planetesimal existence and mostly due to the influence of frictional heat created, in this case, by the Earth's atmosphere. But the original meteorite itself essentially remains. We now see that before us is a piece from a planet as it was in the process of becoming, and thus the history of our Earth's body is now open to us, provided that we are correct that the meteorites, in their formation, are homogeneous in their chemical composition with the same world matter which formed the Earth and vice versa. At the same time, by sending me the "Meteorite of Ovifak" (I owe it to the kindness of Professor Dr. von Nordenskjöld) I was offered the opportunity to bring this rock into the investigation.
 
-I consider it to be terrestrial - as part of the deepest layer our Earth, i.e. the olivine layer, which belongs under the granite. I call this original layer the Olivine Formation. Since the rock is very similar to a meteorite, it is natural to declare it to be the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
+I consider it to be terrestrial — as part of the deepest layer our Earth, i.e. the olivine layer, which belongs under the granite. I call this original layer the Olivine Formation. Since the rock is very similar to a meteorite, it is natural to declare it to be the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
 
 Thus, we have established two solid points, from which a lever can be set.
 
 The chondrites, an olivine-feldspar (enstatite) rock, consist of an animal world, they are not part of a sedimentary rock layer nor a conglomerate, but a thick mat of animals, a tissue whose meshes were all once living beings and life of the lowest kind, the beginnings of creation.
 
-However, I could not make a systematic enumeration of life which is preserved in the meteorites: I just wanted to prove that it is so - that is all. I therefore only depicted the organic beings which I could content myself with determining undoubtedly, on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both for future investigation.
+However, I could not make a systematic enumeration of life which is preserved in the meteorites: I just wanted to prove that it is so — that is all. I therefore only depicted the organic beings which I could content myself with determining undoubtedly, on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both for future investigation.
 
 It is to be expected that my enumeration will be, through further research and with the help of richer material than I have available, multiplied and supplemented. In particular, sudivisions had to be avoided: since every newly discovered being would overturn any divisions and make the effort arduous, and any work in vain.
 
@@ -119,7 +119,7 @@ In such beginnings, mistakes are inevitable, so it is only a small demand asking
 
 Last year, when I wrote down in my diary certain new observations about the composition of the rocks of our Earth and finally also of the meteorities, the importance of the latter to geology was not fully clear to me.
 
-It was only when I was forced by the attacks of opponents to take the investigation again into my own hands, that I clearly realized the importance that a careful study of the meteorites could be to the history of our Earth. Lastly, I came to the conclusion that, in the present state of geology, the meteorities - and only the meteorites, give the point from which the history of the Earth could at least be explored with almost certainty.
+It was only when I was forced by the attacks of opponents to take the investigation again into my own hands, that I clearly realized the importance that a careful study of the meteorites could be to the history of our Earth. Lastly, I came to the conclusion that, in the present state of geology, the meteorities — and only the meteorites — give the point from which the history of the Earth could at last be explored with almost certainty.
 
 If, in the "Primordial Cell", I thought I had reached the limit of research with granite, I soon learned better. I contemplated that by virtue of its specific gravity, our Earth's core must also consist of at least solid iron, further considering the very probable order of the meteorites, which goes from the pure iron to the feldspar rocks of our Earth. I further believed that a conclusion for our Earth based on the meteorites could be ventured, the conclusion that in the other planets and in those, or the one whose debris we have in the hundreds of thousands of orbiting meteorites before us, a sequence of stratification from heavy to light, a stratigraphy which we probably pass through in the series from pure iron through the half iron (Pallasite, Hainwood) to the chondrites and eucrites, then to the coal meteorites (Cold Bokkeveld) in front of us.
 
@@ -127,9 +127,9 @@ Once this likelihood had been understood, it was obvious that the meteorites sho
 
 So if, I thought, my earlier assertion that the Knyahinya Meteorite consisted entirely of life, was not confirmed by my new investigations, then science would have still been served if I were to show the true form of this meteorite. Fortunately, however, I was spared this retreat: on the contrary, the result of my new research was far beyond expectations — a new world emerged.
 
-But, of course - our science is skeptical - it rightly demands more stringent evidence than I offered in my "Primordial Cell"; a book written more at the stage of, I would say, intuition. Today I present the evidence.
+But, of course — our science is skeptical — it rightly demands more stringent evidence than I offered in my "Primordial Cell"; a book written more at the stage of, I would say, intuition. Today I present the evidence.
 
-As one examines the panels of this work, it immediately becomes clear that these are not mineral forms, but organic ones; that we have before us the images of life, images of life of the lowest order, a creation which in greater part finds some of its closest relatives on Earth - regarding the corals and crinoids, this is determined with absolute certainty; however, the sponges only have little similarity with the forms of the terrestrial genera of Earth.
+As one examines the panels of this work, it immediately becomes clear that these are not mineral forms, but organic ones; that we have before us the images of life, images of life of the lowest order, a creation which in greater part finds some of its closest relatives on Earth — regarding the corals and crinoids, this is determined with absolute certainty; however, the sponges only have little similarity with the forms of the terrestrial genera of Earth.
 
 Thus, the origin is established with regard to its parts. However, in my study of twenty chondrites (and 360 thin sections of them), the assertion made in my "Primordial Cell" was confirmed — the the rock of the chondrites is not a type of sedimentary rock as on Earth, in which fossils are embedded, that it is not a conglomerate formation; but rather, its whole mass is entirely formed of organic beings, like our coral rocks. So not a plant, as I had assumed earlier, but plant-animals! The whole stone is life: — I think science will forgive me the first mistake.
 
@@ -137,7 +137,7 @@ Needless to say, the iron meteorites were now subject to additional testing. Her
 
 However, time and circumstances, especially the lack of available materials prevented me from concluding the investigation prior to this publication. But if I repeat today the first assertion, that meteoritic iron is nothing but a mat of plants, then I may now regard myself as more legitimate than at the time when I wrote the “Primordial Cell” and asserted the prior statement. I have to add that I also found life forms in the irons. The researchers who avoid the forms of chondrites that I depict may overlooked the fact that the so-called Widmanstätten's figures are, for the most part, plant cells and not crystals.
 
-The investigations up till now, in the whole field, with the exception of [Karl Wilhelm von] Gümbel's work in the Munich Academy, are of little use, both regarding their accuracy of observation and even more as regards the interpretations based upon those observations, on unproven hypotheses and weak assumptions - not suitable for scientific findings as such. And due to this the field was still wide open to me, although my only regret is that I cannot make a draft in time regarding the irons.
+The investigations up till now, in the whole field, with the exception of [Karl Wilhelm von] Gümbel's work in the Munich Academy, are of little use, both regarding their accuracy of observation and even more as regards the interpretations based upon those observations, on unproven hypotheses and weak assumptions — not suitable for scientific findings as such. And due to this the field was still wide open to me, although my only regret is that I cannot make a draft in time regarding the irons.
 
 I now come to the conclusions for geology. If the chondrites, an olivine and enstatite rock, are really what I assert: that is, only pieces of sponge-coral-crinoid rock, then a fact of immeasurable consequence has been discovered for the science of Earth.
 
@@ -155,7 +155,7 @@ I imagine that the planetary materials (including water, which is usually overlo
 
 That the attraction of mass should form mass! That the effect should simultaneously be the cause! The mass is to be formed by mass attraction, that is, by the fact that it was already there! It is to be regretted that this error of thought has not been discovered earlier. The mass, when it is present, can increase by attraction, but not by it: it is as if someone should be his own father!
 
-So another force had to form the mass; but this could only be either the crystallization force or the organic formative force. The former does not suffice to explain the formation of the planets, and no crystals are found: consequently only the second force remains - the organic one. Here I recall my observations of the structure of the meteorite and so today, for me at least, it is clear that the first beginnings of Earth, and the rest of the planet, has an organic cause.
+So another force had to form the mass; but this could only be either the crystallization force or the organic formative force. The former does not suffice to explain the formation of the planets, and no crystals are found: consequently only the second force remains — the organic one. Here I recall my observations of the structure of the meteorite and so today, for me at least, it is clear that the first beginnings of Earth, and the rest of the planet, has an organic cause.
 
 If the sentence appears a bit deafening, one need only resort to the familiar.
 
@@ -169,7 +169,7 @@ How could a fiery Earth core ultimately survive without oxygen! And does not the
 
 These are the conclusions from the study of the meteorites for Earth's formation. But the facts which astronomy can derive from it are no more significant.
 
-The 20 meteorite (chondrite) thin sections that I have studied, some of falls which are more than a century apart, show the same forms, much as fossil-shells occurs everywhere in the same formation; Gümbel, if he did not correctly interpret the forms of the chondrites, has excellently expressed this.
+The 20 meteorite (chondrite) thin sections that I have studied, some of falls which are more than a century apart, show the same forms, much as fossil shells occurs everywhere in the same formation; Gümbel, if he did not correctly interpret the forms of the chondrites, has excellently expressed this.
 
 So these chondrites are probably from one and the same world body, a planet. Or, has evolution been so much the same on different planets?
 
@@ -201,11 +201,11 @@ Gümbel: On the stone meteorites found in Bavaria; Meeting reports of the mathem
 
 And further, p. 61:
 
-"The most common type of stony meteorites is predominately that of the so-called chondrites, the composition and structure of which coincide so much that we may not see that the common origin and initial cohesion of these chondrites - if not all meteorites - could be of doubt.
+"The most common type of stony meteorites is predominately that of the so-called chondrites, the composition and structure of which coincide so much that we may not see that the common origin and initial cohesion of these chondrites — if not all meteorites — could be of doubt.
 
 The fact that they enter our atmosphere as highly irregularly shaped pieces — apart from the shattering within the pieces into several fragments, which is common, but can not be assumed in all cases, especially if, by direct observation, the falling of only one piece is confirmed, it can be further concluded that they already make their orbits in the heavenly space as demolished pieces of a single larger celestial body and in their absent-mindedness occasionally fall to Earth when they enter into the area of attraction of the Earth. The lack of original lava like amorphous constituents in connection with the external irregular form is like to exclude from the geo- or cosmological points of view the assumption that these meteorites are ejections of lunar volcanoes, as is often claimed."
 
-Gümbel, having placed the meteorites as related to the olivine rocks of our Earth, summarizes his view on the origin (p. 64) in the sentence: "Therefore, the meteorites appear to be a kind of first process of encasing the celestial bodies, but since they contain metallic iron - to have been produced in the absence of oxygen and water."
+Gümbel, having placed the meteorites as related to the olivine rocks of our Earth, summarizes his view on the origin (p. 64) in the sentence: "Therefore, the meteorites appear to be a kind of first process of encasing the celestial bodies, but since they contain metallic iron — to have been produced in the absence of oxygen and water."
 
 So ingenous, he continues (p. 68), "these hypotheses are Daubree's and Tschermak's (origins from shattered volcanic rock), so I can not agree with their view on the formation of the globules (chondrites) on the basis of my latest research. Contrary to Tschermak's assumption, I sought to prove that the internal structure of the chondrules is not out of context with their sphereical shape, and that these globules can not be regarded as pieces of a mineral crystal or solid rock. Even the unsmooth, unpolished surface speaks, which, if formed by abrasion or unrolling, should be mirror-smooth with similar hardness of the material, while it appears rough, bumpy, often facially striated, against the theory of friction, so there is no reason at all by which to understand why the other mineral fragments and are rounded like grains of sand, and why, in particular, the meteorite, the iron, and the very hard chromium iron, as I have been convinced in the meteorite of L'Aigle, are always not rounded, with often extremly finely sliced forms. How is it conceivable that, as if often observed, there would be a concentric accumulation of meteoritic iron within the globules? Also, the excentric fibrous structures of most globules in their one-sided radiating does not appear to be random in relation to the surface, but rather to similar to the nature of the structure of hailstones. This inner structure is closely related to the act of its formation, which can only be explained as a growth of mineral forming substances with simultaneous rotation in gaseous vapors, which provided the material for further support, whereby more material began in the direction of movement."
 
@@ -233,31 +233,31 @@ I prefer to study the chondrites, and where I speak of meteorites, I am refering
 
 I have examined:
 
-Tabor, Böhmen - July 3, 1753  
-Siena, Toskana - June 16, 1794  
-L'Aigle, Normandy - April 26, 1803  
-Weston, Connecticut - December 14, 1807  
-Tipperary, Ireland - November 23, 1810  
-Blansko, Brünn - November 25, 1833  
-Château-Renard, Loiret - July 12, 1841  
-Linn [Marion] County, Iowa - February 25, 1847  
-Cabarras [Monroe] County, North Carolina - October 31, 1849  
-Mezö-Madaras [Romania] - September 4, 1852  
-Borkut, Ungarn - October 13, 1852  
-Bremervörde, Hanover - May 13, 1855  
-Parnallee, East India [Tamil Nadu] - February 28, 1857  
-Heredia, Costa Rica - April 1, 1857  
-New Concord, Ohio - May 1, 1860  
-Knyahinya, Ungarn. - June 9, 1866  
-Pultusk, Warschau - January 30, 1868  
-Olvinio - August 31, 1872  
+Tabor, Böhmen — July 3, 1753  
+Siena, Toskana — June 16, 1794  
+L'Aigle, Normandy — April 26, 1803  
+Weston, Connecticut — December 14, 1807  
+Tipperary, Ireland — November 23, 1810  
+Blansko, Brünn — November 25, 1833  
+Château-Renard, Loiret — July 12, 1841  
+Linn [Marion] County, Iowa — February 25, 1847  
+Cabarras [Monroe] County, North Carolina — October 31, 1849  
+Mezö-Madaras [Romania] — September 4, 1852  
+Borkut, Ungarn — October 13, 1852  
+Bremervörde, Hanover — May 13, 1855  
+Parnallee, East India [Tamil Nadu] — February 28, 1857  
+Heredia, Costa Rica — April 1, 1857  
+New Concord, Ohio — May 1, 1860  
+Knyahinya, Ungarn. — June 9, 1866  
+Pultusk, Warschau — January 30, 1868  
+Olvinio — August 31, 1872  
 Simbirsk
 
 All rocks are thoroughly certified. Above all, I have the kindness of my revered teacher, Professor Dr. [Friedrich August] von Quenstedts, with whom he thankfully commemorate the excellent Tübingen University Collection (which, as is well known, for the most part by [Karl Ludwig] Baron von Reichenbach in Vienna).
 
 ### 3.
 
-From Knyahinya I own 360 thin sections, of L'Aigle 6, of Pultusk 6, of the remaining 1 - 3 each. I will name all stones after their place of fall. When making the thin sections, I made the cuts in two directions. After several attempts on Knyahinya, it turned out that it breaks in certain directions. 
+From Knyahinya I own 360 thin sections, of L'Aigle 6, of Pultusk 6, of the remaining 1-3 each. I will name all stones after their place of fall. When making the thin sections, I made the cuts in two directions. After several attempts on Knyahinya, it turned out that it breaks in certain directions. 
 
 This was deduced from the inclusions, which, once their position had been found, regularly resulted in certain forms, to which those forms corresponded in sections made perpendicular to this position.
 
@@ -267,7 +267,7 @@ Also, I deliberately made the thin sections in three different thicknesses: heav
 
 I would like to make a comment here, which will be confirmed by anyone who has dealt with thin sections of fossiliferous material.
 
-Only in rare cases of total transparency, that are entirely cut thin, is the structure visible. Anyone who looks at a thin section, if cut in this manner, with the microscope will be delighted at the beautiful shapes and lines. In the joy of this, one will want to make things even better and expects with continued grinding a perfect picture. But when one puts the thin section under the microscope after this second time - there is nothing left but an almost structureless surface, with hardly hinted, even blurred shapes, from which you previously perceived with the magnifying glass can no longer be seen, not even with the microscope. However, this phenomenon is related to the type of metamorphosis of the rock and the forms within it. The matter is well known and therefore does not require further explaination. I only mentioned the matter so that those who want to make these observations will not be surprised and will improve their own mode of observation.
+Only in rare cases of total transparency, that are entirely cut thin, is the structure visible. Anyone who looks at a thin section, if cut in this manner, with the microscope will be delighted at the beautiful shapes and lines. In the joy of this, one will want to make things even better and expects with continued grinding a perfect picture. But when one puts the thin section under the microscope after this second time — there is nothing left but an almost structureless surface, with hardly hinted, even blurred shapes, from which you previously perceived with the magnifying glass can no longer be seen, not even with the microscope. However, this phenomenon is related to the type of metamorphosis of the rock and the forms within it. The matter is well known and therefore does not require further explaination. I only mentioned the matter so that those who want to make these observations will not be surprised and will improve their own mode of observation.
 
 ### 4.
 
@@ -333,7 +333,7 @@ Though they are rare, small sections are real crystals, but in a way, they are p
 
 However, the structure in the meteorite inclusions is always, I would like to say: symmetric, in harmony with its outlines.
 
-5\. When the crystals are weathered the layers change from the outside to the inside - concentrically - but there is no trace of weathering in the inclusions of the chondrites and their structures are always eccentric.
+5\. When the crystals are weathered the layers change from the outside to the inside — concentrically — but there is no trace of weathering in the inclusions of the chondrites and their structures are always eccentric.
 
 6\. Regarding the mineral inclusions, they give different sights depending on their nature. The deposits are quite arbitrary forms, such as glass-liquid-inclusions and crystallites.
 
@@ -351,7 +351,7 @@ It has been previously held that such crystallization will turn into the enstati
 
 Here the tread of the basic difference between the meteorite forms and the crystallites is made quite clear.
 
-The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, which it is ground away, which Gümbel overlooked) - a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that the crystals unite with a crystal of equal mass, which then create concentric forms.
+The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, which it is ground away, which Gümbel overlooked) — a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that the crystals unite with a crystal of equal mass, which then create concentric forms.
 
 Therefore if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, concentric formations would show.
 
@@ -403,7 +403,7 @@ Table 7, the forms of Figures 1, 2, 3, 4, 5, and 6 show a spicule framework. Fig
 
 Almost certain are Figures 2 and 5 (in Figure 2, the white line is a rock crack).
 
-The shape of Figure 4 I kept in the arrangement of tables as a sponge. After changing the arrangement was no longer possible, I realized this form was the skewed average of a crinoid and what I initially considered to be needles - are fine crinoid arms. I note that the determination is very difficult because of the exceptionally plain meteoritic crinoid forms, which means a decision must be avoided pending further investigation. The cavity of the needle sponge can be confused for the food channel of the crinoid arms, when the latter are stretched straight and the limbs are no longer clearly preserved. This fact of the matter, however unpleasent for the investigator of individual forms, is all the more rewarding for the one who pursues the development of the forms - for proving the development of one form to another. It is always enough one to the other. This puts us in a more favorable position.
+The shape of Figure 4 I kept in the arrangement of tables as a sponge. After changing the arrangement was no longer possible, I realized this form was the skewed average of a crinoid and what I initially considered to be needles — are fine crinoid arms. I note that the determination is very difficult because of the exceptionally plain meteoritic crinoid forms, which means a decision must be avoided pending further investigation. The cavity of the needle sponge can be confused for the food channel of the crinoid arms, when the latter are stretched straight and the limbs are no longer clearly preserved. This fact of the matter, however unpleasent for the investigator of individual forms, is all the more rewarding for the one who pursues the development of the forms — for proving the development of one form to another. It is always enough one to the other. This puts us in a more favorable position.
 
 ##### B. Coral
 
@@ -435,7 +435,7 @@ All coral forms throughout make up about a twentieth the total volume of the cho
 
 ##### C. Crinoids
 
-They are found in the simplest form, from their articulately divided arms to the developed crinoid with stem, crown, main and auxiliary arms. Their preservation is good for the most part. The difficulty lies only in the thousands of possible directions of cutting, which always give different perspectives of the same object. The pear-shaped bodies, which are regarded as glass are crinoids - their crowns.
+They are found in the simplest form, from their articulately divided arms to the developed crinoid with stem, crown, main and auxiliary arms. Their preservation is good for the most part. The difficulty lies only in the thousands of possible directions of cutting, which always give different perspectives of the same object. The pear-shaped bodies, which are regarded as glass are crinoids — their crowns.
 
 I present four crinoids in an upright position and in high quality in Tables 16 thru 19 and in profile Table 20.
 
@@ -483,7 +483,7 @@ Thus the forms are presented. I have been pursuing a plan, of making a statistic
 
 The individual forms were brought to view in the previous sections. All of these forms are not buried upon death, but the one grows upon another and in truth they are buried alive by life. Here of course only our vision can provide conviction. To this purpose one should look in all the pictures at the individual forms within their surroundings!
 
-What at first glance appears as a bright spot, upon closer examination shows on the average a sponge, a coral, or a crinoid part. Nowhere are, as Gümbel has quite rightly observed, there disassembled, rolled off forms and fragments - also there is not a binder between them. Only soft tissues are missing, everything else is preserved, just as it was when the life was in water. The crinoid forms show this clearly. For these are at most curved on a side, winding, and seldom broken; one sees also that there was only weak mechanical resistance against neighbouring heads. But everything together, grown apart - nothing laid down, nothing buried. There is also no mass available which could have consituted a grave.
+What at first glance appears as a bright spot, upon closer examination shows on the average a sponge, a coral, or a crinoid part. Nowhere are, as Gümbel has quite rightly observed, there disassembled, rolled off forms and fragments — also there is not a binder between them. Only soft tissues are missing, everything else is preserved, just as it was when the life was in water. The crinoid forms show this clearly. For these are at most curved on a side, winding, and seldom broken; one sees also that there was only weak mechanical resistance against neighbouring heads. But everything together, grown apart — nothing laid down, nothing buried. There is also no mass available which could have consituted a grave.
 
 The fact, that there is nothing inorganic in the chondrite rocks, and not a single place without life in it, I consider to be as important as the existence of the organisms themselves. First, this fact casts full light on the emergence of the planets. If one adds to this, that the rock, which includes these formations, consists of minerals, belonging to the purported primary mountains [Urgestein], yes "volcanism" associated with the mountains: then our geology must take a different path in the explanation of the facts. My belief is by no means that the sponges, corals, and crinoids are from the minerals we have here, which constitute forms today. The original organisms must have been composed differently, they must have endured a transformation.
 
@@ -491,7 +491,7 @@ It is so much, I think, beyond all doubt, that what is nowadays hornblende, augi
 
 Now we find these minerals in our primary mountains as forms, which are not crystals, but are similar to meteoritic ones. We find mountain masses composed of such forms. So here too it is highly probable that organic forms, subsequently transformed, are what we now call rocks. These rocks, however, points to a layer which is undoubtedly close to the meteoritic (chondritic), indeed they are closely related. Under this must lie the iron. This testifies to the specific weight of the Earth. Again the identical situation appears in the fallen iron meteorites: here, as in the Ovifak rock, we find transitions, compositions of iron and olivine.
 
-This gives us the greatest baseline for geology - we have the chronological development of the body of the Earth. The development of form - the reason for the growth of the forms themselves is at the same time open. If the organism in the lowest layer, that we know, was the source of mass creation, it could also have been the initial cause for the beginning of the planet itself. The assumption of mere mass-attraction, the mechanical formation of the Earth and the heavenly bodies would in general, be thereby refuted.
+This gives us the greatest baseline for geology — we have the chronological development of the body of the Earth. The development of form — the reason for the growth of the forms themselves is at the same time open. If the organism in the lowest layer, that we know, was the source of mass creation, it could also have been the initial cause for the beginning of the planet itself. The assumption of mere mass-attraction, the mechanical formation of the Earth and the heavenly bodies would in general, be thereby refuted.
 
 Admittedly organisms in iron, in the Earth's core, and in the meteoritic iron must also be detected. It is this task which I set for myself in what follows next. The previous results allow for a hopeful solution.
 
@@ -501,7 +501,7 @@ Admittedly organisms in iron, in the Earth's core, and in the meteoritic iron mu
 
 When I said this: the chondrite is nothing but a weave of animals, a mat of animals, a qualification must be suffered.
 
-There are, however, very small, sharply outlined places in this animal-bone stone, which could probably (but not necessary) be from the beginning rocks. These are slate-blue, uncommon inclusions with 3 - 5 mm. diameters lacking definite recurring forms, which include distinct cystals in their grayish mass, these are on average either squares or rhombuses, at other times it includes hexagons. This mineral can be either augite or olivine. Here the crystalline form pronounces in favor of a mineral. The sole existence of this speaks for my views. Why have the crystals not grown themselves identically everywhere? And why should there not be hollow cavities remaining in the organisms? It is known that fillers in organic forms later crystallize. And, in the end-filled organic forms cavities are found, in which their outlines look like surfaces recessing at an angle.
+There are, however, very small, sharply outlined places in this animal-bone stone, which could probably (but not necessary) be from the beginning rocks. These are slate-blue, uncommon inclusions with 3-5 mm. diameters lacking definite recurring forms, which include distinct cystals in their grayish mass, these are on average either squares or rhombuses, at other times it includes hexagons. This mineral can be either augite or olivine. Here the crystalline form pronounces in favor of a mineral. The sole existence of this speaks for my views. Why have the crystals not grown themselves identically everywhere? And why should there not be hollow cavities remaining in the organisms? It is known that fillers in organic forms later crystallize. And, in the end-filled organic forms cavities are found, in which their outlines look like surfaces recessing at an angle.
 
 The reason, for why I acknowledge that these inclusions are inorganic parts of the chondrites, as actual meteoritic stone (sone in the stone), is, since the outlines do not give the indication, that their form does not address itself as being organic. These inclusions may be deposits of an already developed rocky mass or they may have only developed in the cavities.
 
@@ -513,7 +513,7 @@ Under all circumstances, however, the ratio in the chondritic rock is the opposi
 
 #### Reproduction
 
-In the stone there are found a host of round and pear-shapred forms with 0.10 mm. - 0.50 mm. diameters, which barely indicate structure. I hold these forms to be the first development forms. Among the many forms, the most outstanding is the transparent spherical forms of rock, in the center of which are canal openings. Here one finds these canals within spheres, with two further below and a larger above, and so forth on up to the forms of Table 13, Figures 1 thru 4. The case is here, I believe, secure. This form is not only evident in all the chondrites, in all one also finds in them all the developmental stages in the up to 20 or more canals: they are common and at the same time certain, because of their self-evident canal structure. They have been preserved in those chondrites which hardly show the forms on the left. The development that is suggested here is that the canals reproduce.
+In the stone there are found a host of round and pear-shapred forms with 0.10-0.50 mm. diameters, which barely indicate structure. I hold these forms to be the first development forms. Among the many forms, the most outstanding is the transparent spherical forms of rock, in the center of which are canal openings. Here one finds these canals within spheres, with two further below and a larger above, and so forth on up to the forms of Table 13, Figures 1 thru 4. The case is here, I believe, secure. This form is not only evident in all the chondrites, in all one also finds in them all the developmental stages in the up to 20 or more canals: they are common and at the same time certain, because of their self-evident canal structure. They have been preserved in those chondrites which hardly show the forms on the left. The development that is suggested here is that the canals reproduce.
 
 Of course, there are many faint spherical and pear shapes which indicate structure. They appear to have been of sarcode [gelatinous material], when they were at once interred. I would not dare to bring these forms up if they did not indicate a definite structure. They consist of two, three, four, and five lobed-form branches and are probably the beginnings of crinoids. That the observation of developmental forms is difficult is well known. Hence, this is why I do not allow myself to act prematurely here. What I say here should only be considered a pointer towards future research.
 
@@ -529,7 +529,7 @@ After having depicted the single forms, I now must discuss their proportions to 
 
 That Urania is the simplest form, this is certain. However, it establishes the inception of what follows.
 
-These layers in the hemispherical lobes, these tubular layers, they part themselves crosswise - which nowadays would constitute the arm, connects a canal. It develops a crown between the arms and the growth point and the simplest crinoid is there. If this seems like a twisted chain of events, the forms involuntarily demand it. But just as we necessarily find somewhere in living forms a line of development, so should we also not find that the same changes have taken place here? Certainly. Only, I believe, they are found with more quantity and much greater visibility of transitions in the meteoritic forms. One can find the ancestor of the Pentacrinus Briareus nowhere else on Earth except with the corals, and one can see the origin of the coral in the sponge form: it is decidedly a lower form than that of the coral.
+These layers in the hemispherical lobes, these tubular layers, they part themselves crosswise — which nowadays would constitute the arm, connects a canal. It develops a crown between the arms and the growth point and the simplest crinoid is there. If this seems like a twisted chain of events, the forms involuntarily demand it. But just as we necessarily find somewhere in living forms a line of development, so should we also not find that the same changes have taken place here? Certainly. Only, I believe, they are found with more quantity and much greater visibility of transitions in the meteoritic forms. One can find the ancestor of the Pentacrinus Briareus nowhere else on Earth except with the corals, and one can see the origin of the coral in the sponge form: it is decidedly a lower form than that of the coral.
 
 What this meteorite-creation gives of such great importance to the evolutionary theory is not only the occurance of animal forms in the deepest strata, but also consistent types for all meteoritic organisms. This becomes clear after ones views hundreds of thin sections one after the other.
 
