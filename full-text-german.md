@@ -16,9 +16,9 @@
 
 ### [I. ABSCHNITT.](full-text-german.md#i-abschnitt-1)
 
-#### Die bisherigen Ansichten über die Meteorite.
+#### [Die bisherigen Ansichten über die Meteorite.](full-text-german.md#die-bisherigen-ansichten-über-die-meteorite-1)
 
-#### Geschichte und Überblick
+#### [Geschichte und Überblick](full-text-german.md#geschichte-und-überblick-1)
 
 #### [Die Meteorite und ihre mineralogischen Eigenschaften](full-text-german.md#die-meteorite-und-ihre-mineralogischen-eigenschaften-1)
 
