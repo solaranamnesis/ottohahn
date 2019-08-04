@@ -31,7 +31,7 @@
 
 #### [Chapter 2. The Individual Forms](full-text-english.md#chapter-2)
 
-##### [A. Sponges:](full-text-english.md#a-sponges) [1. Urania](full-text-english.md#1-urania) [2. Needle Sponges](full-text-english.md#2-needle-sponge)
+##### [A. Sponges:](full-text-english.md#a-sponges) [1. Urania](full-text-english.md#1-urania) [2. Needle Sponges](full-text-english.md#2-needle-sponges)
 
 ##### [B. Coral](full-text-english.md#b-coral-1)
 
@@ -397,7 +397,7 @@ After all this I think the Urania is a sessile sponge, that contracts in a spira
 
 Urania composes three twentieths of the rock mass. 
 
-###### 2. Needle-Sponge
+###### 2. Needle-Sponges
 
 Table 7, the forms of Figures 1, 2, 3, 4, 5, and 6 show a spicule framework. Figure 1 points to Astrospongia. The needles are regularly crossed. Figure 6 is an irregularly massive spicule framework with a cavity, which from the picture suggests is very weak. These two forms seem unquestionable to me.
 
