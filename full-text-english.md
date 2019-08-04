@@ -95,7 +95,7 @@ I consider it to be terrestrial - as part of the deepest layer our Earth, i.e. t
 
 Thus, we have established two solid points, from which a lever can be set.
 
-The chondrites, an olivine-feldspar (enstatite) rock, consists of an animal world, they are not part of a layer of sedimentary rock, nor a conglomerate, but a thick mat of animals, a tissue whose meshes were all once living beings, and life of the lowest kind, the beginnings of creation.
+The chondrites, an olivine-feldspar (enstatite) rock, consist of an animal world, they are not part of a sedimentary rock layer, nor a conglomerate, but a thick mat of animals, a tissue whose meshes were all once living beings, and life of the lowest kind, the beginnings of creation.
 
 However, I could not make a systematic enumeration of life which is preserved in the meteorites: I just wanted to prove that it is so - that is all. I therefore only depicted the organic beings which I could content myself with determining undoubtedly, on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both for future investigation.
 
