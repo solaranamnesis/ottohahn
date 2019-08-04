@@ -13,61 +13,61 @@
 
 # TABLE OF CONTENTS
 
-## Introduction
+## [Introduction](full-text-english.md#introduction-1)
 
-### Section I
+### [Section 1](full-text-english.md#section-1)
 
-#### Previous Views on Meteorites
+#### [Previous Views on Meteorites](full-text-english.md#previous-views-on-the-meteorite)
 
-#### History and Overview
+#### [History and Overview](full-text-english.md#history-and-overview-1)
 
-#### Meteorites and their Mineralogical Properties
+#### [Meteorites and their Mineralogical Properties](full-text-english.md#meteorites-and-their-mineralogical-properties-1)
 
-### Section II
+### [Section 2](full-text-english.md#section-ii-1)
 
-#### The Organic Nature of the Chondrite
+#### [The Organic Nature of the Chondrite](full-text-english.md#the-organic-nature-of-the-chondrite-1)
 
-#### Chapter I. Organic or Inorganic?
+#### [Chapter 1. Organic or Inorganic?](full-text-english.md#organic-or-inorganic)
 
-#### Chapter II. The Individual Forms
+#### [Chapter 2. The Individual Forms](full-text-english.md#chapter-ii)
 
-##### A. Sponges: 1. Urania 2. Needle Sponges
+##### [A. Sponges:](full-text-english.md#a-sponge) [1. Urania](full-text-english.md#1-urania) [2. Needle Sponges](full-text-english.md#2-needle-sponge)
 
-##### B. Coral
+##### [B. Coral](full-text-english.md#b-coral-1)
 
-##### C. Crinoids
+##### [C. Crinoids](full-text-english.md#c-crinoids-1)
 
-#### Chapter III. All Life
+#### [Chapter 3. All Life](full-text-english.md#chapter-iii)
 
-#### Chapter IV. Stone in the Stone
+#### [Chapter 4. Stone in the Stone](full-text-english.md#chapter-iv)
 
-#### Chapter V. Reproduction
+#### [Chapter 5. Reproduction](full-text-english.md#chapter-v)
 
-#### Chapter VI. Development
+#### [Chapter 6. Development](full-text-english.md#chapter-vi)
 
-### Section III
+### [Section 3](full-text-english.md#section-iii-1)
 
-#### The Iron Meteorites
+#### [The Iron Meteorites](full-text-english.md#the-iron-meteorites-1)
 
-### Section IV
+### [Section 4]()
 
-#### The Iron of Ovifak
+#### [The Iron of Ovifak]()
 
-### Section V
+### [Section 5]()
 
-### Conclusions
+### [Conclusions]()
 
-#### Chapter I. Origin of Meteorites
+#### [Chapter 1. Origin of Meteorites]()
 
-#### Chapter II. The Formation of Earth
+#### [Chapter 2. The Formation of Earth]()
 
-#### Chapter III. The Future of our Planet
+#### [Chapter 3. The Future of our Planet]()
 
-### Explanation of the Panels
+### [Explanation of the Panels]()
 
-### Preliminary Note
+### [Preliminary Note]()
 
-### Table Index
+### [Table Index]()
 
 # THE METEORITE (CHONDRITE) AND ITS ORGANISMS
 
