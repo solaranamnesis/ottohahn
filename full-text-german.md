@@ -24,49 +24,49 @@
 
 ### [II. ABSCHNITT.](full-text-german.md#ii-abschnitt-1)
 
-#### Die organische Natur der Chondrite.
+#### [Die organische Natur der Chondrite.](full-text-german.md#die-organische-natur-der-chondrite-1)
 
-#### I. Kapitel. Organisch oder unorganisch?
+#### [I. Kapitel. Organisch oder unorganisch?](full-text-german.md#organisch-oder-unorganisch)
 
-#### II. Kapitel. Die einzelnen Formen
+#### [II. Kapitel. Die einzelnen Formen](full-text-german.md#ii-kapitel)
 
-##### A. Schwämme: 1. Urania 23. 2. Nadelschwämme
+##### [A. Schwämme:](full-text-german.md#a-schwämme) [1. Urania](full-text-german.md#1-urania) [2. Nadelschwämme](full-text-german.md#2-nadel-schwämme)
 
-##### B. Die Korallen
+##### [B. Die Korallen](full-text-german.md#b-die-korallen-1)
 
-##### C. Crinoiden
+##### [C. Crinoiden](full-text-german.md#c-die-crinoiden)
 
-#### III. Kapitel. Alles Leben
+#### [III. Kapitel. Alles Leben](full-text-german.md#iii-kapitel)
 
-#### IV. Kapitel. Stein im Stein
+#### [IV. Kapitel. Stein im Stein](full-text-german.md#iv-kapitel)
 
-#### V. Kapitel. Fortpflanzung
+#### [V. Kapitel. Fortpflanzung](full-text-german.md#v-kapitel)
 
-#### VI. Kapitel. Entwicklung
+#### [VI. Kapitel. Entwicklung](full-text-german.md#vi-kapitel)
 
-### III. ABSCHNITT.
+### [III. ABSCHNITT.](full-text-german.md#iii-abschnitt-1)
 
-#### Das Meteoreisen
+#### [Das Meteoreisen](full-text-german.md#das-meteoreisen-1)
 
-### IV. ABSCHNITT.
+### [IV. ABSCHNITT.](full-text-german.md#iv-abschnitt-1)
 
-#### Das Eisen von Ovifak
+#### [Das Eisen von Ovifak](full-text-german.md#das-eisen-von-ovifak-1)
 
-### V. ABSCHNITT.
+### [V. ABSCHNITT.](full-text-german.md#v-abschnitt-1)
 
-#### Schlussfolgerungen.
+#### [Schlussfolgerungen.](full-text-german.md#schlussfolgerungen-1)
 
-#### I. Kapitel. Ursprung der Meteorite
+#### [I. Kapitel. Ursprung der Meteorite](full-text-german.md#i-kapitel-1)
 
-#### II Kapitel. Die Erdbildung
+#### [II Kapitel. Die Erdbildung](full-text-german.md#ii-kapitel-1)
 
-#### III. Kapitel. Die Zukunft unseres Planeten
+#### [III. Kapitel. Die Zukunft unseres Planeten](full-text-german.md#iii-kapitel-1)
 
-### Erklärung der Tafeln.
+### [Erklärung der Tafeln.](full-text-german.md#erklärung-der-tafeln-1)
 
-### Vorbemerkung
+### [Vorbemerkung](full-text-german.md#vorbemerkung-1)
 
-### Tafelverzeichnis
+### [Tafelverzeichnis](full-text-german.md#tafelverzeichniss)
 
 # DIE METEORITE (CHONDRITE) UND IHRE ORGANISMEN.
 
