@@ -107,7 +107,7 @@ In other ways I have also made an indulgence, such as in the demarcation of the 
 
 Anyone who even superficially surveys the forms will soon find that they provide the actual history of development. All the transitions from the sponge to the coral, from the coral to the crinoid are present, so that it becomes really doubtful if one should assign new species to to these transitions.
 
-In such beginnings, mistakes are inevitable, so it is only a small demand to ask to forgive them. Nor did I want to delay the publication of this work too long, and therefore have it just as it is now.
+In such beginnings, mistakes are inevitable, so it is only a small demand asking to forgive them. Nor did I want to delay the publication of this work too long, and therefore have it just as it is now.
 
 ## Section 1
 
