@@ -293,7 +293,7 @@ The assertion, that they [chondrules] were glass, countered by the message sent 
 
 Our researchers, with the exception of Gümbel, speak of the meteorites as volcanic bombs, declaring the rock as identical to the volcanic rocks of the Earth, so counting the meteorite without hesitation with the volcanic rocks. The evidence to the contrary is the subject of this book.
 
-Rightly Quenstedt has alone has declared the question an open one and said: "...it is reserved for the microscope to solve the riddle of the composition of the meteorites!" Handbook of Mineralogy p. 722.
+Rightly, Quenstedt alone has declared the question an open one and said: "...it is reserved for the microscope to solve the riddle of the composition of the meteorites!" Handbook of Mineralogy p. 722.
 
 # Section 2
 
@@ -321,7 +321,7 @@ The inclusions in the meteorites are not mineral formations.
 
 Olivine has no visible sheet breakage, enstatite and bronzite it is obvious. I depict a bronzite from Kupferberg, [Table 1 Figure 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-1_edit-b2.jpg), an enstatite from Texas, [Table 1 Figure 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-2_edit-b.jpg) (thin section at 75 times magnification) [Figure 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-2_edit-b.jpg) shows one the best sheet fractures. Now first compare this with [Table I. Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-4_edit-b.jpg), a part of one of my favorites from the Knyahinya Meteorite (about 250 times enlarged) and you will probably no longer speak about the fact that the sheet breakage is the cause of the structural phenomena of the chondrite. Now look at all the tables and this explanation will be put aside once and for all.
 
-2\. If the inclusions of the chondrites consist of enstatite or olivine, or if they are glass: If that is the case, I ask, how is it possible that the same mineral, or glass as a whole occur, in such different forms (outlines and structures), and different minerals occur in such acutely coinciding forms?  Look at a hypersthene, a hornblende, an augite! Apart from some visible, easy-to-explain inclusions — (and this is not the case here) always the same picture! Of at most three minerals a hundred different images!
+2\. If the inclusions of the chondrites consist of enstatite or olivine, or if they are glass: If that is the case, I ask, how is it possible that the same mineral, or glass as a whole occur, in such different forms (outlines and structures), and different minerals occur in such acutely coinciding forms?  Look at hypersthene, hornblende, augite! Apart from some visible, easy-to-explain inclusions — (and this is not the case here) always the same picture! Of at most three minerals a hundred different images!
 
 A mineral is simple, it must be simple in its concept and therefore always gives the picture of a homogeneous mass (field), with some inclusions at most. How could the same mineral be present in such different structures, in such coherent forms that differ from crystal forms?
 
@@ -337,19 +337,19 @@ However, the structure in the meteorite inclusions is always, I would like to sa
 
 6\. Regarding the mineral inclusions, they give different sights depending on their nature. The deposits are quite arbitrary forms, such as glass-liquid-inclusions and crystallites.
 
-But where crystal laws appears in the inclusions, they always depends on the crystalline form. Neither is the case with meteorite forms. No trace of inclusions in accordance with a crystalline form!
+But where crystal laws appear in the inclusions, they always depends on the crystalline form. Neither is the case with meteorite forms. No trace of inclusions in accordance with a crystalline form!
 
-7\. A sheet breakage is only visible if mechanical force creates a surface for light refraction phenomena. Without this, it is imperceptible. If cleavage surfaces are not present, light refraction phenomena do not show the meteorite inclusions, just "dust material".
+7\. A sheet breakage is only visible if a mechanical force creates a surface for light refraction phenomena. Without this, it is imperceptible. If cleavage surfaces are not present, light refraction phenomena do not show the meteorite inclusions, just "dust material".
 
-One finds in the terrestrial minerals that there are interpositions parallel to the sheet cleavage: these do not show in the meteorites.
+One finds in terrestrial minerals that there are interpositions parallel to the sheet cleavage: these do not show in the meteorites.
 
 I believe that the sight of my forms will make further discussion about the diversity of mineral and, in particular, crystal images unnecessary.
 
 8\. But so much has been said of crystallites, of crystallization.
 
-It has been previously held that such crystallization will turn into the enstatite-bronzite-olivine spheres. Gümbel pointed out that there all spheres have eccentric centers!
+It has been previously held that such crystallization will turn into the enstatite-bronzite-olivine spheres. Gümbel pointed out that all spheres have eccentric centers!
 
-Here the tread of the basic difference between the meteorite forms and the crystallites is made quite clear.
+Here the idea of the basic difference between the meteorite forms and the crystallites is made quite clear.
 
 The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, which it is ground away, which Gümbel overlooked) — a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that the crystals unite with a crystal of equal mass, which then create concentric forms.
 
