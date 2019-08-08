@@ -93,7 +93,7 @@ Only the surface of the meteorites has changed considerably, indeed only at the 
 
 I consider it to be terrestrial — as part of the deepest layer our Earth, i.e. the olivine layer, which belongs under the granite. I call this original layer the Olivine Formation. Since the rock is very similar to a meteorite, it is natural to declare it to be the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
 
-Thus, we have established two solid points by which a lever can be set.
+Thus, we have established two solid points by which a level can be set.
 
 The chondrites, an olivine-feldspar (enstatite) rock, consist of an animal world, they are not part of a sedimentary rock layer nor a conglomerate, but a thick mat of animals, a tissue whose meshes were all once living beings and life of the lowest kind, the beginnings of creation.
 
@@ -133,7 +133,7 @@ As one examines the panels of this work, it immediately becomes clear that these
 
 Thus, the origin is established with regard to the parts. However, in my study of twenty chondrites (and 360 thin sections of them), the assertion made in my "Primordial Cell" was confirmed — that the rock of the chondrites is not a type of sedimentary rock as on Earth, in which fossils are embedded, that it is not a conglomerate formation; but rather, its whole mass is entirely formed of organic beings, like our coral rocks. So not a plant, as I had assumed earlier, but plant-animals! The whole stone is life: — I think science will forgive me the first mistake.
 
-Needless to say, the iron meteorites were now subject to additional testing. Here it remains only as a first observation.
+Needless to say, the iron meteorites were now subject to additional testing. Here it rests only as a first observation.
 
 However, time and circumstances, especially the lack of available materials, prevented me from concluding the investigation prior to this publication. But if I repeat today the first assertion, that meteoritic iron is nothing but a mat of plants, then I may now regard myself as more legitimate than at the time when I wrote the “Primordial Cell” and asserted the prior statement. I have to add that I also found life forms in the irons. The researchers who avoid the forms of the chondrites that I depict may overlook the fact that the so-called Widmanstätten's figures are, for the most part, plant cells and not crystals.
 
