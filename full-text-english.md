@@ -333,11 +333,11 @@ Though they are rare, small sections are real crystals, but in a way, they are p
 
 However, the structure in the meteorite inclusions is always, I would like to say: symmetric, in harmony with its outlines.
 
-5\. When the crystals are weathered the layers change from the outside to the inside — concentrically — but there is no trace of weathering in the inclusions of the chondrites and their structures are always eccentric.
+5\. When crystals are weathered the layers change from the outside to the inside — concentrically — but there is no trace of weathering in the inclusions of the chondrites and their structures are always eccentric.
 
-6\. Regarding the mineral inclusions, they give different sights depending on their nature. The deposits are quite arbitrary forms, such as glass-liquid-inclusions and crystallites.
+6\. Regarding the mineral inclusions, they provide different sights depending on their nature. The deposits have quite arbitrary forms, such as glass-liquid-inclusions and crystallites.
 
-But where crystal laws appear in the inclusions, they always depends on the crystalline form. Neither is the case with meteorite forms. No trace of inclusions in accordance with a crystalline form!
+But where crystal laws appear in the inclusions, they always depend on the crystalline form. This is not the case with meteorite forms. No trace of inclusions in accordance with crystalline forms!
 
 7\. A sheet breakage is only visible if a mechanical force creates a surface for light refraction phenomena. Without this, it is imperceptible. If cleavage surfaces are not present, light refraction phenomena do not show the meteorite inclusions, just "dust material".
 
@@ -351,7 +351,7 @@ It has been previously held that such crystallization will turn into the enstati
 
 Here the idea of the basic difference between the meteorite forms and the crystallites is made quite clear.
 
-The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, which it is ground away, which Gümbel overlooked) — a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that the crystals unite with a crystal of equal mass, which then create concentric forms.
+The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, it is ground away, which Gümbel overlooked) — a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that crystals unite with a crystal of equal mass, which then create the concentric forms.
 
 Therefore if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, concentric formations would show.
 
