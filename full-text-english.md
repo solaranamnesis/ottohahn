@@ -373,7 +373,7 @@ Round, lobed bodies with an obvious place of growth. Table 2 gives a larger imag
 
 Consolidated spiral-form Urania [Table 3: Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-5_edit-b2.jpg) [and 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-6_edit-b2.jpg).
 
-In comprehending the threads of [Table 4: Figure 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg): the structure consists of an outer skin enclosing lamellar layers [Table 3: Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-4_edit-b.jpg). [Table 4: Figure 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-6_edit-b.jpg) (the latter can be seen with a magnifying glass). Median diameter of Urania 1 mm, color slate gray.
+In comprehending the threads of [Table 4: Figure 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg) the structure consists of an outer skin enclosing lamellar layers, [Table 3: Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-4_edit-b.jpg). [Table 4: Figure 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-6_edit-b.jpg) (the latter can be seen with a magnifying glass). Median diameter of Urania 1 mm, color slate gray.
 
 This structure was maintained to be a breakage of the bronzite sheet! Whether [Table 4: Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-4_edit-b.jpg) belongs to the Urania is doubtful. The form and color suggest as much. The trim cuts on boths sides show clear structure.
 
