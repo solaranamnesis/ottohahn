@@ -9,6 +9,8 @@ English - PDF
 [German - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/full-text-german.md)  
 [German - PDF](https://cdn.solaranamnesis.com/OttoHahn/DIE-METEORITE-CHONDRITE-UND-IHRE-ORGANISMEN-OTTO-HAHN.pdf)  
 
+Figures are hyperlinked in the plain text versions and included at the end in the PDF versions. To view all the figures online via  a Flickr album: [Otto Hahn's Flickr Album](https://www.flickr.com/photos/solaranamnesis/albums/72157709097254482)
+
 ## Background:
 
 "In the August 1881 issue of the New York magazine Science there is a long overlooked article entitled 'Mr. Darwin on Dr. Hahn's discovery of fossil organisms in meteorites'. Science was founded the preceding year by journalist John Michels with financial backing of Thomas Edison. Struggling to find a place in the popular science market, the illustrated weekly magazine was only published until March 1882. The current journal of the same name is a later incarnation. The article contains some extraordinary quotations from a lost Darwin letter or letters and, even more surprisingly, spoken words attributed to Darwin upon viewing meteorite specimens. The passage reads:
