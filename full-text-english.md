@@ -385,13 +385,13 @@ This structure was maintained to be a breakage of the bronzite sheet! Whether [T
 
 [Table 4, Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-5_edit-b.jpg) shows cross sections through both vanes of the lobes.
 
-Table 6, Figure 3 lamellar structure. Figure 5 and 6 may also contain the simplest crinoids, whose arms have been laid out, on each other. Regarding the transitions of forms, I must refer to the chapter on that question.
+[Table 6, Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-3_edit-b.jpg) lamellar structure. [Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-5_edit-b.jpg) [and 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-6_edit-b2.jpg) may also contain the simplest crinoids, whose arms have been laid out, on each other. Regarding the transitions of forms, I must refer to the chapter on that question.
 
-The most incredible is Table 6, Figure 1 and 2. In figure 1, the dull spot in the specimen is yellow, the striped blue. I have situated Figure 2 next, which clearly shows two lobes, connected like two shells in one place and at first sight also makes the impression of a double shell. (It is not a mere cut.) If you think a shell, the dull spot of Figure 1 would be the stone piece. But the structure is urania-like.
+The most incredible is [Table 6, Figure 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-1_edit-b2.jpg) [and 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-2_edit-b.jpg). In [Figure 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-1_edit-b2.jpg), the dull spot in the specimen is yellow, the striped blue. I have situated [Figure 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-2_edit-b.jpg) next, which clearly shows two lobes, connected like two shells in one place and at first sight also makes the impression of a double shell. (It is not a mere cut.) If you think a shell, the dull spot of [Figure 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-1_edit-b2.jpg) would be the stone piece. But the structure is urania-like.
 
-Table 5, Figure 3: Two individuals show the structure most clearly, as well as the growth points. In Figure 4 (which has a bad picture), several individuals lie together in a fan-like manner.
+[Table 5, Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-3_edit-b.jpg): Two individuals show the structure most clearly, as well as the growth points. In [Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-4_edit-b.jpg) (which is a bad photo), several individuals lie together in a fan-like manner.
 
-In Table 3, Figure 3 and Table 4, Figures 1 and 2, it is believed to be seen the round mouth opening as implied from above. 
+In [Table 3, Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-3_edit-b.jpg) and [Table 4, Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg) [and 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-2_edit-b.jpg), it is believed to be seen the round mouth opening as implied from above. 
 
 After all this I think the Urania is a sessile sponge, that contracts in a spiral form, absorbing and expelling water like our living sponges.
 
