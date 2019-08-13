@@ -577,4 +577,5 @@ But now I am well, through uniting with a revered friend, Professor Dr. H. [Gust
 
 "Even in regards to the organisation of plant cells in general, these vegetations of are of great interest."
 
+"Those namely, which the above described crystaloid cells contain, are also on the inner surface each of the both nested cell membrane, which the wall forms, with one minor layer occupied, that, either closely together laid and flattened, or some of each other vague, gives to that entire cell system the view and the structure small recticular, tubercular or porous thickened Parenchym cell. De Cella Vitali 1843, supplement page 37 and 437. These cells, equivalent morphologically to the secretion cells of the composite plant, grow simultaneously as their mother cell close to, that they lie between the primary and secondary and form an epidermis. The whole cell system is highly similar to the envelope of many Pollen- and Diatomaceae- (Gallionella, Biddulphia, Coscinodiscus, Triceratium, Amphitetras etc.) cells."
 
