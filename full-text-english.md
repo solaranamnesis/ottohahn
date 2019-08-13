@@ -575,4 +575,6 @@ But now I am well, through uniting with a revered friend, Professor Dr. H. [Gust
 
 "Similar metamorphoses are experienced by the Oidium mycelia, especially the dissecting branches rising in the air, which will, when they are brought under similar conditions and indeed this type, often expand unequally from the dissimilar member cells, for the most part primarily the upper more than the lower, usually a round stem remains, some stretched, whereby these branches with their head shaped swollen end cells Mucor- later fruit- or flower like will, when the top ones enlarged cell at the well defined parting top, or from above to below starts to tear open. The membrane of the primary and secondary cells tear apart, each in their own peculiar manner."
 
+"Even in regards to the organisation of plant cells in general, these vegetations of are of great interest."
+
 
