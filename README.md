@@ -26,3 +26,9 @@ Could this be true? Did Darwin really leap out of his chair? Did he believe life
 Source and more information about Hahn:
 http://darwin-online.org.uk/content/frameset?itemID=A690&viewtype=text&pageseq=1
 
+Full Text of "Mr. Darwin on Dr. Hahn's Discovery of Fossil Organisms in Meteorites":
+
+Dr. Hahn's discovery, of which an elaborate account was given in No. 50 of Science, has stirred up a lively discussion of this highly interesting subject. Dr. Hahn has taken steps to enable Prof. von Quenstedt, the renowned Tubingen geologist, and all others who expressed the desire to examine his microscopic preparations. It is understood that all those who have availed themselves of the opportunity thus offered have become convinced of the genuineness of Dr. Hahn's discovery.
+
+It is very interesting
+
