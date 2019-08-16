@@ -583,4 +583,4 @@ But now I am well, through uniting with a revered friend, Professor Dr. H. [Gust
 
 "The warty thickened oidium cells permeated with lactic acid iron were the ones which grew forth highly long-shaped contents, from or next to the cells which display a reticular warty epidermis, one would notice, in the manner of Micrococcus, the Vibrio spores."
 
-"Hyphomycetes, particularly Penicillium and Botrytis, as well as Rhizopus also give, once they have been vegeated and nourished with lactose for some time and brought into contact with metallic iron, a very interesting preparation, with similar parts as those of Oidium with swollen gonidia chains or hyphaloid cells.
+"Hyphomycetes, particularly Penicillium and Botrytis, as well as Rhizopus also give, once they have been vegeated and nourished with lactose for some time and brought into contact with metallic iron, a very interesting preparation, with similar parts to those of Oidium with swollen gonidia chains or hyphaloid cells.
