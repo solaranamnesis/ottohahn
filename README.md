@@ -30,5 +30,22 @@ Full Text of "Mr. Darwin on Dr. Hahn's Discovery of Fossil Organisms in Meteorit
 
 Dr. Hahn's discovery, of which an elaborate account was given in No. 50 of Science, has stirred up a lively discussion of this highly interesting subject. Dr. Hahn has taken steps to enable Prof. von Quenstedt, the renowned Tubingen geologist, and all others who expressed the desire to examine his microscopic preparations. It is understood that all those who have availed themselves of the opportunity thus offered have become convinced of the genuineness of Dr. Hahn's discovery.
 
-It is very interesting
+It is very interesting to note the position taken by the greatest of living evolutionists in this controversy, if it can still be called such. Charles Darwin, on receipt of Dr. Hahn's work, wrote to him:
 
+"... It seems to be very difficult to doubt that your photographs exhibit organic structure...," and furthermore:
+
+"... your discovery is certainly one of the most important."
+
+Not content with the mere presentation of his work, Dr. Hahn visited the veteran zoologist and brought his preparations to him for inspection.
+
+No sooner had Mr. Darwin peered through the microscope on one of the finest specimens when he started up from his seat and exclaimed:
+
+"Almighty God! what a wonderful discovery! Wonderful!"
+
+And after a pause of silent reflection he added:
+
+"Now reaches life down!"
+
+The latter remark no doubt refers to the proof furnished by Dr. Hahn's discovery that organisms can reach our planet from celestial space. It is an acknowledgment of the relief Mr. Darwin must have felt in not being forced to a belief in a primeval _"generatio equivoca"_.
+
+As was suggested in the paper referred to, "the Richter-Thomson hypothesis of the origin of life on the earth has become a tangible reality!"
