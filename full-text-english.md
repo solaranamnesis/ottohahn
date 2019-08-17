@@ -179,7 +179,7 @@ The life of the chondrite is almost entirely a microscopic one, it ranges from 0
 
 Thus, through the observations first laid down in my "Primordial Cell", the path was wide open for me to cover the distances that science must cross.
 
-But it really doesn't take a titanium force to destroy the old building. It has already been much worn, only ignored: it requires only one striking proof and the work will have been done. Traditions, based on insufficient observations, dissolve into what they are, allowing science to once again proceed freely on its course.
+But it really doesn't take a titanium effort to destroy an old building. It has already been much worn, only ignored: it requires only one striking proof and the work will have been done. Traditions, based on insufficient observations, dissolve into what they are, allowing science to once again proceed freely on its course.
 
 The following is a brief presentation on the previous views regarding the origin and nature of the meteorites.
 
