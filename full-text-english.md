@@ -83,7 +83,7 @@ I did it, accompanied on the one hand by sharp and pronounced sarcasm from the s
 
 The results yielded from this strenuous endeavor of almost super-human effort over the previous year are laid down in the following pages.
 
-It is a world of animals in a rock which arrived on Earth to bring us tidings of the smallest beings from a most distant place — a life world which a mortal eye could hardly hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked universally and evenly in the universe.
+It is a world of animals in a rock which arrived on Earth to bring us tidings from the smallest beings from a most distant place — a life-world which a mortal eye could hardly hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked universally and evenly in the universe.
 
 Admittedly, the meteorites, namely the chondrites, for these are the ones which are preferentially subject to my investigations, have no life of higher construction; rather, all are lower life forms — the same ones which prevail in the Silurian strata — sponges, corals, and crinoids — it is with these species that similar characteristics are found.
 
