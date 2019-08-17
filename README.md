@@ -52,11 +52,16 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ## Timeline of Publications
 
-### 1875 - [Über die Beschaffenheit des Steinmeteoriten vom Fall am 12. Februar 1875 in der Grafschaft Iowa Nordamerika](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Iowa-Steinmeteoriten/full-text-german.md) by Karl von Gümbel
+### 1875 - [Über die Beschaffenheit des Steinmeteoriten vom Fall am 12. Februar 1875 in der Grafschaft Iowa Nordamerika](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
 
-### 1878 - [Ueber die in Bayern gefundenen Steinmeteoriten](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Bayern-Steinmeteoriten/full-text-german.md) by Karl von Gümbel
+### 1878 - [Ueber die in Bayern gefundenen Steinmeteoriten](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
 
 ### 1879 - [Die Urzelle]() by Otto Hahn
 
 ### 1880 - [Die Meteorite (Chondrite) und ihre Organismen](https://github.com/solaranamnesis/ottohahn) by Otto Hahn
 
+### 1881 - [Die Meteorite und ihre Organismen](https://github.com/solaranamnesis/Hermann-Karsten) by Hermann Karsten
+
+### 1882 - [Über die in Meteoriten entdeckten Tierreste](https://github.com/solaranamnesis/David-Friedrich-Weinland) by David F. Weinland
+
+### 1882 - [Les Prétendus Organismes des Météorites](https://github.com/solaranamnesis/Karl-Christoph-Vogt) by Karl Vogt
