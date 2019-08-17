@@ -85,7 +85,7 @@ The results yielded from this strenuous endeavor of almost super-human effort ov
 
 It is a world of animals in a rock which arrived on Earth to bring us tidings from the smallest beings from a most distant place — a life-world which a mortal eye could hardly hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked universally and evenly in the universe.
 
-Admittedly, the meteorites, namely the chondrites, for these are the ones which are preferentially subject to my investigations, have no life of higher construction; rather, all are lower life forms — the same ones which prevail in the Silurian strata — sponges, corals, and crinoids — it is with these species that similar characteristics are found.
+Admittedly, the meteorites, namely the chondrites, for these are the ones which are preferentially subject to my investigations, contain no life of higher construction; rather, all are lower life forms — the same ones which prevail in the Silurian strata — sponges, corals, and crinoids — it is with these species that similar characteristics are found.
 
 The chondrites that I have studied are olivine enstatite rock. They have undergone alterations, though not considerable, since the time of their formation as the remains of life, up until they landed on Earth. They have been permeated with a silicate solution, in a similar manner to how the Jura deposits are with a solution of lime. While it was part of the parent body it probably went through planetary cycles, just as new layers follow old ones down to the lowest strata on our Earth, under the influence of which the former have undergone a certain, though not as considerable as one assumes, transformation.
 
