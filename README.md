@@ -56,7 +56,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1878 - [Ueber die in Bayern gefundenen Steinmeteoriten](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
 
-### 1879 - [Die Urzelle]() by Otto Hahn
+### 1879 - [Die Urzelle](https://github.com/solaranamnesis/ottohahn/tree/master/Die-Urzelle) by Otto Hahn
 
 ### 1880 - [Die Meteorite (Chondrite) und ihre Organismen](https://github.com/solaranamnesis/ottohahn) by Otto Hahn
 
