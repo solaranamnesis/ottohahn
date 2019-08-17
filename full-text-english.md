@@ -77,7 +77,7 @@ It was not the inconsequential attacks on my "Primordial Cell" that gave me stam
 
 If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth, and with it the knowledge pertaining to its real genesis will always remain hidden from us, then, at the end of this book there is yet a possibility: that the meteorite provides a way through the distant past although not yet actively pursued by researchers.
 
-With this as a guide I now continue.
+With this as a guide, I now continue.
 
 I did it, accompanied on the one hand by sharp and pronounced sarcasm from the specialists, and on the other by joy with earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
 
