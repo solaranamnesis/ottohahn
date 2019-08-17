@@ -81,7 +81,7 @@ With this as a guide, I now continue.
 
 I did it, accompanied on the one hand by sharp and pronounced sarcasm from the specialists, and on the other with joy from my earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
 
-The results yielded from this strenuous endeavor of almost super human effort over the previous year are laid down in the following pages.
+The results yielded from this strenuous endeavor of almost super-human effort over the previous year are laid down in the following pages.
 
 It is a world of animals in a rock which arrived on Earth to bring us tidings of the smallest beings from a most distant place — a life world which a mortal eye could hardly hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked universally and evenly in the universe.
 
