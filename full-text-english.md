@@ -79,7 +79,7 @@ If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and 
 
 With this as a guide, I now continue.
 
-I did it, accompanied on the one hand by sharp and pronounced sarcasm from the specialists, and on the other by joy with earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
+I did it, accompanied on the one hand by sharp and pronounced sarcasm from the specialists, and on the other with joy from my earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
 
 The results yielded from this strenuous endeavor of almost super human effort over the previous year are laid down in the following pages.
 
