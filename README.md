@@ -49,3 +49,14 @@ And after a pause of silent reflection he added:
 The latter remark no doubt refers to the proof furnished by Dr. Hahn's discovery that organisms can reach our planet from celestial space. It is an acknowledgment of the relief Mr. Darwin must have felt in not being forced to a belief in a primeval _"generatio equivoca"_.
 
 As was suggested in the paper referred to, "the Richter-Thomson hypothesis of the origin of life on the earth has become a tangible reality!"
+
+## Timeline of Publications
+
+### 1875 - [Über die Beschaffenheit des Steinmeteoriten vom Fall am 12. Februar 1875 in der Grafschaft Iowa Nordamerika](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Iowa-Steinmeteoriten/full-text-german.md) by Karl von Gümbel
+
+### 1878 - [Ueber die in Bayern gefundenen Steinmeteoriten](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel/blob/master/Bayern-Steinmeteoriten/full-text-german.md) by Karl von Gümbel
+
+### 1879 - [Die Urzelle]() by Otto Hahn
+
+### 1880 - [Die Meteorite (Chondrite) und ihre Organismen](https://github.com/solaranamnesis/ottohahn) by Otto Hahn
+
