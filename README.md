@@ -72,4 +72,6 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1882 - [Les Prétendus Organismes des Météorites](https://github.com/solaranamnesis/Karl-Christoph-Vogt) by Karl Vogt
 
-### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill - No mention of the organic theory, thus showing that the ideas of Hahn/Karsten/Weinland were forgotten/ignored by 1920.
+### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill
+
+No mention of the organic theory in 1920, thus showing that the ideas of Hahn/Karsten/Weinland were forgotten/ignored by this time.
