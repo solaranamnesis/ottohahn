@@ -74,4 +74,4 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill
 
-Merrill makes no mention of the organic theory in 1920, suggesting that the claims of Hahn/Karsten/Weinland were forgotten/ignored by this time in the "accepted" literature on the chondrites.
+Merrill makes no mention of the organic theory in 1920, suggesting that the works of Hahn/Karsten/Weinland were forgotten/ignored by this time in the "accepted" literature on the chondrites.
