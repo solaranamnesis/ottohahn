@@ -167,7 +167,7 @@ What seems to contradict this explanation is only the geothermal heat and the as
 
 How could a fiery Earth core ultimately survive without oxygen! And does not the very existence of combustible gases (for these are the causes of volcanic phenomena), in particular that of sulphur gases, indicate the presence of oragnic substances in the Earth's interior? There really is no need for new evidence here, but only the abandonment of certain ideas, which have taken possession of the imagination excited by some obvious phenomena.
 
-These are the conclusions from the study of the meteorites for Earth's formation. But the facts which astronomy can derive from it are no more significant.
+These are the conclusions from the study of the meteorites for Earth's formation. But the facts which astronomy can derive from it are no less significant.
 
 The 20 meteorite (chondrite) thin sections that I have studied, some of falls which are more than a century apart, show the same forms, much as fossil shells occurs everywhere in the same formation; Gümbel, if he did not correctly interpret the forms of the chondrites, has excellently expressed this.
 
