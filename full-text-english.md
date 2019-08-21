@@ -187,7 +187,7 @@ Only the morphological work on individual meteorites, from the time when the mic
 
 1. [Gustav] Tschermak [von Seysenegg]: "The fragmentary structure of the Orvinio and Chantonnay meteorites," presented at the meeting of the Royal Academy of Sciences (Vienna) on November 12, 1874. (XXth volume of the proceedings of the Royal Academy of Sciences, I. Section, November issue 1874. With 2 plates.)
 
-2. [Alexander] Makowsky and G. Tschermak [von Seysenegg]: "Report on the fall of a meteorite near Zischitz in Moravia." With 5 plates and 2 woodcuts, presented at the meeting of the mathematical and natural science class (the Royal Academy of Sciences in Vienna) on November 21, 1878. XXIX. Volume of memoranda of the mentioned class.
+2. [Alexander] Makowsky and G. Tschermak [von Seysenegg]: "Report on the fall of a meteorite near Tieschitz in Moravia." With 5 plates and 2 woodcuts, presented at the meeting of the mathematical and natural science class (the Royal Academy of Sciences in Vienna) on November 21, 1878. XXIX. Volume of memoranda of the mentioned class.
 
 3. [Johann Gottfried] Galle and [Arnold Constantin Peter Franz] von Lasaulx, submitted by [Christian Friedrich Martin] Websky: "Report on the Meteorite Fall at Gnadenfrei on May 17, 1879. Session of July 31, 1879. Monthly reports of the Royal Prussian Academy of Berlin."
 
