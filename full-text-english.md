@@ -169,7 +169,7 @@ How could a fiery Earth core ultimately survive without oxygen! And does not the
 
 These are the conclusions from the study of the meteorites for Earth's formation. But the facts which astronomy can derive from it are no less significant.
 
-The 20 meteorite (chondrite) thin sections that I have studied, some of falls which are more than a century apart, show the same forms, much as fossil shells occurs everywhere in the same formation; Gümbel, if he did not correctly interpret the forms of the chondrites, has excellently expressed this.
+The 20 meteorite (chondrite) thin sections that I have studied, some of falls which are more than a century apart, show the same forms, much as fossil shells occur everywhere in the same formation; Gümbel, if he did not correctly interpret the forms of the chondrites, has excellently expressed this.
 
 So these chondrites are probably from one and the same world body, a planet. Or else how could evolution coincide on different planets?
 
