@@ -193,7 +193,7 @@ Was das Mikroskop bis jetzt zur Deutung der Meteorite geliefert hat, das ist, ab
 
 1. [Gustav] Tschermak: die Trümmerstruktur der Meteoriten von Orvinio und Chantonnay, vorgelegt in der Sitzung der K. Akademie der Wissenschaften (Wien) am 12. November 1874. (XX. Band der Sitzungsberichte der K. Akademie der Wissenschaften, I. Abteilung, November-Heft 1874. Mit 2 Tafeln.)
 
-2. [Alexander] Makowsky und G. Tschermak: Bericht über den Meteoritenfall bei Zischitz in Mähren. Mit 5 Tafeln und 2 Holzschnitten, vorgelegt in der Sitzung der mathematisch-naturwissenschaftlichen Klasse (der Kgl. Akademie der Wissenschaften in Wien) am 21. November 1878. XXIX. Band der Denkschriften der genannten Klasse.
+2. [Alexander] Makowsky und G. Tschermak: Bericht über den Meteoritenfall bei Tieschitz in Mähren. Mit 5 Tafeln und 2 Holzschnitten, vorgelegt in der Sitzung der mathematisch-naturwissenschaftlichen Klasse (der Kgl. Akademie der Wissenschaften in Wien) am 21. November 1878. XXIX. Band der Denkschriften der genannten Klasse.
 
 3. [Johann Gottfried] Galle und [Arnold Constantin Peter Franz] von Lasaulx, vorgelegt von [Christian Friedrich Martin] Websky: Bericht über den Meteorsteinfall bei Gnadenfrei am 17. Mai 1879. Sitzung vom 31. Juli 1879. Monatsberichte der K. preußischen Akademie zu Berlin.
 
