@@ -64,7 +64,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1881 - [Korallen in Meteorsteinen](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/16/1) by David F. Weinland
 
-### 1881 - [Ueber die „Organismen der Meteorite“](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/20/5) by Anton Rzehak
+### 1881 - [Über die „Organismen der Meteorite“](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/20/5) by Anton Rzehak
 
 ### 1881 - [Weiteres über die Tierreste in Meteoriten](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/26/1) by David F. Weinland
 
