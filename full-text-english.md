@@ -595,3 +595,5 @@ But now I am well, through uniting with a revered friend, Professor Dr. H. [Gust
 
 I think that if iron plants can be produced before our eyes, then we should not raise concerns against the assumption of the same process at work in an earlier time, at a time when all the materials of organic formation were available. We have mass formations before us here in the atolls of a still sea, we have in the chondrites a composition of similar animals: what stands in the way of assuming such previous plant mass formations?
 
+At last, through yeast production, we have a process that is completely analogous, once the fiery heat idea goes away.
+
