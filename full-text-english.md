@@ -589,3 +589,6 @@ But now I am well, through uniting with a revered friend, Professor Dr. H. [Gust
 
 "The culture used for this purpose should not be kept moist, undertaken in humid air these vegetations, which are permeated with acidic iron salts are very susceptible to decay. Even without such a precaution for the culture, I have seen the member cells and gonidia of mold, as well as micrococcus cells and vibrion germs contained contained in dust swell as described when brought into contact with polished metallic iron, no doubt because these cells contain acids or acidic salts."
 
+"It becomes apparent from the phenomena of the growth of these fungal cells that the cause of their abnormal enlargement is to be found in the subsequent association of this acid with the neutral lactic acid iron to an acidic salt, so that the whole phenomenon of peculiar malformation is based on a purely chemical process that changes those cells vegetating under normal conditions in such a way that normal development becomes pathological and causes the ultimate destruction of the organism."
+
+
