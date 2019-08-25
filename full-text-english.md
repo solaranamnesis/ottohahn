@@ -587,3 +587,5 @@ But now I am well, through uniting with a revered friend, Professor Dr. H. [Gust
 
 "Very often are found, as in the case of Oidium when it is poorly cultivated, empty cells with very smooth walls. Quite often the inner cell, impregnated with lactic acid iron, breaks through the outer cellular-warty-etc thickened membrane, which peels or splits as it grows out."
 
+"The culture used for this purpose should not be kept moist, undertaken in humid air these vegetations, which are permeated with acidic iron salts are very susceptible to decay. Even without such a precaution for the culture, I have seen the member cells and gonidia of mold, as well as micrococcus cells and vibrion germs contained contained in dust swell as described when brought into contact with polished metallic iron, no doubt because these cells contain acids or acidic salts."
+
