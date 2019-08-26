@@ -615,5 +615,6 @@ Wöhler (New Yearbook for Mineralogy 1869, p. 32) does not consider it to be met
 
 We know, however, that Earth's core is at least the density of this metal, and it probably consists of iron of the same nature, thus the likelihood of us seeing the iron core of the Earth in Ovifak's iron would be obvious.
 
+That would have won us infinitely more than a new meteorite.
 
-
+On the surface of this iron, which, of course, I do not yet have the permission to assail, I find structures very similar to those of the crinoids in the chondrites.
