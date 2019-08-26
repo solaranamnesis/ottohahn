@@ -59,7 +59,7 @@
 
 #### [Chapter 1. The Origin of Meteorites](full-text-english.md#the-origin-of-meteorites)
 
-#### [Chapter 2. The Formation of Earth](full-text-english.md)
+#### [Chapter 2. The Formation of Earth](full-text-english.md#the-formation-of-earth)
 
 #### [Chapter 3. The Future of our Planet](full-text-english.md)
 
