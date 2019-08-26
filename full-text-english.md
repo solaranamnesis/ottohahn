@@ -618,3 +618,13 @@ We know, however, that Earth's core is at least the density of this metal, and i
 That would have won us infinitely more than a new meteorite.
 
 On the surface of this iron, which, of course, I do not yet have the permission to assail, I find structures very similar to those of the crinoids in the chondrites.
+
+However, I have to save a thin section investigation until the time when the material is made available to me.
+
+# Section 5
+
+## Conclusions
+
+### Chapter 1
+
+#### Origin of Meteorites
