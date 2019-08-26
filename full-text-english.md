@@ -57,7 +57,7 @@
 
 ### [Conclusions](full-text-english.md)
 
-#### [Chapter 1. Origin of Meteorites](full-text-english.md)
+#### [Chapter 1. The Origin of Meteorites](full-text-english.md)
 
 #### [Chapter 2. The Formation of Earth](full-text-english.md)
 
@@ -627,7 +627,7 @@ However, I have to save a thin section investigation until the time when the mat
 
 ### Chapter 1
 
-#### Origin of Meteorites
+#### The Origin of Meteorites
 
 It is quite certain that small planets, weighing half of the Earth's kilograms, fall and therefore revolve. One can now think of the following options:
 
