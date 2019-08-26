@@ -604,3 +604,8 @@ In any case, it is certain that meteoritic iron is not a smelting product, for w
 As already the Pallasites show organic and even animal forms, rocks that form the transition from the pure iron to the chondrite, there is thus no reason to assume the pure iron is an inorganic formation, and much less as being formerly liquid.
 
 Once the iron is assumed to be the nucleus of planets I believe it then becomes most probable that the first beginning of our planet, and therefore of all planets, was an organic formation.
+
+# Section 4
+
+## The Iron of Ovifak
+
