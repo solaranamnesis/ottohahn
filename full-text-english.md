@@ -51,7 +51,7 @@
 
 ### [Section 4](full-text-english.md#section-4-1)
 
-#### [The Iron of Ovifak](full-text-english.md)
+#### [The Iron of Ovifak](full-text-english.md#the-iron-of-ovifak-1)
 
 ### [Section 5](full-text-english.md#section-5-1)
 
