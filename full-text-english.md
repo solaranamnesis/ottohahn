@@ -609,3 +609,8 @@ Once the iron is assumed to be the nucleus of planets I believe it then becomes 
 
 ## The Iron of Ovifak
 
+Through the kindness of Professor Dr. von Nordenskjöld, I was given six pieces of the iron of Ovifak and basalt, in which the same was found, for examination.
+
+
+
+
