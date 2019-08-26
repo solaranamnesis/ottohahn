@@ -49,15 +49,15 @@
 
 #### [The Iron Meteorites](full-text-english.md#the-iron-meteorites-1)
 
-### [Section 4](full-text-english.md)
+### [Section 4](full-text-english.md#section-4-1)
 
 #### [The Iron of Ovifak](full-text-english.md)
 
-### [Section 5](full-text-english.md)
+### [Section 5](full-text-english.md#section-5-1)
 
-### [Conclusions](full-text-english.md)
+### [Conclusions](full-text-english.md#conclusions)
 
-#### [Chapter 1. The Origin of Meteorites](full-text-english.md)
+#### [Chapter 1. The Origin of Meteorites](full-text-english.md#the-origin-of-meteorites)
 
 #### [Chapter 2. The Formation of Earth](full-text-english.md)
 
