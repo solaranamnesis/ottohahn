@@ -652,3 +652,15 @@ But if the latter confirms, by virture of their orbits, that the meteorites coul
 The latter, at first sight, could be deduced from the chemical-morphological similarities, and in fact, the matter seems quite simple and clear. But there is another possibility, the possibility that under the same conditions a myriad of small planets could form and perhaps still form today. The pieces would then not be rubble, but their own world bodies.
 
 The irons and the stones could now be their own world bodies — size alone would not stand in the way of the hypothesis. But if the small masses consist of water creatures and they being a mere microscopic creation, then it is natural to wonder: did they live in water or water vapor? Provided they have a continuous source of water, which we can easily imagine, since today we have areas on Earth where rain is always falling and others where there is none. The question must be countered by the fact that the necessary building materials for the microscopic creation must be sought not under but above the creatures, because only aqueous solutions could have built up the microscopic animal world.
+
+This animal world is already at least partially organized. A unicellular plant, a yeast fungus, may have been the beginning of a planet: it could not have been crinoids that organized it, because we have to think of the long periods of time and therefore the much greater mass which this stage of development could only be achieved.  
+
+These facts, in connection with the likelihood that the irons were the core of the chondrite planet, lead us to regard the chondrites as the debris of one and the same world body, debris that has been orbiting after the destruction of this planet until, fortunately, it falls into the path of our Earth. The forms of the meteorites suggest themselves as being rubble.
+
+So we have only one hypothetical certainty: the likelihood of the original unity of the debris which reaches us.
+
+But if they came from our Earth, then they have been parts of it: the composition of organisms is still a fact that is important enough for our geological history. But if they do not come from Earth, they illustrate two facts: the origin of a planet and the probablility of the way in which our Earth was born. But if they were each a planet in their own right, they testify to a creative power which leaves our concepts about the origin of organic forms and their development far behind.
+
+### Chapter 2
+
+#### The Formation of Earth
