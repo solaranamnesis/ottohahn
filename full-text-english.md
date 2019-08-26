@@ -673,4 +673,4 @@ The specific gravity for hornblende is 3-3.40, olivine 3.35, enstatite 3.10-3.29
 
 This alone should lead one to the assumption that the immediate precursors to the Silurian, gneiss, and granite have an organic origin.
 
-With the evidence for the organic composition of the chondrites the main argument, which has so far stood in the way of considering the granite as a water structure: both rocks contain mainly feldspar. As concerns the granite, I have found forms in it which are similar to those of the chondrites.
+With the evidence for the organic composition of the chondrites, no argument stands in the way for considering the granite as a water structure: both rocks contain mainly feldspar. As concerns the granite, I have found forms in it which are similar to those of the chondrites.
