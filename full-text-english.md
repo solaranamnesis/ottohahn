@@ -611,7 +611,7 @@ Once the iron is assumed to be the nucleus of planets I believe it then becomes 
 
 Through the kindness of Professor Dr. von Nordenskjöld, I was given six pieces of the iron of Ovifak and basalt, in which the same was found, for examination.
 
-Wöhler (New Yearbook for Mineralogy 1869, p. 32) does not consider it to be meteoritic because of its chemical composition. The occurrence in one of my pieces in a cleft does not speak for a meteoritic origin either. Iron parts with Widmannstätten's figures are also found in the basalt and olivine, and yet both are not addressed as meteoritic. Finally, there are transitions from stone to iron, indicating that the iron did not fall into the basalt by chance. It would be a great miracle if this iron had fallen into it just at the time when the basalt was liquid, quite apart from the fact that this iron would harldy be preserved for more than a few years. And yet this iron is said to be meteoritic because of its structure.
+Wöhler (New Yearbook for Mineralogy 1869, p. 32) does not consider it to be meteoritic because of its chemical composition. The occurrence of an item in a cleft in one of my pieces does not speak for a meteoritic origin either. Iron parts with Widmannstätten's figures are also found in the basalt and olivine, and yet both are not addressed as meteoritic. Finally, there are transitions from stone to iron, indicating that the iron did not fall into the basalt by chance. It would be a great miracle if this iron had fallen into it just at the time when the basalt was liquid, quite apart from the fact that this iron would harldy be preserved for more than a few years. And yet this iron is said to be meteoritic because of its structure.
 
 We know, however, that Earth's core is at least the density of this metal, and it probably consists of iron of the same nature, thus the likelihood of us seeing the iron core of the Earth in Ovifak's iron would be obvious.
 
@@ -628,3 +628,5 @@ However, I have to save a thin section investigation until the time when the mat
 ### Chapter 1
 
 #### Origin of Meteorites
+
+It is quite certain that small planets, weighing half of the Earth's kilograms, fall and therefore revolve. One can now think of the following options:
