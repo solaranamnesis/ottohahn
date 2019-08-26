@@ -597,3 +597,5 @@ I think that if iron plants can be produced before our eyes, then we should not 
 
 At last, through yeast production, we have a process that is completely analogous, once the fiery heat idea goes away.
 
+Here I come back to the Kant-Laplace hypothesis on mass formation. I have already proven their logical error. How do you want to bring forth a glowing ball from a vapor mass that also surely included water? Or shall the Earth only come to embers after it has been formed? By what? Experience speaks only for mass formation through organic means. Apparently, only the sight of the volcanoes has led to the assumption of a liquid fire interior of the Earth, and this notion led to the assumption that the whole Earth had once been in this state and that the plutonic rocks were the products of this period. Also, it is by no means certain that the heat flare of the Sun comes from a liquid fire body. However, the fact of free water on our Earth, and also the fact of the Moon (without atmosphere!), indicates that mass from the beginning could not have been in a liquid fire mass.
+
