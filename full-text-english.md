@@ -601,3 +601,5 @@ Here I come back to the Kant-Laplace hypothesis on mass formation. I have alread
 
 In any case, it is certain that meteoritic iron is not a smelting product, for what should have put the meteorite into blaze? I also found crinoid and sponge forms in the meteoritic iron. There is no doubt that Hainholz shows such.
 
+As already the Pallasites show organic and even animal forms, rocks that form the transition from the pure iron to the chondrite, there is thus no reason to assume the pure iron is an inorganic formation, and much less as being formerly liquid.
+
