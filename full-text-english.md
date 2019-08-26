@@ -2,7 +2,7 @@
 
 ## DEPICTED AND DESCRIBED BY DR. OTTO HAHN
 
-### 32 TABLES WITH 142 PICTURES
+### 32 TABLES WITH 142 PHOTOMICROGRAPHS
 
 #### LIGHT PRINT OF MARTIN ROMMEL IN STUTTGART
 
@@ -664,3 +664,13 @@ But if they came from our Earth, then they have been parts of it: the compositio
 ### Chapter 2
 
 #### The Formation of Earth
+
+Going off the results so far, some conclusions could also be drawn regarding the formation of the Earth. It is most likely, on average, that the Earth shows the same sequence of rocks as the meteorites, which pass from the iron to the pallasite (olivine with iron) and from there to the olivine, entatite, and (feldspar) rocks.
+
+On the Earth, olivine is followed by granite, a feldspar rock: this order also corresponds with the specific gravity of the mineral.
+
+The specific gravity for hornblende is 3-3.40, olivine 3.35, enstatite 3.10-3.29, orthoclase 2.53-3.10, and quartz 2-2.80. The high specific gravity of hornblende seems to stem from the iron content. This sequence of specific gravity, just as in their stratification, strongly suggests mineral formation in water, i.e. in an aqueous solution. Here I must repeat what I have already said in the "Primoridal Cell": that creation, i.e. organic formation, could not have started with crabs (Trilobites). We find a constant series of forms everywhere in the later strata, so why should this law not continue all the way to the very beginning?
+
+This alone should lead to the assumption that the immediate precursors of the Silurian, gneiss, and granite have an organic origin.
+
+With the evidence for the organic composition of the chondrites the main argument, which has so far stood in the way of considering the granite as a water structure: both rocks contain mainly feldspar. As concerns the granite, I have found forms in it which are similar to those of the chondrites.
