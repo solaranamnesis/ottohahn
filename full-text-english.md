@@ -693,4 +693,10 @@ But the days of the Earth would have been numbered if the light had not ended th
 
 The fall of planetary fragments upon our Earth (for this is what the origin of the meteorites suggests) could cause a mechanical destruction, a violent death for our Earth to fear. If it happened to this planet or that planet from which the meteorites originate, that they were smashed, and probably not due to a force from the inside, but by an impetus from the outside: so we should be prepared for this fate on our Earth, at least it threatens us. I will leave it to the astronomers to comfort themselves and their contemporaries.
 
+But we should also be prepared for the previously mentioned cessation of life on the surface, a less bloody but no less comforting end, namely the fate of gradual death, the termination of the coupling of insoluble compounds with the life force and the building materials: we have to worry that our atmosphere will continue to form insoluble compounds from the remaining building materials and the cycle will become weaker and slower, and finally - stopping.
+
+The only thing saving us from this almost certain fate is the water; the water which our Earth was able to aquire and retain in its formation.
+
+The fact that these created beings release the compounds that form their bodies, and that the plant in particular decomposes what it absorbs, while the animal absorbs these excretions within itself and then excretes them immediately again and again, then returning them to the plant (not the soil):  through all this, a cycle is created whose end can not be foreseen.
+
 ...
