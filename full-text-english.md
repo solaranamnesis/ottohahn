@@ -707,4 +707,16 @@ Although heat, as a result of the chemical processes mediated by water, may decr
 
 Heat flows to us from the Sun and is trapped by the atmosphere, so that it can not immediately emanate back into space. Thus we are surrounded by a double protective mantle: the crust which absorbs heat and the air that holds it back (it is the jacket of the Earth), and between the two we live, the whole of creation lives in constant exchange of substances. Here man lives, here the same beings arose which once laid the first foundation stone for the great construction of the Earth. These lower being even today testify, by their enormous multiplication and preservation in a temperature in which higher beings would immediately die, to their being the first sculptors of the Earth itself.
 
+Thus, only if the source of light and heat itself were destroyed would life on Earth freeze; we have nothing to fear from the extinction of the fiery core of the Earth. For the preservation and metabolism of life, the Sun provides radiating light and heat. Light and heat are therefore mother and father to all living things; from before time they have prevented the organic from becoming inorganic, constantly forming new couplings. But even if so much light and heat should flow to the Earth, without the continuous activity and transformation by the organic cell, then life on our planet would be numbered in years.
+
+The origin of the planets was the cell, it is maintained so long as light rays hit the Earth.
+
+It is possible that over time changes in the chemical composition of the Earth's surface and atmosphere will occur due to precipitation of solid compounds, whereby building materials are removed from the cycle. Certainly, under such modified living conditions, other similar, and (according to previous experience) higher organized beings will emerge. Indeed, it can be imagined that there will be a refinement of organisms here on Earth, in the same proportion as occurred after the olivine-granite period, and that creatures will arise that consume high amounts of water and gases for their preservation, as is almost the case with many plants.
+
+*The loss of geothermal heat or heat radiated by the Sun would not be the next threatening nightmare, but the disappearance of our atmosphere.
+
+# Explanation of the Panels
+
+## Preliminary Note
+
 ...
