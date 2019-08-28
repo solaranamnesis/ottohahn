@@ -699,4 +699,12 @@ The only thing saving us from this almost certain fate is the water; the water w
 
 The fact that these created beings release the compounds that form their bodies, and that the plant in particular decomposes what it absorbs, while the animal absorbs these excretions within itself and then excretes them immediately again and again, then returning them to the plant (not the soil):  through all this, a cycle is created whose end can not be foreseen.
 
+This process, not the cooling of the Earth's crust, of which so much has been spoken, constitutes the true story of the Earth's surface. However, we seem to have a frightening example in the Moon: there, I think, life is extinct. There are neither seas, as it was believed, nor volcanoes; the lack or loss of water was what caused this planet a premature death, which made life extinct soon after its birth.
+
+The heat on our surface seems to depend mostly on the preservation of the atmosphere, which defends against the cold of space. The greater height of the Earth's atmosphere at the equator, due to the rotation of the Earth, and not just the angle of the Sun's rays, causes a higher and more constant heat: or else 500 meters above sea level at the equator would experience a cooling of several degrees from the average heat; otherwise the glacial mass of Chimborazo would melt immediately. 
+
+Although heat, as a result of the chemical processes mediated by water, may decrease with time, it is certain that without the protective coat of the atmosphere the Earth's surface, although it absorbs new solar heat each day, the Earth will succumb to such low temperatures at night that it could not sustain life, as has recently been claimed as the cause for the extinction of all life on the Moon.
+
+Heat flows to us from the Sun and is trapped by the atmosphere, so that it can not immediately emanate back into space. Thus we are surrounded by a double protective mantle: the crust which absorbs heat and the air that holds it back (it is the jacket of the Earth), and between the two we live, the whole of creation lives in constant exchange of substances. Here man lives, here the same beings arose which once laid the first foundation stone for the great construction of the Earth. These lower being even today testify, by their enormous multiplication and preservation in a temperature in which higher beings would immediately die, to their being the first sculptors of the Earth itself.
+
 ...
