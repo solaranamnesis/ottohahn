@@ -691,5 +691,6 @@ But the days of the Earth would have been numbered if the light had not ended th
 
 #### The Future of our Planet
 
-...
+The fall of planetary fragments upon our Earth (for this is what the origin of the meteorites suggests) could cause a mechanical destruction, a violent death for our Earth to fear. If it happened to this planet or that planet from which the meteorites originate, that they were smashed, and probably not due to a force from the inside, but by an impetus from the outside: so we should be prepared for this fate on our Earth, at least it threatens us. I will leave it to the astronomers to comfort themselves and their contemporaries.
 
+...
