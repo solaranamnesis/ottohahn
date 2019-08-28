@@ -687,5 +687,9 @@ But the days of the Earth would have been numbered if the light had not ended th
 
 *) It has been forgotten in the theory of uplifting that a force which would be necessary to lift mountains would at the same time have crushed them: in the theory of pressing one is unable to say where the mountain has actually remained, through which the semi-solid would have been pressed! The whole surface could not have been squeezed out.
 
+### Chapter 3
+
+#### The Future of our Planet
+
 ...
 
