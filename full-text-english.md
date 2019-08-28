@@ -719,4 +719,20 @@ It is possible that over time changes in the chemical composition of the Earth's
 
 ## Preliminary Note
 
+The stones from which I made my thin sections were throughly certified.
+
+The thin sections themselves were made by me under the untiring support of my sister-in-law, Miss Pauline Schloz. My collection numbers at 560 (including 360 of Knyahinya), probably the largest collection that is available.
+
+Regarding the manufacture of thin sections, I must mention the circumstances which influenced their depiction.
+
+Anyone who has polished petrifacts knows that very few allow a thin slice. Not only because of the often opaque or difficult material (lime, clay), but because structures disappear when ground to (presumed) transparency.
+
+It depends on the way in which the process of petrification occurs in each.
+
+Thus one is faced with the choice of either having a rather dim cut, in which one sees little, or, driven by the desire for sharper outlines, getting a cut that no longer shows anything, resorting to higher objectives in vain.
+
+Both of these obstacles can be avoided in the meteorite material (which, incidentally, because of the iron, is difficult to grind) only by alternately making thinner and thicker cuts.
+
+Regarding the choice of forms, future researchers will excuse me if I overlooked this or that form. My intention, of course, was to depict all the forms contained in my material. The figures should not only give pictures but also an overall view: I placed the greatest weight on concluding the matter of the nature of the rock.
+
 ...
