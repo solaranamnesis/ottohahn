@@ -63,7 +63,7 @@
 
 #### [Chapter 3. The Future of our Planet](full-text-english.md)
 
-### [Explanation of the Panels](full-text-english.md)
+### [Explanation of the Tables](full-text-english.md)
 
 ### [Preliminary Note](full-text-english.md)
 
@@ -715,7 +715,7 @@ It is possible that over time changes in the chemical composition of the Earth's
 
 *The loss of geothermal heat or heat radiated by the Sun would not be the next threatening nightmare, but the disappearance of our atmosphere.
 
-# Explanation of the Panels
+# Explanation of the Tables
 
 ## Preliminary Note
 
