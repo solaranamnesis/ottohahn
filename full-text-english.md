@@ -67,7 +67,7 @@
 
 ### [Preliminary Note](full-text-english.md#preliminary-note-1)
 
-### [Table Index](full-text-english.md)
+### [Table Index](full-text-english.md#table-index-1)
 
 # THE METEORITE (CHONDRITE) AND ITS ORGANISMS
 
