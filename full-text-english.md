@@ -779,7 +779,7 @@ A similar treatment of Dr. Kuntze with Dr. H. Karsten's Flora Columbiae. Until h
 
 1. Pictures are numbered from top left to bottom right.
 
-2. Abbreviations: V. indicates magnification, D. indicates real diameter, mm indicates millimeter.
+2. Abbreviations: M. indicates magnification, D. indicates real diameter, mm indicates millimeter.
 
 ### Table 1
 
