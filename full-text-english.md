@@ -747,4 +747,16 @@ I would like to ask Dr. Kuntze in Leipzig whether he teaches of such synthetic a
 
 I admit that "synthetic algae" can be made from algae, as some researchers have said. But I must also point out that all structures that are thread or band-like have been explained as algae without much thought. To know that you have an alga in front of you, something more is needed. Things have been explained as plants, which certainly do not show half as much form or structure as my pictures in the "Primordial Cell". Not all thread or sheaf shapes in rocks or other masses would I explain, using only this feature, as algae.
 
+My illustrations in the "Primordial Cell" clearly show cell walls and cells; if these things were artificial algae or dendrites, the would not have any transverse walls.
+
+With this I return back to my subject.
+
+Photography has significant drawbacks for scientific representation, as every researcher knows. For the present subject I had to follow this path simply because I would otherwise have been accused of "imagination" again. The Sun and the collodion together do not fool me and must ward off any such accusation from the start. But the photographic image incorporates the object to a lesser extent. This was especially felt with my best subjects. In addition, especially at the higher magnifications, only a part of the thin section could be displayed and it was not sharp because the higher and lower rock blurred the focus of the image. Too high of a magnification (I note this matter for any colleagues) is therefore not suitable in rock thin sections. Another obstacle is that the rocks consist of highly refractive and the light of mineral fractures must be overcome; this creates light reflections of the most unpleasant kind that an untrained person could easily mistake for forms. To avoid this, I always work with the weakest magnifications to put aside the imperfect structural images.
+
+The photographic sight is more likely to be under the object. The credibility of the representation, as I said, was the only reason for taking this path. 
+
+One particularly sensitive cause of additional shortcomings in the photographic representation is the effect of the colors on the image. Of all the bad ones, yellow is the worst.
+
+Where yellow is present in the preparation, a black stain appears instead of structure. There was no means to rectify this evil. And it is the yellow of the olivine that does not allow any ray of light through. This is most pronounced in the coral in Table 1, Figure 6: the black ring in the picture is a light yellow (iron). Brown follows the yellow, which is also very dark. Blue has the opposite shortcoming, it becomes too light, but it still shows structures.
+
 ...
