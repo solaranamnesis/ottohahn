@@ -65,7 +65,7 @@
 
 ### [Explanation of the Tables](full-text-english.md)
 
-### [Preliminary Note](full-text-english.md)
+### [Preliminary Note](full-text-english.md#preliminary-note-1)
 
 ### [Table Index](full-text-english.md)
 
