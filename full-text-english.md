@@ -781,7 +781,7 @@ I therefore preferred to denote the real size of the object by directly stating 
 
 2\. Abbreviations: M. indicates magnification, D. indicates real diameter, mm indicates millimeter.
 
-### Table 1
+### Table 1.
 
 Combination of mineral structures with organic ones from the chondrites.
 
