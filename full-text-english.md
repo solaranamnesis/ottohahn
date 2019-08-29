@@ -721,7 +721,7 @@ It is possible that over time changes in the chemical composition of the Earth's
 
 The stones from which I made my thin sections were throughly certified.
 
-The thin sections themselves were made by me under the untiring support of my sister-in-law, Miss Pauline Schloz. My collection numbers at 560 (including 360 of Knyahinya), probably the largest collection that is available.
+The thin sections themselves were made by me with the untiring support of my sister-in-law, Miss Pauline Schloz. My collection numbers at 560 (including 360 of Knyahinya), probably the largest collection that is available.
 
 Regarding the manufacture of thin sections, I must mention the circumstances which influenced their depiction.
 
