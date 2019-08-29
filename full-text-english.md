@@ -735,4 +735,8 @@ Both of these obstacles can be avoided in the meteorite material (which, inciden
 
 Regarding the choice of forms, future researchers will excuse me if I overlooked this or that form. My intention, of course, was to depict all the forms contained in my material. The figures should not only give pictures but also an overall view: I placed the greatest weight on concluding the matter of the nature of the rock.
 
+As far as the order of the tables is concerned, it is related to the order of the material. Since I was aware that I had not yet exhausted the entire material, I did not bother to determine individual forms, or to express views on their genetic links to justify them and their order: it was sufficient only to make a preliminary orientation in this direction. And for the present time, it is only a proof of organic rock, not about what everything is.
+
+
+
 ...
