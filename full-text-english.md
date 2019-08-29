@@ -61,7 +61,7 @@
 
 #### [Chapter 2. The Formation of Earth](full-text-english.md#the-formation-of-earth)
 
-#### [Chapter 3. The Future of our Planet](full-text-english.md)
+#### [Chapter 3. The Future of our Planet](full-text-english.md#the-future-of-our-planet)
 
 ### [Explanation of the Tables](full-text-english.md)
 
