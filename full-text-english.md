@@ -63,7 +63,7 @@
 
 #### [Chapter 3. The Future of our Planet](full-text-english.md#the-future-of-our-planet)
 
-### [Explanation of the Tables](full-text-english.md)
+### [Explanation of the Tables](full-text-english.md#explanation-of-the-tables-1)
 
 ### [Preliminary Note](full-text-english.md#preliminary-note-1)
 
