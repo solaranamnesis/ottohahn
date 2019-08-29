@@ -1020,9 +1020,9 @@ Combination of mineral structures with organic ones from the chondrites.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-1_edit-b.jpg) of Knyahinya (inclusion) D. 1.50 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-2_edit-b.jpg) Borkut sphere D. 1.00 mm.  
-[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-3_edit-b.jpg) Nummulit von Kempten. Die Kanäle sind (mit der Lupe) scharf zu erkennen  
-[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-4_edit-b.jpg) Dünnschliff von Lias γδ. Dieser Dünnschliff ist der von mir zusammengestellten Sammlung von 30 Dünnschliffen von Sedimentgesteinen entnommen, gefertigt von Geognost Hildebrand in Ohmenhausen bei Reutlingen, welche ich zum Studium der mikroskopischen Beschaffenheit der Sedimentgesteine nebst Einschlüssen dringend empfehle.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-5_edit-b.jpg) "Eozoon canadense", angebliches Kanalsystem des Eozoon  
-[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-6_edit-b.jpg) desgl. Beide Gesteine, denen die Schliffe entnommen sind, von mir in Little Nation gesammelt. Man vergleiche Kanalsystem des Nummuliten Fig. 3 mit diesem angeblichen Kanalsystem! Bild 3 und 5 sollen dasselbe Ding sein.  
+[Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-3_edit-b.jpg) Nummulite from Kempten. The canal is clearly visible (with the magnifying glass).  
+[Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-4_edit-b.jpg) Thin section from Lias γδ. This thin section is taken from the assembled collection of 30 thin sections of sedimentary rocks, manufactured by geologist Hildebrand in Ohmenhausen near Reutlingen, which I strongly recommend for studying the microscopic nature of sedimentary rocks and inclusions.  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-5_edit-b.jpg) "Eozoon canadense", so-called canal system of Eozoon  
+[Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-6_edit-b.jpg) ditto. Both cuts taken from rocks collected by me in Little Nation. Compare the canal system of the numulites in Figure 3 with this alleged canal system! Picture 3 and 5 should be the same object.  
 
-Zu Fig. 5 vergleiche Urzelle Taf. 4. 5.
+Compare to Figure 5 "Primordial Cell" Table 4 and 5.
