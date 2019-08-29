@@ -743,6 +743,7 @@ For a long time I was faced with the choice of whether I should really take the 
 
 There was a lot of talk regarding imagination in the cristicism of my "Primordial Cell". I realize that the illustrations were not exact, that might be, but they are correct. For example, see the photographic depiction of the objects in my "Primordial Cell" on Table 32 Figure 5 compared to Table 4 and 5 in the "Primordial Cell".
 
+I would like to ask Dr. Kuntze in Leipzig whether he teaches of such factious algae — if so, I would be very grateful for the provisioning of such a preparation to convince me of an error. As far as I know, the dendrites and "factious algae", which were thus held against me without any examination or knowledge, are merely stripes not structures and secretions. In accordance with its formation, it is usually a uniformly distributed continous stain bulk, which lies between two stone slabs, i.e. as a perfect surface, and so resembles plant shadows.
 
 
 ...
