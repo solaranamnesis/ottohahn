@@ -759,4 +759,21 @@ One particularly sensitive cause of additional shortcomings in the photographic 
 
 Where yellow is present in the preparation, a black stain appears instead of structure. There was no means to rectify this evil. And it is the yellow of the olivine that does not allow any ray of light through. This is most pronounced in the coral in Table 1, Figure 6: the black ring in the picture is a light yellow (iron). Brown follows the yellow, which is also very dark. Blue has the opposite shortcoming, it becomes too light, but it still shows structures.
 
-...
+It goes without saying that the high price of the material imposes a certain economy in the preparations. This limits the selection. It is precisely for this reason why the thin sections must be made by the researcher himself. It is a duty. Admittedly this complicates things by the great amount of time required, but it is the only possible way to thoroughly study the subject. 
+
+For magnification and photographic representation I have the intermediate microphotographic apparatus of Seibert & Krafft from Wetzlar and can commend it as praiseworthy. The pictures were produced under my direction here in the photographic studio of Messrs Otto Lauer & Carl Bossler. Since we all had no practice in this sort of shooting, the contribution of Dr. Schreiner, assistant at the chemical laboratory in Tübingen, was highly welcomed. I did not have additional help, but I think it should not go without mentioning the complete lack of participation from all those scholars to whom this matter most concerns.
+
+In the ordering of the material, I put the sponges first, followed by the corals and then the crinoids.
+
+I have also represented the individual genera numerically in accordance with their frequency of occurrence. Unfortunately I had to put aside some of the better objects because of their yellow coloring. If Gümbel, as he says in his excellent essay on the Bavarian meteorites, proves correct, in removing the yellow color by acids, much would be gained.
+
+As for the magnifications, or more correctly the exact size of the magnifications, it came into consideration that the camera imposes a certain observance size. This leads to the bad state of affairs in which all the forms seem equally large.
+
+The magnification specification, i.e. the ratio of the true size to the diameter of the displayed image is thus of very little significance. 
+
+I therefore preferred to denote the real size of the object by directly stating the diameter of each shape.
+
+A similar treatment of Dr. Kuntze with Dr. H. Karsten's Flora Columbiae. Until he cleanses himself of the accusation Dr. W. Joos raised against him on these criticisms, he has no right to be heard in science.
+
+## Table Index
+
