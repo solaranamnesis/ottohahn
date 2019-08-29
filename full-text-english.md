@@ -737,6 +737,12 @@ Regarding the choice of forms, future researchers will excuse me if I overlooked
 
 As far as the order of the tables is concerned, it is related to the order of the material. Since I was aware that I had not yet exhausted the entire material, I did not bother to determine individual forms, or to express views on their genetic links to justify them and their order: it was sufficient only to make a preliminary orientation in this direction. And for the present time, it is only a proof of organic rock, not about what everything is.
 
+I avoided giving names not for fear of falling into the hands of critics, but because I came to the realization that by naming nothing, or not much, is gained.
+
+For a long time I was faced with the choice of whether I should really take the path of photographic representation. However, I arrived at the decision in question more so out of thoughtfulness for the outsider.
+
+There was a lot of talk regarding imagination in the cristicism of my "Primordial Cell". I realize that the illustrations were not exact, that might be, but they are correct. For example, see the photographic depiction of the objects in my "Primordial Cell" on Table 32 Figure 5 compared to Table 4 and 5 in the "Primordial Cell".
+
 
 
 ...
