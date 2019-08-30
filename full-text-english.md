@@ -313,7 +313,7 @@ If these requirements are valid, it remains only to decide, whether plant or ani
 
 I believe, before I go to the positive proof, that the negative proof ought to lead.
 
-The proof you see, that I claim for the existence of organic beings is twofold: a negative one, by showing that the meteoritic forms do not belong to the mineral kingdom, and a positive one, by showing the similiarity of the meteoritic forms with those from Earth, whether living or extinct. The first thing to prove, therefore, is the following sentence: 
+The proof you see, that I claim for the existence of organic beings is twofold: a negative one, by showing that the meteoritic forms do not belong to the mineral kingdom, and a positive one, by showing the similarity of the meteoritic forms with those from Earth, whether living or extinct. The first thing to prove, therefore, is the following sentence: 
 
 The inclusions in the meteorites are not mineral formations.
 
@@ -325,11 +325,11 @@ Olivine has no visible sheet breakage, but in enstatite and bronzite it is obvio
 
 A mineral is simple, it must be simple in its concept and therefore always gives the picture of a homogeneous mass (field), with some inclusions at most. How could the same mineral be present in such different structures, in such coherent forms that differ from crystal forms?
 
-3\. Minerals are either crystallized or not crystallized. In the first order they have a certain regular and recurrent form: they move on surfaces which, on average, project themselves as straight lines. These forms (lines and angles) are recurring, varying only in size, not ratio. Such forms are not found among the forms I have addressed as organic. In the orgranic forms there is no form with a surface or an angle; all are spheres or ellipses with deviations from the mathematical form, deviations, which are nevertheless constant. It is these other forms which give rise to the need to forsee just what are these matching structures, showing themselves with constant outlines, these forms which are different from the crystal form of the enstatites and the olivines.
+3\. Minerals are either crystallized or not crystallized. In the first order they have a certain regular and recurrent form: they move on surfaces which, on average, project themselves as straight lines. These forms (lines and angles) are recurring, varying only in size, not ratio. Such forms are not found among the forms I have addressed as organic. In the organic forms there is no form with a surface or an angle; all are spheres or ellipses with deviations from the mathematical form, deviations, which are nevertheless constant. It is these other forms which give rise to the need to foresee just what are these matching structures, showing themselves with constant outlines, these forms which are different from the crystal form of the enstatites and the olivines.
 
 Though they are rare, small sections are real crystals, but in a way, they are probative values that do not impinge on the facts. See below and [Table 32: Figure 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-2_edit-b.jpg).
 
-4\. If the minerals were originally crystallized, but happen to lose their crystalline form due to some mechanical force, the only form that could be repeated is the sphere or one approaching it, such as an ellipse. Here a repetition would be possible without a conclusion being drawn about the form. In these spheres, surface cuts of the body would immediately show the influence of such mechanical forces, in particular, the inclusions would be hit arbitrarily.
+4\. If the minerals were originally crystallized but happen to lose their crystalline form due to some mechanical force, the only form that could be repeated is the sphere or one approaching it, such as an ellipse. Here a repetition would be possible without a conclusion being drawn about the form. In these spheres, surface cuts of the body would immediately show the influence of such mechanical forces the inclusions would be hit arbitrarily.
 
 However, the structure in the meteorite inclusions is always, I would like to say: symmetric, in harmony with its outlines.
 
@@ -343,7 +343,7 @@ But where crystal laws appear in the inclusions, they always depend on the cryst
 
 One finds in terrestrial minerals that there are interpositions parallel to the sheet cleavage: these do not show in the meteorites.
 
-I believe that the sight of my forms will make further discussion about the diversity of mineral and, in particular, crystal images unnecessary.
+I believe that the sight of my forms will make further discussion about the diversity of mineral and crystal images unnecessary.
 
 8\. But so much has been said of crystallites, of crystallization.
 
@@ -353,13 +353,13 @@ Here the idea of the basic difference between the meteorite forms and the crysta
 
 The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, it is ground away, which Gümbel overlooked) — a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that crystals unite with a crystal of equal mass, which then create the concentric forms.
 
-Therefore if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, concentric formations would show.
+Therefore, if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, concentric formations would show.
 
 9\. Finally, I must point out a contradiction that science came up with in order to explain the structure of the chondrites as being a mineral property. This is the optical behavior of these inclusions.
 
-If they were crystals and had broken sheets (of course olivine has none, yet there are structures in the alleged olivine sphere structures, i.e. sheet fracture!) as the source of their structure, the mineral should by necessity break light. In most of the inclusions, however, there is no refraction of light, not even aggregate polarization! So they can neither be simple minerals nor crystals, nor, least of all, be sheet fracture structures. This matter, that of the optical behavior, should have already led to the correct interpretation.
+If they were crystals and had broken sheets (of course olivine has none, yet there are structures in the alleged olivine sphere structures, i.e. sheet fracture!) as the source of their structure, the mineral should by necessity break light. In most of the inclusions, however, there is no refraction of light, not even aggregate polarization! So, they can neither be simple minerals nor crystals, nor, least of all, be sheet fracture structures. This matter, that of the optical behavior, should have already led to the correct interpretation.
 
-All this evidence is of course unknown to the botanist and zoologist, while every mineralogist knows it. Therefore I must ask the botanist and zoologist colleague to confirm what my photographs show. These forms are not mineral forms. With this the mineralogist has done his part, and now it passes into the hands of the paleontologist, or rather the zoologist, and now begins the positive proof.
+All this evidence is of course unknown to the botanist and zoologist, while every mineralogist knows it. Therefore, I must ask the botanist and zoologist colleague to confirm what my photographs show. These forms are not mineral forms. With this the mineralogist has done his part, and now it passes into the hands of the paleontologist, or rather the zoologist, and now begins the positive proof.
 
 ### Chapter 2
 
