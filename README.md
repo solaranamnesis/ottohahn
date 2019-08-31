@@ -2,6 +2,8 @@
 ## DIE METEORITE (CHONDRITE) UND IHRE ORGANISMEN (1880) by Dr. Otto Hahn (1828–1904)
 ### "THE METEORITE (CHONDRITE) AND ITS ORGANISMS"
 
+![Cover Photograph](https://github.com/images/logo.png)
+
 Attempt at a translation of Dr. Otto Hahn's 1880 book: "Die Meteorite (Chondrite) und ihre Organismen", from the original German to English, I welcome all pull requests of submitted translations and/or edits.
 
 [English - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/full-text-english.md)  
