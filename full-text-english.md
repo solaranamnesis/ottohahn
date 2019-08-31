@@ -1,3 +1,5 @@
+![Cover Photograph](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg)
+
 # THE METEORITE (CHONDRITE) AND ITS ORGANISMS
 
 ## ILLUSTRATED AND DESCRIBED BY DR. OTTO HAHN
