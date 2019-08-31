@@ -1,3 +1,5 @@
+![Cover Photograph](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg)
+
 # DIE METEORITE (CHONDRITE) UND IHRE ORGANISMEN.
 
 ## DARGESTELLT UND BESCHRIEBEN VON DR. OTTO HAHN.
@@ -70,8 +72,6 @@
 ### [Tafelverzeichnis](full-text-german.md#tafelverzeichniss)
 
 # DIE METEORITE (CHONDRITE) UND IHRE ORGANISMEN.
-
-![Cover Photograph](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg)
 
 ## Einleitung
 
