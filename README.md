@@ -54,9 +54,9 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ## Timeline of Publications
 
-### 1875 - [Über die Beschaffenheit des Steinmeteoriten vom Fall am 12. Februar 1875 in der Grafschaft Iowa Nordamerika](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
+### 1875 - [About the Nature of the Stone Meteorite from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
 
-### 1878 - [Über die in Bayern gefundenen Steinmeteoriten](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
+### 1878 - [About the Stone Meteorites Found in Bavaria](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
 
 ### 1879 - [Primordial Cell](https://github.com/solaranamnesis/ottohahn/tree/master/Die-Urzelle) by Otto Hahn
 
@@ -70,9 +70,9 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1881 - [The Meteorite and its Organisms](https://github.com/solaranamnesis/Hermann-Karsten) by Hermann Karsten
 
-### 1882 - [Über die in Meteoriten entdeckten Tierreste](https://github.com/solaranamnesis/David-Friedrich-Weinland) by David F. Weinland
+### 1882 - [About the Animal Remains Discovered in the Meteorites](https://github.com/solaranamnesis/David-Friedrich-Weinland) by David F. Weinland
 
-### 1882 - [Les Prétendus Organismes des Météorites](https://github.com/solaranamnesis/Karl-Christoph-Vogt) by Karl Vogt
+### 1882 - [The Pretend Organisms of the Meteorites](https://github.com/solaranamnesis/Karl-Christoph-Vogt) by Karl Vogt
 
 ### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill
 
