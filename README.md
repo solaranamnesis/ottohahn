@@ -58,17 +58,17 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1878 - [Über die in Bayern gefundenen Steinmeteoriten](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
 
-### 1879 - [Die Urzelle](https://github.com/solaranamnesis/ottohahn/tree/master/Die-Urzelle) by Otto Hahn
+### 1879 - [Primordial Cell](https://github.com/solaranamnesis/ottohahn/tree/master/Die-Urzelle) by Otto Hahn
 
-### 1880 - [Die Meteorite (Chondrite) und ihre Organismen](https://github.com/solaranamnesis/ottohahn) by Otto Hahn
+### 1880 - [The Meteorite (Chondrite) and its Organisms](https://github.com/solaranamnesis/ottohahn) by Otto Hahn
 
-### 1881 - [Korallen in Meteorsteinen](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/16/1) by David F. Weinland
+### 1881 - [Corals in the Meteorites](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/16/1) by David F. Weinland
 
-### 1881 - [Über die „Organismen der Meteorite“](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/20/5) by Anton Rzehak
+### 1881 - [About the "Organisms of the Meteorite"](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/20/5) by Anton Rzehak
 
-### 1881 - [Weiteres über die Tierreste in Meteoriten](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/26/1) by David F. Weinland
+### 1881 - [More About the Animal Remains in the Meteorites](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/26/1) by David F. Weinland
 
-### 1881 - [Die Meteorite und ihre Organismen](https://github.com/solaranamnesis/Hermann-Karsten) by Hermann Karsten
+### 1881 - [The Meteorite and its Organisms](https://github.com/solaranamnesis/Hermann-Karsten) by Hermann Karsten
 
 ### 1882 - [Über die in Meteoriten entdeckten Tierreste](https://github.com/solaranamnesis/David-Friedrich-Weinland) by David F. Weinland
 
