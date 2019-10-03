@@ -60,7 +60,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1879 - [Primordial Cell](https://github.com/solaranamnesis/ottohahn/tree/master/Die-Urzelle) by Otto Hahn
 
-### 1880 - [The Meteorite (Chondrite) and its Organisms](https://github.com/solaranamnesis/ottohahn) by Otto Hahn
+### 1880 - [The Meteorite (Chondrite) and its Organisms](https://github.com/solaranamnesis/ottohahn/tree/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN) by Otto Hahn
 
 ### 1881 - [Corals in the Meteorites](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/16/1) by David F. Weinland
 
