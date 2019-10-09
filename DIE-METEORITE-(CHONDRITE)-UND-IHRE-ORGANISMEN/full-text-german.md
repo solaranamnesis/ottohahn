@@ -25,13 +25,13 @@
 
 #### [Die Meteorite und ihre mineralogischen Eigenschaften](full-text-german.md#die-meteorite-und-ihre-mineralogischen-eigenschaften-1)
 
-### [2. ABSCHNITT.](full-text-german.md#ii-abschnitt-1)
+### [2. ABSCHNITT.](full-text-german.md#2-abschnitt-1)
 
 #### [Die organische Natur der Chondrite.](full-text-german.md#die-organische-natur-der-chondrite-1)
 
 #### [1. Kapitel. Organisch oder unorganisch?](full-text-german.md#organisch-oder-unorganisch)
 
-#### [2. Kapitel. Die einzelnen Formen](full-text-german.md#ii-kapitel)
+#### [2. Kapitel. Die einzelnen Formen](full-text-german.md#2-kapitel)
 
 ##### [A. Schwämme:](full-text-german.md#a-schwämme) [1. Urania](full-text-german.md#1-urania) [2. Nadelschwämme](full-text-german.md#2-nadel-schwämme)
 
@@ -39,31 +39,31 @@
 
 ##### [C. Crinoiden](full-text-german.md#c-die-crinoiden)
 
-#### [3. Kapitel. Alles Leben](full-text-german.md#iii-kapitel)
+#### [3. Kapitel. Alles Leben](full-text-german.md#3-kapitel)
 
-#### [4. Kapitel. Stein im Stein](full-text-german.md#iv-kapitel)
+#### [4. Kapitel. Stein im Stein](full-text-german.md#4-kapitel)
 
-#### [5. Kapitel. Fortpflanzung](full-text-german.md#v-kapitel)
+#### [5. Kapitel. Fortpflanzung](full-text-german.md#5-kapitel)
 
-#### [6. Kapitel. Entwicklung](full-text-german.md#vi-kapitel)
+#### [6. Kapitel. Entwicklung](full-text-german.md#6-kapitel)
 
-### [3. ABSCHNITT.](full-text-german.md#iii-abschnitt-1)
+### [3. ABSCHNITT.](full-text-german.md#3-abschnitt-1)
 
 #### [Das Meteoreisen](full-text-german.md#das-meteoreisen-1)
 
-### [4. ABSCHNITT.](full-text-german.md#iv-abschnitt-1)
+### [4. ABSCHNITT.](full-text-german.md#4-abschnitt-1)
 
 #### [Das Eisen von Ovifak](full-text-german.md#das-eisen-von-ovifak-1)
 
-### [5. ABSCHNITT.](full-text-german.md#v-abschnitt-1)
+### [5. ABSCHNITT.](full-text-german.md#5-abschnitt-1)
 
 #### [Schlussfolgerungen.](full-text-german.md#schlussfolgerungen-1)
 
-#### [1. Kapitel. Ursprung der Meteorite](full-text-german.md#i-kapitel-1)
+#### [1. Kapitel. Ursprung der Meteorite](full-text-german.md#1-kapitel-1)
 
-#### [2 Kapitel. Die Erdbildung](full-text-german.md#ii-kapitel-1)
+#### [2 Kapitel. Die Erdbildung](full-text-german.md#2-kapitel-1)
 
-#### [3. Kapitel. Die Zukunft unseres Planeten](full-text-german.md#iii-kapitel-1)
+#### [3. Kapitel. Die Zukunft unseres Planeten](full-text-german.md#3-kapitel-1)
 
 ### [Erklärung der Tafeln.](full-text-german.md#erklärung-der-tafeln-1)
 
