@@ -113,7 +113,7 @@ Wer meine Formen nur oberflächlich überblickt, wird bald finden, dass sie eine
 
 In solchen Anfängen sind Irrtümer unvermeidlich, es ist daher nur eine Forderung der Billigkeit, sie zu verzeihen. Auch wollte ich die Veröffentlichung des Werkes nicht zu lange verzögern, und habe es daher eben so wie es jetzt vorliegt, abgeschlossen.
 
-## I. ABSCHNITT.
+## 1. ABSCHNITT.
 
 ### DIE BISHERIGEN ANSICHTEN ÜBER DIE METEORITE.
 
@@ -307,11 +307,11 @@ Unsere Forscher, mit Ausnahme Gümbels, sprechen von den Meteoriten als vulkanis
 
 Richtig allein hat Quenstedt die Frage für eine offene erklärt und gesagt: es sei dem Mikroskop vorbehalten, das Rätsel der Zusammensetzung der Meteorite zu lösen! Handbuch der Mineralogie S. 722.
 
-## II. ABSCHNITT.
+## 2. ABSCHNITT.
 
 ### DIE ORGANISCHE NATUR DER CHONDRITE.
 
-#### I. KAPITEL.
+#### 1. KAPITEL.
 
 ##### ORGANISCH ODER UNORGANISCH?
 
@@ -373,7 +373,7 @@ Wären sie Kristalle und wäre der Blätterbruch (freilich Olivin hat keinen, un
 
 All diese Beweise sind freilich dem Botaniker und Zoologen fremd, während sie jeder Mineraloge kennt: daher muss ich diesen bitten dem Kollegen Botaniker und Zoologen das eben Vorgetragene zu bestätigen, zu bestätigen was meine Lichtbilder zeigen: Diese Formen sind keine Mineralformen. Damit hat der Mineraloge seinen Anteil an der Arbeit getan und nunmehr geht sie in die Hand des Paläontologen, oder richtiger des Zoologen über und es beginnt die positive Beweisführung.
 
-#### II. KAPITEL.
+#### 2. KAPITEL.
 
 ##### DIE EINZELNEN FORMEN.
 
@@ -495,7 +495,7 @@ Zum Schluss verweise ich auf die Tafelerklärung.
 
 Damit sind die Formen vorgeführt. Ich habe eine Zeitlang den Plan verfolgt, eine förmliche Statistik über das Vorkommen der Formen in meiner Dünnschliffsammlung zu machen, aufzuzählen, wie oft ein und dieselbe Form in den 500 Dünnschliffen sich findet. Ich stand davon ab, weil ich mir sagen musste, dass es doch keinen großen Wert haben werde. Jede Vermehrung meiner Sammlung um nur 12 Nummern würde die Verhältniszahl ändern. Ich zog daher vor, bei einzelnen Formen das Zahlenverhältnis annähernd anzugeben.
 
-#### III. KAPITEL.
+#### 3. KAPITEL.
 
 ##### ALLES LEBEN.
 
@@ -515,7 +515,7 @@ Die Annahme einer bloßen Massenanziehung, der mechanische Anfang der Erde und d
 
 Allerdings müssten auch noch Organismen im Eisen, im Erdkern, in dem Meteoreisen nachgewiesen werden. Diese Aufgabe habe ich mir als nächste gestellt; die bisherigen Resultate lassen ihre Lösung hoffen.
 
-#### IV. KAPITEL.
+#### 4. KAPITEL.
 
 ##### STEIN IM STEIN.
 
@@ -529,7 +529,7 @@ Dass eine Schlammablagerung möglich, dass ein Hineinfallen von Teilen eines sch
 
 Unter allen Umständen aber ist im Chondrit-Gestein das Verhältnis das umgekehrte wie bei den Sedimentschichten unserer Erde. In diesen sind die Organismen eingelagert, das Gestein umschließt sie; jenes ist eben nichts als Organismen und das Gestein ist eine Masse solcher. Ich füge ein Bild eines wirklichen Gesteinteils aus Borkut bei. [Tafel 32. Figur 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-2_edit-b.jpg). Daneben ([Figur 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-1_edit-b.jpg)) habe ich eine Form abgebildet, graublau wie Urania, aber ohne bestimmte Struktur, auch in ihren Umrissen unbeständig, weshalb sie eine bloße Füllmasse sein könnte. Wäre sie eine organische Form, so wäre sie die eines niedersten Wesens. Zur Vergleichung bilde ich in [Tafel 32. Figur 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-4_edit-b.jpg) einen Dünnschliff von Lias γδ (Zwischenkalk) ab. Hier liegen die Schalen zum Teil ganz im Kalke, größtenteils aber sind es bloß Stücke von Schalen; die Teile sind in alle Größen zerschlagen, und, was ihre Herkunft betrifft, gerollt bis zur Unkenntlichkeit. Im Chondrite bleibt fast keine Stelle, welche Zweifel über ihre Zusammensetzung übrig ließe.
 
-#### V. KAPITEL.
+#### 5. KAPITEL.
 
 ##### FORTPFLANZUNG.
 
@@ -543,7 +543,7 @@ Die gute Erhaltung ist eine Unmöglichkeit. Die meteoritischen Formen werden dah
 
 Nur einer Tatsache will ich hier noch erwähnen, welche zugleich ein erhebliches Beweismoment für die organische Natur der Formen ist: die immer auftretende Vergesellschaftung der einzelnen Formen. Die meisten Formen finden sich mit gleichen zusammen: wenige stehen einzeln und zugleich als Unica da. Ich halte dies für sehr wichtig. Wenn mehrere Individuen der gleichen Spezies sich zusammenfinden, so geht daraus hervor, dass sie im Mutter- oder Geschwisterverhältnisse stehen. Dieselbe Erscheinung tritt auch bei den terrestrischen Arten auf. Dies wird um so bedeutender, als oft das Mineral, aus welchem eine Form besteht, unzweifelhaft das gleiche ist mit dem eine andere Spezies ausfüllenden Mineral, also ein mineralogischer Grund nicht da ist, aus welchem die Verschiedenheit der Struktur abgeleitet werden könnte.
 
-#### VI. KAPITEL.
+#### 6. KAPITEL.
 
 ##### ENTWICKELUNG.
 
@@ -559,7 +559,7 @@ Will man aber nicht so weit gehen, die Crinoiden nicht durch die Korallen hindur
 
 Auch hier reicht die Beobachtung im Einzelnen noch nicht hin, um abschließen zu können.
 
-## III. ABSCHNITT.
+## 3. ABSCHNITT.
 
 ### DAS METEOREISEN.
 
@@ -625,7 +625,7 @@ Zeigen aber schon die Pallasite organische und sogar tierische Formen, Gesteine,
 
 Sobald das Eisen als Planetenkern angenommen wird, glaube ich es hiermit aber als im höchsten Grade wahrscheinlich aussprechen zu dürfen, dass der erste Anfang unseres und daher aller Planeten eine organische Bildungwar.
 
-## IV. ABSCHNITT.
+## 4. ABSCHNITT.
 
 ### DAS EISEN VON OVIFAK.
 
@@ -641,11 +641,11 @@ Auf der Fläche dieses Eisens, das ich freilich, da ich dieses schreibe, anzugre
 
 Eine Untersuchung im Dünnschliffe aber muss ich auf die Zeit aufsparen, wo mir das Material zur freien Verfügung gestellt wird.
 
-## V. ABSCHNITT.
+## 5. ABSCHNITT.
 
 ### SCHLUSSFOLGERUNGEN.
 
-#### I. KAPITEL.
+#### 1. KAPITEL.
 
 ##### URSPRUNG DER METEORITE.
 
@@ -681,7 +681,7 @@ Wir haben also nur eine hypothetische Gewissheit: nämlich die Wahrscheinlichkei
 
 Sollten sie aber auch von unserer Erde gekommen, Teile derselben gewesen sein: ihre Zusammensetzung aus Organismen ist immerhin noch eine Tatsache, welche wichtig genug wäre für unsere Erdgeschichte. Stammen sie aber nicht von der Erde, so geben sie uns die Erklärung zweier Tatsachen: die Entstehung eines Planeten und die Wahrscheinlichkeit für die Art und Weise der Entstehung unserer Erde. Waren sie aber jeder ein Planet für sich, so bezeugen sie eine Schöpfungskraft, welche wirklich unsere Begriffe von der Entstehung organischer Formen und deren Verlauf weit hinter sich ließe.
 
-#### II. KAPITEL.
+#### 2. KAPITEL.
 
 ##### DIE ERDBILDUNG.
 
@@ -707,7 +707,7 @@ Nun aber wären die Tage der Erde doch gezählt gewesen, wenn nicht eben durch d
 
 *Man hat bei der Hebungstheorie vergessen, dass eine Gewalt, welche nötig wäre, um Gebirge zu heben, diese zugleich zermalmt hätte: bei der Pressungstheorie ist man nicht im Stande zu sagen, wo denn eigentlich das Gebirge geblieben ist, durch welches „der Brei“ gepresst worden wäre! Die ganze Oberfläche kann doch nicht herausgepresst worden sein.
 
-#### III. KAPITEL.
+#### 3. KAPITEL.
 
 ##### DIE ZUKUNFT UNSERES PLANETEN.
 
