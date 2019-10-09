@@ -17,7 +17,7 @@
 
 ## [Einleitung](full-text-german.md#einleitung-1)
 
-### [1. ABSCHNITT.](full-text-german.md#i-abschnitt-1)
+### [1. ABSCHNITT.](full-text-german.md#1-abschnitt-1)
 
 #### [Die bisherigen Ansichten über die Meteorite.](full-text-german.md#die-bisherigen-ansichten-über-die-meteorite-1)
 
