@@ -77,11 +77,11 @@
 
 It was not the inconsequential attacks on my "Primordial Cell" that gave me stamina to establish certain new geological facts, but rather it was the untenability of all previous views regarding the undisputedly most important part of the geological sciences, the part through which it connects with the cosmos — that is, in the doctrine of the so-called plutonic rocks.
 
-If, in the first part of my "Primordial Cell" I had tolerated the doctrine, and with resignation accepted that the core of our Earth, and with it the knowledge pertaining to its real genesis will always remain hidden from us, then, at the end of this book there is yet a possibility: the meteorite provides a way through the distant past although not yet actively pursued by researchers.
+If, in the first part of my "Primordial Cell" I tolerated the doctrine and with resignation accepted that the core of our Earth, and with it the knowledge pertaining to its real genesis, will always remain hidden from us, then, at the end of this book there is yet a possibility: the meteorite provides a way through the distant past although not yet actively pursued by researchers.
 
 With this as a guide, I now continue.
 
-I did it, accompanied on the one hand by sharp and pronounced sarcasm from the specialists, and on the other with joy from my earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
+I did it, accompanied on the one hand by sharply pronounced ridicule from the specialists, and on the other with joy from my earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
 
 The results yielded from this strenuous endeavor of almost super-human effort over the previous year are laid down in the following pages.
 
