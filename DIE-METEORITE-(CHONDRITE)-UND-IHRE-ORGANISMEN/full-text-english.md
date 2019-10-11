@@ -363,7 +363,7 @@ Therefore, if the spheres in the meteorites were crystallites, then, at least ac
 
 If they are crystals and have broken sheets (of course olivine has none, yet there are structures in the alleged olivine sphere structures, i.e. sheet fractures!) as the source of their structure, the mineral should by necessity break light. In most of the inclusions, however, there is no refraction of light, not even aggregate polarization! So, they can neither be simple minerals nor crystals, nor, least of all, be sheet fracture structures. This matter, that of the optical behavior, should have already led to the correct interpretation.
 
-All this evidence is of course unknown to the botanist and zoologist, while every mineralogist knows it. Therefore, I must ask the botanist and zoologist colleague to confirm what my photographs show. These forms are not mineral forms. With this the mineralogist has done his part, and now it passes into the hands of the paleontologist, or rather the zoologist, and now begins the positive proof.
+All this evidence is of course unknown to the botanist and zoologist, while every mineralogist knows it. Therefore, I must ask the botanist and zoologist colleagues to confirm what my photographs show. These forms are not mineral forms. With this the mineralogist has done his part, and now it passes into the hands of the paleontologist, or rather the zoologist, and now begins the positive proof.
 
 ### Chapter 2
 
