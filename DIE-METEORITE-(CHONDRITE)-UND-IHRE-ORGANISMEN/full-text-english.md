@@ -85,21 +85,21 @@ I did it, accompanied on the one hand by sharply pronounced ridicule from the sp
 
 The results yielded from this strenuous endeavor of almost super-human effort over the previous year are laid down in the following pages.
 
-It is a world of animals in a rock which arrived on Earth to bring us tidings from the smallest beings from a most distant place — a life-world which a mortal eye could hardly hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked universally and evenly in the universe.
+It is a world of animals in a rock that arrived on Earth to bring us tidings from the smallest beings of a most distant place — a life-world which a mortal eye could hardly hope to behold: a world of beings showing us the creative power that made our Earth out of a nebula and has worked universally and evenly in the universe.
 
 Admittedly, the meteorites, namely the chondrites, for these are the ones which are preferentially subject to my investigations, contain no life of higher construction; rather, all are lower life forms — the same ones which prevail in the Silurian strata — sponges, corals, and crinoids — it is with these species that similar characteristics are found.
 
-The chondrites that I have studied are olivine enstatite rock. They have undergone alterations, although not considerably, since their time of formation as the remains of life, up until landing on Earth. They have been permeated with a silicate solution, in a similar manner to how the Jura deposits are with a solution of lime. While it was part of the parent body it probably went through planetary cycles, just as new layers follow old ones down to the lowest strata on our Earth, under the influence of which the former have undergone a certain, though not as considerable as one assumes, transformation.
+The chondrites that I have studied are olivine enstatite rock. They have undergone alterations, although not considerably, since their time of formation as the remains of life, up until landing on Earth. They have been permeated with a silicate solution, in a similar manner to how the Jura deposits are with a solution of lime. While it was part of the parent body it probably underwent planetary cycles, just as new layers follow old ones down to the lowest strata on our Earth, under the influence of which the former have undergone a certain, though not as considerable as one assumes, transformation.
 
-Only the surface of the meteorites has changed considerably, indeed only at the last moment of their planetesimal existence and mostly due to the influence of frictional heating created, in this case, by the Earth's atmosphere. But the original meteorite itself essentially remains. We now see that before us is a piece from a planet as it was in the process of becoming, and thus the history of our Earth's body is now open to us, provided that we are correct that the meteorites, in their formation, are homogeneous in their chemical composition with the same world matter which formed the Earth and vice versa. At the same time, by sending me the "Meteorite of Ovifak" (I owe it to the kindness of Professor Dr. von Nordenskjöld) I was offered the opportunity to bring this rock into the investigation.
+Only the surface of the meteorites has changed considerably, indeed only at the last moment of their planetesimal existence and mostly due to the influence of frictional heating created, in this case, by the Earth's atmosphere. But the original meteorite itself essentially remains. We now see that before us is a piece of a planet as it was in the process of becoming, and thus the history of our Earth's body is now open to us, provided that we are correct that the meteorites, in their formation, are homogeneous in their chemical composition with the same world matter that formed the Earth and vice versa. At the same time, by sending me the "Meteorite of Ovifak" (I owe it to the kindness of Professor Dr. von Nordenskjöld) I was offered the opportunity to bring this rock into the investigation.
 
 I consider it to be terrestrial — as part of the deepest layer our Earth, i.e. the olivine layer, which belongs under the granite. I call this original layer the Olivine Formation. Since the rock is very similar to a meteorite, it is natural to declare it to be the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
 
-Thus, we have established two solid points by which a level can be set.
+Thus, we have gained two solid points by which a lever can be set.
 
 The chondrites, an olivine-feldspar (enstatite) rock, consist of an animal world, they are not part of a sedimentary rock layer nor a conglomerate, but a felt of animals, a fabric whose meshes were all once living beings and life of the lowest kind, the beginnings of creation.
 
-However, I could not make a systematic enumeration of the life which is preserved in the meteorites: I just wanted to prove that it is so — that is all. I therefore only depicted the organic beings which I could content myself with determining undoubtedly, on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both to future investigations.
+However, I could not make a systematic enumeration of the life which is preserved in the meteorites: I just wanted to prove that it is so — that is all. I therefore only depicted the organic beings that I could content myself with determining undoubtedly, on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both to future investigation.
 
 It is to be expected that my enumeration will be, through further research and with the help of richer material than I have available, multiplied and supplemented. Subdivisions had to be avoided: since every newly discovered being would overturn any divisions and make the effort arduous, and any work in vain.
 
@@ -107,9 +107,9 @@ This is the reason why I only made large divisions, and these only to the extent
 
 In other ways I have also made an indulgence, such as in the demarcation of the main divisions themselves.
 
-Anyone who even superficially surveys the forms will soon find that they provide the actual history of development. All the transitions from the sponge to the coral, from the coral to the crinoid are present, so that it becomes doubtful if one should assign new species to these transitions.
+Anyone who even superficially surveys the forms will soon find that they provide an actual history of development. All the transitions from the sponge to the coral, from the coral to the crinoid are present, so that it becomes doubtful if one should assign new species to these transitions.
 
-In such beginnings, mistakes are inevitable, so it is only a small demand asking to forgive them. Nor did I want to delay the publication of this work too long, and therefore have it just as it is now.
+In such beginnings, mistakes are inevitable, so it is only a small demand in asking to forgive them. Nor did I want to delay the publication of this work too long, and therefore have it just as it is now.
 
 ## Section 1
 
