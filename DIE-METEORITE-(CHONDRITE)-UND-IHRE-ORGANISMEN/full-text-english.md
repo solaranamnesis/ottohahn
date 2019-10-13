@@ -555,7 +555,7 @@ As I have already indicated in "The Primordial Cell", the structure of the iron 
 
 A piece of the Toluca iron meteorite lies in front of me, in which the cylindrical cells alternately emerge from each other, the two are often copulated. The individual cells show a double cell wall (iron band), show cross partitioning, show clear round root points; in some there is a marrow substance (which it is really called), indeed, in the inside of the cell there is yet more structure. All of the cells lie in a mat of filler (iron-filler).
 
-Compare these figures with the forms of the Lias slate, especially _Algacites_ [_Fucoides_] granulatus and ask yourself, of the two, which one shows a plant structure clearest, the Toluca iron or the _Algacites_ from Lias-Epsilon?
+Compare these figures with the forms of the Lias slate, especially _Algacites_ [_Fucoides_] _granulatus_ and ask yourself, of the two, which one shows a plant structure clearest, the Toluca iron or the _Algacites_ from Lias-Epsilon?
 
 These forms are cylindrical, from time to time one sees (on average) approximately polyhedral surfaces: they have walls. What especially distinguishes them from crystals (which can be foreseen from the round forms) are the growth sites.
 
