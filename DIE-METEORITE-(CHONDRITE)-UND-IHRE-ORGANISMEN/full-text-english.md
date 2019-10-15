@@ -397,7 +397,7 @@ The most incredible is [Table 6: Figure 1](https://cdn.solaranamnesis.com/OttoHa
 
 In [Table 3, Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-3_edit-b.jpg) and [Table 4: Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg) [and 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-2_edit-b.jpg), it is believed to be seen the round mouth opening as implied from above. 
 
-After all this I think the Urania is a sessile sponge, that contracts in a spiral form, absorbing and expelling water like our living sponges.
+After all this I think the _Urania_ is a sessile sponge, that contracts in a spiral form, absorbing and expelling water like our living sponges.
 
 _Urania_ composes three twentieths of the rock mass. 
 
@@ -473,7 +473,7 @@ A little clearer is [Table 27: Figure 1](https://cdn.solaranamnesis.com/OttoHahn
 
 An exceptionally nice picture is given in [Table 30: Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-3_edit-b.jpg); whether crinoid? this is doubtful. I only take notice, the two parts are symmetrical, and the arms are not placed beside each other, rather they cross.
 
-[Table 30: Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-5_edit-b.jpg) with a cut, I had at first placed as Urania. It shall be added to the crinoids.
+[Table 30: Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-5_edit-b.jpg) with a cut, I had at first placed as _Urania_. It shall be added to the crinoids.
 
 [Table 31: Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-1_edit-b.jpg), [2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-2_edit-b.jpg), and [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-3_edit-b.jpg) appear to be similar forms. In [Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-1_edit-b.jpg) [and 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-3_edit-b.jpg) one can perceive a distinct furrow, perhaps this is the place where two crinoid arms lie against one another. With the polarization device, the furrow appears even more clearly. In [Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-4_edit-b.jpg) two individuals are merged, leaving it open to interpretation as either sponge or coral. Figure 5 has a structure in the middle part, some structural tissue, showing the upper arms as distinct structures. Do these belong together? Since the form only occurs once, I dare not make a final decision. The resemblance of the central image with the structure of the schreibersite in meteorites is striking. [Figure 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-6_edit-b.jpg) is found twice, so that I consider both parts as related.
 
@@ -515,7 +515,7 @@ The reason why I acknowledge that these inclusions are inorganic parts of the ch
 
 This situation is possible, even probable, that it was a falling-in of pieces of already deposited rock, that were fully developed, and does not need to be denied: it does not knock on the fact, that in the olivine strata formations exist and that these are the cause of the construction of the planet bodies, their self-constructed development and complex composition.
 
-Under all circumstances, however, the ratio in the chondritic rock is the opposite as that in the sedimentary layers of Earth. In these the organisms are stored and the rock strata enclose them; there are only organisms and the rock strata are masses of such. I put an image of an actual rock-piece from Borkut [Ukraine], [Table 32: Figure 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-2_edit-b.jpg), next to that ([Figure 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-1_edit-b.jpg)) I have depicted a form, slate-blue like Urania, however, without a set structure, their outlines are inconsistent, which could be the lack of filler. If it were an organic form, it would be of the lowest nature. For comparison I show in [Table 32: Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-4_edit-b.jpg) a thin section of Lias γ𝛿 [Early Jurassic] (Zwischenkalk), here shells are located in limestone, but most parts are merely pieces of shells; the parts are crushed in all sizes, and, regarding their origin, they are tumbled beyond any recognition. In the chondrite there is no place remaining which can leave doubt as to their composition.
+Under all circumstances, however, the ratio in the chondritic rock is the opposite as that in the sedimentary layers of Earth. In these the organisms are stored and the rock strata enclose them; there are only organisms and the rock strata are masses of such. I put an image of an actual rock-piece from Borkut [Ukraine], [Table 32: Figure 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-2_edit-b.jpg), next to that ([Figure 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-1_edit-b.jpg)) I have depicted a form, slate-blue like _Urania_, however, without a set structure, their outlines are inconsistent, which could be the lack of filler. If it were an organic form, it would be of the lowest nature. For comparison I show in [Table 32: Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-4_edit-b.jpg) a thin section of Lias γ𝛿 [Early Jurassic] (Zwischenkalk), here shells are located in limestone, but most parts are merely pieces of shells; the parts are crushed in all sizes, and, regarding their origin, they are tumbled beyond any recognition. In the chondrite there is no place remaining which can leave doubt as to their composition.
 
 ### Chapter 5
 
@@ -535,7 +535,7 @@ I will refer to a single fact here, which is a considerable point of proof for t
 
 After having depicted the individual forms, I must now discuss their proportions to each other, the development of the unfolding of forms.
 
-That Urania is the simplest form, this is certain. However, it establishes the inception of what follows.
+That _Urania_ is the simplest form, this is certain. However, it establishes the inception of what follows.
 
 These layers in the hemispherical lobes, these tubular layers, they part themselves crosswise — which nowadays would constitute the arm, connects a canal. It develops a crown between the arms and the growth point, and the simplest crinoid is there. If this seems like a twisted chain of events, the forms involuntarily demand it. But just as we necessarily find somewhere in living forms a line of development, so should we also not find that the same changes have taken place here? Certainly. Only, I believe, they are found with more quantity and much greater visibility of transitions in the meteoritic forms. One can find the ancestor of the Pentacrinus Briareus nowhere else on Earth except with the corals, and one can see the origin of the coral in the sponge form: it is decidedly a lower form than that of the coral.
 
@@ -543,7 +543,7 @@ What this meteorite-creation gives of such great importance to the evolutionary 
 
 The scale of the organisms is uniform, at least one thousand times smaller than the ones on the Earth: the development of the individual forms attains approximately equal highest points. The construction of the forms corresponds perfectly with the circumstances, under which they grew, namely the extremely shortened lifetime, which was an experience it had: it is a hasty, relatively incomplete creation. The crinoid is the highest representative of this animal world. I hold that the most advanced is the form in [Table 22: Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-1_edit-b.jpg), [3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg), [5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-5_edit-b.jpg), [and 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-6_edit-b.jpg), because it really embodies the number five.
 
-One will not want to go so far, however, as to derive the crinoids through the corals, so the form of the Urania must offer some clue. I show some forms which have the loose branches. They are indicated in their descriptions. I find at high magnification overlying arms.
+One will not want to go so far, however, as to derive the crinoids through the corals, so the form of the _Urania_ must offer some clue. I show some forms which have the loose branches. They are indicated in their descriptions. I find at high magnification overlying arms.
 
 Even here an adequate observation of a single is not enough for a complete conclusion.
 
@@ -796,11 +796,11 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-5_edit-b2.jpg) Chain coral D. 0.90 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_1-6_edit-b2.jpg) Crinoid D. 1.20 mm.  
 
-### Table 2. Urania
+### Table 2. _Urania_.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_2-1_edit-b2.jpg) of Knyahinya, the same as Table 5 Figure 1.
 
-### Table 3. Urania.
+### Table 3. _Urania_.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-1_edit-b.jpg) of Knyahinya D. 0.60 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-2_edit-b.jpg) of Knyahinya D. 1.30 mm. (do not overlook the magnificent crinoid limbs on the top left!)  
@@ -809,7 +809,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-5_edit-b2.jpg) of Knyahinya D. 1 mm. (notice the stratification at the top)  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-6_edit-b2.jpg) of Knyahinya D. 1 mm. (Stratification like 5, but not reproduced in the image, 5 and 6 of a thin section)  
 
-### Table 4. Urania.
+### Table 4. _Urania_.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg) of Knyahinya D. 0.90 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-2_edit-b.jpg) of Siena D. 3 mm. (the dark line is due to the yellow color of the preparation)  
@@ -818,7 +818,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-5_edit-b.jpg) of Knyahinya D. 1.60 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-6_edit-b.jpg) of Knyahinya D. 1.00 mm. (air bubble)  
 
-### Table 5. Urania
+### Table 5. _Urania_.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-1_edit-b.jpg) of Knyahinya D. 1.40 mm. (see Table 2. All around average crinoid. Form bottom left, magnification. Table 1 Figure 6 and Table 25 Figures 1 and 2)  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-2_edit-b2.jpg) of Knyahinya D. 1.80 mm.  
@@ -827,7 +827,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-5_edit-b2.jpg) of Knyahinya D. 1.40 mm. (air bubble)  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-6_edit-b2.jpg) of Knyahinya D. 0.60 mm. (poor picture. The white circle is the average)  
 
-### Table 6. Urania
+### Table 6. _Urania_.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-1_edit-b2.jpg) of Siena D. 4.00 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-2_edit-b.jpg) of Knyahinya D. 0.80 mm.  
@@ -836,7 +836,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-5_edit-b.jpg) of Knyahinya D. 0.30 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_6-6_edit-b2.jpg) of Knyahinya D. 0.90 mm. (air bubble)  
 
-### Table 7. Sponges
+### Table 7. Sponges.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_7-1_edit-b.jpg) of Knyahinya D. 2.30 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_7-2_edit-b.jpg) of Knyahinya D. 1.80 mm. (a crack in the preparation. Needle)  
@@ -845,15 +845,15 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_7-5_edit-b.jpg) Sponge? D. 1.00 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_7-6_edit-b.jpg) Sponge? D. 2.40 mm.  
 
-### Table 8. Coral
+### Table 8. Coral.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_8-1_edit-b2.jpg) (Favosites) of Knyahinya (see Table 1 Figure 4)
 
-### Table 9. Coral
+### Table 9. Coral.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_9-1_edit-b3.jpg) Structure picture from top left Table 8.
 
-### Table 10. Coral
+### Table 10. Coral.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-1_edit-b.jpg) of Knyahinya cross section D. 0.40 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-2_edit.jpg) Longitudinal section 0.50 mm.  
@@ -862,7 +862,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-5_edit-b.jpg) of Knyahinya D. 0.30 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_10-6_edit-b.jpg) of Knyahinya D. 0.80 mm.  
 
-### Table 11. Coral
+### Table 11. Coral.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-1_edit-b.jpg) of Knyahinya D. 1.20 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-2_edit-b.jpg) of Knyahinya D. 1.00 mm.  
@@ -871,7 +871,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-5_edit-b.jpg) of Parnallee D. 0.80 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_11-6_edit.jpg) of Moung County D. 0.60 mm.  
 
-### Table 12. Coral
+### Table 12. Coral.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_12-1_edit-b.jpg) of Knyahinya D. 0.80 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_12-2_edit-b.jpg) of Knyahinya D. 1.20 mm.  
@@ -880,7 +880,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_12-5_edit-b.jpg) of Knyahinya D. 2.00 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_12-6_edit-b.jpg) of Knyahinya D. 3.20 mm.  
 
-### Table 13. Coral
+### Table 13. Coral.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-1_edit-b.jpg) of Parnallee D. 0.20 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_13-2_edit-b.jpg) of Knyahinya D. 0.80 mm.  
@@ -897,7 +897,7 @@ Combination of mineral structures with organic ones from the chondrites.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_15-1_edit-b3.jpg) Coral. Structure picture from 14. The upper left part of the preparation, magnification 300, shows the bud canals.
 
-#### Crinoids
+#### Crinoids.
 
 ### Table 16.
 
@@ -919,7 +919,7 @@ Combination of mineral structures with organic ones from the chondrites.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_20-1_edit-b2.jpg) Cut through crinoid and coral in Knyahinya D. 1.20 mm.
 
-### Table 21. Crinoids
+### Table 21. Crinoids.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-1_edit-b.jpg) of Knyahinya D. 0.80 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-2_edit-b.jpg) magnified image from Figure 1  
@@ -928,7 +928,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-5_edit-b.jpg) of Knyahinya D. 1.80 mm. (I notice resemblance with Figure 1)  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_21-6_edit-b.jpg) of Knyahinya D. 0.30 mm. (the mouth opening between the arms is visible)  
 
-### Table 22. Crinoids
+### Table 22. Crinoids.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-1_edit-b.jpg) of Knyahinya D. 0.50 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-2_edit-b.jpg) of Knyahinya D. 0.60 mm.  
@@ -937,7 +937,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-5_edit-b.jpg) of Knyahinya D. 0.60 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-6_edit-b.jpg) of Knyahinya D. 1.20 mm.  
 
-### Table 23. Crinoids
+### Table 23. Crinoids.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-1_edit-b.jpg) of Knyahinya D. 0.90 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-2_edit-b.jpg) of Knyahinya D. 1.60 mm.  
@@ -946,7 +946,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-5_edit-b.jpg) of Knyahinya D. 1.30 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_23-6_edit-b.jpg) of Knyahinya D. 0.60 mm.  
 
-### Table 24. Crinoids
+### Table 24. Crinoids.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-1_edit-b.jpg) of Siena D. 0.80 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-2_edit-b.jpg) of Knyahinya D. 2.80 mm.  
@@ -955,7 +955,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-5_edit-b.jpg) of Knyahinya D. 1.50 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_24-6_edit-b.jpg) of Cabarras D. 0.80 mm.  
 
-### Table 25. Crinoids
+### Table 25. Crinoids.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_25-1_edit-b.jpg) of Knyahinya D. 1.20 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_25-2_edit-b.jpg) of Knyahinya D. 1.20 mm.  
@@ -964,7 +964,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_25-5_edit-b.jpg) of Siena D. 1.80 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_25-6_edit-b.jpg) of Knyahinya D. 1.40 mm. (Both latter are cross sections of crinoids)  
 
-### Table 26. Crinoids
+### Table 26. Crinoids.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-1_edit-b.jpg) of Knyahinya D. 0.20 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-2_edit-b.jpg) of Knyahinya D. 2.00 mm.  
@@ -973,7 +973,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-5_edit-b.jpg) of Knyahinya D. 2.00 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_26-6_edit-b.jpg) of Knyahinya D. 2.20 mm. (the dark line in 5 and 6 is the food canal)  
 
-### Table 27. Crinoids
+### Table 27. Crinoids.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-1_edit-b.jpg) of Knyahinya D. 0.80 mm.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-2_edit-b.jpg) of Knyahinya D. 1.50 mm.  
@@ -982,7 +982,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-5_edit-b.jpg) of Knyahinya D. 1.20 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_27-6_edit-b.jpg) of Knyahinya D. 1.00 mm.  
 
-### Table 28. Crinoids
+### Table 28. Crinoids.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-1_edit-b.jpg) of Knyahinya (Coral?) D. 3.00 mm. from the same thin section as Table 18.  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-2_edit-b.jpg) of Knyahinya D. 1.20 mm.  
@@ -991,7 +991,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-5_edit-b.jpg) of Knyahinya D. 1.50 mm.  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_28-6_edit-b.jpg) of Knyahinya D. 1.40 mm.  
 
-### Table 29. Crinoids
+### Table 29. Crinoids.
 
 (1-3 viewed from above, 4 from below)
 
@@ -1011,7 +1011,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-5_edit-b.jpg) of Knyahinya D. 0.70 mm. (first slice)  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_30-6_edit-b.jpg) of Knyahinya D. 0.40 mm. (Structure like the Schreibersite in the iron meteorites)  
 
-### Table 31. Problematic
+### Table 31. Problematic.
 
 [Fig. 1.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-1_edit-b.jpg) of Knyahinya D. 1.20 mm. (not quite complete picture)  
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_31-2_edit-b.jpg) of Knyahinya D. 0.50 mm.  
@@ -1026,7 +1026,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Fig. 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-2_edit-b.jpg) Borkut sphere D. 1.00 mm.  
 [Fig. 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-3_edit-b.jpg) Nummulite from Kempten. The canal is clearly visible (with the magnifying glass).  
 [Fig. 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-4_edit-b.jpg) Thin section from Lias γδ. This thin section is taken from the assembled collection of 30 thin sections of sedimentary rocks, manufactured by geologist Hildebrand in Ohmenhausen near Reutlingen, which I strongly recommend for studying the microscopic nature of sedimentary rocks and inclusions.  
-[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-5_edit-b.jpg) "Eozoon canadense", so-called canal system of Eozoon  
+[Fig. 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-5_edit-b.jpg) _Eozoön canadense_, so-called canal system of Eozoon  
 [Fig. 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-6_edit-b.jpg) ditto. Both cuts taken from rocks collected by me in Little Nation. Compare the canal system of the numulites in Figure 3 with this alleged canal system! Picture 3 and 5 should be the same object.  
 
 Compare to Figure 5 _The Primordial Cell_ Table 4 and 5.
