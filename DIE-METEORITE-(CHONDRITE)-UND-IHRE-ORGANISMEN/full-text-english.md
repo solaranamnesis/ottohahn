@@ -71,8 +71,6 @@
 
 ### [Table Index](full-text-english.md#table-index-1)
 
-# THE METEORITE (CHONDRITE) AND ITS ORGANISMS
-
 ## Introduction
 
 It was not the inconsequential attacks on _The Primordial Cell_ that gave me stamina to establish certain new geological facts, but rather it was the untenability of all previous views regarding the undisputedly most important part of the geological sciences, the part through which it relates to the cosmos — that is, in the doctrine of the so-called plutonic rocks.
