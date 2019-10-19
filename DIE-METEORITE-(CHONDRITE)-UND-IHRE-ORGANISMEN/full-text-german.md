@@ -71,8 +71,6 @@
 
 ### [Tafelverzeichnis](full-text-german.md#tafelverzeichniss)
 
-# DIE METEORITE (CHONDRITE) UND IHRE ORGANISMEN.
-
 ## Einleitung
 
 Nicht die zum Teil wenig sachlichen Angriffe auf meine „Urzelle“ waren es, welche mich in meinen Anstrengungen, gewisse neue geologische Tatsachen festzustellen — nicht ermüden ließen: es war die durch Beobachtungen gewonnene Überzeugung von der Unhaltbarkeit der bisherigen Anschauung in dem unstreitig wichtigsten Teile der geologischen Wissenschaft, in dem Teile, durch welchen er gerade mit dem Kosmos zusammenhängt — in der Lehre von den sogenannten plutonischen Gesteinen.
