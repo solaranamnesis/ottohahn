@@ -507,7 +507,7 @@ Admittedly organisms in iron, in the Earth's core, and in the meteoritic iron mu
 
 #### Stone in the Stone
 
-When I said that the chondrite is nothing but a mesh of animals, a mat of animals, a qualification must be sustained.
+When I said that the chondrite is nothing but an animal-fabric, an animal-felt, a qualification must be sustained.
 
 There are, however, very small, sharply outlined places in this animal-bone stone, which could probably (but not necessarily) be from the beginning rocks. These are slate-blue, uncommon inclusions with 3-5 mm. diameters lacking definite recurring forms, which include distinct crystals in their grayish mass, these are on average either squares or rhombuses, at other times it includes hexagons. This mineral can be either augite or olivine. Here the crystalline form pronounces in favor of a mineral. The sole existence of this speaks for my views. Why have the crystals not grown themselves identically everywhere? And why should there not be hollow cavities remaining in the organisms? It is known that fillers in organic forms later crystallize. And, in the end-filled organic forms cavities are found, in which their outlines look like surfaces recessing at an angle.
 
