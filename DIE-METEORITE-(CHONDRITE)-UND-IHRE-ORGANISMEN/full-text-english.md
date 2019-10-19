@@ -89,7 +89,7 @@ Admittedly, the meteorites, namely the chondrites, for these are the ones which 
 
 The chondrites that I have studied are olivine enstatite rock. They have undergone alterations, although not considerably, since their time of formation as the remains of life, up until landing on Earth. They have been permeated with a silicate solution, in a similar manner to how the Jura deposits are with a solution of lime. While it was part of the parent body it probably underwent planetary cycles, just as new layers follow old ones down to the lowest strata on our Earth, under the influence of which the former have undergone a certain, though not as considerable as one assumes, transformation.
 
-Only the surface of the meteorites has changed considerably, indeed only at the last moment of their planetesimal existence and mostly due to the influence of frictional heating created, in this case, by the Earth's atmosphere. But the original meteorite itself essentially remains. We now see that before us is a piece of a planet as it was in the process of becoming, and thus the history of our Earth's body is now open to us, provided that we are correct that the meteorites, in their formation, are homogeneous in their chemical composition with the same world matter that formed the Earth and vice versa. At the same time, by sending me the "Meteorite of Ovifak" (I owe it to the kindness of Professor Dr. von Nordenskjöld) I was offered the opportunity to bring this rock into the investigation.
+Only the surface of the meteorites has changed considerably, indeed, only at the last moment of their planetesimal existence and mostly due to the influence of frictional heating created, in this case, by the Earth's atmosphere. But the original meteorite itself essentially remains. We now see that before us is a piece of a planet as it was in the process of becoming, and thus the history of our Earth's body is now open to us, provided that we are correct that the meteorites, in their formation, are homogeneous in their chemical composition with the world matter that formed the Earth and vice versa. At the same time, by sending me the "Meteorite of Ovifak" (I owe it to the kindness of Professor Dr. von Nordenskjöld) I was offered the opportunity of bringing this rock into the investigation.
 
 I consider it to be terrestrial — as part of the deepest layer our Earth, i.e. the olivine layer, which belongs under the granite. I call this original layer the Olivine Formation. Since the rock is very similar to a meteorite, it is natural to declare it to be the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
 
@@ -97,17 +97,17 @@ Thus, we have gained two solid points by which a lever can be set.
 
 The chondrites, an olivine-feldspar (enstatite) rock, consist of an animal world, they are not part of a sedimentary rock layer nor a conglomerate, but a felt of animals, a fabric whose meshes were all once living beings and life of the lowest kind, the beginnings of creation.
 
-However, I could not make a systematic enumeration of the life which is preserved in the meteorites: I just wanted to prove that it is so — that is all. I therefore only depicted the organic beings that I could content myself with determining undoubtedly, on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both to future investigation.
+However, I could not make a systematic enumeration of the life which is preserved in the meteorites: I just wanted to prove that it is so — that is all. I therefore only depicted the organic beings that I was able to assure myself as determining undoubtedly; on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both to future investigation.
 
-It is to be expected that my enumeration will be, through further research and with the help of richer material than I have available, multiplied and supplemented. Subdivisions had to be avoided: since every newly discovered being would overturn any divisions and make the effort arduous, and any work in vain.
+It is to be expected that my enumeration will be, through further research and with the help of richer material than I have available, multiplied and supplemented. Subdivisions had to be avoided: since every newly discovered being would overturn any divisions and make the effort arduous with any work in vain.
 
 This is the reason why I only made large divisions, and these only to the extent that this contributed to the understanding of the forms. I repeat, the work in this direction should not be considered exhaustive and complete.
 
 In other ways I have also made an indulgence, such as in the demarcation of the main divisions themselves.
 
-Anyone who even superficially surveys the forms will soon find that they provide an actual history of development. All the transitions from the sponge to the coral, from the coral to the crinoid are present, so that it becomes doubtful if one should assign new species to these transitions.
+Anyone who even superficially surveys the forms will soon find that they provide an actual historical development. All the transitions from the sponge to the coral, from the coral to the crinoid are present, so that it becomes doubtful if one should assign new species to these transitions.
 
-In such beginnings, mistakes are inevitable, so it is only a small demand in asking to forgive them. Nor did I want to delay the publication of this work too long, and therefore have it just as it is now.
+In such beginnings mistakes are inevitable, so it is only a small demand in asking to forgive them. Nor did I want to delay the publication of this work too long and therefore have it just as it is now.
 
 ## Section 1
 
@@ -117,9 +117,9 @@ In such beginnings, mistakes are inevitable, so it is only a small demand in ask
 
 Δός μοι χέντρον.
 
-Last year, when I wrote-down in my diary certain new observations about the composition of the rocks of our Earth and finally also of the meteorites, the importance of the latter to geology was not fully clear to me.
+Last year when I wrote-down in my diary certain new observations about the composition of the rocks of our Earth and finally also of the meteorites the importance of the latter to geology was not fully clear to me.
 
-It was only when I was forced by the attacks of opponents to take the investigation again into my own hands, that I clearly realized the importance that a careful study of the meteorites could be to the history of our Earth. Lastly, I came to the conclusion that, in the present state of geology, the meteorites — and only the meteorites — give the point from which the history of the Earth could at last be explored with near certainty.
+It was only when I was forced by the attacks of opponents to take the investigation again into my own hands that I clearly realized the importance that a careful study of the meteorites could be to the history of our Earth. Lastly, I came to the conclusion that in the present state of geology the meteorites — and only the meteorites — give the point from which the history of the Earth could at last be explored with near certainty.
 
 If in _The Primordial Cell_ I thought that I had reached the limit of research with granite, I soon learned better. I contemplated that by virtue of its specific gravity, the Earth's core must also consist of at least solid iron, especially considering the very probable order of the meteorites, which go from the pure iron to the feldspar rocks of Earth. I further believed that a conclusion for Earth based upon the meteorites could be ventured, the conclusion that in the other planets and in those, or the one, whose debris we have in the hundreds of thousands of orbiting meteorites before us we have a sequence of stratification from heavy to light, a stratigraphy which we probably pass through in the series from the pure-irons through the half-irons (Pallasite, Hainwood) to the chondrites and the eucrites, then to the coal meteorites (Cold Bokkeveld).
 
