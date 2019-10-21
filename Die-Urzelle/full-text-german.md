@@ -60,7 +60,7 @@ Dr. Otto Hahn, Rechts-Anwalt.
 
 Sir W. Logan in Montreal war es, welcher zuerst die Aufmerksamkeit auf einen im Laurentian-Gneiss von Canada eingelagerten Serpentin-Kalk lenkte, indem er dabei die Vermuthung aussprach, es enthalte dieser Kalk und zwar in eingebetteten „Knollen“ die Reste der ersten organischen Schöpfung. 
 
-Dr. W. Dawson in Montreal, Kanzler des M'Gill College dort, nahm sich der Sache weiter an und bestimmte in Verbindung mit Dr. Hunt in Montreal und Dr. W. Carpenter in London, dem berühmtesten Miroscopiker Englands, die Natur jener Knollen dahin, sie seien die versteinerten Reste einer Riesen-Foraminifere, die dem Genus _Nummulina_ ähnlich sei. Dr. Dawson nannte dieselbe _Eozoon canadense_. Unter diesem Namen wurde sie dann auch zur grossen Freude Aller auf das erste noch ganz weiss gelassene Blatt der Naturgeschichte eingetragen. Allerdings wurde der Eintrag angefochten. Alsbald erhoben sich bedeutende Stimmen gegen die organische Natur des Gesteins. Die Schriften über _Eozoon_ schwollen dermassen an, dass man sagen darf: das _Eozoon_ hat seine eigene Literatur.
+Dr. W. Dawson in Montreal, Kanzler des M'Gill College dort, nahm sich der Sache weiter an und bestimmte in Verbindung mit Dr. Hunt in Montreal und Dr. W. Carpenter in London, dem berühmtesten Miroscopiker Englands, die Natur jener Knollen dahin, sie seien die versteinerten Reste einer Riesen-Foraminifere, die dem Genus _Nummulina_ ähnlich sei. Dr. Dawson nannte dieselbe _Eozoon canadense_. Unter diesem Namen wurde sie dann auch zur grossen Freude Aller auf das erste noch ganz weiss gelassene Blatt der Naturgeschichte eingetragen. Allerdings wurde der Eintrag angefochten. Alsbald erhoben sich bedeutende Stimmen gegen die organische Natur des Gesteins. Die Schriften über Eozoon schwollen dermassen an, dass man sagen darf: das Eozoon hat seine eigene Literatur.
 
 Ich selbst betheiligte mich spät erst an dem Kampfe und glaubte in einem Aufsatze über _Eozoon canadense_ in den Württembergischen naturwissenschaftlichen Jahresheften den Beweis gegen die organische Natur geführt zu haben. Carl Möbius ergänzte denselben durch Abbildungen, insbesondere von lebenden Foraminiferen.
 
@@ -182,7 +182,7 @@ Ein System lässt sich mit dem vorhandenen Material doch nicht begründen. Ich b
 
 Ehe ich aber auf die Beschreibung der Pflanzen übergehe, will ich noch einmal einen Blick auf
 
-##### 4. das _Eozoon_
+##### 4. das Eozoon
 
 werfen.
 
