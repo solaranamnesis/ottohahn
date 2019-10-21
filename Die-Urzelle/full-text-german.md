@@ -79,3 +79,9 @@ Freilich schliesst diese besondere Güte zugleich eine grosse Gefahr in sich, we
 So lag die Sache. Ich war von der unorganischen Natur des Eozoongesteins überzeugt, davon wenigstens, dass es ein Thier nicht sei.
 
 Einzig die feinen „Canal-Systeme“, wie sie Dr. Carpenter nannte, liessen mir keine Ruhe. Die Unruhe wurde wesentlich verschärft durch den Gedanken, welcher sich mir immer wieder aufdrängte:
+
+„der Gneiss ist ein durch Wasser gebildetes also Sedimentgestein: seine Kalklager müssen die ersten organischen Einschlüsse enthalten, denn mit dem Silur kann das Leben nicht anfangen.“
+
+Letzteres war Hypothese, aber eine Hypothese wie viele, Gedanken, von welchen man sich nicht mehr losmachen kann: denn sie sind eben wahr.
+
+Da fügte sich's, dass ich auf eine Einladung der Regierung von Canada eine Reise dorthin zu machen hatte. Dr. Dawson wurde besucht, mein nächster Gang war nach Côte St. Pierre (Petite Nation). Dort sah ich die Schichtenlagerung und setzte mich in den Besitz einer grossen Anzahl von Eozoonkalk- und Eozoonstücken. 
