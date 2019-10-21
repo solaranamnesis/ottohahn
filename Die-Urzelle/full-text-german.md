@@ -180,9 +180,9 @@ Obgleich es nun möglich wäre, für die gefundenen Pflanzen analoge Bildungen u
 
 Ein System lässt sich mit dem vorhandenen Material doch nicht begründen. Ich bin überhaupt kein Freund von Systemen und halte die Zeit für Aufstellung solcher auch noch nicht für gekommen. Wir sind noch in der Zeit der Saat und nicht der Ernte in der Naturwissenschaft.
 
-Ehe ich aber auf die Beschreibung der PiOianzen übergehe, will ich noch einmal einen Blick auf
+Ehe ich aber auf die Beschreibung der Pflanzen übergehe, will ich noch einmal einen Blick auf
 
-##### 4. das Eozoon
+##### 4. das _Eozoon_
 
 werfen.
 
