@@ -131,3 +131,15 @@ Es sind Serpentinlamellen, welche von einem Mittelpunkt ausgehend sich dann verj
 Die beste Abbildung, die ich kenne, ist in Dawson's Life's Dawn on Earth, London 1875 zu S. 168 in Naturselbstdruck und daher unfehlbar treu.
 
 Unbegreiflich ist, dass man beim Anblick dieser Form nicht sofort an eine Pflanze dachte.
+
+Es erklärt sich nur daraus, dass man von Anfang an, da man solche Stücke nicht hatte, einmal in den Gedanken einer Foraminifere vertieft, davon nicht mehr loskam, während die Gegner (worunter auch ich) im Kampf gegen die Foraminifere auch an nichts weiter dachten, als daran: kein Thier, — also Mineral. Die Abbildungen des Eozon-Gesteins sind nach Stücken gemacht, welche einfach in Platten geschnitten sind. So auch die Abbildungen von Professor Dr. Zittel in der Palaeontologie: doch es soll hier nicht vorgegriffen werden.
+
+Die Eophyllumschichte ist etwa 50 Cm. mächtig: Aus den körnigen Formen geht das Gestein wieder über in die geschichtete. Es folgen sich Serpentin und Dolomit und dann lagert sich wieder mächtiger Kalk auf.
+
+Der Serpentin ist überall ein wirkliches Lagergestein. Er ist durchsichtig, grün, gelb, wo er der Luft ausgesetzt ist, wird er röthlich.
+
+Die Schichten von Serpentin, wie die von Dolomit um den Eophyllum-Kalk und der Eophyllumkalk selbst sind je 30-50 Cm. mächtig. Die Eophyllumschichte hat nicht ein horizontales Lager und eine solche Decke, sondern beide sind uneben, rundlich, zuweilen in allen Curvenlinien ausgezackt. Das Eophyllum-Gestein — weggedacht aus seinem Lager, würde eine unregelmässige Höhlung ähnlich unseren Tropfsteinhöhlen übrig bleiben.
+
+Die Eophyllumschichte selbst schliesst Brocken Dolomit ein, um welche sich das breite Serpentinband und dann erst der Eophyllumkalk wieder lagert.
+
+##### 3. Was ist Eophyllum?
