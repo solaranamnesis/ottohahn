@@ -29,3 +29,11 @@ Allerdings werden die Botaniker nicht ungestraft in ihre Wissenschaft mich haben
 Mögen sie die Hauptsache ins Auge fassen.
 
 Was die Bedeutung meiner Entdeckungen betrifft, so wird mir billig Niemand zumuthen, sie nicht zu kennen und zu verstehen. Die bisherige Wissenschaft der Geologie ist mit Einem Schlage zum dritten Theile antiquirt. Ja ich darf es aussprechen, es ist nun erst ein Grund darin gelegt.
+
+Durch meine Entdeckung der Pflanze im Meteorstein von Knyahinya war mir ein Blick in die Sphären des Himmels gestattet. Was dem stolzen Fernrohr nicht, das war dem stillen, bescheidenen Microscop vergönnt.
+
+Hier drängt es mich den Dank gegen Gott auszusprechen, der eine jahrelange Arbeit, für welche ich die Zeit neben meinem anstrengenden Berufe als Rechtsanwalt nur in den Stunden der Erholung finden konnte, mit einem Erfolg gelohnt hat.
+
+Alles hat seine Zeit, auch die Entdeckungen haben sie. Wer sie macht, ist zuletzt gleichgiltig.
+
+Ferner habe ich hier noch öffentlich Dank zu sagen der hochgeehrten Naturwissenschaftlichen Facultät in Tübingen, welche meine erste Arbeit über das _Eozoon canadense_ mit der Doctor-Würde _honoris causa_ belohnt hat. Sie hat mir durch diese Anerkennung den Weg der Arbeit erleichtert und mich aufgefordert, der hohen Ehre mich würdig zu zeigen.
