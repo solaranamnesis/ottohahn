@@ -117,3 +117,17 @@ Er mag bei Côte St. Pierre 100 M. mächtig sein.
 Das den Kalk umhüllende Gestein ist Diorit und dieser ist in dem Gneiss eingelagert, welcher hier vorzugsweise von Hornblende und Glimmer gebildet wird. Der Glimmer ist Biotit.
 
 Ich füge hier bei, dass dieselben Kalkschichten eine Reihe von Mineralien und zwar in grosser Menge Apatit, Glimmer und Augit enthalten.
+
+Sodann kommen vor Datolit, Scapolit, Salit, Spinell, und sehr schöne Zirkone.
+
+Im mächtigen Kalke liegen Schichten von Dolomit und Augit, über diesen eine Lage von edlem Serpentin (Ophit) mit Chrysotiladern und nun folgen wechsellagernd die Serpentin- und Kalklamellen und Schichten, welche als „Eozoon“ angesprochen werden.
+
+Die erste Kalklamelle ist im Durchschnitt etwa 50 mm., die zweite etwa 30 mm.; es folgen sich 5-6 immer kleiner und dann geht das Gestein in eine körnige (acervuline) Form über.
+
+In diesen Serpentin-Kalkschichten, aber auch auf Gneiss oder Dolomit aufgelagert, finden sich „Knollen“, d. h. rundliche Gesteinsstücke, welche eine gewisse Regelmässigkeit der Form zeigen.
+
+Es sind Serpentinlamellen, welche von einem Mittelpunkt ausgehend sich dann verjüngend nach der Seite verbreiten.
+
+Die beste Abbildung, die ich kenne, ist in Dawson's Life's Dawn on Earth, London 1875 zu S. 168 in Naturselbstdruck und daher unfehlbar treu.
+
+Unbegreiflich ist, dass man beim Anblick dieser Form nicht sofort an eine Pflanze dachte.
