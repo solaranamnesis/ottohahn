@@ -161,3 +161,29 @@ Keine oder wenige Pflanzen finden sich in den grossen Serpentinschichten, welche
 Diese Serpentinlagen im Eophyllumkalk eignen sich vermöge ihrer Durchsichtigkeit vorzüglich zu Beobachtungen: die feinsten Structur-Verhältnisse lassen sich hier in Form der zartesten Linien wahrnehmen.
 
 Allerdings gehört ein scharfes Auge dazu, um nicht die Linien, welche der Serpentin immer bildet, mit den Zellwänden zu verwechseln. Diese Eigenschaft des Serpentins war wohl die Ursache, warum es 19 Jahre anstand, bis die ältesten aber best erhaltenen Pflanzenreste entdeckt wurden.
+
+Im Serpentin finden sich Füllmassen zerstörter Zellen in Dolomit verwandelt. An der Hand derselben braucht man nur senkrecht nach dem Kalkband hinabzusteigen und man wird die feinste Zeichnung einer Pflanze finden.
+
+Die gefundenen Pflanzen sind theils mit blossen Augen, theils nur microscopisch sichtbar und zwar bis zu den kleinsten denkbaren Grössen. Sie sind in ein Silicat verwandelt, also durch Behandlung des Kalks mit Säure blosszulegen.
+
+Da erscheinen die in Kalk eingelagerten Pflanzen als blendend weisse Stengel, Kelche, Blätter. In Dünnschliff freilich sehen sie bei durchfallendem Licht gelbbraun aus, was Möbius veranlasste ihre Farbe als hellbraun zu beschreiben. Dies ist blos Folge der Lichtberechnung in der opaken Masse. Welches Mineral die Füllmasse bildet, ist zweifelhaft. Mann nannte es Flocculit.
+
+Die Füllmasse der Pflanzen im Serpentin ist wieder Serpentin, doch finden sich darin, wie oben gesagt, die Modelle von Pflanzen von Dolomit. Die Füllmasse der Pflanzen im Kalk ist meist ebenfalls ein Silicat.
+
+Meine Aufgabe ist nun die Darstellung.
+
+Diese kann nur durch Abbildungen erreicht werden.
+
+In der Unterscheidung der Arten habe ich die Fortpflanzungsorgane, soweit erkennbar, zu Grunde gelegt.
+
+Obgleich es nun möglich wäre, für die gefundenen Pflanzen analoge Bildungen unter den lebenden oder fossilen zu finden, so musste ich, wenn ich meine Entdeckung schnell zum Gemeingut der Wissenschaft und zur Grundlage fernerer Forschung machen wollte, doch den andern Weg einschlagen, und ohne Rücksicht auf diese bestimmen.
+
+Ein System lässt sich mit dem vorhandenen Material doch nicht begründen. Ich bin überhaupt kein Freund von Systemen und halte die Zeit für Aufstellung solcher auch noch nicht für gekommen. Wir sind noch in der Zeit der Saat und nicht der Ernte in der Naturwissenschaft.
+
+Ehe ich aber auf die Beschreibung der PiOianzen übergehe, will ich noch einmal einen Blick auf
+
+##### 4. das Eozoon
+
+werfen.
+
+Die Behauptung, dass die „Eozoon“-Formen einer Foraminifere angehören, fällt in sich zusammen mit dem Beweis, dass die Formen Pflanzen sind. Foraminifere und Pflanze schliessen sich aus.
