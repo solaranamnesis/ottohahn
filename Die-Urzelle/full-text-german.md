@@ -85,3 +85,19 @@ Einzig die feinen „Canal-Systeme“, wie sie Dr. Carpenter nannte, liessen mir
 Letzteres war Hypothese, aber eine Hypothese wie viele, Gedanken, von welchen man sich nicht mehr losmachen kann: denn sie sind eben wahr.
 
 Da fügte sich's, dass ich auf eine Einladung der Regierung von Canada eine Reise dorthin zu machen hatte. Dr. Dawson wurde besucht, mein nächster Gang war nach Côte St. Pierre (Petite Nation). Dort sah ich die Schichtenlagerung und setzte mich in den Besitz einer grossen Anzahl von Eozoonkalk- und Eozoonstücken. 
+
+Nach meiner Rückreise untersuchte ich das Material.
+
+Das Ergebniss lege ich vor. Es besteht darin: dass der Kalk des Laurentian-Gneisses von Canada, der ältesten Sedimentschichte unserer Erde, eine Pflanzenschöpfung enthält, angehörend der Familie der Algen.
+
+Es sind bis jetzt wenige neue, von den lebenden verschiedene Arten festgestellt. Dass es aber bei fortgesetzter Untersuchung in kurzer Zeit mehr werden, davon bin ich überzeugt.
+
+Die Pflanzen sind alle in dem wirklichen „Eozoongestein“, welches ich von nun an Eophyllumkalk nenne, eingeschlossen von mir gefunden worden.
+
+Ich bemerke nämlich hier sofort, worauf auch mein verehrter Freund Dr. Dawson aufmerksam machte: Not all is Eozoon!
+
+Anfangs allerdings wurde zwischen Eozoongestein und den Knollen nicht unterschieden.
+
+Manches Wort wäre nicht geschrieben worden, wenn man über das Gestein selbst einig gewesen wäre.
+
+##### 2. Die Lagerung des Eophyllum-Kalks.
