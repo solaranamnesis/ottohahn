@@ -101,3 +101,19 @@ Anfangs allerdings wurde zwischen Eozoongestein und den Knollen nicht unterschie
 Manches Wort wäre nicht geschrieben worden, wenn man über das Gestein selbst einig gewesen wäre.
 
 ##### 2. Die Lagerung des Eophyllum-Kalks.
+
+Wir verdanken dem Geological Survey of Canada unter der Leitung (früher Sir Willam Logans nun) des Herrn Dr. Selvyn die geologische Beschreibung und eine sehr schöne geologische Karte von Canada, ferner seit 10 Jahren fortlaufende in englischer wie französischer Sprache erscheinende jährliche Berichte. Das Verdienst Sir Willams ist es auch, die Laurentian-Formation als solche auf dem Granit auflagernd festgestellt zu haben. Diese Formation, also die älteste, soll nach Sir Logans Feststellung 30,000 Fuss mächtig sein.
+
+Grosse Züge des Laurentian-Gneisses erstrecken sich von Süden nach Norden streichend über ganz Canada.
+
+Das einemal führt er Orthoklas- das anderemal Anorthit-Feldspat.
+
+In letzterem Gneisse sind die Kalkschichten eingebettet, welche wieder die Eophyllumschichten enthalten.
+
+Der Kalk wird in der „Geologie von Canada“ Crystalline Limestone genannt.
+
+Er mag bei Côte St. Pierre 100 M. mächtig sein.
+
+Das den Kalk umhüllende Gestein ist Diorit und dieser ist in dem Gneiss eingelagert, welcher hier vorzugsweise von Hornblende und Glimmer gebildet wird. Der Glimmer ist Biotit.
+
+Ich füge hier bei, dass dieselben Kalkschichten eine Reihe von Mineralien und zwar in grosser Menge Apatit, Glimmer und Augit enthalten.
