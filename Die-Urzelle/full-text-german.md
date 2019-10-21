@@ -143,3 +143,21 @@ Die Schichten von Serpentin, wie die von Dolomit um den Eophyllum-Kalk und der E
 Die Eophyllumschichte selbst schliesst Brocken Dolomit ein, um welche sich das breite Serpentinband und dann erst der Eophyllumkalk wieder lagert.
 
 ##### 3. Was ist Eophyllum?
+
+Ich fand die Form, welche ich zuerst Eophyllum nannte, in einem „Eozoonstück“ in dem ersten weissen Kalkbande, das auf der Serpentinschichte lagert, also zwischen zwei Serpentinbändern.
+
+Erst jetzt kam mir der Gedanke: Sind denn nicht die ganzen „Eozoon-Knollen“ auch Pflanzen?
+
+Diese Frage musste ich bejahen, nachdem ich durch Behandlung des Kalks mit Salzsäure grössere Lamellen, welche in Verbindung mit den Serpentinbändern stehen, blossgelegt hatte. Die Formen sind so constante, stets wiederkehrende, dass sie anders nicht erklärt werden können.
+
+Damit war natürlich auch der beste Gegenbeweis gegen ein Thier gewonnen. Denn die entdeckten Algenarten finden sich auch heute nie in Steinen oder Muschelschaalen.
+
+Die Pflanzen gehören alle der Familie der Algen an. Sie sind entweder unmittelbar auf Dolomit und Gneiss aufgelagert oder in dem eigentlichen Eophyllumkalk d. h. der Schichte von Serpentinkalk zwischen den grossen Dolomit- und Serpentinschichten.
+
+Aber nicht blos im Kalk dieser Schichten finden sie sich, sondern auch im Serpentin derselben.
+
+Keine oder wenige Pflanzen finden sich in den grossen Serpentinschichten, welche den Eophyllumkalk umgeben, wenigstens nicht in der untersten.
+
+Diese Serpentinlagen im Eophyllumkalk eignen sich vermöge ihrer Durchsichtigkeit vorzüglich zu Beobachtungen: die feinsten Structur-Verhältnisse lassen sich hier in Form der zartesten Linien wahrnehmen.
+
+Allerdings gehört ein scharfes Auge dazu, um nicht die Linien, welche der Serpentin immer bildet, mit den Zellwänden zu verwechseln. Diese Eigenschaft des Serpentins war wohl die Ursache, warum es 19 Jahre anstand, bis die ältesten aber best erhaltenen Pflanzenreste entdeckt wurden.
