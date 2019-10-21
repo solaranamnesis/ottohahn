@@ -67,3 +67,15 @@ Ich selbst betheiligte mich spät erst an dem Kampfe und glaubte in einem Aufsat
 Ich werde am Schluss dieser Abhandlung noch über die Frage, warum das _Eozoon canadense_ kein Thier sein kann, mich verbreiten.
 
 Bei diesem Streit war das Misslichste der Mangel an Material. Von Canada war so gut wie nichts zu bekommen, im Handel vollends nichts.
+
+Die Stücke, welche gelehrte Freunde mir schenkten, waren dünn geschnittene Plättchen einer ganz bestimmten Form, nämlich der „lammellaren“ des Gesteins.
+
+Möbius allerdings war glücklicher.
+
+Ihm stellten Dr. Dawson und Carpenter neben Handstücken ihre besten Schliffe zur Verfügung.
+
+Freilich schliesst diese besondere Güte zugleich eine grosse Gefahr in sich, weil man nur das zu sehen bekömmt, was der Gegner als Beweisstück verwerthen will. —
+
+So lag die Sache. Ich war von der unorganischen Natur des Eozoongesteins überzeugt, davon wenigstens, dass es ein Thier nicht sei.
+
+Einzig die feinen „Canal-Systeme“, wie sie Dr. Carpenter nannte, liessen mir keine Ruhe. Die Unruhe wurde wesentlich verschärft durch den Gedanken, welcher sich mir immer wieder aufdrängte:
