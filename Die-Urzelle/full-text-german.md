@@ -37,3 +37,19 @@ Hier drängt es mich den Dank gegen Gott auszusprechen, der eine jahrelange Arbe
 Alles hat seine Zeit, auch die Entdeckungen haben sie. Wer sie macht, ist zuletzt gleichgiltig.
 
 Ferner habe ich hier noch öffentlich Dank zu sagen der hochgeehrten Naturwissenschaftlichen Facultät in Tübingen, welche meine erste Arbeit über das _Eozoon canadense_ mit der Doctor-Würde _honoris causa_ belohnt hat. Sie hat mir durch diese Anerkennung den Weg der Arbeit erleichtert und mich aufgefordert, der hohen Ehre mich würdig zu zeigen.
+
+Es möge mir gestattet sein, meinen Genossen in der Wissenschaft und auf dem Wege der Forschung noch dringend ans Herz zu legen, jetzt auf dem aufgeschlossenen Wege besonnen vorzugehen.
+
+Ich muss die Arbeit in andere Hände legen, das weiss ich.
+
+Wer sie aufnimmt, der setze sich vor, jahrelang zu beobachten und zu sammeln, ehe er die Welt mit einer Hypothese belästigt, welche doch meist nur eine Behauptung über das Mögliche ist. Eine Thatsache festgestellt, festgestellt wie es ist, ist mehr werth, als zehn Hypothesen, wie es gegangen sein könnte. —
+
+Die Zeichnungen sind alle von mir entworfen, theilweise ausgeführt und auf Stein gezeichnet.
+
+Eine besondere Erklärung zu den Figuren hielt ich nicht für nothwendig, da der Text sehr kurz ist.
+
+Reutlingen, August 1879
+
+Dr. Otto Hahn, Rechts-Anwalt.
+
+
