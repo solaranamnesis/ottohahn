@@ -187,3 +187,11 @@ Ehe ich aber auf die Beschreibung der Pflanzen übergehe, will ich noch einmal e
 werfen.
 
 Die Behauptung, dass die „Eozoon“-Formen einer Foraminifere angehören, fällt in sich zusammen mit dem Beweis, dass die Formen Pflanzen sind. Foraminifere und Pflanze schliessen sich aus.
+
+Meine neuesten Untersuchungen aber haben, wenn sie auch einzelne frühere Behauptungen modifiziren, die Beweissätze der Gegner für eine Foraminifere vollständig entkräftet.
+
+Dazu gehört vor Allem der wahre Sachverhalt bezüglich der „Canalsysteme“. Auf diese hat man das grösste Gewicht gelegt. Sie bildeten das Schlussglied in der Beweiskette.
+
+Hier aber verhalten sich die Thatsachen jetzt vollkommen anders, und es ist unbegreiflich, wie Dr. Carpenter diese Canalsysteme in das Schema des Eozoon aufnehmen konnte.
+
+Diese Canalsysteme sind einmal, wie ich Taf. III. zeige, sehr verschieden. Wäre das Eozoon eine Foraminifere, so wäre es gar nicht denkbar, dass in — zugestandenermassen ein und derselben Foraminifere ein Canal becherförmig, ein anderer fadenförmig, ein dritter perlschnurartig gereiht wäre.
