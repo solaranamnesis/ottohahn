@@ -21,3 +21,11 @@ Dies traf vorzugsweise beim Urgebirge zu — kehrte aber auch beim Flöz- und am
 Einen solchen glaube ich jetzt geliefert zu haben.
 
 Die „Entstehung“ der ganzen heutigen Erdoberfläche mit Ausnahme der heute noch sich bildenden vulkanischen Gebirge und auch bei diesen hat das Wasser — zum mindesten einen mechanischen, ich glaube aber auch chemischen Antheil, — ich sage die „Entstehung des Urgebirgs“ ohne alle Feuerwirkung ist durch die vorgelegten Thatsachen erwiesen, und zwar so voll als überhaupt etwas zu beweisen denkbar ist. Möglich ist es freilich, auch diesen Beweis eine Weile anzuzweifeln. Allein ich bin sicher, der Widerspruch wird bald verstummen, denn wo man etwas millionenfach sehen kann, da kann ein Zweifel nicht mehr bestehen. Ein gewöhnliches Microscop, eine gute Lupe genügt vollständig, sich zu überzeugen.
+
+So kann ich denn meine Arbeit ruhig in die Welt senden. Ihr Erfolg, die Anerkennung der Thatsachen und ihrer Deutung, macht mir keine Sorge.
+
+Allerdings werden die Botaniker nicht ungestraft in ihre Wissenschaft mich haben einbrechen lassen.
+
+Mögen sie die Hauptsache ins Auge fassen.
+
+Was die Bedeutung meiner Entdeckungen betrifft, so wird mir billig Niemand zumuthen, sie nicht zu kennen und zu verstehen. Die bisherige Wissenschaft der Geologie ist mit Einem Schlage zum dritten Theile antiquirt. Ja ich darf es aussprechen, es ist nun erst ein Grund darin gelegt.
