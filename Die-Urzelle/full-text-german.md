@@ -56,6 +56,12 @@ Dr. Otto Hahn, Rechts-Anwalt.
 
 ##### 1. Geschichte einer Entdeckung.*
 
+*) Ich nenne das Capitel »Geschichte einer Entdeckung« : muss aber auf II. verweisen als Fortsetzung dieses Capitels. Spätere Entdeckungen konnte ich nicht mehr hier aufführen.
+
 Sir W. Logan in Montreal war es, welcher zuerst die Aufmerksamkeit auf einen im Laurentian-Gneiss von Canada eingelagerten Serpentin-Kalk lenkte, indem er dabei die Vermuthung aussprach, es enthalte dieser Kalk und zwar in eingebetteten „Knollen“ die Reste der ersten organischen Schöpfung. 
 
 Dr. W. Dawson in Montreal, Kanzler des M'Gill College dort, nahm sich der Sache weiter an und bestimmte in Verbindung mit Dr. Hunt in Montreal und Dr. W. Carpenter in London, dem berühmtesten Miroscopiker Englands, die Natur jener Knollen dahin, sie seien die versteinerten Reste einer Riesen-Foraminifere, die dem Genus _Nummulina_ ähnlich sei. Dr. Dawson nannte dieselbe _Eozoon canadense_. Unter diesem Namen wurde sie dann auch zur grossen Freude Aller auf das erste noch ganz weiss gelassene Blatt der Naturgeschichte eingetragen. Allerdings wurde der Eintrag angefochten. Alsbald erhoben sich bedeutende Stimmen gegen die organische Natur des Gesteins. Die Schriften über _Eozoon_ schwollen dermassen an, dass man sagen darf: das _Eozoon_ hat seine eigene Literatur.
+
+Ich selbst betheiligte mich spät erst an dem Kampfe und glaubte in einem Aufsatze über _Eozoon canadense_ in den Württembergischen naturwissenschaftlichen Jahresheften den Beweis gegen die organische Natur geführt zu haben. Carl Möbius ergänzte denselben durch Abbildungen, insbesondere von lebenden Foraminiferen.
+
+Ich werde am Schluss dieser Abhandlung noch über die Frage, warum das _Eozoon canadense_ kein Thier sein kann, mich verbreiten.
