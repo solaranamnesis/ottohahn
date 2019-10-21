@@ -56,7 +56,7 @@ Dr. Otto Hahn, Rechts-Anwalt.
 
 ##### 1. Geschichte einer Entdeckung.*
 
-*) Ich nenne das Capitel »Geschichte einer Entdeckung« : muss aber auf II. verweisen als Fortsetzung dieses Capitels. Spätere Entdeckungen konnte ich nicht mehr hier aufführen.
+*) Ich nenne das Capitel „Geschichte einer Entdeckung“: muss aber auf II. verweisen als Fortsetzung dieses Capitels. Spätere Entdeckungen konnte ich nicht mehr hier aufführen.
 
 Sir W. Logan in Montreal war es, welcher zuerst die Aufmerksamkeit auf einen im Laurentian-Gneiss von Canada eingelagerten Serpentin-Kalk lenkte, indem er dabei die Vermuthung aussprach, es enthalte dieser Kalk und zwar in eingebetteten „Knollen“ die Reste der ersten organischen Schöpfung. 
 
@@ -65,3 +65,5 @@ Dr. W. Dawson in Montreal, Kanzler des M'Gill College dort, nahm sich der Sache 
 Ich selbst betheiligte mich spät erst an dem Kampfe und glaubte in einem Aufsatze über _Eozoon canadense_ in den Württembergischen naturwissenschaftlichen Jahresheften den Beweis gegen die organische Natur geführt zu haben. Carl Möbius ergänzte denselben durch Abbildungen, insbesondere von lebenden Foraminiferen.
 
 Ich werde am Schluss dieser Abhandlung noch über die Frage, warum das _Eozoon canadense_ kein Thier sein kann, mich verbreiten.
+
+Bei diesem Streit war das Misslichste der Mangel an Material. Von Canada war so gut wie nichts zu bekommen, im Handel vollends nichts.
