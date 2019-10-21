@@ -195,3 +195,5 @@ Dazu gehört vor Allem der wahre Sachverhalt bezüglich der „Canalsysteme“. 
 Hier aber verhalten sich die Thatsachen jetzt vollkommen anders, und es ist unbegreiflich, wie Dr. Carpenter diese Canalsysteme in das Schema des Eozoon aufnehmen konnte.
 
 Diese Canalsysteme sind einmal, wie ich Taf. III. zeige, sehr verschieden. Wäre das Eozoon eine Foraminifere, so wäre es gar nicht denkbar, dass in — zugestandenermassen ein und derselben Foraminifere ein Canal becherförmig, ein anderer fadenförmig, ein dritter perlschnurartig gereiht wäre.
+
+...
