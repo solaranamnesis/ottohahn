@@ -52,4 +52,9 @@ Reutlingen, August 1879
 
 Dr. Otto Hahn, Rechts-Anwalt.
 
+#### I.
+
+##### 1. Geschichte einer Entdeckung.*
+
+Sir W. Logan in Montreal war es, welcher zuerst die Aufmerksamkeit auf einen im Laurentian-Gneiss von Canada eingelagerten Serpentin-Kalk lenkte, indem er dabei die Vermuthung aussprach, es enthalte dieser Kalk und zwar in eingebetteten „Knollen“ die Reste der ersten organischen Schöpfung. 
 
