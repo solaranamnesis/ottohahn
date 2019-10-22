@@ -218,4 +218,24 @@ Ich gieng bei meiner Untersuchung von dem Bild Tafel IV. und V. aus.
 
 Nachdem mir durch dieses Bild die Pflanze unwiderleglich festgestellt und so ein Bild der Pflanze des Laurentiangneisses gegeben war: konnte es nicht schwer sein, die Canalsysteme der „Eozoonknollen“ überhaupt zu deuten. Sie lösten sich alle in Pflanzen auf.
 
+Sodann bildete dieselbe Form auch den Schlüssel zur Lösung des ganzen Gesteins.
+
+Sobald die Form des Eophyllum einmal als Pflanze feststand, so wurde es wahrscheinlich, dass auch die grossen Serpentin-Kammern nichts als die Füllmassen ehemaliger Pflanzenformen seien.
+
+Der Beweis wurde ergänzt mit Durchschnitten grösserer Stücke, wo eine Anzahl Pflanzen alle und immer in Einem Ausgangspunkt zusammenlaufen.
+
+Man sehe doch einmal den Naturselbstdruck des Eozoon in Dawson's „Life's Dawn on Earth“! Man denke sich das Bild nach der anderen Seite ergänzt. Freilich in 4 eckig willkürlich herausgesägten kleinen Stücken war die Pflanzenform nicht leicht zu erkennen. Man nehme nun ferner ein 1/2 Meter grosses Stück Lagergestein und man sieht dort von etwa 3 zu 3 Cmetern auf dem Serpentin die Formen der „Canalsysteme“, hier im Grossen von Serpentin nachgebildet: man wird ferner die Wurzelansätze an der Gränze der Serpentin- und Dolomit-Schichte finden. Endlich sind nicht nur die Zellhäute erhalten, sondern die Prothallien dem Hundert nach im Kalk und im Serpentin!
+
+Wenn man das Gestein genau untersucht, so findet man die Formen schon mit blossem Auge.
+
+Blos eine Ergänzung dieses Beweises ist es, dass dieselben Pflanzenformen in den Dolomit- und Kalk-Lagern vorkommen, im Kalk in Serpentin, aber auch in Glimmer verwandelt sind. Diese Glimmerpflanzen sind das Schönste, was man sehen kann.
+
+Nun muss ich aber noch auf einen Umstand aufmerksam machen, darauf nämlich, dass der Serpentin in den Stücken, welche Eozoon sein sollten, also in den Knollen, Füllmasse ist. Der Kalk ist das Lager.
+
+Anders bei den Formen der Tafel I. 3., welche ich Coralloidea nenne. Hier sind die Algen in Dolomit verwandelt, der Sepentin ist das Lager. Hier also ist das Verhältniss umgekehrt.
+
+Man sieht hieraus, wie oberflächlich, einseitig überhaupt die bisherigen Untersuchungen waren, wie sie vollständig durch die Knappheit des Materials beherrscht waren.
+
+##### 5. Die Pflanze.
+
 ...
