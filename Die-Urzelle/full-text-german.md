@@ -238,4 +238,48 @@ Man sieht hieraus, wie oberflächlich, einseitig überhaupt die bisherigen Unter
 
 ##### 5. Die Pflanze.
 
+Ein grösseres Räthsel freilich als das „Eozoon“ ist wohl schwerlich der Naturforschung aufgegeben worden.
+
+Als ich die erste Ankündigung des Eophyllum dem „Ausland“ übergab, dachte ich noch nicht daran, dass die grossen Serpentinbänder auch Pflanzen seien. Ich hatte diese Arbeit zur Hälfte nach dem ersten Plan fertig, als ich endlich ein schlechtes Gesteinsexemplar in die Hand bekam, bei welchem sich aber gerade desshalb die Serpentintheile eigenthümlich deutlich abhoben.
+
+Ich sah und sah und mit einem Male war mir klar, dass die „Sarcode-Kammer“ nichts als Pflanzenzellen seien. So geht es den Microscopikern.
+
+Was man mit blossem Auge sehen kann, sehen sie nicht mehr.
+
+Nun war es aber eine schwere Arbeit, die Sache zu prüfen.
+
+Ich habe jetzt keinen Zweifel mehr.
+
+Und nur so erklären sich alle Thatsachen.
+
+Die Serpentinbänder, welche das, was man bisher Eozoon nannte, zusammensetzen, gehören einer Alge mit breiten Blättern, wenn der Ausdruck erlaubt ist, an, welche von einem Punkte ausgehend sich in regelmässigen Formen legt. Die Basalzelle sitzt auf dem Serpentin oder Dolomit auf. Wurzeln fand ich nur in Einem Falle, jedoch nicht sicher.
+
+Der Kalk ist die Einlagerung. Deutliche Brutzellen sind darin sichtbar: denn im Dünnschliff stechen sie durch den Kalk noch durch.
+
+Die Gegenprobe kann man durch Auflösung des Kalks mit Säure machen. Hier sind die Blätter völlig mit Brutzellen besetzt: die „Warzenansätze“ Gümbel's.
+
+Die Sache ist noch viel klarer, wo die Pflanze in Dolomit verwandelt ist. Hier kann man mit blossem Auge die Brutzellen erkennen.
+
+Wasserklare Becherzellen sieht man auf dem Dolomit herausgewittert lagern.
+
+Am schönsten aber sind die Kalke, in welchen die Pflanzen theils in Serpentin theils in Glimmer verwandelt sind.
+
+Dieselben Zellen finden sich in einem Doppelspat in Kupfer und Malachit verwandelt mit blossem Auge sichtbar!
+
+Die Canalsysteme des „Zwischen-Skelets“ sind also microscopische Pflanzen, welche theils einfach von Kalk oder auf den grossen Algen angewachsen oder dort todt abgelagert worden sind.
+
+Wie ich im Eingang angedeutet, braucht man allerdings einen Schlüssel zu dieser neuen Schöpfung, — denn sie ist unserer Vorstellung vollkommen neu. Dieser Schlüssel liegt in den microscopischen Formen.
+
+Nun aber lässt sich von diesem sicheren Ausgangspunkte die Sache leicht verfolgen.
+
+Nur muss ich auch hier vor der alleinigen Benützung der Dünnschliffe warnen. Es ist Sache des Zufalls, ob man hier ein Bild bekommt. Hunderte lassen sich anfertigen, aber nur ein ganz geübtes Auge vermag sie zu entziffern.
+
+##### 6. Eophyllum canadense.
+
+Ich übertrage nun den ersten Namen:
+
+Eophyllum auf die mit blossem Auge sichtbare grösste Pflanzenform.
+
+Sie bildet die Algenwiesen im Laurentian, aber freilich nicht in gar riesiger Form, nur durch ihre Menge ist sie riesig. Sie ist enthalten in den Serpentin-Knollen des Laurentiankalks, welche man bisher Eozoon canadense nannte.
+
 ...
