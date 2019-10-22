@@ -20,9 +20,9 @@ Dies traf vorzugsweise beim Urgebirge zu — kehrte aber auch beim Flöz- und am
 
 Einen solchen glaube ich jetzt geliefert zu haben.
 
-Die „Entstehung“ der ganzen heutigen Erdoberfläche mit Ausnahme der heute noch sich bildenden vulkanischen Gebirge und auch bei diesen hat das Wasser — zum mindesten einen mechanischen, ich glaube aber auch chemischen Antheil, — ich sage die „Entstehung des Urgebirgs“ ohne alle Feuerwirkung ist durch die vorgelegten Thatsachen erwiesen, und zwar so voll als überhaupt etwas zu beweisen denkbar ist. Möglich ist es freilich, auch diesen Beweis eine Weile anzuzweifeln. Allein ich bin sicher, der Widerspruch wird bald verstummen, denn wo man etwas millionenfach sehen kann, da kann ein Zweifel nicht mehr bestehen. Ein gewöhnliches Microscop, eine gute Lupe genügt vollständig, sich zu überzeugen.
+Die „Entstehung“ der ganzen heutigen Erdoberfläche mit Ausnahme der heute noch sich bildenden vulkanischen Gebirge und auch bei diesen hat das Wasser — zum mindesten einen mechanischen, ich glaube aber auch chemischen Antheil, — ich sage die „Entstehung des Urgebirgs“ ohne alle Feuerwirkung ist durch die vorgelegten Tatsachen erwiesen, und zwar so voll als überhaupt etwas zu beweisen denkbar ist. Möglich ist es freilich, auch diesen Beweis eine Weile anzuzweifeln. Allein ich bin sicher, der Widerspruch wird bald verstummen, denn wo man etwas millionenfach sehen kann, da kann ein Zweifel nicht mehr bestehen. Ein gewöhnliches Microscop, eine gute Lupe genügt vollständig, sich zu überzeugen.
 
-So kann ich denn meine Arbeit ruhig in die Welt senden. Ihr Erfolg, die Anerkennung der Thatsachen und ihrer Deutung, macht mir keine Sorge.
+So kann ich denn meine Arbeit ruhig in die Welt senden. Ihr Erfolg, die Anerkennung der Tatsachen und ihrer Deutung, macht mir keine Sorge.
 
 Allerdings werden die Botaniker nicht ungestraft in ihre Wissenschaft mich haben einbrechen lassen.
 
@@ -42,9 +42,9 @@ Es möge mir gestattet sein, meinen Genossen in der Wissenschaft und auf dem Weg
 
 Ich muss die Arbeit in andere Hände legen, das weiss ich.
 
-Wer sie aufnimmt, der setze sich vor, jahrelang zu beobachten und zu sammeln, ehe er die Welt mit einer Hypothese belästigt, welche doch meist nur eine Behauptung über das Mögliche ist. Eine Thatsache festgestellt, festgestellt wie es ist, ist mehr werth, als zehn Hypothesen, wie es gegangen sein könnte. —
+Wer sie aufnimmt, der setze sich vor, jahrelang zu beobachten und zu sammeln, ehe er die Welt mit einer Hypothese belästigt, welche doch meist nur eine Behauptung über das Mögliche ist. Eine Tatsache festgestellt, festgestellt wie es ist, ist mehr werth, als zehn Hypothesen, wie es gegangen sein könnte. —
 
-Die Zeichnungen sind alle von mir entworfen, theilweise ausgeführt und auf Stein gezeichnet.
+Die Zeichnungen sind alle von mir entworfen, teilweise ausgeführt und auf Stein gezeichnet.
 
 Eine besondere Erklärung zu den Figuren hielt ich nicht für nothwendig, da der Text sehr kurz ist.
 
@@ -64,7 +64,7 @@ Dr. W. Dawson in Montreal, Kanzler des M'Gill College dort, nahm sich der Sache 
 
 Ich selbst betheiligte mich spät erst an dem Kampfe und glaubte in einem Aufsatze über _Eozoon canadense_ in den Württembergischen naturwissenschaftlichen Jahresheften den Beweis gegen die organische Natur geführt zu haben. Carl Möbius ergänzte denselben durch Abbildungen, insbesondere von lebenden Foraminiferen.
 
-Ich werde am Schluss dieser Abhandlung noch über die Frage, warum das _Eozoon canadense_ kein Thier sein kann, mich verbreiten.
+Ich werde am Schluss dieser Abhandlung noch über die Frage, warum das _Eozoon canadense_ kein Tier sein kann, mich verbreiten.
 
 Bei diesem Streit war das Misslichste der Mangel an Material. Von Canada war so gut wie nichts zu bekommen, im Handel vollends nichts.
 
@@ -76,7 +76,7 @@ Ihm stellten Dr. Dawson und Carpenter neben Handstücken ihre besten Schliffe zu
 
 Freilich schliesst diese besondere Güte zugleich eine grosse Gefahr in sich, weil man nur das zu sehen bekömmt, was der Gegner als Beweisstück verwerthen will. —
 
-So lag die Sache. Ich war von der unorganischen Natur des Eozoongesteins überzeugt, davon wenigstens, dass es ein Thier nicht sei.
+So lag die Sache. Ich war von der unorganischen Natur des Eozoongesteins überzeugt, davon wenigstens, dass es ein Tier nicht sei.
 
 Einzig die feinen „Canal-Systeme“, wie sie Dr. Carpenter nannte, liessen mir keine Ruhe. Die Unruhe wurde wesentlich verschärft durch den Gedanken, welcher sich mir immer wieder aufdrängte:
 
@@ -132,7 +132,7 @@ Die beste Abbildung, die ich kenne, ist in Dawson's Life's Dawn on Earth, London
 
 Unbegreiflich ist, dass man beim Anblick dieser Form nicht sofort an eine Pflanze dachte.
 
-Es erklärt sich nur daraus, dass man von Anfang an, da man solche Stücke nicht hatte, einmal in den Gedanken einer Foraminifere vertieft, davon nicht mehr loskam, während die Gegner (worunter auch ich) im Kampf gegen die Foraminifere auch an nichts weiter dachten, als daran: kein Thier, — also Mineral. Die Abbildungen des Eozon-Gesteins sind nach Stücken gemacht, welche einfach in Platten geschnitten sind. So auch die Abbildungen von Professor Dr. Zittel in der Palaeontologie: doch es soll hier nicht vorgegriffen werden.
+Es erklärt sich nur daraus, dass man von Anfang an, da man solche Stücke nicht hatte, einmal in den Gedanken einer Foraminifere vertieft, davon nicht mehr loskam, während die Gegner (worunter auch ich) im Kampf gegen die Foraminifere auch an nichts weiter dachten, als daran: kein Tier, — also Mineral. Die Abbildungen des Eozon-Gesteins sind nach Stücken gemacht, welche einfach in Platten geschnitten sind. So auch die Abbildungen von Professor Dr. Zittel in der Palaeontologie: doch es soll hier nicht vorgegriffen werden.
 
 Die Eophyllumschichte ist etwa 50 Cm. mächtig: Aus den körnigen Formen geht das Gestein wieder über in die geschichtete. Es folgen sich Serpentin und Dolomit und dann lagert sich wieder mächtiger Kalk auf.
 
@@ -150,7 +150,7 @@ Erst jetzt kam mir der Gedanke: Sind denn nicht die ganzen „Eozoon-Knollen“ 
 
 Diese Frage musste ich bejahen, nachdem ich durch Behandlung des Kalks mit Salzsäure grössere Lamellen, welche in Verbindung mit den Serpentinbändern stehen, blossgelegt hatte. Die Formen sind so constante, stets wiederkehrende, dass sie anders nicht erklärt werden können.
 
-Damit war natürlich auch der beste Gegenbeweis gegen ein Thier gewonnen. Denn die entdeckten Algenarten finden sich auch heute nie in Steinen oder Muschelschaalen.
+Damit war natürlich auch der beste Gegenbeweis gegen ein Tier gewonnen. Denn die entdeckten Algenarten finden sich auch heute nie in Steinen oder Muschelschaalen.
 
 Die Pflanzen gehören alle der Familie der Algen an. Sie sind entweder unmittelbar auf Dolomit und Gneiss aufgelagert oder in dem eigentlichen Eophyllumkalk d. h. der Schichte von Serpentinkalk zwischen den grossen Dolomit- und Serpentinschichten.
 
@@ -164,7 +164,7 @@ Allerdings gehört ein scharfes Auge dazu, um nicht die Linien, welche der Serpe
 
 Im Serpentin finden sich Füllmassen zerstörter Zellen in Dolomit verwandelt. An der Hand derselben braucht man nur senkrecht nach dem Kalkband hinabzusteigen und man wird die feinste Zeichnung einer Pflanze finden.
 
-Die gefundenen Pflanzen sind theils mit blossen Augen, theils nur microscopisch sichtbar und zwar bis zu den kleinsten denkbaren Grössen. Sie sind in ein Silicat verwandelt, also durch Behandlung des Kalks mit Säure blosszulegen.
+Die gefundenen Pflanzen sind teils mit blossen Augen, teils nur microscopisch sichtbar und zwar bis zu den kleinsten denkbaren Grössen. Sie sind in ein Silicat verwandelt, also durch Behandlung des Kalks mit Säure blosszulegen.
 
 Da erscheinen die in Kalk eingelagerten Pflanzen als blendend weisse Stengel, Kelche, Blätter. In Dünnschliff freilich sehen sie bei durchfallendem Licht gelbbraun aus, was Möbius veranlasste ihre Farbe als hellbraun zu beschreiben. Dies ist blos Folge der Lichtberechnung in der opaken Masse. Welches Mineral die Füllmasse bildet, ist zweifelhaft. Mann nannte es Flocculit.
 
@@ -192,7 +192,7 @@ Meine neuesten Untersuchungen aber haben, wenn sie auch einzelne frühere Behaup
 
 Dazu gehört vor Allem der wahre Sachverhalt bezüglich der „Canalsysteme“. Auf diese hat man das grösste Gewicht gelegt. Sie bildeten das Schlussglied in der Beweiskette.
 
-Hier aber verhalten sich die Thatsachen jetzt vollkommen anders, und es ist unbegreiflich, wie Dr. Carpenter diese Canalsysteme in das Schema des Eozoon aufnehmen konnte.
+Hier aber verhalten sich die Tatsachen jetzt vollkommen anders, und es ist unbegreiflich, wie Dr. Carpenter diese Canalsysteme in das Schema des Eozoon aufnehmen konnte.
 
 Diese Canalsysteme sind einmal, wie ich Taf. III. zeige, sehr verschieden. Wäre das Eozoon eine Foraminifere, so wäre es gar nicht denkbar, dass in — zugestandenermassen ein und derselben Foraminifere ein Canal becherförmig, ein anderer fadenförmig, ein dritter perlschnurartig gereiht wäre.
 
