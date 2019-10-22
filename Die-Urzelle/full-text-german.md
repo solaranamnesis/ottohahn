@@ -196,4 +196,26 @@ Hier aber verhalten sich die Tatsachen jetzt vollkommen anders, und es ist unbeg
 
 Diese Canalsysteme sind einmal, wie ich Taf. III. zeige, sehr verschieden. Wäre das Eozoon eine Foraminifere, so wäre es gar nicht denkbar, dass in — zugestandenermassen ein und derselben Foraminifere ein Canal becherförmig, ein anderer fadenförmig, ein dritter perlschnurartig gereiht wäre.
 
+Sodann finden sich, wie Möbius dargestellt hat, bei der lebenden Foraminifere blos fadenförmige Canalsysteme.
+
+Becher-, Kugel- und Perlschnur-Formen kommen gar nicht vor. Die Fadenformen habe ich in etwa 20 Dünnschliffen blos einmal (Taf. III. Fig. 3) gefunden, überall herrscht die Becher- form vor. Aber auch, wo die Fadenform vorkommt, gehen die „Canäle“ von Zweigen aus, was verschwiegen wurde.
+
+Was aber endlich den Ausschlag gibt, ist, dass diese Canalsysteme blos an ganz vereinzelten Stellen vorkommen, ohne dass man irgend einen Grund hätte, anzunehmen, dieses Fehlen habe seine Ursache in der Metamorphose des Gesteins oder in einer anderen solchen Ursache. Dies ist längst hervorgehoben worden.
+
+All dies konnte nur solange angehen, als man nicht über Material genug verfügte. Dünnschliffe sind in vielen, sehr vielen Beziehungen unentbehrlich; aber sie ersetzen nicht die Gesammt-Anschauung. Und ferner ist nothwendig eine Untersuchung der ganzen Lagerung, insbesondere des die Knollen umgebenden Gesteins.
+
+Damit wäre es jedem halbwegs Geübten leicht gewesen, sich sofort ein Urtheil zu bilden und es wäre wohl nicht zu Gunsten der Foraminifere ausgefallen.
+
+Dass die „Schaale“ grösstentheils fehlt, kann ich aus meiner Anschauung versichern; dieser „proper wall“ soweit er nicht auf optischer Täuschung beruht, findet sich an seltenen Stellen blos angedeutet: ebenfalls ohne dass man für das Fehlen desselben die Schuld auf Zerstörung schieben könnte: denn die feinsten „Canalsysteme“ unmittelbar daneben sind ja erhalten.
+
+Dass die Tubuli überall Chrysotil sind, bedarf keiner weiteren Ausführung mehr.
+
+So bleiben von dem „Thier“ blos die Kammern übrig.
+
+Diese aber sind wie aller Serpentin. Allerdings die reihenformige Lage der Körner wäre auffallend. Das Merkmal der Kammer nun wäre die einzige Beweis-Tatsache: sie ist für sich allein nach dem Zugeständniss der Gegner selbst nicht hinreichend, um eine Foraminifere festzustellen.
+
+Ich gieng bei meiner Untersuchung von dem Bild Tafel IV. und V. aus.
+
+Nachdem mir durch dieses Bild die Pflanze unwiderleglich festgestellt und so ein Bild der Pflanze des Laurentiangneisses gegeben war: konnte es nicht schwer sein, die Canalsysteme der „Eozoonknollen“ überhaupt zu deuten. Sie lösten sich alle in Pflanzen auf.
+
 ...
