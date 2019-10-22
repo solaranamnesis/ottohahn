@@ -274,12 +274,38 @@ Nun aber lässt sich von diesem sicheren Ausgangspunkte die Sache leicht verfolg
 
 Nur muss ich auch hier vor der alleinigen Benützung der Dünnschliffe warnen. Es ist Sache des Zufalls, ob man hier ein Bild bekommt. Hunderte lassen sich anfertigen, aber nur ein ganz geübtes Auge vermag sie zu entziffern.
 
-##### 6. Eophyllum canadense.
+##### 6. _Eophyllum canadense_.
 
 Ich übertrage nun den ersten Namen:
 
 Eophyllum auf die mit blossem Auge sichtbare grösste Pflanzenform.
 
-Sie bildet die Algenwiesen im Laurentian, aber freilich nicht in gar riesiger Form, nur durch ihre Menge ist sie riesig. Sie ist enthalten in den Serpentin-Knollen des Laurentiankalks, welche man bisher Eozoon canadense nannte.
+Sie bildet die Algenwiesen im Laurentian, aber freilich nicht in gar riesiger Form, nur durch ihre Menge ist sie riesig. Sie ist enthalten in den Serpentin-Knollen des Laurentiankalks, welche man bisher _Eozoon canadense_ nannte.
+
+Aber hier ist sie nur in ihrer grössten Entwicklung: die acervuline Form des Eozoon ist nichts, als kleines Eophyllum und vorzugsweise Brutzellen desselben.
+
+Die Pflanze ist eine Alge: in ihrer eigenthümlichen Form stimmt sie mit keiner lebenden vollständig, jedenfalls gehört sie schon zu den höher entwickelten Fucusarten.
+
+Die Basalzelle ist eine halbrunde becherförmige Zelle, welche im Dolomit aufsetzt, einige kleinere Zellen und dann die nächste in Becherform treibt, welche immer wieder neue Zellen ansetzt.
+
+Die neuen Knospen, ich nenne sie Brutzellen, sitzen überall auf dem Rande der Zelle auf, und geben dem Blatte dadurch das höckerige Ansehen.
+
+Die Form ist in Tafel I. 1. dargestellt.
+
+Das von Carpenter abgebildete Stück Eozoon, welches nachher in so viele Bücher überging, zeigt in dem Kugligen nur Brutzellen des Eophyllum, und ich bin überzeugt, dass sie sich an dem abgebildeten Stück noch mit blossem Auge erkennen liessen.
+
+Die Durchschnitte der Brutzellen sind leicht verständlich, sobald man sich diese Zellen aus dem Kalk herauslöst, indem man ihn in eine verdünnte Säure legt, oder auch, wenn man sie im Serpentin sucht, wo sie wie lebend gesehen werden können.
+
+Ganze Pflanzen ziehen sich durch die Serpentinlager hindurch.
+
+Ich habe die Basalzelle in Taf. I. f. 2. abgebildet, eine Brutzelle daselbst 4:5. zeigt eine solche im Serpentin.
+
+Die regelmässige Lage des Eophyllums rührt wahrscheinlich daher, dass sie sich schon bei Lebzeiten in Kalk eingebettet hat.
+
+##### 7. Die Formen.
+
+Man nehme nun Taf. II. zur Hilfe, um sich eine Vorstellung von dem Leben zu machen, welches sich hier entwickelt.
+
+Alle diese Formen sind theils aus dem Kalk gelöst, theils nach den im Serpentin erhaltenen Pflanzen gezeichnet; meist bei 90 facher Vergrösserung.
 
 ...
