@@ -308,4 +308,144 @@ Man nehme nun Taf. II. zur Hilfe, um sich eine Vorstellung von dem Leben zu mach
 
 Alle diese Formen sind theils aus dem Kalk gelöst, theils nach den im Serpentin erhaltenen Pflanzen gezeichnet; meist bei 90 facher Vergrösserung.
 
+Ich wage es nicht, bei dem mir vorliegenden Material hier irgend schon Arten zu bestimmen. Dazu ist die Zeit noch nicht gekommen.
+
+1. 2. 4. 6. 8. 17. 18. 22. 23. sind Prothallien, 3 a u. b. 10. Füllmassen (Steinkerne), 5. 23. zeigen eine Fadenzelle. — Fig. 9. ist wahrscheinlich eine Sporangie, Fig. 16. wasserhell eine Füllmasse, wahrscheinlich von einer gestreckten Zelle, wie sie bei den Algen häufig vorkommen.
+
+Ich lasse nun
+
+##### 8. di Arten
+
+folgen, welche durch vollständige Exemplare festgestellt sind.
+
+Allein auch hier kann es sich blos darum handeln, nach der Gesammtform Namen zu geben.
+
+Alle folgende sind microscopisch im Kalk.
+
+Ich gebe in Taf. III die 4 von mir unterschiedenen Arten von microscopischen Algen des Laurentian, welche als „Canal-Systeme“ bezeichnet wurden, 1. 3. 4. in 80-, 2. in 20- maliger Vergrösserung.
+
+Sie leben in Gesellschaft. Einzelne Formen werden nach diesen aufgeführt.
+
+###### _Kampyloklon._
+
+Taf. III. 1. 1/80.
+
+Kampyloklon: von der Biegung seines Stammes und der Zweige. Die Basalzelle ist rund, abwärts gekehrt. An diese reiht sich eine gewundene Blattzelle, an diese eine Becherzelle an und diese treibt entweder wieder eine Blatt- oder eine Becherzelle.
+
+Wahrscheinlich dieser Art gehört an Taf. VII. 4.
+
+###### _Leucophyllum._
+
+Taf. III. 2. 1/20.
+
+Es sind dies die grössten microscopischen Pflanzen im Kalk. Ihre Anordnung ist leicht verständlich. Im Eck des Bildes ist eine Zelle 80 mal vergrössert.
+
+Die Blätter sind in ein milchweisses Silicat verwandelt.
+
+###### _Pseudozoon._
+
+Taf. III. 3. (1/80).
+
+Denn diese Canäle wurden von Dr. Carpenter als die Canalsysteme von Nummuliten gekennzeichnet; aber freilich nicht vollständig wurden sie gezeichnet, sondern blos die oberen geraden (Faden-) Zellen des Bildes. Wären die unteren dazu gezeichnet worden, so hätte wohl Niemand sich überreden lassen, dass es sich hier um Canalsysteme einer Foraminifere handelte.
+
+###### _Kilocarpon._
+
+Taf. III. 4. 1/80. und Taf. IX. 1/140 Taf. X. 1/750. 1/450.
+
+Ebenfalls ein „System“.
+
+Diese Algen mussten eine Gallert um sich ansetzen, wie es die Nostocaceen thun. Nur so erklärt sich das lappenartige Aussehen bei regelmässiger Lagerung des Ganzen.
+
+Wahrscheinlich dieselbe Pflanze ist Tab. IX. und X. 
+
+Ich nenne sie
+
+###### _Kilo-Karpon,_
+
+denn die Zelle des deutlich sichtbaren Oogoniums (Tab. X. 2) zeigt eine sehr grosse Anzahl von Prothallien, welche sich sodann auch in dem Kalk und Serpentin finden.
+
+###### _Chairokerdos._
+
+Der willkommene (erste) Fund einer Pflanze des Laurentian-Gneisses. Tafel IV. und V.
+
+Wie in allen bisherigen Algen bildet je ein Stengel eine Pflanze.
+
+Ein schwacher Wurzelansatz in Form einer platt gewölbten oder becherförmigen Zelle, dann eine gewundene längere, weiter eine becherartige Zelle.
+
+Nun beginnt die Theilung erst mit einer gewundenen Zelle, setzt dann fort in gestreckten, diesen folgen perlschnurartige Zellen, welche mit einer Sporenzelle endigen. Die Sporen liegen geordnet. Taf. V. Fig. 2.
+
+Der nächste Stengel trägt eine leere Sporenzelle. (Taf. IV.)
+
+V. 1. ist eine 300 malige Vergrösserung der dritten Pflanze von rechts, der auch die Sporenzelle angehört.
+
+Die erste Pflanze (von rechts) hat Blätterform, gehört aber ohne Zweifel zu derselben Art.
+
+Eine Zellmembran ist deutlich wahrzunehmen.
+
+Tafel VI. 4. 1/320 wahrscheinlich dieselbe Art.
+
+###### _Poterion._
+
+Tafel VI. Fig. 1. Die Becheralge. Fig. 2. Basalzelle.
+
+###### _Margarodes._
+
+Taf. VI. 3. (1/650).
+
+Perlschnuralge entwickelt sich aus einer Wurzelzelle, welche auf einem geraden Zweige (einer anderen Art) aufsitzt.
+
+###### _Lichnon._
+
+(Die Lampe) Taf. VII. 1. 2. (Fig. 4. die Wurzelzelle) (1/90).
+
+Die Zelle 2. gehört derselben Art an, ist jedoch ohne Stengel im Dünnschliff. Ich habe aus dem Kalk eine Zellhaut vollkommen gleich mit Säure ausgewaschen.
+
+Fig. 3. ist eine Becherzelle, welche nicht zu 1. gehört.
+
+###### _Salpinx._
+
+Trompeten-Alge (1/90).
+
+###### _Kilikodendron._
+
+Becherbaum. Tafel VII. 6. (1/90).
+
+Fig. 7. 8. Die Pflanze in ihrer ersten Entwicklung. Eine wundervolle Form bildet
+
+###### _Pleurophyllum._
+
+Ribben-Blatt. Taf. VIII. Fig. 1. (1/750).
+
+Die Kelche sitzen unmittelbar im Kalk.
+
+###### _Phiala._
+
+Die Schale. Taf. VIII. 2. (1/90).
+
+Schalenförmige Zellen. Die Stengel daneben zeigen Copulation.
+
+Das Zierlichste aber ist
+
+###### _Theochara._
+
+Gotteslust. Taf. XI. 1. 1/90.
+
+in Dolomit verwandelt, glashell.
+
+###### _Linophyton._
+
+Tafel XI. 2. 3. 4.
+
+Ich habe die Formen zusammengestellt, welche alle denselben Charakter an sich tragen. 
+
+Bei Fig. 2. ist zu beachten, dass der eine Zell-Knoten nach rechts, der andere nach links geht, was ich nur nach sorgfältiger Beobachtung zeichnen liess. 
+
+In einem Bilde, welches leider nicht auf die Tafel kam, sitzt in dieser (wahrscheinlich Copulations-) Zelle in der Mitte ein Kelch. 
+
+Möglich also, dass an der Stelle Fig. 2. diese Kelch-Zelle abgebrochen ist. 
+
+Fig. 5. zeigt den Fadenansatz einer ähnlichen Art.
+
+##### 9. Ueberblick.
+
 ...
