@@ -60,7 +60,7 @@ Dr. Otto Hahn, Rechts-Anwalt.
 
 Sir W. Logan in Montreal war es, welcher zuerst die Aufmerksamkeit auf einen im Laurentian-Gneiss von Canada eingelagerten Serpentin-Kalk lenkte, indem er dabei die Vermuthung aussprach, es enthalte dieser Kalk und zwar in eingebetteten „Knollen“ die Reste der ersten organischen Schöpfung. 
 
-Dr. W. Dawson in Montreal, Kanzler des M'Gill College dort, nahm sich der Sache weiter an und bestimmte in Verbindung mit Dr. Hunt in Montreal und Dr. W. Carpenter in London, dem berühmtesten Miroscopiker Englands, die Natur jener Knollen dahin, sie seien die versteinerten Reste einer Riesen-Foraminifere, die dem Genus _Nummulina_ ähnlich sei. Dr. Dawson nannte dieselbe _Eozoon canadense_. Unter diesem Namen wurde sie dann auch zur grossen Freude Aller auf das erste noch ganz weiss gelassene Blatt der Naturgeschichte eingetragen. Allerdings wurde der Eintrag angefochten. Alsbald erhoben sich bedeutende Stimmen gegen die organische Natur des Gesteins. Die Schriften über Eozoon schwollen dermassen an, dass man sagen darf: das Eozoon hat seine eigene Literatur.
+Dr. W. Dawson in Montreal, Kanzler des M'Gill College dort, nahm sich der Sache weiter an und bestimmte in Verbindung mit Dr. Hunt in Montreal und Dr. W. Carpenter in London, dem berühmtesten Miroscopiker Englands, die Natur jener Knollen dahin, sie seien die versteinerten Reste einer Riesen-Foraminifere, die dem Genus Nummulina ähnlich sei. Dr. Dawson nannte dieselbe _Eozoon_ canadense. Unter diesem Namen wurde sie dann auch zur grossen Freude Aller auf das erste noch ganz weiss gelassene Blatt der Naturgeschichte eingetragen. Allerdings wurde der Eintrag angefochten. Alsbald erhoben sich bedeutende Stimmen gegen die organische Natur des Gesteins. Die Schriften über _Eozoon_ schwollen dermassen an, dass man sagen darf: das _Eozoon_ hat seine eigene Literatur.
 
 Ich selbst betheiligte mich spät erst an dem Kampfe und glaubte in einem Aufsatze über _Eozoon canadense_ in den Württembergischen naturwissenschaftlichen Jahresheften den Beweis gegen die organische Natur geführt zu haben. Carl Möbius ergänzte denselben durch Abbildungen, insbesondere von lebenden Foraminiferen.
 
@@ -94,7 +94,7 @@ Es sind bis jetzt wenige neue, von den lebenden verschiedene Arten festgestellt.
 
 Die Pflanzen sind alle in dem wirklichen „Eozoongestein“, welches ich von nun an Eophyllumkalk nenne, eingeschlossen von mir gefunden worden.
 
-Ich bemerke nämlich hier sofort, worauf auch mein verehrter Freund Dr. Dawson aufmerksam machte: Not all is Eozoon!
+Ich bemerke nämlich hier sofort, worauf auch mein verehrter Freund Dr. Dawson aufmerksam machte: Not all is _Eozoon_!
 
 Anfangs allerdings wurde zwischen Eozoongestein und den Knollen nicht unterschieden.
 
@@ -120,7 +120,7 @@ Ich füge hier bei, dass dieselben Kalkschichten eine Reihe von Mineralien und z
 
 Sodann kommen vor Datolit, Scapolit, Salit, Spinell, und sehr schöne Zirkone.
 
-Im mächtigen Kalke liegen Schichten von Dolomit und Augit, über diesen eine Lage von edlem Serpentin (Ophit) mit Chrysotiladern und nun folgen wechsellagernd die Serpentin- und Kalklamellen und Schichten, welche als „Eozoon“ angesprochen werden.
+Im mächtigen Kalke liegen Schichten von Dolomit und Augit, über diesen eine Lage von edlem Serpentin (Ophit) mit Chrysotiladern und nun folgen wechsellagernd die Serpentin- und Kalklamellen und Schichten, welche als „_Eozoon_“ angesprochen werden.
 
 Die erste Kalklamelle ist im Durchschnitt etwa 50 mm., die zweite etwa 30 mm.; es folgen sich 5-6 immer kleiner und dann geht das Gestein in eine körnige (acervuline) Form über.
 
@@ -182,19 +182,19 @@ Ein System lässt sich mit dem vorhandenen Material doch nicht begründen. Ich b
 
 Ehe ich aber auf die Beschreibung der Pflanzen übergehe, will ich noch einmal einen Blick auf
 
-##### 4. das Eozoon
+##### 4. das _Eozoon_
 
 werfen.
 
-Die Behauptung, dass die „Eozoon“-Formen einer Foraminifere angehören, fällt in sich zusammen mit dem Beweis, dass die Formen Pflanzen sind. Foraminifere und Pflanze schliessen sich aus.
+Die Behauptung, dass die „_Eozoon_“-Formen einer Foraminifere angehören, fällt in sich zusammen mit dem Beweis, dass die Formen Pflanzen sind. Foraminifere und Pflanze schliessen sich aus.
 
 Meine neuesten Untersuchungen aber haben, wenn sie auch einzelne frühere Behauptungen modifiziren, die Beweissätze der Gegner für eine Foraminifere vollständig entkräftet.
 
 Dazu gehört vor Allem der wahre Sachverhalt bezüglich der „Canalsysteme“. Auf diese hat man das grösste Gewicht gelegt. Sie bildeten das Schlussglied in der Beweiskette.
 
-Hier aber verhalten sich die Tatsachen jetzt vollkommen anders, und es ist unbegreiflich, wie Dr. Carpenter diese Canalsysteme in das Schema des Eozoon aufnehmen konnte.
+Hier aber verhalten sich die Tatsachen jetzt vollkommen anders, und es ist unbegreiflich, wie Dr. Carpenter diese Canalsysteme in das Schema des _Eozoon_ aufnehmen konnte.
 
-Diese Canalsysteme sind einmal, wie ich Taf. III. zeige, sehr verschieden. Wäre das Eozoon eine Foraminifere, so wäre es gar nicht denkbar, dass in — zugestandenermassen ein und derselben Foraminifere ein Canal becherförmig, ein anderer fadenförmig, ein dritter perlschnurartig gereiht wäre.
+Diese Canalsysteme sind einmal, wie ich Taf. III. zeige, sehr verschieden. Wäre das _Eozoon_ eine Foraminifere, so wäre es gar nicht denkbar, dass in — zugestandenermassen ein und derselben Foraminifere ein Canal becherförmig, ein anderer fadenförmig, ein dritter perlschnurartig gereiht wäre.
 
 Sodann finden sich, wie Möbius dargestellt hat, bei der lebenden Foraminifere blos fadenförmige Canalsysteme.
 
@@ -224,13 +224,13 @@ Sobald die Form des Eophyllum einmal als Pflanze feststand, so wurde es wahrsche
 
 Der Beweis wurde ergänzt mit Durchschnitten grösserer Stücke, wo eine Anzahl Pflanzen alle und immer in Einem Ausgangspunkt zusammenlaufen.
 
-Man sehe doch einmal den Naturselbstdruck des Eozoon in Dawson's „Life's Dawn on Earth“! Man denke sich das Bild nach der anderen Seite ergänzt. Freilich in 4 eckig willkürlich herausgesägten kleinen Stücken war die Pflanzenform nicht leicht zu erkennen. Man nehme nun ferner ein 1/2 Meter grosses Stück Lagergestein und man sieht dort von etwa 3 zu 3 Cmetern auf dem Serpentin die Formen der „Canalsysteme“, hier im Grossen von Serpentin nachgebildet: man wird ferner die Wurzelansätze an der Gränze der Serpentin- und Dolomit-Schichte finden. Endlich sind nicht nur die Zellhäute erhalten, sondern die Prothallien dem Hundert nach im Kalk und im Serpentin!
+Man sehe doch einmal den Naturselbstdruck des _Eozoon_ in Dawson's „Life's Dawn on Earth“! Man denke sich das Bild nach der anderen Seite ergänzt. Freilich in 4 eckig willkürlich herausgesägten kleinen Stücken war die Pflanzenform nicht leicht zu erkennen. Man nehme nun ferner ein 1/2 Meter grosses Stück Lagergestein und man sieht dort von etwa 3 zu 3 Cmetern auf dem Serpentin die Formen der „Canalsysteme“, hier im Grossen von Serpentin nachgebildet: man wird ferner die Wurzelansätze an der Gränze der Serpentin- und Dolomit-Schichte finden. Endlich sind nicht nur die Zellhäute erhalten, sondern die Prothallien dem Hundert nach im Kalk und im Serpentin!
 
 Wenn man das Gestein genau untersucht, so findet man die Formen schon mit blossem Auge.
 
 Blos eine Ergänzung dieses Beweises ist es, dass dieselben Pflanzenformen in den Dolomit- und Kalk-Lagern vorkommen, im Kalk in Serpentin, aber auch in Glimmer verwandelt sind. Diese Glimmerpflanzen sind das Schönste, was man sehen kann.
 
-Nun muss ich aber noch auf einen Umstand aufmerksam machen, darauf nämlich, dass der Serpentin in den Stücken, welche Eozoon sein sollten, also in den Knollen, Füllmasse ist. Der Kalk ist das Lager.
+Nun muss ich aber noch auf einen Umstand aufmerksam machen, darauf nämlich, dass der Serpentin in den Stücken, welche _Eozoon_ sein sollten, also in den Knollen, Füllmasse ist. Der Kalk ist das Lager.
 
 Anders bei den Formen der Tafel I. 3., welche ich Coralloidea nenne. Hier sind die Algen in Dolomit verwandelt, der Sepentin ist das Lager. Hier also ist das Verhältniss umgekehrt.
 
@@ -238,7 +238,7 @@ Man sieht hieraus, wie oberflächlich, einseitig überhaupt die bisherigen Unter
 
 ##### 5. Die Pflanze.
 
-Ein grösseres Räthsel freilich als das „Eozoon“ ist wohl schwerlich der Naturforschung aufgegeben worden.
+Ein grösseres Räthsel freilich als das „_Eozoon_“ ist wohl schwerlich der Naturforschung aufgegeben worden.
 
 Als ich die erste Ankündigung des Eophyllum dem „Ausland“ übergab, dachte ich noch nicht daran, dass die grossen Serpentinbänder auch Pflanzen seien. Ich hatte diese Arbeit zur Hälfte nach dem ersten Plan fertig, als ich endlich ein schlechtes Gesteinsexemplar in die Hand bekam, bei welchem sich aber gerade desshalb die Serpentintheile eigenthümlich deutlich abhoben.
 
@@ -252,7 +252,7 @@ Ich habe jetzt keinen Zweifel mehr.
 
 Und nur so erklären sich alle Thatsachen.
 
-Die Serpentinbänder, welche das, was man bisher Eozoon nannte, zusammensetzen, gehören einer Alge mit breiten Blättern, wenn der Ausdruck erlaubt ist, an, welche von einem Punkte ausgehend sich in regelmässigen Formen legt. Die Basalzelle sitzt auf dem Serpentin oder Dolomit auf. Wurzeln fand ich nur in Einem Falle, jedoch nicht sicher.
+Die Serpentinbänder, welche das, was man bisher _Eozoon_ nannte, zusammensetzen, gehören einer Alge mit breiten Blättern, wenn der Ausdruck erlaubt ist, an, welche von einem Punkte ausgehend sich in regelmässigen Formen legt. Die Basalzelle sitzt auf dem Serpentin oder Dolomit auf. Wurzeln fand ich nur in Einem Falle, jedoch nicht sicher.
 
 Der Kalk ist die Einlagerung. Deutliche Brutzellen sind darin sichtbar: denn im Dünnschliff stechen sie durch den Kalk noch durch.
 
@@ -282,7 +282,7 @@ Eophyllum auf die mit blossem Auge sichtbare grösste Pflanzenform.
 
 Sie bildet die Algenwiesen im Laurentian, aber freilich nicht in gar riesiger Form, nur durch ihre Menge ist sie riesig. Sie ist enthalten in den Serpentin-Knollen des Laurentiankalks, welche man bisher _Eozoon canadense_ nannte.
 
-Aber hier ist sie nur in ihrer grössten Entwicklung: die acervuline Form des Eozoon ist nichts, als kleines Eophyllum und vorzugsweise Brutzellen desselben.
+Aber hier ist sie nur in ihrer grössten Entwicklung: die acervuline Form des _Eozoon_ ist nichts, als kleines Eophyllum und vorzugsweise Brutzellen desselben.
 
 Die Pflanze ist eine Alge: in ihrer eigenthümlichen Form stimmt sie mit keiner lebenden vollständig, jedenfalls gehört sie schon zu den höher entwickelten Fucusarten.
 
@@ -292,7 +292,7 @@ Die neuen Knospen, ich nenne sie Brutzellen, sitzen überall auf dem Rande der Z
 
 Die Form ist in Tafel I. 1. dargestellt.
 
-Das von Carpenter abgebildete Stück Eozoon, welches nachher in so viele Bücher überging, zeigt in dem Kugligen nur Brutzellen des Eophyllum, und ich bin überzeugt, dass sie sich an dem abgebildeten Stück noch mit blossem Auge erkennen liessen.
+Das von Carpenter abgebildete Stück _Eozoon_, welches nachher in so viele Bücher überging, zeigt in dem Kugligen nur Brutzellen des Eophyllum, und ich bin überzeugt, dass sie sich an dem abgebildeten Stück noch mit blossem Auge erkennen liessen.
 
 Die Durchschnitte der Brutzellen sind leicht verständlich, sobald man sich diese Zellen aus dem Kalk herauslöst, indem man ihn in eine verdünnte Säure legt, oder auch, wenn man sie im Serpentin sucht, wo sie wie lebend gesehen werden können.
 
