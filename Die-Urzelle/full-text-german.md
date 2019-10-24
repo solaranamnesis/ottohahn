@@ -310,7 +310,7 @@ Alle diese Formen sind theils aus dem Kalk gelöst, theils nach den im Serpentin
 
 Ich wage es nicht, bei dem mir vorliegenden Material hier irgend schon Arten zu bestimmen. Dazu ist die Zeit noch nicht gekommen.
 
-1. 2. 4. 6. 8. 17. 18. 22. 23. sind Prothallien, 3 a u. b. 10. Füllmassen (Steinkerne), 5. 23. zeigen eine Fadenzelle. — Fig. 9. ist wahrscheinlich eine Sporangie, Fig. 16. wasserhell eine Füllmasse, wahrscheinlich von einer gestreckten Zelle, wie sie bei den Algen häufig vorkommen.
+1, 2, 4, 6, 8, 17, 18, 22, 23, sind Prothallien, 3 a u. b. 10. Füllmassen (Steinkerne), 5. 23. zeigen eine Fadenzelle. — Fig. 9. ist wahrscheinlich eine Sporangie, Fig. 16. wasserhell eine Füllmasse, wahrscheinlich von einer gestreckten Zelle, wie sie bei den Algen häufig vorkommen.
 
 Ich lasse nun
 
