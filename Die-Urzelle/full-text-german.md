@@ -556,4 +556,20 @@ _das erste Thier_
 
 finden sollte, welches wir kennen.
 
+Ich besitze es in 1 vollständigen Exemplar (in Canadabalsam) und in Bruchstücken, wovon einige nahezu vollständig.
+
+Vergebens sah ich mich nach einem Nachbild unter den lebenden, wie unter den ausgestorbenen um. Es gleicht einigermassen Serpula oder Vermetus.
+
+Ich nenne es _Titanus Bismarki_ Taf. XII. unserm Reichskanzler zu Ehren.
+
+Ein Wurm mit einem Kieselpanzer: denn derselbe hat der Salzsäure widerstanden.
+
+Der Panzer muss durch Häute verbunden gewesen sein. Dafür spricht Taf. XIII. Fig. 1.
+
+Ein Exemplar ist 0,59 mm. lang, 0,06 mm. durchschnittlich breit.
+
+Der Panzer besteht aus zahllosen contractilen Ringen; der _Titanus_ vermag jede Stellung anzunehmen.
+
+Ein Stück (vorausgesetzt, dass es derselben Art angehört) zeigt, dass eine parthienweise Zusammenziehung der Glieder stattfand, denn der Leib innerhalb des Kieselpanzers ist in gleichmässig von einander abstehenden Segmenten zusammengezogen, und daher bildet der Panzer scharfe Kanten.
+
 ...
