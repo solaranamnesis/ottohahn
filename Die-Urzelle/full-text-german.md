@@ -572,4 +572,30 @@ Der Panzer besteht aus zahllosen contractilen Ringen; der _Titanus_ vermag jede 
 
 Ein Stück (vorausgesetzt, dass es derselben Art angehört) zeigt, dass eine parthienweise Zusammenziehung der Glieder stattfand, denn der Leib innerhalb des Kieselpanzers ist in gleichmässig von einander abstehenden Segmenten zusammengezogen, und daher bildet der Panzer scharfe Kanten.
 
+In dem Panzer steckt ein Leib, welcher ebenfalls der Säure widerstanden hat.
+
+Der Panzer ist egelartig geformt, nicht rund, sondern im Durchschnitt flach-linsenförmig, wie der Durchschnitt eines Blutegels. Er nimmt von oben nach unten an Dicke ab. Das dickere Ende ist herzförmig, die scharfe Spitze nach oben gekehrt.
+
+Es bildet eine Art Wohnkammer: der betreffende Theil des Panzers ist deutlich glasig.
+
+Mundöffnung 0,12 mm. breit,
+
+Schwanz 0,05 mm. breit.
+
+Durch den Panzer hindurch sieht man einen Körper mit einer Höhlung in der Mitte.
+
+Durchmesser desselben 0,03 mm.
+
+Aus der Mundöffnung ragt eine Wulst hervor, der eigentliche Mund.
+
+Wenn man bei Taf. XII. Fig. 3. das Microscop hoch einstellt, so sieht man nur die herzförmige Oeffnung: wird der Tubus gesenkt, so erblickt man durch die Schale und hinter derselben die Mundöffnung. Leider lassen sich solche zarte Dinge in der Zeichnung nicht vollständig wiedergeben.
+
+Figur 3 hat einen übrigens undeutlichen Lappen, der über die Mundöffnung hervorragt.
+
+Ein gebrochenes Stück Taf. XIII. 2 zeigt eine deutliche Röhre.
+
+Das andere Ende des Körpers (der Schwanz) ist zweilappig, wie eine Klappe. Taf. XII. Fig. 1. Taf. XIII. Fig. 5. ist ein abgebrochenes Stück, welches vollständig mit Taf. XII. Fig. 1. stimmt.
+
+Dass die Form eine organische ist, lässt sich wohl in keiner Weise bezweifeln. Dass es ein Thier und keine Pflanze ist, dafür spricht die Bewegung, welche aus den verschiedenen Stellungen des Geschöpfs geschlossen werden kann.
+
 ...
