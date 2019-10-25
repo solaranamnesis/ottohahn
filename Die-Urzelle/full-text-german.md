@@ -536,4 +536,12 @@ Das Bild der Urzelle, welches nun naturgeschichtlich festgestellt ist, ist fast 
 
 Freilich das Werden selbst sieht man doch nicht. Zum Werden kommt der Mensch immer zu spät: wenn er es sieht, ist schon ein Gewordenes da.
 
+Was führt die einfachsten Stoffe der Erde in diese einfachsten Formen? Dieses Räthsel der Entwicklungslehre wird nie gelöst werden. Aus den wissenschaftlich registrirten Stoffen allein lässt es sich nicht erklären. Diese Tatsache wird auch den Naturforscher und gerade den Naturforscher, als den Mann der Erfahrung, zuerst zur Erkenntniss eines Stoffes treiben, welcher selbst zwar mit den Sinnen nicht mehr wahrgenommen werden kann, dessen Wirkungen aber in die Sinne fallen und damit dem Verstande den Beweis seines Daseins aufnöthigt. Nenne man diesen Stoff, wie man will, er ist da. Das ist zunächst die Hauptsache. Unsere Zeit streitet über die Frage, ob es denn ausser der Materie auch einen Geist gebe? Die Zeit wird freilich auch noch kommen, wo man einsieht, dass es ebensowenig einen Geist, (Leben) ohne die Materie gäbe.
+
+Das Entwicklungsgesetz aber ist es gerade, welches den Menschen zu der Ueberzeugung leitet, dass die Schöpfung auch mit seinem Dasein, wie es jetzt ist, noch nicht abgeschlossen sein kann, dass es vielmehr noch höhere Daseinsformen für ihn geben muss, welche zu erreichen, Naturgesetz für ihn ist.
+
+So allein erklären sich hundert Tatsachen des geistigen und Seelenlebens, welche ohne dieses Gesetz unverständlich wären, kurz, so allein erklärt sich der Mensch selbst.
+
+Es ist daher die Entwicklungslehre, auf den Menschen übertragen, das Gesetz des Fortschritts ja der Unsterblichkeit. Nicht im Kampf um das niedere Dasein, sondern im Kampf um das höchste Dasein geht der Mensch seinen Lauf nach dem Gesetz der Linie, die sich nur im Unendlichen mit einer andern schneidet.
+
 ...
