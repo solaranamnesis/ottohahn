@@ -620,4 +620,50 @@ Es sind nur einmal neue organische Formen und damit ist eine neue Schöpfungsper
 
 #### III. Serpentin.
 
+Als ich die Arbeit bis hieher vollendet hatte, fiel mein Blick auf einen Briefbeschwerer von Serpentin, der auf meinem Arbeitstisch lag. Ich sah hier bläuliche Flecken und sofort erkannte ich die vom Laurentian-Serpentin beschriebenen Formen in dem Serpentin von Sachsen wieder.
+
+Bei genauer Untersuchung fand ich die schönsten Linien und Formen von solcher Reinheit und Vollendung, als sie der Palaeontologe nur wünschen kann.
+
+Sofort nahm ich alle meine Serpentine, sowohl Dünnschliffe als Handstücke vor. Wie erstaunte ich aber, als ich in dem grössten Theil derselben Pflanzen-Formen von 1-2 cm. fand!
+
+Ich fand daneben eine solche Masse kleinerer Formen, dass ich die Ansicht ausspreche:
+
+ein grosser Theil der Serpentine, insbesondere der böhmischen und sächsischen, ist nichts als ein grosses Algen-Lager, ähnlich den fossilen Diatomeen-Lagern.
+
+Es lagert die verkieselte Pflanze in der ursprünglich flüssigen Serpentinmasse.
+
+Ich zeichne nun sofort die Form aus 3 Briefbeschwerern cf. Tafel XIV. und begnüge mich vorerst damit, die Wissenschaft auf die Tatsache aufmerksam gemacht zu haben.
+
+Tafel XIV. 4. ist eine Form von 1 1/2 cm., welche ich so bestimmt gesehen, als es nur sein kann.
+
+Ich nenne sie meinem verehrten Freunde K. Hofrath Dr. F. v. Hochstetter in Wien zu Ehren und wegen ihrer knospenartigen Form
+
+_Opthalmia Hochstetteri_.
+
+Wir haben also ungeheure Schichten eines bis dahin für azoisch gehaltenen Gesteins als reines organisches Lager.
+
+Die Kelche sind mit Granat gefüllt. Offenbar steht diese Bildung in Verbindung mit der Thätigkeit der Pflanze.
+
+Wie war es möglich, diese Formen zu übersehen?
+
+Aber freilich, ehe man den Schlüssel zur Form aus dem canadischen Laurentian-Gestein hatte, war es nicht so leicht, nur daran zu denken und deshalb sah man es auch nicht.
+
+Jede Apotheker-Reibschale, jeder Briefbeschwerer zeigt uns in einem Cubikcentimeter eine grössere und vielleicht 1000 kleinere Pflanzen-Zellen. 
+
+Ich zeichne aus dem Eophyllum-Kalk noch 2 Tafeln Zellenformen, um die Grundform derselben zur Anschauung zu bringen. 
+
+Der Gedanke an das Erlebte beschäftigte mich den ganzen Tag. 
+
+Wie ganz anders erschien mir mit Einem Male das bisher so räthselhafte Gestein! 
+
+Ich war schon im Begriff, mich zur Ruhe zu begeben, als mir einfiel, dass ich noch eine Kiste Gesteine von Canada verpackt im Hausgang stehen habe. 
+
+Ich wollte insbesondere noch ein Stück wasserhellen Kalkspats wegen der kupfergefärbten Pflanze darin suchen und damit meine ganze Arbeit schliessen. 
+
+Ich liess die Kiste öffnen. 
+
+Da fielen mir die Laurentian-Gneisse in die Hand.
+
+#### IV. Was ist der Laurentian-Gneiss?
+
 ...
