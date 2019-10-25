@@ -448,4 +448,48 @@ Fig. 5. zeigt den Fadenansatz einer ähnlichen Art.
 
 ##### 9. Ueberblick.
 
+Der allgemeine Charakter dieser Pflanzenformen des Laurentian-Kalks ist (ich wage den Ausdruck) ein höchst roher, einfacher, anfänglicher. Aber etwas haben sie, was sie den Pflanzen der Jetztzeit mindestens gleichstellt: sie sind vermöge ihrer Anlage einer ungemessenen Vermehrung fähig.
+
+Das Individuum selbst ist einfach, ist eine Zelle.
+
+Eine Zelle setzt sich an (nach unten), die nächste kehrt sich nach oben. Tafel VII. Fig. 7. 
+
+Ich habe Fälle beobachtet, wo mehrere Zellen nach unten sich über einander setzten. 
+
+Mir ist es wahrscheinlich, dass hier die Zelle von Kalk überlagert und so genöthigt wurde, ihre Wurzelbildung fortzusetzen. 
+
+Eigentliche Wurzeln fand ich, jedoch nicht sicher, nur in einem Dünnschliffe. 
+
+Nun setzt sich an diese Zelle, meist seitlich an ihrem Rand, oder an einem beliebigen Theile ihrer Oberfläche, eine Brut-Zelle (Knospe) in Form eines Blattes oder eines Bechers an. Es theilen sich die Zellen: so entsteht ein Stamm. 
+
+Die Befruchtungsorgane scheinen erst nach einem grösseren Wachsthum sich zu bilden. Tafel V. und IX. 
+
+Was die Form der Zellen betrifft, so ist dieselbe unerschöpflich verschieden. 
+
+Immer aber bewahrt sie den Charakter der Urpflanze. 
+
+Merkwürdig ist die Erhaltung. 
+
+Nicht blos ganze Pflanzen, sondern Membrane sind erhalten. Sehr häufig finden sich die Modelle der Zellhöhlen. Diese sind gewöhnlich mit Dolomit ausgefüllt, wenigstens wo sie in Dolomit und Serpentin lagern. 
+
+So sind uns Modelle der Hohlräume der Pflanzen erhalten. Tafel II. Fig. 10. 
+
+Diese Form findet sich tausendmal im Serpentin wie im Gneiss, auch im Dolomit selbst. Der offene Zwischenraum zeigt überall die Linie der Zellscheidewände. 
+
+Ebenso häufig finden sich ganze Brutzellen in Serpentin verwandelt. 
+
+Die einfache Behandlung mit Salzsäure liefert diese Zelle in grosser Menge. Ja ich habe sogar Kieselskelette erhalten, wo der übrige Theil der Pflanze wahrscheinlich in Kalk verwandelt war. 
+
+Wenn man so die Form der Urpflanze gewonnen hat, so nehme man einen beliebigen Dünnschliff des „_Eozoon_“ und man wird die Linien derselben in jedem Theile finden. Die einen Exemplare freilich sind blos Abschnitte, andere Halbschnitte; am besten erkennt man desshalb die Pflanze an den seitlichen Einschlüssen. 
+
+Ueberall zeigt die in Kiesel (wahrscheinlich Glimmer) erhaltene Zellmembrane die Form der Pflanze. 
+
+Jetzt erst ist mir auch klar, warum die Chrysotilfasern überall parallel sich lagern (dieselben, die Dr. Carpenter für eine Haut mit Tubuli eines Nummuliten ansah). 
+
+Diese Chrysotilfasern haben sich um die Pflanze (den Serpentin) in der Art gelagert, dass sie die Oberfläche der Zelle in Parallel-Kreisen umgeben: (in einer Foraminifereschale stünden sie senkrecht auf der Kammer!) 
+
+Wenn ich jetzt meine Dünnschliffe durchsehe und finde darin die deutlichsten Brutzellen an der Pflanze, in der Tiefe des Kelches die runde Oeffnung, welche ganz constant (also hundertfältig) sich findet, ferner ganz junge Zellen noch in den alten, endlich im Kalk daneben diese Zellen: so muss ich glauben, dass alle, welche am _Eozoon_ arbeiteten (ich eingeschlossen), mit Blindheit geschlagen waren. 
+
+Vollends unbegreiflich ist dies hinsichtlich der Pflanzen im Serpentin des Eophyllumkalks. Hier liegen sie sogar für das blosse Auge. Aber weil dieser Serpentin nicht _Eozoon_ war, desshalb untersuchte ihn auch Niemand mehr. Jeder, der die Sache jetzt untersucht, wird sich an die Stirne schlagen und ausrufen: wie war das zu ühersehen möglich!
+
 ...
