@@ -544,4 +544,10 @@ So allein erklären sich hundert Tatsachen des geistigen und Seelenlebens, welch
 
 Es ist daher die Entwicklungslehre, auf den Menschen übertragen, das Gesetz des Fortschritts ja der Unsterblichkeit. Nicht im Kampf um das niedere Dasein, sondern im Kampf um das höchste Dasein geht der Mensch seinen Lauf nach dem Gesetz der Linie, die sich nur im Unendlichen mit einer andern schneidet.
 
+Ich konnte mir nicht versagen, diese Schlussbemerkungen zu machen. Ich glaube in meiner Arbeit gezeigt zu haben, dass ich die exacte Wissenschaft liebe. Aber es gibt eine exacte Wissenschaft auch des Geistigen und nicht blos des Körperlichen. Zu einer wie der andern gehört, dass man sehen will. Will man sehen, die Tatsachen sind da.
+
+Auf diesem Wege möchte ich nicht blos die Naturwissenschaft, sondern auch die Wissenschaft des Menschen, die höchste welche es geben kann, durch meine Arbeit um einen Schritt weiter geführt sehen.
+
+#### II. Das erste Thier.
+
 ...
