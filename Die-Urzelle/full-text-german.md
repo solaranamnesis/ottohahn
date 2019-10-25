@@ -648,22 +648,63 @@ Wie war es möglich, diese Formen zu übersehen?
 
 Aber freilich, ehe man den Schlüssel zur Form aus dem canadischen Laurentian-Gestein hatte, war es nicht so leicht, nur daran zu denken und deshalb sah man es auch nicht.
 
-Jede Apotheker-Reibschale, jeder Briefbeschwerer zeigt uns in einem Cubikcentimeter eine grössere und vielleicht 1000 kleinere Pflanzen-Zellen. 
+Jede Apotheker-Reibschale, jeder Briefbeschwerer zeigt uns in einem Cubikcentimeter eine grössere und vielleicht 1000 kleinere Pflanzen-Zellen.
 
-Ich zeichne aus dem Eophyllum-Kalk noch 2 Tafeln Zellenformen, um die Grundform derselben zur Anschauung zu bringen. 
+Ich zeichne aus dem Eophyllum-Kalk noch 2 Tafeln Zellenformen, um die Grundform derselben zur Anschauung zu bringen.
 
-Der Gedanke an das Erlebte beschäftigte mich den ganzen Tag. 
+Der Gedanke an das Erlebte beschäftigte mich den ganzen Tag.
 
-Wie ganz anders erschien mir mit Einem Male das bisher so räthselhafte Gestein! 
+Wie ganz anders erschien mir mit Einem Male das bisher so räthselhafte Gestein!
 
-Ich war schon im Begriff, mich zur Ruhe zu begeben, als mir einfiel, dass ich noch eine Kiste Gesteine von Canada verpackt im Hausgang stehen habe. 
+Ich war schon im Begriff, mich zur Ruhe zu begeben, als mir einfiel, dass ich noch eine Kiste Gesteine von Canada verpackt im Hausgang stehen habe.
 
-Ich wollte insbesondere noch ein Stück wasserhellen Kalkspats wegen der kupfergefärbten Pflanze darin suchen und damit meine ganze Arbeit schliessen. 
+Ich wollte insbesondere noch ein Stück wasserhellen Kalkspats wegen der kupfergefärbten Pflanze darin suchen und damit meine ganze Arbeit schliessen.
 
-Ich liess die Kiste öffnen. 
+Ich liess die Kiste öffnen.
 
 Da fielen mir die Laurentian-Gneisse in die Hand.
 
 #### IV. Was ist der Laurentian-Gneiss?
+
+Diese Frage stellte ich an mich.
+
+Ich besah das Gestein, während ich es ins Zimmer trug, und erkannte sofort, 
+
+dass auch der Laurentian-Gneiss nur ein grosses Pflanzen-Lager sei. 
+
+Sofort wurden noch Dünnschliffe gefertigt und durch das Microscop vollkommen bestätigt, was das blosse Auge gesehen hatte.
+
+Ich untersuchte in der Folge alle meine Handstücke, etwa 30 Stücke und fand eines wie das andere grösstentheils aus Pflanzen (Algen) bestehend.
+
+Die meisten sind schon mit blossem Auge zu erkennen.
+
+Mit schwacher Vergrösserung löst sich die ganze Masse des Gneisses in Pflanzen auf.
+
+Also eine Formation, welche in ihrer Mächtigkeit auf 30,000 Fuss geschätzt ist, ein Pflanzenlager!
+
+Meine Laurentiangneiss-Handstücke sind aus der Gegend von Ottawa und vom Lake Simcoe bis zum Nipissing-See gesammelt, letztere also von einer Fläche von 130 engl. Meilen und alle sind Eine grosse Pflanze!
+
+Ich fertige nun Tafeln, um eine Vorstellung zu geben.
+
+Das Handstück I. ist von Templeton bei Ottawa (der Hauptstadt Canadas). Glimmerschiefer.
+
+Es ist aus einer Apatitgrube. Es hat fleischrothen Kalkspath, graugrüne Apatitcrystalle mit 6 seitigen Tafeln von schwarzem Glimmer.
+
+Seine Textur ist fein-blättrig. Auf der Bruchfläche erkennt man deutlich strahlenförmige Parthien. Sofort fallen auch weisse rundliche Stellen in die Augen. Es sind die Kelch-Zellen, welche gegen den Beschauer gekehrt sind.
+
+Bei genauer Besichtigung findet man die Zellkelche in den grösseren Glimmer-Partien, sodann die Zellen, welche den Stamm bilden.
+
+Schwarze Glimmer-Tafeln umhüllen die schönsten Kelche. Die feinste Textur ist noch sichtbar.
+
+Eine Pflanze kann schon mit blossem Auge auf 1 cm. Raum verfolgt werden.
+
+Schon mit blossem Auge sieht man ferner die Verwandlung der Pflanze in Apatit und Glimmer.
+
+Die Pflanzen nehmen etwa 2/3 der Gesteinsmasse ein.*
+
+*) Vergleiche unten.
+
+Die Apatit-Crystalle sind wahrscheinlich das Produkt des kleinen organischen Lebens.
+
 
 ...
