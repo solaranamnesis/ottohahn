@@ -518,4 +518,22 @@ Diese Einschlüsse könnten allerdings auch Dolomit sein, welcher sich im Serpen
 
 ##### 10. Ergebnisse.
 
+Die wichtigen Ergebnisse meiner Entdeckung sind:
+
+I. die ersten organischen Formen sind die niedersten Pflanzen, woraus höchst wahrscheinlich
+
+II. folgt, dass wirklich die Bildungen der Gegenwart die Erzeugnisse der Fortentwicklung sind; es ist also eine blos einmalige gleichzeitige „Schöpfung“ nicht — dagegen
+
+III. ist eben vermöge des Gesetzes der Entwicklung anzunehmen, dass die niedersten Formen der Laurentianzeit heute längst in höhere sich verwandelt haben: die niedersten von heute also können nicht die Nachkommen von damals sein und hieraus schliesse ich, dass heute noch derselbe Uebergang von Unorganischem zum Organischen (Schöpfung) stattfindet.
+
+Möge nun die Frucht langjähriger Arbeit zu neuen Forschungen anregen.
+
+Ein Grund ist gelegt. Die Eophyllumkalke von Canada bieten dem Forscher eine unermessliche Fundgrube der Erkenntniss, denn keine Schichte der Erde hat wie diese erste ihre Todten so wunderbar schön erhalten.
+
+Der klarste Kalksteinniederschlag, noch mehr aber die Serpentinschichten, haben Häute von kaum messbarer Dicke uns aufbewahrt.
+
+Das Bild der Urzelle, welches nun naturgeschichtlich festgestellt ist, ist fast durch ein Wunder erhalten.
+
+Freilich das Werden selbst sieht man doch nicht. Zum Werden kommt der Mensch immer zu spät: wenn er es sieht, ist schon ein Gewordenes da.
+
 ...
