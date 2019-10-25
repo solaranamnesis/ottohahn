@@ -550,4 +550,10 @@ Auf diesem Wege möchte ich nicht blos die Naturwissenschaft, sondern auch die W
 
 #### II. Das erste Thier.
 
+Ich hatte meine Arbeit schon geschlossen, als ich in dem (mit Salzsäure aufgelöstem) Eophyllumkalk noch
+
+_das erste Thier_
+
+finden sollte, welches wir kennen.
+
 ...
