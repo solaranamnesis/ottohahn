@@ -748,4 +748,52 @@ _Selvynia_.
 
 In einem canadischen Glimmer aus dem Laurentian bilde ich Taf. XVII. Fig. 1. 2. 3. ab.
 
+Die Zelle Fig. 3. ist in Hämatit verwandelt, ist durchsichtig und zeigt so den Canal, der durch die Zelle bis zur Wurzel hinabgeht, aufs deutlichste. Fig. 2. ist wahrscheinlich ein Durchschnitt des Kelchrandes.
+
+#### VI. Das „Urgebirge“.
+
+Wieder war die Arbeit geschlossen.
+
+War der Laurentian-Gneiss von einer Masse Zellen-Pflanzen durchzogen, warum sollte es unser Gneiss nicht auch sein?
+
+Und wenn der Gneiss es ist, wie verhält sich Granit und Porphyr?
+
+Es ist oft unbegreiflich, wie nahe die Tatsache liegt, ohne dass man im Stand ist, sie zu sehen. Trotz des Microscops — man sieht eben nichts.
+
+Ich muss die Form meiner Abhandlung hier entschuldigen.
+
+Meine Arbeit galt dem _Eozoon_. Daraus wurde das Eophyllum. Sie galt dem Eophyllum. Daran schloss sich die Entdeckung der Pflanzenwelt des Serpentins. Sie sollte mit dem Serpentin geschlossen werden. Da fand ich, dass der Laurentian-Gneiss ein Pflanzenlager enthält, nichts als Pflanze ist.
+
+Aufs äusserste ermüdet, war ich froh, endlich Feder und Zeichenstift niederlegen zu können; da drängt es mich wieder in die Forschung hinein: ich kann noch nicht ruhen.
+
+Ich bemerke hier, dass die Entdeckung des Serpentins — da ich dieses schreibe — erst 2 Tage alt, und das was ich heute schreibe, die Arbeit von 12 Stunden ist. Gestern hatte ich das Manuskript für den Druck schon geschlossen, als der Gedanke sich aufs Neue meldete und mich festhielt. Der Gedanke war es, welchen ich oben ausgesprochen.
+
+Es war die Arbeit einer Nacht, die Dünnschliffe des Urgebirges zu durchgehen und nun steht es mir fest:
+
+Der Granit ist nichts als Pflanzen-, keine Gesteinsmasse daneben, alles Pflanze!
+
+Glimmer und Hornblende sind die Kelchzellen. Der Feldspat ist Füllmasse der Pflanze, Baustoff der Pflanzenzellenhäute. Der Quarz bildet meist Brutzellen.
+
+Der Gneiss enthält schon die vorgeschrittenen Formen der Pflanzen.
+
+Insbesondere beim Knotengneiss sind die Knoten nichts als grössere Kelchzellen.
+
+Auch der Porphyr enthält lebende Pflanzen. Derselbe ist der Schlamm des ersten Urgebirgs. (Felsit ebenso.)
+
+Erst nach dem Suchen durch das Microscop sehe ich die Form mit blossem Auge — Pflanzen von der vollen Länge der Handstücke.
+
+***
+
+Ich gebe diese Arbeiten, wie sie entstanden sind. Es sind Entdeckungen von solcher Bedeutung, dass es wohl nicht als Anmassung erscheinen kann, wenn ich zugleich einen Blick in meine Werkstätte thun lasse, nebenbei ist es der individuelle Grund, dass ich zu ermüdet bin, um Alles umzuarbeiten.
+
+Bei der nunmehrigen Beweisführung muss ich die Form der Urpflanze als bekannt annehmen.
+
+Die Formen sind in Laurentian-Kalk unumstösslich festgestellt, und zwar schon in verhältnissmässig grosser Verschiedenheit. Dort bestehen, wie ich vermuthe, hunderte von Arten.
+
+Im Kalk sind schon die microscopischen Arten enthalten, vielleicht sind sie dort erst entstanden. Im Gneisse sind es Pflanzen, welche mit blossem Auge zu erkennen, dabei schon sehr entwickelt in der Form sind.
+
+Das Prototyp all dieser Pflanzen ist zumeist ein einfacher Trichter.
+
+Die untere Spitze verzweigt sich zur Wurzelzelle.
+
 ...
