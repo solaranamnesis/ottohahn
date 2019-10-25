@@ -598,4 +598,26 @@ Das andere Ende des Körpers (der Schwanz) ist zweilappig, wie eine Klappe. Taf.
 
 Dass die Form eine organische ist, lässt sich wohl in keiner Weise bezweifeln. Dass es ein Thier und keine Pflanze ist, dafür spricht die Bewegung, welche aus den verschiedenen Stellungen des Geschöpfs geschlossen werden kann.
 
+Die Form ist _Serpula_ ähnlich.
+
+Freilich suchte man bis jetzt wohl schwerlich ein Thier, das den Anneliden gleicht, in der untersten Schichte, Thieren, welche ihre Stellang im Thierreich fast schon über dem ersten Viertheil desselben einnehmen.
+
+Es wäre aber auch möglich, dass wir hier nur die äussere Gestalt eines höheren Thieres vor uns haben, denn die innere Organisation lässt sich nicht mehr feststellen.
+
+_Titanus_ unterscheidet sich von allem, was im Eophyllumkalk vorkommt, sofort durch die Textur.
+
+Die Streifen (Glieder) des Panzers sind wie mit dem Grabstichel gezeichnet, die Beweglichkeit muss desshalb auch eine vollkommene gewesen sein.
+
+Man könnte im _Titanus_ hienach den Vorgänger der Trilobiten sehen.
+
+Die Bruchstücke Taf. XIII. zeigen alle gleiche Textur.
+
+Gewisse hyaline Ansätze auf Pflanzen von derselben Art, wie die Mundöffnungen, könnten vermuthen lassen, dass man es hier mit jungen Thieren zu thun hat, die sich auf anderen Gegenständen ansaugen.
+
+Doch die Sache muss erst in weiteren Exemplaren untersucht werden, wie denn dies Alles mehr eine Ankündigung und Aufforderung zu weiterer Forschung sein soll, als ein wissenschaftlicher Abschluss.
+
+Es sind nur einmal neue organische Formen und damit ist eine neue Schöpfungsperiode festgestellt.
+
+#### III. Serpentin.
+
 ...
