@@ -796,4 +796,74 @@ Das Prototyp all dieser Pflanzen ist zumeist ein einfacher Trichter.
 
 Die untere Spitze verzweigt sich zur Wurzelzelle.
 
+Der Trichterhals theilt sich und streckt sich, Zelle reiht sich an Zelle durch Theilung.
+
+Dadurch entsteht der Stamm.
+
+Nun setzen sich sowohl am Rande des Trichters, als auch an der Zellkante neue Trichter an.
+
+Aber auch in Form von Mycelium-Fäden strecken sich Zellen aus, welche wieder Trichter treiben. Diese Fadenzellen suchen Vereinigung und verzweigen sich.
+
+Ich bemerke aber hier, dass auch in den Trichtern wirkliche Mineral- (Crystall-?) Einlagerungen vorkommen. Diese erscheinen mir als Produkte des organischen Vorgangs.
+
+Ich bilde die Entwicklung der Urzelle ab Taf. XVIII. 1-7. jedoch nur, soweit ich das Bild im Serpentin gewann. Im Granit herrschen die Stammzellen vor, jedoch in der uranfänglichsten Form, welche sich denken lässt — der Crystallform.
+
+***
+
+Mit diesen Vorbegriffen und Vorstellungen, welche ich durch meine Beobachtungen als festgestellt annehmen darf, wollen wir an die Arbeit gehen.
+
+Um die Controle wenigstens zu erleichtern, nehme ich die „Sammlung typischer Gesteine“ von R. Fuess in Berlin, Serie II., und beginne mit
+
+_Nr. 1. dem Granit von Brixen_.
+
+Ich werde, was ich im Schliffe finde, beschreiben und das Wesentliche abbilden, damit der Leser sich selbst orientiren kann. Zum Verständniss dieses Schliffes muss man schon das Bild aus dem Laurentian-Gneiss Taf. XVII. 4. XIX. 3 zu Hilfe nehmen.
+
+Auf den ersten Blick erscheint Alles als ein Gemisch von Feldspath und Quarz-Körner mit Glimmer und etwas Hornblende. Sind es Sprünge, welche den Schliff durchziehen? Sind es Crystallflächen? Es sind keine Sprünge da, keine Crystalle.
+
+Die Linien zeigen beim ersten Anblick eine gewisse Regel, aber sie ist unverständlich.
+
+Plötzlich springt das Gesetz in die Augen!
+
+Das ganze Gestein löst sich in Pilanzenzellen auf und diese selbst stehen in organischem Zusammenhang.
+
+Taf. XVIII. Fig. 8. folg. mag als Anhaltspunkt für die Auflösung eines Granits dienen.
+
+Merkwürdigeres noch bietet
+
+_Nr. 2. Granit von Altendamm_.
+
+Brutzellen siehe XVII. Fig. 16. 17. 18.
+
+Eine Hornblende-Pflanze Taf. XVII. 15.
+
+Nicht minder löst sich
+
+_3. Gneissgranit vom St. Gotthardt_.
+
+Ein Pflanzenbild daraus XX. Fig. 1.
+
+_4. Cordieritgneiss von Mittweida_
+
+zeigt Taf. 20. Fig. 2. und 3.
+
+_5. Granulit von Hardtmannsdorf_.
+
+Taf. XIX. Fig. 14. 15. 16.
+
+_Granulit (und Granat)_.
+
+Ich habe schon die Vermuthung ausgesprochen, dass auch der Granulit Pflanzen enthalte.
+
+Das bestätigt sich nun vollständig.
+
+Allerdings sind die grösseren mit blossem Auge nicht sofort erkennbar.
+
+Allein wie oft, so muss auch hier die kleinere Form den Schlüssel zur Erkenntniss der grossen liefern.
+
+Die kleinen mit blossem Auge kaum unterscheidbaren röthlichen Punkte im Granulit werden allgemein für „eingesprengte“ Granaten angesehen.
+
+Sie sind die Ausfüllung der microscopischen das Gestein horizontal durchwuchernden Pflanze, bezw. ihrer Kelche.
+
+Taf. XIX. Fig. 14. 15. 16.
+
 ...
