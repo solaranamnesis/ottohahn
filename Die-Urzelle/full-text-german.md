@@ -706,5 +706,46 @@ Die Pflanzen nehmen etwa 2/3 der Gesteinsmasse ein.*
 
 Die Apatit-Crystalle sind wahrscheinlich das Produkt des kleinen organischen Lebens.
 
+Eine Mischung von phosphorsaurem und kohlensaurem Kalk wird von der Pflanze zersetzt.
+
+Es trennen sich phosphorsaurer und kohlensaurer Kalk und so lagern die Apatit-Crystalle im kohlensauren Kalke.
+
+Die Pflanze dieses Gesteins habe ich auf Tafel XVII. 10. abgebildet.
+
+Ich nenne sie _Dufferinia_ zu Ehren des Lords Dufferin, des Generalgouverneurs von Canada, als ich dort war.
+
+Einzelzeichnungen Fig. 11. 12. 13.
+
+Um einen Dünnschliff daraus zu fertigen, war das Gestein I. zu weich und zu wenig homogen. Der Glimmer blätterte ab, wie die Pflanzen darin lagen. 
+
+Fig. 14. eine Pflanze aus einem Apatit-Crystall.
+
+Handstück 2. vom Muskoka-See. Sehr feldspathreich.
+
+Taf. XVII. 4. Aus demselben Stücke Fig. 5. 6. 7. 8. 9.
+
+Ich konnte nur eine Pflanzen-Art feststellen.
+
+Taf. XVII. Figur 10-13 sind schwache Vergrösserungen 1/5.
+
+Ich nenne die Pflanze Fig. 4.
+
+_Victoria_
+
+zu Ehren der Königin Victoria.
+
+Diese Pflanze scheint eine der ältesten und ursprünglichsten zu sein.
+
+Das zweite Handstück zeigt ferner die Form
+
+Tafel XIX. Figur 3.
+
+Ich nenne sie zu Ehren des Vorstandes des Geological Surveys of Canada Mr. Selvyn 
+
+_Selvynia_.
+
+#### V. Glimmer.
+
+In einem canadischen Glimmer aus dem Laurentian bilde ich Taf. XVII. Fig. 1. 2. 3. ab.
 
 ...
