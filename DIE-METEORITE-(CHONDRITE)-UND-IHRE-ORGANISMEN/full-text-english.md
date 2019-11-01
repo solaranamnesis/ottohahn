@@ -697,7 +697,7 @@ The fall of planetary fragments upon our Earth (for this is what the existence o
 
 But we should also be prepared for the previously mentioned cessation of life on the surface, a less bloody but no less comforting end, namely the fate of gradual death, the termination of the coupling of insoluble compounds with the life force and the building materials: we have to worry that our atmosphere will continue to form insoluble compounds from the remaining building materials and thus the cycle will become weaker and slower, and finally - stopping.
 
-The only thing saving us from this almost certain fate is the water; the water which our Earth was able to acquire and retain in its formation.
+The only thing saving us from this almost certain fate is water; the water which our Earth was able to acquire and retain in its formation.
 
 The fact that these created beings release the compounds that formed their bodies, and that the plant in particular decomposes what it absorbs, while the animal absorbs these excretions within itself and then excretes them immediately again and again, then returning them to the plant (not the soil): through all this, a cycle is created whose end cannot be foreseen.
 
