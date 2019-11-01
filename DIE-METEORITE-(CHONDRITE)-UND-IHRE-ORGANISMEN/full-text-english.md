@@ -306,7 +306,7 @@ Rightly, Quenstedt alone has declared the question an open one when he said: "..
 #### Organic or Inorganic?
 
 In order to prove that a plant or animal organism is present, I consider it necessary to prove:  
-1\. a unified form,  
+1\. a closed form,  
 2\. a recurring form,  
 3\. recurring in developmental stages,  
 4\. structure, either cells or vessels,  
