@@ -916,4 +916,72 @@ eines _Gneisses_ vom Montblanc
 
 Taf. XX. Fig. 1.
 
+_7. Protogyn_.
+
+Es war seiner Zeit ein grosser Lärm, als man das älteste Gestein der Erde gefunden zu haben glaubte. Man nannte es desshalb Protogyn.
+
+Ich habe eine Zeichnung vom Protogyn des Montblanc gegeben.
+
+Er ist wie der Granit eine Pflanze.
+
+Da sind langgestreckte Pflanzen, ich nenne sie Protogynia.
+
+Zelle an Zelle. Brutzellen nach oben und unten.
+
+Die gelbe Färbung ist von Eisen. Daneben sind wasserhelle Zellen, Hornblende. Es sind die feinen Nadeln des Chlorits und Talks, wahrscheinlich auch zersetzte Hornblende.
+
+Die wasserhellen Zellen bestehen aus Quarz: sie nehmen den grössten Theil des Gesteins ein. Sie lassen sich aber leicht in die Form der Urpflanze auflösen.
+
+Ich bilde eine Pflanze, mehrere Endzellen und Brutzellen ab.
+
+Ebenso die Wurzel-Zelle. Taf. XIX. Fig. 17-20.
+
+#### VII.
+
+Ich versuche es nach diesen Ergebnissen,
+
+#### eine Gesteinslehre
+
+aufzustellen.
+
+Die Gesteinsarten sind
+
+entweder ursprüngliche oder abgeleitete Zersetzungs-Produkte, Schlamm und Laven.
+
+Ursprünglich sind blos 1. die Pflanzenlager, 2. das Gestein aus der Masse des Erdinnern; welches dies ist, ist zweifelhaft.
+
+Die meisten unserer „Urgesteine“ sind Pflanzenlager und daraus abgeleitete Gesteine. Ich habe aber gar keine Gesteine ohne todte Pflanzen wenigstens gefunden, letztere in den Laven und Schlammgesteinen.
+
+Die Gesteinsart ist also bedingt durch die Pflanzen, aus welchen das Gestein besteht:
+
+A. Die Urgesteine sind die Pflanzen-Lager: sie lassen sich auf die Pflanzen-Formen zurückführen, welche darin leben und sich so zusammensetzen.
+
+B. Es gibt Mittelstufen: Detritus von Pflanzen-Lagern mit eingelagerten lebenden Pflanzen.
+
+C. Es gibt Gesteinsschlamm blos mit eingelagerten todten Pflanzen.
+
+D. Laven.
+
+Das ursprüngliche Mineral, aus welchem die Ur-Gesteine zusammengesetzt sind, ist ein Gemisch von Quarz, Feldspat und Hornblende (Glimmer).
+
+Diese scheidet die Pflanze.
+
+Die gebildete Pflanze scheidet die übrigen Minerale aus, insbesondere Granat, Leuzit u. s. w.
+
+Die ersten Pflanzenzellen sind Crystall-Formen.
+
+Feldspat zwei- und eingliederig, Quarz sechsgliedrig bildet die Hauptform. Die Hornblende bildet die Kelchzellen.
+
+Doch ist das Verhältniss der Zellen zu ihrem Inhalt noch näher festzustellen.
+
+***
+
+Man sehe durch den Polarisations-Apparat und man wird jede Pflanzenzelle im Granit leicht unterscheiden und jedes Individuum leicht herausfinden. Die Streifen für Oligoklas angesehen, sind hozizontale Anwachsungsstreifen der Zelle.
+
+***
+
+Schriftgranit ist Feldspatmasse mit wundervoll schönen Quarzpflanzen.
+
+***
+
 ...
