@@ -984,4 +984,43 @@ Schriftgranit ist Feldspatmasse mit wundervoll schönen Quarzpflanzen.
 
 ***
 
+Der Granit ist das erste Gestein. Von Anfang an ist Hornblende in ihm, welcher sich in Glimmer verwandelt. Später übernimmt Hornblende die Bauarbeit.
+
+***
+
+Der Basalt enthält ganze (ich nenne sie lebende) Pflanzen. Was Zirkel Nephelinbasalt nennt, sind Stammzellen einer Pflanze, welche ich Mycelium Zirkeli nenne. Die „Fluidalstructur“ also Algenzellen.
+
+Die Olivine im Basalt sind Pflanzen-Zellen (sei es ursprüngliche, sei es, dass der Olivin-Crystall nachher die Pflanze umschreibt.
+
+Die meisten Basalte sind daher Wasser-Produkte.
+
+***
+
+Ebenso enthält Gabbro, Talk-Pflanzen.
+
+***
+
+Man betrachte die Gestalt der Ur-Pflanze und man wird sie überall wieder finden.
+
+Man präge sich die Form derselben Tafel XVIII. ein, nehme ein Stück grobkörnigen Granit und man wird die Form so scharf gezeichnet sehen, als die eines Ammoniten im Jura.
+
+***
+
+Im Hypersthen ist die ursprünglichste Form der Pflanzenzelle (nach einer rein geometrischen Linie) und so findet man auch die Zelle theilweise im Granit.
+
+***
+
+Naher Zusammenhang der Crystallform mit der Form der Pflanzenzelle! Ursprünglich dasselbe.
+
+***
+
+Leucit bildet Kelchzell-Ausfüllungen mit Anwachsungs-Streifen. Die Punkte in den kleinen Crystallen sind wohl Sporen. Hieraus erklären sich die Polarisations-Erscheinungen.
+
+***
+
+Die Schiefersteine sind theils ursprüngliche, theils abgeleitete. Im ersteren Falle bilden sie sich aus einer Masse von Zellpflanzen, im letzteren Fall sind sie ein Magma mit einer Unzahl todter und weniger lebender Zellen.
+
+***
+
+
 ...
