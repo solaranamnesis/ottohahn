@@ -1022,5 +1022,49 @@ Die Schiefersteine sind theils ursprüngliche, theils abgeleitete. Im ersteren F
 
 ***
 
+Der Pechstein ist ein Pflanzengestein und nicht vulkanisch.
+
+***
+
+In den meisten Gesteinen lassen sich die Pflanzen mit blossem Auge leicht erkennen, wenn man die Grundform weiss.
+
+***
+
+Ich habe 2 Basalte von Biberich mit 2 1/2 cm. langer Pflanze, das Gesteinsstück ist 3 cm. lang.
+
+***
+
+Unbegreiflich, dass man dies Alles bis jetzt übersah.
+
+Man hatte eben den Schlüssel, das Bild der Urpflanze, nicht.
+
+Ich machte den zweiten Dünnschliff aus dem Laurentian-Gneiss und sah erst beim Bedecken mit dem Glas die Pflanze mit blossem Auge.
+
+***
+
+Die künftige Gesteinslehre ist Pflanzen-Versteinerungslehre.
+
+***
+
+Sismondi fand ein Equisetum (wie ich erst heute aus Mohr sehe), im Gneisse eingelagert.
+
+Dass der ganze Gneiss Pflanze sei, sah er nicht.
+
+***
+
+Die nähere Darstellung auf Grund genauer Untersuchung der einzelnen Gesteine wird folgen.
+
+Die vorstehenden Thesen sollten nur die ersten Beobachtungen geben. In der Hauptsache wird die Sache aber so bleiben.
+
+***
+
+Insbesondere mögen die Mineralogen auf die Pflanze zurückgehen. Es ist wunderbar, in welch engem Zusammenhang Pflanze und Crystall stehen.
+
+***
+
+Es gibt sehr viele Pseudo-Krystalle durch blossen Druck, Guss-Formen aus Kelchzellen, welche mathematische Form haben.
+
+***
+
 
 ...
