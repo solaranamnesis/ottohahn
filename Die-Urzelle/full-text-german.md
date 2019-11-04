@@ -866,4 +866,54 @@ Sie sind die Ausfüllung der microscopischen das Gestein horizontal durchwuchern
 
 Taf. XIX. Fig. 14. 15. 16.
 
+Ich zeichne einige solcher Pflanzen und bemerke nur, dass dieselben nach allen Seiten fortsetzen, Kelche haben, vorzugsweise aber in horizontaler Richtung liegen.
+
+Die grossen Crystalle sind Ausfüllmassen der grösseren Pflanzenart. Ich nenne die kleinere Art zu Ehren des Herrn Prof. Oswald Heer
+
+_Granatina Heeri_.
+
+Auch hier muss man sich freilich durch das Prototyp der Urpflanze leiten lassen, dann bleibt kein Zweifel.
+
+Dasselbe Verhältniss findet hinsichtlich des Granats im böhmischen und sächsischen Serpentin statt.
+
+Auch hier sind die Granaten Füllmassen der grössten Pflanzenkelche.
+
+Die weissen Granaten von Auerbach sind nichts anders.
+
+Sie tragen noch deutlich den Steinkern ihrer Kelchvertiefungen an sich.
+
+Im umgebenden Gestein ist eine Menge microscopischer Pflanzen.
+
+Ich habe vor mir einen Kalkgranat.
+
+Granatoeder von 2 cm., voll von deutlich sichtbaren Pflanzen-Formen. Der Kern rundlich, leicht als Stein-Kern eines Pflanzen-Kelchs zu erkennen. Die Schichten in demselben tragen einzelne Pflanzen (in der hexogonalen Stellung des Dodecaeders).
+
+Als ob die Algen Krystalle zu Früchten gehabt hätten. —
+
+_6. Quarzporphyr von Schwärz bei Halle_.
+
+Eine schlammige Grundmasse mit unzähligen Zellmembranen aber auch lebenden Pflanzen.
+
+Taf. XX. Fig. 4. folg.
+
+Nun füge ich noch bei
+
+Darstellungen
+
+eines _Laurentian-Gneisses_ von Canada
+
+Taf. XIX. Fig. 1-8.,
+
+eines _Hornblendegesteins_ von Montreal
+
+Taf. XIX. Fig. 9.,
+
+eines _Protogyns_ vom Montblanc
+
+Taf. XIX. Fig. 17. 18. 19. 20.,
+
+eines _Gneisses_ vom Montblanc
+
+Taf. XX. Fig. 1.
+
 ...
