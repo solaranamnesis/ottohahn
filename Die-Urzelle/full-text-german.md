@@ -1066,5 +1066,46 @@ Es gibt sehr viele Pseudo-Krystalle durch blossen Druck, Guss-Formen aus Kelchze
 
 ***
 
+Man hätte schon stutzig darüber werden sollen, dass der Granit keine Crystalle enthält. Die Linien im Dünnschliff des Granits sind Pflanzen-Zell-Membranen.
+
+***
+
+Man nehme den Polarisationsapparat. Auch der Blätterbruch wird oft nur die Anwachsstelle in der Zelle sein.
+
+Die Tschermak'sche Theorie mag chemisch richtig sein. Wichtiger aber ist die mechanische Erklärungsweise.
+
+Der Orthoclas ist in Anwachsungsschichten abgesetzt, daher die verschiedenen Polarisationsstreifen. Die Zellwände spielen mit. Dies ist im Labrador leicht erkennbar, welcher Pflanzenstämme von Zolldurchmesser enthält. Feinste Zelllagerung, daher die Lichtbrechung. Sehe es eben an einer Pflanze von 1 cm. Durchmesser.
+
+***
+
+Nun haben wir für die Zukunft eine einfache Gesteinslehre. Alles ist Sedimentgesteinslehre.
+
+Im Urgebirge ist die Pflanze, vom Uebergangsgebirge mag das Thier Leitfossil sein.
+
+***
+
+Ich habe den Vortheil sofort genossen.
+
+***
+
+Es ist zu untersuchen, inwiefern manche Gesteine nicht Umwandlungs-Produkte des Stoffes (nicht der Granitpflanzen) enthalten. Diese bleiben.
+
+In jedem Gestein finden sich Zellen und Steinkerne von Pflanzen.
+
+***
+
+Man setzt allen Pechstein zu den Vulkan-Gesteinen: der eine ist ein Lager von lebenden, der andere von todten Pflanzen.
+
+***
+
+Der erste Kalk stellt sich wirklich als Ausscheidungsmasse dar, so der Kalk des Laurentian-Gneisses.
+
+Nachher wird er erst Baustoff für Pflanzen-Arten. Vor mir liegt ein Serpentin von Todtmoos mit einem Pflanzen-Kelch von 1 Ctm. Länge im Durchschnitt, so fein gezeichnet, als irgend ein Zeichner es vermag. Wundervoll wie im Basalt der Olivin-Crystall Pflanze, die Pflanze Crystall ist.
+
+Der Olivin ist Pflanzenzelle, die Feldspäthe, der Nephelin ebenso.
+
+Die grossen Crystall-Kelche stechen in die Augen. Die Wurzelzelle, welche dazu gehört, ist ein kleiner Crystall, häufig ist auch die Brutzelle auf dem Kelche ein Crystall. Zuweilen ist die ganze Zelle von dem Crystalle umschrieben. Wie eine mathematische Aufgabe.
+
+***
 
 ...
