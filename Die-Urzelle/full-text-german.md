@@ -1294,5 +1294,50 @@ Anfangs glaubte ich, letztere enthalten todte Pflanzen oder Pflanzen-Reste, bald
 
 ***
 
+Dies fordert zu neuen Gedanken auf.
+
+Die Pflanze zur Tertiärzeit musste einen langen Weg machen und kam lebend zur Oberfläche!
+
+Die Urpflanze lebte also in der Nacht, sie lebt heute noch dort und bedarf zu ihrem Wachsthum nur des Wassers.
+
+Dies fliesst ihr von der Oberfläche zu.
+
+***
+
+Wir leben auf einer grossen Sargasso-Decke.
+
+***
+
+Dass dies so ist, beweisen die wellenförmigen Erdbeben, beweisen die Vulkane.
+
+***
+
+Die Vulkane kommen mit ihrem Meere, gehen mit ihrem Meere.
+
+***
+
+Alle unsere thätigen Vulkane liegen nicht zu entfernt vom Meere.
+
+Beweis, dass sie dem Wasser ihre Entstehung verdanken.
+
+***
+
+Die Thätigkeit des Erdinnern muss eine organische sein, eine unorganische wäre nicht denkbar. Denn alle möglichen blos chemischen Verbindungen hätten längst vollzogen sein müssen. Ohne Hinzutreten eines neuen Stoffes wäre eine Thätigkeit nicht möglich. Dieser Stoff kann kein anderer sein, als Luft oder Wasser. Die Luft ist es nicht, wenigstens blos an offenen Stellen, an schon entstandenen Vulcanen wird sie von geringer Bedeutung.
+
+Auch die früheren wirklichen Revolutionen der Erde hatten ihren Grund in der organischen Thätigkeit der Urpflanze.
+
+Heute noch wuchert sie unter der festen Erdoberfläche, bildet Gase, und so entstehen die Erdbeben, die Vulcane.
+
+Die Vulcane sind nicht Feuerbrände im Innern der Erde. Vielmehr sind es blos Gase, welche beim Austritt aus der Erde sich rückwärts entzünden, mechanisch wirken und dabei das anstehende Gestein schmelzen. Lava.
+
+Daher die periodische Thätigkeit, der Anfang derselben blosse Gasausströmungen. Erdbeben.
+
+Es können sich leichtbrennliche Gase bilden, welche wie die schlagenden Wetter sich entzünden und dann bei fortwährendem Zuströmen fortbrennen.
+
+Eben diese Art der Thätigkeit in Verbindung mit Erdschwankungen spricht dafür, dass die von der Pflanze ausgeschiedenen Gase dem Ventile zuströmen und dort verbrennen, bis der Vorrath erschöpft ist.
+
+Alles dies ist blos mittelst des Wassers möglich.
+
+***
 
 ...
