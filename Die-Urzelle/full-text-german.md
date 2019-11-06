@@ -1858,4 +1858,36 @@ Diese Frage soll eine offene sein.
 
 Man lese F. Zirkel, Lehrbuch der Petrographie, I. Band, über Graphit Seite 352, über Anthracit Seite 355 und vergleiche das dort Gesagte mit dem Ergebniss meiner Untersuchung, so wird sich das Geheimniss der Anthracitflöze im Granit und Gneiss lösen. Zirkel ist, wie ich, der Ansicht, dass sich die Färbung der jüngeren Gesteine durch Anthracit erkläre.
 
+Woher sollen diese Anthracit-Lager kommen, wenn der Granit nicht Pflanzen enthält, oder Pflanze war?
+
+Ich halte wenigstens dafür, dass es keine einfachere Erklärung für ihr Entstehen giebt.
+
+***
+
+Ich muss noch einmal auf die Verschiedenheit der Gesteine, welche man Serpentin nennt, hier zurückkommen. In dem canadischen Gneiss-Serpentin ist das ursprüngliche Mineral wahrscheinlich Olivin oder Augit. Die Lager von Serpentin sind sicher Auslaugungen, Niederschläge aus wässeriger Lösung. Pikrolith etc. sind ebenso unzweifelhaft wässerige Niederschläge, während in dem Serpentin von Snarum noch die Gestalt des Olivins sich erhalten hat, was Quenstedt so überzeugend nachwies. Freilich mag jener Olivin schon Pflanzen eingeschlossen haben und daher die eigenthümliche Textur.
+
+Der Umstand, dass unkundige Leute alle grünen durchsichtigen talkerde- und kieselerdehaltigen Minerale Serpentin nannten, kann natürlich zu nichts weiterem führen, als dass man die Serpentine nunmehr genauer untersucht und unterscheidet. Vergl. über Serpentin v. Draschke in Tschermak Mineralogische Mittheilungen I. 1871. S. 1. Kennt man die Form der Urpflanze, so wird es leicht sein, die ursprünglichen Serpentine und die abgeleiteten zu unterscheiden.
+
+***
+
+Man hat den Pflanzen überhaupt noch sehr wenig Aufmerksamkeit geschenkt. Noch in den 50 ger Jahren sprach man kaum von Pflanzen (Algen) in dem obern Uebergangsgebirge. Erst im Kohlengebirge waren sie wirklich anerkannt.
+
+Wer sich mit dem Gegenstand, welchen ich vorgelegt habe, beschäftigen. will, muss zuerst das Silur genauer ansehen und sich hier davon überzeugen, dass die Form, welche ich schon im Laurentian nachgewiesen habe, im Silur millionenfach vorkommt. Der Riesenform im Marmor von Carrara habe ich schon erwähnt. Man muss mit Einem Wort sich mit dem Gegenstand erst vertraut machen. Oldhamia antiqua ist schon ein gutes Object für die Studien.
+
+Hat man aber die Form dieser Urpflanze einmal festgestellt, so wird es ein Leichtes sein, sie in den früheren Formationen zu erkennen.
+
+Ich möchte die Forscher dort hauptsächlich auf die besser erhaltenen Brutzellen und darauf aufmerksam machen, dass die Zellscheidewände stets durch schwarze Punkte, nämlich zurückgebliebene Kohlen, manchmal sogar durch Kohlensäure-Einschlüsse angedeutet sind. Nimmt man den Polarisationsapparat zu Hilfe, so wird jede Zelle, welche so abgegränzt ist, auch verschieden polarisiren, weil die Lage des Gesteins in jeder Zelle eine verschiedene ist.
+
+Freilich das gebe ich zu, dass ein Theil des Pflanzen-Gesteins in Folge späterer Vorgänge auch unkenntlich wird. Ein zersetzter Granit kann nie als Untersuchungs-Material verwendet werden.
+
+***
+
+Der gelbbraune „Alabaster“, welcher von den Italienern in Vasen, Statuetten in den Handel gebracht wird, ist eine Pflanze. Unser Keuper, Muschelkalkgyps ist es.
+
+***
+
+Ich erstaunte, als ich den Einwurf hören musste: „Wie aus den Bestandtheilen einer Pflanze: Kohlenstoff, Sauerstoff und Wasserstoff, in den Kelchen Kieselerde, Thonerde, Kalk, Bittererde, Eisenoxyd entstehe?“ Als ob dies die Frage wäre.
+
+Einmal sind die Bestandtheile keiner Pflanze blos Kohlenstoff, Sauerstoff und Wasserstoff: das Knochengerüste von Kiesel, Kalk, die Aschenbestandtheile sind vergessen, vergessen sind die Kiesel-Skelette der Diatomaceen, die Kieselzellen der Equiseten etc. Hier wird sicher nicht aus Kohlenstoff, Sauerstoff und Wasserstoff Kieselerde, sondern die Kieselerde ist durch die Pflanze hindurchgegangen, von der Pflanze abgelagert.
+
 ...
