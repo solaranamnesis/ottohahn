@@ -1590,4 +1590,58 @@ _Sphaerothallium Swedenborgi_.
 
 #### XVII. Meteoreisen.
 
+Nachdem der Meteorstein von Knyahinya und andere untersucht waren, nahm ich Meteoreisen vor.
+
+Als sicherstes Kennzeichen des ächten Meteor-Eisens gelten die Widmannstättischen Figuren.
+
+Ihre wahre Gestalt geht aus Tafel XXIX. Fig. 1-9. (Meteoreisen von Toluca) hervor. Es sind Pflanzen und nichts als Pflanzen.
+
+##### Pallaseisen.
+
+Besonders merkwürdig!
+
+Die Olivine sind die Kelchzellen.
+
+Das Schwefeleisen die Füllmasse (Mark), das dunkle Eisen das Holz (wenn der Ausdruck erlaubt ist) , dass weisse Eisen die Zell-Membrane der Meteoreisen-Pflanze.
+
+Die Crystallform ist ganz sicher hier zugleich Pflanzen-Form. (Siehe v. Kokscharow, Materialien zur Mineralogie Russlands Taf. 75. 76.
+
+Es stimmt das specifische Gewicht der Erde mit dem Gestein, oder vielmehr Metall der Meteoriten.
+
+Die Pflanzen gleichen wenigstens den tellurischen: insbesondere der „acervulinen Form“ des Eozoon.
+
+Ob diese Meteoreisen und Steine nicht Theile der Erde sind, welche in frühester Zeit losgelöst und ihren eigenen Weg eine Zeit lang genommen, später aber sich wieder mit der Erde vereinigt haben?
+
+Wie aber können Pflanzen Eisen werden?
+
+Können sie Eisen, Olivin sein?
+
+Die Erhaltung der Formen, wie sie im Leben sind, eine solche Erhaltung der Organe ist wirklich wunderbar, und könnte zu letzterer Meinung führen.
+
+Im Hornblende-Gestein von Montreal sind Theile der Pflanze metallisches Eisen.
+
+***
+
+Ich nenne die Pflanze des Meteoreisens von Toluca
+
+_Astrosideron Quenstedti_
+
+zu Ehren meines Lehrers, die des Pallasits zu Ehren des Kaisers von Russland:
+
+_Alexandrea_.
+
+***
+
+Gibt es nicht Protisten von Mineral und Pflanzen, wie von Pflanze und Thier?
+
+Es ist die Uebereinstimmung der siderischen und tellurischen Pflanzen zu untersuchen.
+
+***
+
+Nun ist ein sicheres Erkennungszeichen für Meteoreisen gegeben.
+
+Das Eisen aus dem Basalt von Grönland ist nichts als Pflanze, ist also Meteoreisen.
+
+#### XVIII. Die Urzelle — Crystall-Pflanze — das Thier.
+
 ...
