@@ -1198,4 +1198,52 @@ Ein Bild eines Hauyngesteins bietet Tafel XXII. Hornblende schräg, Hauyn horizo
 
 #### XII. Silur.
 
+Die Algen des Urgebirgs setzen im Silur fort. In Quebec und Montreal habe ich eine ansehnliche Sammlung von Handstücken zusammengebracht. Pflanzenbilder daraus Taf. XXII. XXIII.
+
+Von Quebec die Kalk- und Thonschichten, in Montreal Kalk und Hornblendegesteine.
+
+Im Silur-Kalk von Quebec sind überall die Algen noch die Gesteinsbildner, dann folgen die Lagen von Detritus alias Thonschiefer.
+
+Der Mont real bei Montreal ist ein Hügel von Hornblende.
+
+Ich gebe einige Pflanzenbilder aus demselben in Tafel XXIV. Aber auch hier sind nicht die Pflanzen im Gestein, sondern das Gestein ist noch die Pflanze.
+
+In einer Kelchzelle, aber auch nur dort, fand ich die Bilder
+
+Tafel XXIV. Figur 5. 6. 7.
+
+Ich hielt sie für eine Diatomacee und nenne sie
+
+_Diatoma Montreali_
+
+der Stadt Montreal zu Ehren, deren Gastfreundschaft ich genoss.
+
+Die Pflanzen-Form Taf. XXIV. Fig. 2. nenne ich
+
+_Parthenon Munderlohi_
+
+(deutscher Consul in Montreal), der mich auf der Excursion begleitete.
+
+Merkwürdig sind Kieselknollen, die im Silur bei Montreal gefunden werden, amöbenartige Formen bis zur Grösse eines Kopfes, mit welchem die Anlagen des M'Gill-Colleges garnirt sind. Sie sind nichts als Stammzellen von Riesenalgen.
+
+Ich nenne sie Herrn Dawson zu Ehren, der dort wohnt,
+
+_Photophoba Dawsoni_.
+
+Mögen wir uns über diese Photophoba hinüber die Hand der Versöhnung reichen.
+
+Im Silur, schon in dem Hornblendegestein, sind riesige Formen. Eine Kelchzelle von 3 cm. Breite! und zwar dieselbe Form, aus welcher das Labrodorgestein gebildet ist.
+
+Taf. XXIII. Fig. 7.
+
+Ich nenne sie _Beyrichia_ zu Ehren des Herrn Prof. Beyrich. Eine Art Oldhamia.
+
+Im Silurkalk Kelche von 5-6 cm. Man sieht die Wirkung des jetzt ausgeschiedenen Kalkes als Pflanzenbildners.
+
+In den Anlagen von Montreal sind sog. „Fancy“-Steine, Kalk mit Protuberanzen von 30-40 cm. Durchmesser. Es sind riesige Algen-Zellen. Ich habe am Lagerplatz einen abgeschlagen, der die deutlichste Structur zeigt.
+
+Aber auch kleinere Formen gibt es, ja microscopische — das Silur ist noch vorzugsweise Pflanze.
+
+Hier beginnt erst das grosse Thierleben.
+
 ...
