@@ -1742,4 +1742,44 @@ Auch dies sind blos Entwürfe, Grundlinien. Möge die Zukunft sie bestätigen un
 
 #### XIX. Der Krystall.
 
+Ich habe schon oben zur Untersuchung darüber aufgefordert, ob der Crystall wenigstens mit der Ur-Pflanzen-Zelle nicht in einem gewissen Zusammenhang stehe.
+
+Unsere Abbildungen Tab. XXII. XXVII. Fig. 5. 6. 8. legen die Frage nahe, ob der Crystall aus der Pflanze, oder die Pflanze aus dem Crystall entstanden sei.
+
+Soviel aber ist mir sofort klar: wir müssen unsere Crystalle einer neuen Prüfung unterwerfen, nemlich in der Richtung, ob wir es wirklich mit Crystallen zu thun haben.
+
+Ich habe gezeigt, dass gewisse Crystalle (Granit, Leuzit etc.) Füllmassen von Pflanzen-Zellen sind. Daher also auch wohl das Gesetz der Symmetrie. Dieses ist nicht ein Gesetz der Molecüle, sondern der Pflanzen-Symmetrie, der Pflanzenzelle.
+
+***
+
+Vor Allem den Augenschein.
+
+Ich nehme eine Reihe Crystalle vor.
+
+Das Ergebniss ist:
+
+Die Crystallform ist eine Umschreibung der Pflanzenform in der Art, dass sich überall eine Pflanze in dem Crystall eingezeichnet findet, oder der Crystall um die Pflanze liegt.
+
+Quarz. Tafel XXX. 9. 10.
+
+Ich finde in zwei dünnen Quarzen die Figuren der Urpflanzenform ein-, aber auch auf der Seite aufgezeichnet. Die Einschlüsse und gewisse dunkle und helle Stellen bezeichnen die Gestalt der eingelagerten Pflanze.
+
+Die matten Flächen des Quarzes auf dem Dihexaeder, welche als Zwillingsbildung gedeutet wurden, sind Pflanzenformen. Fig. 14. Die gewundenen Quarze verdanken ihre Gestalt der spiraligen Zellstellung der Pflanzen.
+
+***
+
+Aragonit, Herrengrund. Zwillinge, Drillinge. Tafel XXX. 5.
+
+Auf der geraden Endfläche sind soviele Pflanzen als Crystalle.
+
+Das Merkwürdigste ist die Säule.
+
+Der Mittelpunkt der Säulenfläche fällt mit dem Kelchmittelpunkt der Pflanze (gegen den Beschauer gekehrt) zusammen. Fig. 3. 
+
+Ein Pflanzen-Individuum und zwar das erste, streckt die Kelchspitze in den Kelchhals des zweiten und so fort. Dieser Pflanzenkelch liegt also wie ein Kranz in der Mitte des Crystalls horizontal und berührt dessen Peripherie.
+
+Ein Wunder, aber wahr.
+
+***
+
 ...
