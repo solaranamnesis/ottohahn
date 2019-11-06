@@ -1538,4 +1538,56 @@ Der Dünnschliff enthält hunderte von Pflanzen.
 
 ***
 
+Ich nehme nun meine Dünnschliffe vor.
+
+Zunächst untersuche ich einen Olivin vom Allenthal (von Neumann in Freiberg). Dieselbe ist durchzogen von schlingpflanzartigen Algen mit einigen deutlichen Fruchtorganen.
+
+Merkwürdigerweise zeigt Nr. 2. Meteor-Dünnschliff Tübinger Sammlung (Fundort unbestimmt) ähnliche Pflanzen.
+
+Doch halt —
+
+Der ganze Schliff ist eine Kelchzelle (das übrige Material ging beim Schleifen zu Grunde). Taf. XXVI. Fig. 2. in natürlicher Grösse. Fig. 4. (Lupe).
+
+Dieser Dünnschliff ist völlig durchzogen mit einer schlingpflanzartigen Alge (wie ich sie in den Algen des Laurentian-Serpentins beobachtet habe).
+
+Die Masse ist Olivin.
+
+Am Rande des Kelches sitzen graue Kelche. Taf. XXVI. Fig. 5. 6. 7. 8.
+
+Die Schlingalge ist dunkler Olivin, metallisches (gediegenes?) Eisen ist überall ausgeschieden und bildet nun die Prothallien.
+
+Vielfache Copulation.
+
+Die Erhaltung ist ausgezeichnet.
+
+Ich nenne sie
+
+_Heliola Caroli_
+
+unserem König zur Ehre.
+
+2. Ein weiterer Schliff (Fundort unbekannt) Taf. XXVI. Fig. 9. natürliche Grösse. Fig. 1. u. 3. Theile 1/90.
+
+3. Meteorstein von Pultusk
+
+Taf. XXVII. 3. 1/2. Der ganze Schliff.
+
+4. Desgl. 1. u. 2. 1/90. 
+
+Vergleiche Taf. XXVIII. Fig. 1. Basalt.
+
+5. Dhurmsala 1/90. Taf. XXVII. Fig. 7.
+
+6. Hainholz. Taf. XXVII. 9. u. 10. 1/2.
+
+Diese Pflanze nenne ich dem mit Unrecht vergessenen schwedischen Naturforscher Imanuel von Swedenborg zu Ehren:
+
+_Sphaerothallium Swedenborgi_.
+
+7. Ensisheim. Taf. XXVII. 4. 1/2.
+
+8. Schliff aus der Tübinger Sammlung.
+
+#### XVII. Meteoreisen.
+
 ...
