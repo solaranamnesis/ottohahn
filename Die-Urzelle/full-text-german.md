@@ -1482,6 +1482,60 @@ Wo Platten und regelmässige Schichten-Ablagerungen sind, muss immer an Pflanzen
 
 von Knyahinya vom 6. Juni 1858.
 
+Wieder war meine Arbeit geschlossen, als ich nochmals meine Schliffe vornahm, um einzelne Gesteine wie Gabbro zu untersuchen.
 
+Ich war mit der Durchsicht am Schluss und hatte mich schon herzlich gefreut, auch in dem Gabbro-Gestein dieselben Pflanzen gefunden zu haben, wie im Granit, — da waren noch 4 Meteorsteine übrig.
+
+Der Zweck, der mich beschäftigte, war, organische Einschlüsse zu finden. Sollte ich die Meteorsteine ansehen? Ich fürchtete mich fast, so thöricht zu sein und in der That vor einigen Tagen hatte ich die Schliffe für jetzt als werthlos zurückgelegt.
+
+Endlich entschloss ich mich doch.
+
+Der erste Schliff von einem Stein der Tübinger Sammlung (ganz klein) mit vielen Olivinen zeigte bedenkliche Formen.
+
+Der zweite ebenfalls mit ziemlich viel Olivin zeigte Pflanzen und zwar Pflanzen mit solcher Sicherheit, dass nicht der kleinste Zweifel blieb.
+
+Der Stein ist von Knyahinya 6. Juli 1858.
+
+Die Schnittfläche ist etwa 70 mm.
+
+Das Aussehen grau-grünlich, man sieht kleine metallische Punkte, ferner zwei durchsichtige Stellen: im Microscop zeigt er gelb und grauliche Färbung mit schwarzen Einlagerungen.
+
+Die Formen, welche ich feststelle, sind folgende:
+
+_Urania Guilielmi_
+
+zu Ehren unseres Kaisers. Taf. XVII.
+
+Die Pflanze steht zwischen Alge und Farn.
+
+Ein kreisrundes gewölbtes Blatt.
+
+Von dem Stammzelle-Ansatz gehen 12 Samenzellen aus, welche am Rande des Blattes mit einer runden Oeffnung endigen.
+
+Am oberen linken Theile steht eine neue Zelle an.
+
+Der Stamm wächst aus einem runden Kelche und endigt dann mit einer Wurzelzelle. An demselben Stamm sind mehrere junge Zellen ausgewachsen.
+
+Die Farbe des Gesteins ist ein Smalte-Grau.
+
+Das Bild ist bei 90 facher Vergrösserung gezeichnet.
+
+Auf beiden Seiten unten sind Vergrösserungen der Zellen bei 250 und 750. Die Zellen sind von unmessbaren schwarzen Punkten eingefasst.
+
+In der Nähe der Pflanzen ist ein Prothallium von derselben Farbe wie das Blatt, offenbar Urania angehörend.
+
+Aber der ganze Schliff ist nichts als Pflanze.
+
+Urania ist in 8 sehr schönen Exemplaren darin.
+
+Am schönsten aber ist ein Durchschnitt der ganzen Pflanze in der Mitte des Schliffs.
+
+Nun die Frage, wie verhält sich die Form der Urania zu denen der Erde?
+
+Dieselbe Pflanze findet sich nicht. Aber die ganze Structur unserer lebenden Algen oder Farne ist da.
+
+Der Dünnschliff enthält hunderte von Pflanzen.
+
+***
 
 ...
