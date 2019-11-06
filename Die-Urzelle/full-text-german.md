@@ -1931,3 +1931,65 @@ Mit der Structur der Pflanzen hängt die Form der heutigen Gebirge (Pflanzenberg
 Man sieht, wie schwer es ist, von angewöhnten hergebrachten Vorstellungen sich loszumachen und mit unparteiischen Augen zu sehen.
 
 ***
+
+#### Tafeln.
+
+Tafel 1.
+
+Tafel 2.
+
+Tafel 3.
+
+Tafel 4.
+
+Tafel 5.
+
+Tafel 6.
+
+Tafel 7.
+
+Tafel 8.
+
+Tafel 9.
+
+Tafel 10.
+
+Tafel 11.
+
+Tafel 12.
+
+Tafel 13.
+
+Tafel 14.
+
+Tafel 15.
+
+Tafel 16.
+
+Tafel 17.
+
+Tafel 18.
+
+Tafel 19.
+
+Tafel 20.
+
+Tafel 21.
+
+Tafel 22.
+
+Tafel 23.
+
+Tafel 24.
+
+Tafel 25.
+
+Tafel 26.
+
+Tafel 27.
+
+Tafel 28.
+
+Tafel 29.
+
+Tafel 30.
