@@ -1246,4 +1246,53 @@ Aber auch kleinere Formen gibt es, ja microscopische — das Silur ist noch vorz
 
 Hier beginnt erst das grosse Thierleben.
 
+#### XIII. Rückblick.
+
+Im Silur findet die grösste Entwicklung der Individuen statt, dagegen nehmen sie in der Zahl ab.
+
+Durch den Kalkniederschlag schliesst sich die Urpflanze von ihrem Lebenselement, der Kieselerde, ab und nun beginnt die Aera des Thons, des Kalkes. Die Formen werden vielfältiger, feiner.
+
+Beweis für die Entwicklung neuer Arten bei veränderter Lebensbedingung!
+
+In der That finde ich in dem chemischen Vorgang den Schlüssel zum morphologischen.
+
+Jeder Niederschlag ist eine Aenderung der Mischung: das Zurückbleibende ist immer ein Theil, wie das Ausgeschiedene. Mit dem Laurentiankalk war der Anfang zur Entkalkung der Erdoberfläche gemacht und damit zugleich der Auflösung der Kieselerde durch das Wasser ein mechanischer Abschluss gegeben. Die alten Pflanzen, welche durch ihre Bezüge, wie ihre Ausscheidungen die Oberfläche der Erde geändert hatten, welche zuletzt in mechanischen Decken auf ihrem Lebenselemente lagern, finden ihr Gedeihen nicht mehr wie früher. Nur einzelne Individuen überdauern die Katastrophe, entwickeln sich im Laurentian (Labrador und Hornblende), zulezt in der Kohlenperiode zu Riesen, um dann einer jüngeren Generation zu weichen.
+
+Im Silur finden sich noch die alten Arten von Algen. Ich glaubte mein Werk nicht besser schliessen zu können, als mit Abbildungen einer Anzahl Pflanzen aus dem Silur. Allerdings nicht derer, welche man dort gewöhnlich aufgeführt findet. Die bekannten Algen aus dem Silur sind ganz andere, als die Urpflanze, welche ich nachwies; hätte man sie im Silur erkannt, so hätte sie auch im Granit und Gneis nicht übersehen werden können.
+
+Der Granit und Gneiss ist die eigentliche Pflanzenzeit unserer Erde. Im Silur schwindet die Masse der Pflanzen. Die Formen sind noch da, aber der Schlamm herrscht schon vor, welcher die Pflanze die Kieselerde zu lösen verhindert.
+
+(Jedes Geschöpf gräbt sich selbst sein Grab!)
+
+Nachdem auch der Kalk niedergeschlagen ist, wird die Luft das Lebenselement der Pflanze, vorher war es das Wasser.
+
+Damit brach die Kohlenzeit an.
+
+Die Urpflanze verkriecht sich auf die Tiefe des Meeres und verschwindet auf der Erde, setzt aber ihr Leben unter der erhärteten Oberfläche fort.
+
+Zwar habe ich noch in einem lithographischen Kalk, auf welchen ich meine Abbildungen zeichnete, einzelne wenige Sporen eingebettet gesehen. Was soll das gegen früher?
+
+***
+
+Eine wichtige Frage bleibt übrig.
+
+Ich habe oben festgestellt, dass der Basalt Pflanze ist. Aber viele Basalte gehören der Tertiärzeit unserer Erde an.
+
+Ich habe mir die Untersuchung auf spätere Zeiten aufsparen wollen, nehme sie aber doch lieber sogleich vor.
+
+Ich untersuche
+
+1) Basalt von Biberich.
+
+2) Basalt von Neuhausen, Urach,
+
+3) Basalt von Kirchheim,
+
+ersterer Feldspat-, beide letztere Nephelin-Basalte.
+
+Anfangs glaubte ich, letztere enthalten todte Pflanzen oder Pflanzen-Reste, bald überzeugte ich mich vom Gegentheil — auch der sog. Nephelin-Basalt ist ein Pflanzen-Gestein mit lebenden Pflanzen (wenig todte Reste.) —
+
+***
+
+
 ...
