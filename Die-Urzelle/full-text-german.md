@@ -1146,4 +1146,28 @@ Ich schrieb also eine ganze Abhandlung über die Urzelle auf der Urzelle, denn d
 
 #### IX. Nachtrag.
 
+Ich habe den Ophicalit von Krummau in Böhmen, ferner den von Passau untersucht: dieselben, welche Gümbel und v. Hochstetter als Eozoon erklärten. Beide enthalten Pflanzen, jedoch nicht so viele, als das canadische Gestein. Der „Warzenansäze“ Gümbels habe ich schon gedacht.
+
+#### X. Basalt.
+
+Ich wollte den Basalt blos gelegentlich besprechen. Ich konnte mir aber doch nicht versagen, dieses von den Vulkanisten am eifrigsten umworbene Gestein einer genaueren Untersuchung zu unterziehen.
+
+Ich habe 2 Basalte von Biberich.
+
+Beide haben 3 cm. lange Pflanzen (ohne alle Unterbrechung) Zelle an Zelle gefügt.
+
+Der Dünnschliff zeigt ein vollständiges zusammenhängendes Pflanzen-Netz. Es kann sich daher bei beiden nicht darum handeln, dass sie etwa blos eingelagerte Pflanzen (Leichen) enthalten. Die Pflanzen sind durchaus erhalten, also, wie ich sie nenne, lebende. Dasselbe Verhältniss ist bei den Alb-(Nephelin)Basalten. Einzelzeichnungen Taf. XXVIII. 1-7.
+
+In jedem Basaltstück, besonders den leicht angewitterten, lassen sich die Pflanzen erkennen. Die Frage ist jetzt nur noch: was ist Basalt, was ist Lava?
+
+***
+
+Der Basalt ist ein Eruptivgestein: er rührt aber von Schlammausbrüchen, ebenso der Basalttuff.
+
+***
+
+Es wäre von grossem Interesse (es ist meines Wissens noch nicht geschehen), dass man die neueren Schlammausbrüche in der Tiefe, wo sie rein erhalten sind, untersucht.
+
+#### XI. Feldspath.
+
 ...
