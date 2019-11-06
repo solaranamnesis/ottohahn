@@ -1432,4 +1432,26 @@ Die meisten Minerale sind wol Produkte organischer Thätigkeit, sofern durch let
 
 Diese Thatsachen erklären auch die „Einschlüsse im Quarz und Feldspat“ einzig genügend, besonders was die Regelmässigkeit der Lagerung betrifft, zerstören aber sofort die Hypothese vom ungeheuren Druck, welcher die Kohlensäure darin zusammengepresst hätte.
 
+Wenn ich also jetzt sage: Granit, Gneiss, Porphyr sind kein Urgebirge, so heisst dies richtiger gesagt:
+
+Die Bestandtheile dieser Gebebirge Quarz, Feldspat, Glimmer sind in ihrer jezigen Form in Folge der organischen Arbeit der Erde ausgeschieden und wieder zusammengelagert. Das führt auf die Frage: was war vorher da? Da sind wir allerdings durch meine Entdeckungen nur in soferne besser daran, als wir jetzt wissen, dass Etwas, nemlich das Urgebirge, »im Anfang« nicht da war, also auch entstand wie das übrige Sedimentgebirge. War es meteorsteinartige Masse?
+
+Wir müssen also unsere Zuflucht wieder zur Beobachtung nehmen.
+
+Was die Erde heute noch auswirft, Augit, Feldspat in der Lava ist der Kern der Erde, allerdings ist es aber auch zweifelhaft, ob ganz in dieser Form, ob die Masse nicht auf ihrem Wege zum Lichte selbst schon Beimischungen erhalten hat, ob nicht die Metalle, insbesondere das Eisen (nach dem Gesetz der Schwere) wenigstens theilweise davon zurückgeblieben sind.
+
+Meine Entdeckungen nöthigen nun zu einer besseren Erforschung und Erklärung der Thatsachen bezüglich des Erdinnern.
+
+Ein Wunsch, den ich daran anknüpfen möchte, ist der: nicht ohne Erforschung, ohne ganz gründliche Versuche Hypothesen auf Hypothesen zu häufen. Ich gestehe, ich schlich mich jedesmal aus der Gesellschaft fort, wenn die Rede auf die Vorgänge in der Granitzeit kam und von diesen natürlich fürchterlichen Revolutionen mit einer Sicherheit gesprochen ward wie von einem Theaterstück, das man von der 1. Gallerie aus mit ansah. Es gibt in der That nichts wohlfeileres als solch wichtige Besprechungen, aber auch keinen endloseren Streit als diesen.
+
+Ueberhaupt möchte ich dringend rathen, den Weg der Beobachtung, des Versuchs noch lange nicht zu verlassen.
+
+Seit der Aufstellung der Darwin'schen Sätze, welche aber durch tausend Beobachtungen, also Thatsachen, begründet waren, glaubt Jeder Sätze aufstellen zu dürfen — ohne Beobachtung. Damit ist die Wissenschaft selbst und zwar nicht unverschuldet in starken Misscredit gekommen, sie hörte eben auf, die exacte zu sein und fiel damit in einen Fehler, welchen sie an einer andern Wissenschaft rügte.
+
+Freilich, man braucht auf das Denken nicht zu verzichten. Man kann auch im Kämmerlein sich seine Hypothesen machen. Aber man hüte sich, aus 2, 3 Thatsachen das Weltganze erklären zu wollen.
+
+Auch die Freude an dem grossen Naturleben (am Ganzen) will ich nicht verderben. Im Gegentheil, ich möchte sie erst erweitern. Dieses ist nur möglich nach redlicher Arbeit am Ganzen. Dies ist die Beschäftigung mit dem Einzelnen, eine Beschäftigung, die nie ermattet und die grosse Schuld der Zeiten sandkornweise tilgt, diese Arbeit gibt uns allein einen wahren wissenschaftlichen Einblick ins Ganze.
+
+#### XV. Sandsteine.
+
 ...
