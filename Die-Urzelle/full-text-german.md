@@ -1340,4 +1340,65 @@ Alles dies ist blos mittelst des Wassers möglich.
 
 ***
 
+Der Basalt ist einer der letzten Schlammausbrüche. Ausbruch der damals wenigstens sicher noch lebenden Urpflanze.
+
+Die Steinkohlen kommen nicht von den Equiseten der damaligen Zeit, sondern verdanken ihr Dasein den Kohlen-Gasen aus den unermesslichen Lagern der Urpflanze. Daher auch das Fehlen der Kohle im Granit: Einschlüsse von Kohlensäure, Anthracit- und Graphitlager sind noch davon übrig.
+
+***
+
+Jedes Meer der Erdzeiten hatte seine eigene Vulcane; sie sind aber erloschen, sobald das Wasser seinen Ort wechselte.
+
+***
+
+Jüngerer Granit? älterer Granit? Geburtstag — Zeugungstag. Verwandtschaft des Granits mit dem Trachyt.
+
+***
+
+Gibt es Crystalle ohne Pflanzen?
+
+***
+
+Der Diamant (dafür spricht seine Form) ist Fällmasse von Pflanzenkelchen.
+
+***
+
+Die Erdwärme rührt nicht von unterirdischem Feuer her, sondern von chemischen Processen; daher keine Angst vor der Erkaltung der Erde, solange Luft und Wasser sie umgiebt.
+
+***
+
+Ich untersuche einige »Vulkan-Gesteine« und finde
+
+_Roca Pichincha von Quito_ — lebende Pflanzen.
+
+_Hauyngestein von Tomlada-Lazio_ — lebende Pflanzen.
+
+Abbildung Tafel XXII.
+
+Schräg schraffirt Hornblende, gerade schraffirt Hauyn, dunkel Eisen. Hell gezeichnet weisse Glas- oder Feldspatmasse.
+
+Wunderbare Zusammenfügung von Pflanze und Crystall!
+
+Ich nenne diese Pflanze zu Ehren Sr. K. Hoheit des Kronprinzen Rudolph von Oestreich, des eifrigen Naturforschers,
+
+_Stygia Rudolphi_.
+
+***
+
+Die Laven sind wirklich todte Gesteine, sie enthalten blos Leichen von Pflanzen.
+
+Abgerissene Stücke.
+
+***
+
+Sphaerulit hat macroscopische Pflanzen, todte eingebettet.
+
+***
+
+Perlit von Antisana — lebende Pflanzen. Phonolit lebende Pflanzen.
+
+#### XIV. Die Ergebnisse dieser Entdeckungen.
+
+sind bedeutend.
+
+
 ...
