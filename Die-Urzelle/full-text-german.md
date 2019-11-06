@@ -1170,4 +1170,32 @@ Es wäre von grossem Interesse (es ist meines Wissens noch nicht geschehen), das
 
 #### XI. Feldspath.
 
+Auch über dieses Mineral muss ich noch einige besondere Bemerkungen machen.
+
+Am schönsten ist der Labrador.
+
+Es sind Riesenpflanzen. Die blaue Färbung folgt, wie ich mich jetzt an einem grossen Stück der Tübinger Sammlung überzeugt habe, vollständig der Structur der Pflanze, ähnlich der von mir im Silur von Quebec gefundenen Oldhamia antiqua. Die Streifungen und die microscopischen Einlagerungen sind auf Rechnung der Pflanze und des Pflanzen-Wachsthums zu schreiben.
+
+Die gemeinen Feldspäthe sind von Pflanzen ganz durchzogen. Mir scheint die 2- und 1 gliedrige Form an die Form der Pflanze und Pflanzenzelle sich anzuschliessen. Die Grundform der Stammzelle im Granit ist 2- und 1 gliedrig.
+
+Es liegt mir ein Feldspath-Crystall aus der Tübinger Sammlung mit einem Kelch vor, dessen Spitzen ich gerade auf Fläche M einschrieb.
+
+Der Crystall ist aufgewachsen.
+
+Das Muttergestein ist Schriftgranit, in welchem die Algen in Quarz verwandelt sind.
+
+Man sieht nun, dass es eine Pflanze ist, ein grosser Kelch, welcher die Crystalle bildet.
+
+In einem Hornblende-Gestein von Montreal sind völlig entwickelte Pflanzenkelche von einem Hornblende-Crystall umschrieben.
+
+Es wird Aufgabe der Zukunft, das Verhältniss von Crystall-Form zur Grundform der Pflanze und umgekehrt zu untersuchen.
+
+Perthit von Granville Canada sind die schönsten macroscopischen Pflanzen. Ebenso gut hätte es ein Schriftgranit werden können.
+
+***
+
+Ein Bild eines Hauyngesteins bietet Tafel XXII. Hornblende schräg, Hauyn horizontal schraffirt, das schwarze ist Magnetit, das übrige Gestein (Feldspat)-Pflanze. Man sieht an dem Kelche links den Kelchstil als Crystall: einen Kelch in einen Hornblendecrystall verwandelt, zwei Brutzellen in Hauyn: ebenso an der Wurzelzelle und in diese Crystalle eingefügt das Bild der Pflanze!
+
+#### XII. Silur.
+
 ...
