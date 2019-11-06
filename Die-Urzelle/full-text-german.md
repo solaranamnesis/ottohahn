@@ -1782,4 +1782,50 @@ Ein Wunder, aber wahr.
 
 ***
 
+Corund. Saphir. Fig. 11. 12.
+
+Der Corund ist die Ausfüllung eines Pflanzenkelchs. Ein Saphir aus der Tübinger Sammlung zeigt dies deutlich.
+
+Er ist in der Mitte horizontal gebrochen. Die Bruchfläche zeigt den Pflanzenkelchdurchschnitt. Die Ecken legen sich in die Spitzen des Kelches.
+
+Die Kelchblätter selbst sind in Glimmer verwandelt.
+
+***
+
+Pinit. Taf. XXX. Fig. 15. 16.
+
+Soviel Pflanzen, soviel Säulen. (Wahrscheinlich dasselbe Gesetz beim Turmalin, überhaupt bei der Säulenform.)
+
+Auf der unteren Endfläche der Säule ein Zäpfchen (Wurzelzelle), auf der oberen Endfläche ebenso.
+
+Auf jeder Säulenfläche eine Pflanze.
+
+***
+
+Smaragd, Beryll. Ebenso. Tafel XXX. Fig. 13.
+
+***
+
+Kupferglanz. Fig. 2.
+
+Mehrere Crystalle an einander gewachsen nach dem Gesetz der Zellbildung.
+
+Die oberste grösste ein Kelch mit eingeschriebenen Linien.
+
+Die „dendritische“ Form der Metalle wahrscheinlich Pflanzen-Grundform.
+
+In einem Meteorstein eine Pflanze in Nickel verwandelt.
+
+_Diamant_.
+
+Kelchausfüllung: schliesst Brutzellen ein.
+
+#### XX. Schluss.
+
+Ich glaube, man kann drei Zeitalter der Erde annehmen, das Alter des Siliciums (der Kieselerde), das des Aluminiums (des Thons), das des Calciums (des Kalks).
+
+Solange der grösste Theil des Lebens unter Wasser war, mussten natürlich die Lebensvorgänge auch andere sein, als heute, wo die meisten Pflanzen-Arten wenigstens Luftpflanzen sind, und aus einer Erde sich nähren, welche in keiner Weise ebenso gedacht werden kann, wie die Erdoberfläche vor der ersten Pflanzenentwicklung.
+
+***
+
 ...
