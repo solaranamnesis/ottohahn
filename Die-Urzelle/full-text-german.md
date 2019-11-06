@@ -1828,4 +1828,34 @@ Solange der grösste Theil des Lebens unter Wasser war, mussten natürlich die L
 
 ***
 
+In den Granitpflanzen scheint die Umwandlung die gewesen zu sein, dass aus der todten Pflanze die Stoffe ausschieden, welche in Gas, oder in Wasser-Lösung sich überführen liessen und dass dann (vielleicht erst zur Gneisszeit) das Wasser seine in Lösung befindlichen Silicate etc. in den Zellen absetzte.
+
+Mit Rücksicht hierauf habe ich auch die schwarze Farbe der darauf folgenden Thonschiefer, welcher meist von Kohlen herrührt, ferner die mächtigen Graphit- und Anthrazitlager im Granit und Gneiss und die Steinkohlenschichten selbst erklärt.
+
+Nach F. v. Hochstetter hat der Urkalk von Böhmen bituminösen Geruch!
+
+Es wäre in der That merkwürdig, dass von den Tangen, welche nach anderer Meinung 50 M. mächtige Kohlenschichten hinterlassen konnten, nicht Eine Pflanze erhalten ist.
+
+Sind die Tange im Silur erhalten, so müssen sie noch viel mehr im Kohlengebirge sich auffinden lassen, vorausgesetzt, dass sie da sind.
+
+Man findet aber dort eben keine Tange mehr, sondern blos den geschichteten Kohlenstoff.
+
+Wenn man genau untersucht, ist der Kohlensandstein ebenfalls ein Pflanzen-Lager, das aber nicht hinreicht, um die Kohlenflöze zu erklären und desshalb erkläre ich letztere aus dem von der Granitpflanze ausgeschiedenen Kohlenstoff. Diese Pflanzen sind richtige Tange. Kommen ja solche Kohlenflöze nach Mohr schon im Porphyr vor, der nach meiner Deutung nichts ist, als der erste wahre Schlamm dieser Erde mit eingebetteten lebenden Pflanzen.
+
+***
+
+Wenn Meteorsteine als Pflanzen, oder wenigstens die Pflanzen im Meteorstein nachgewiesen sind, so könnte das erste Leben unserer Erde auch von einem anderen Planeten auf die Erde übertragen worden sein.
+
+***
+
+Schöner als im Graphit von Piemont (die Etikette hat in Klammer Passau?) habe ich die Pflanzen-Zellen nicht gesehen. Sie sind wahrscheinlich in Feldspat erhalten. Der Graphit selbst aber ist auch eine Pflanze, und nicht etwa Magma, in welchem die Feldspat-Pflanze liegt.
+
+Ist dies vielleicht nicht der Anfang von Pflanzen der heutigen chemischen Zusammensetzung?
+
+Diese Frage soll eine offene sein.
+
+***
+
+Man lese F. Zirkel, Lehrbuch der Petrographie, I. Band, über Graphit Seite 352, über Anthracit Seite 355 und vergleiche das dort Gesagte mit dem Ergebniss meiner Untersuchung, so wird sich das Geheimniss der Anthracitflöze im Granit und Gneiss lösen. Zirkel ist, wie ich, der Ansicht, dass sich die Färbung der jüngeren Gesteine durch Anthracit erkläre.
+
 ...
