@@ -1644,4 +1644,44 @@ Das Eisen aus dem Basalt von Grönland ist nichts als Pflanze, ist also Meteorei
 
 #### XVIII. Die Urzelle — Crystall-Pflanze — das Thier.
 
+Bis jetzt hatte man keine Kenntniss von der wirklichen Form der Urzelle. Erst im Laufe meiner Untersuchung wurde sie mir klar und klar, dass sie auch die Grundform des thierischen Körpers sei. Dies geschah aber erst, nachdem ich Alles Bisherige gesehen und geschrieben hatte.
+
+Man wusste nur, dass die Zelle eigentlich die Einheit des thierischen Körpers sei, dieser aus jener zusammengesetzt wird.
+
+Man kannte eine Unzahl Formen dieser Zelle, man kannte Verbindungen dieser Zellen zu Gefässen und Organen. Aber ein Ding, welches Urzelle und Urbild auch des menschlichen Körpers sein könnte, davon hatte man keine Ahnung.
+
+Dieses Urbild glaube ich in der Urzelle entdeckt zu haben, deren Wachsthum ich auf Tafel XVIII. dargestellt habe. Die Weiterentwicklung derselben ist die Figur Taf. I. und Taf. XVIII. 8. XIX. 3. Die nähere Begründung später.
+
+***
+
+Die Entstehung der Urzelle, das bemerke ich hier, rauss mit dem Stoff im Zusammenhang stehen. Sie entstand aus dem Stoff der Erdoberfläche in Verbindung mit dem der Atmosphäre, des Aethers. Die Stoffe sind verbraucht, sind in andere theilweise unlösliche Formen übergeführt und so ist eine Zwischenwand zwischen Atmosphäre und dem Erdinnern geschaffen, eine Absperrung, welche eine fortdauernde Erzeugung derselben im früheren Maase unmöglich macht.
+
+***
+
+Die Bau-Stoffe sind durch das Festwerden der Erde andere geworden und das Wachsen in der Menge ist abgeschnitten, andere Arten entstanden aus anderen Stoffen.
+
+***
+
+Die Urzelle hatte (solange ihr der Baustoff zu Gebot stand) die Fähigkeit, sich ins Unglaubliche zu vermehren, aber auch die Fähigkeit sich zu entwickeln.
+
+***
+
+Doch vor Allem ihre Grundform.
+
+Was ich als Anfang gefunden, ist eine halbkugelige Schaale, deren Baustoff nichts anders sein kann, als ein Silicat.
+
+Ich möchte übrigens die Frage hier offen lassen, ob die erste Form nicht blos ein Plättchen ist, das sich zur Halbkugel erst entwickelt. Da diese ganz einfache Form ihrer Natur nach sehr schwer nachzuweisen ist, so möchte ich diese Frage der Zukunft überlassen. Soviel ist aber gewiss, die erste Zelle tritt bald als eine Halbkugel auf.
+
+Ist sie nach oben, oder nach unten gerichtet?
+
+Ich habe auf Tafel XVIII. die Entwicklung der Zelle in ihrem ersten Stadium abgebildet.
+
+Ich möchte auch die Frage offen lassen, ob das, was ich als den Anfang bezeichnet habe, wirklich das erste Stadium der Entwicklung ist: ob also nicht die erste Zelle nach abwärts gerichtet ist? und dann erst der zweite Abschnitt der Zell-Bildung, nach oben, eintritt.
+
+Ich habe einige Thatsachen beobachtet, welche dafür sprechen.
+
+Im Kalk stehen die Zellen, so lange die Pflanze im Kalk wächst, nach unten: erst wenn sie aus dem Kalk hervortreten, entstehen die Zellen, welche sich nach oben richten. Das lässt sich bei grösseren Arten beobachten, welche den Serpentin durchsezen, also in die Luft- oder Wasserschichte eingetreten sind.
+
+***
+
 ...
