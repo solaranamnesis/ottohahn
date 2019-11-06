@@ -1684,4 +1684,62 @@ Im Kalk stehen die Zellen, so lange die Pflanze im Kalk wächst, nach unten: ers
 
 ***
 
+Ob die Zellen im Licht oder Wasser gelebt haben? Im Laurentian waren es Wasserpflanzen.
+
+***
+
+Nun wir haben als Form eine Halbkugel.
+
+An dieser bildet sich ein Ansatz, Wurzelzelle. Die Zelle wird zum Trichter. Der Trichter schnürt sich ab: dadurch entstehen Stamm-Zellen: die letzte ist die Kelchzelle, welche der eigentlichen Fortpflanzung dient. Das hindert aber nicht, dass sich überall an der Zelle Ansäze zu neuen Zellen und neue Zellen bilden.
+
+Die Quer-Durchschnitts-Form der Zelle ist die runde.
+
+Ob ein Gesetz ihre Länge beherrscht, ist zweifelhaft, eine Grenze hat das Wachsthum, aber nach welchem Gesetz ist nicht sicher.
+
+(Anwendung auf die Säule im Crystall).
+
+Ich glaube annehmen zu dürfen, dass ein solches Gesetz besteht. Das Pflanzen-Individuum hat im Kelch seinen Abschluss gefunden.
+
+***
+
+Ich muss solche Fragen offen lassen.
+
+***
+
+Es schnüren sich aber auch weitere Zellen innerhalb der Zelle ab. Es erfolgt eine Theilung in zwei Reihen und sofort.
+
+Die Theilungszelle ist ebenso gut Kelch als Stammzelle.
+
+***
+
+Wir haben also die Wurzel-, Stamm- und Kelch-(End-)Zellen der Urpflanze.
+
+Die einzelnen Zellen sind zugleich Crystalle und bleiben es nach dem Tode; dadurch geht die Pflanze in das Mineral über.
+
+Die eigentliche Pflanze ist da, sobald eine Zelle ein selbständiges Ganze aus der Baustoffmasse sich abscheidet.
+
+Aus dieser entsteht dann, indem sie sich vom Boden loslöst und ihre Nahrung nicht durch die Wurzel vom Boden oder durch den Kelch aus der Luft, dem Wasser zieht, was nach oben oder aussen offene Nahrungsorgane voraussetzt — das Thier. Die Bewegung ist eine Folge davon.
+
+Titanus Bismarki Tafel XII. XIII. ist ein Schlauch, der sich festsetzen, aber auch frei bewegen kann, der seine Nahrung nicht mehr aus dem Stein, der Erde, zieht, sondern frei wählt, sich nach der Nahrung bewegt.
+
+Damit glaube ich auch den Begriff des Thiers einigermassen festgestellt zu haben.
+
+***
+
+Die Urzelle besteht aus Wurzel-, Stamm- und Kelch-Zelle.
+
+Es sind die 3 Hohlräume des organischen Körpers, welche auf dem Weg der Abschnürung entstehen.
+
+Was freilich diese Abschnürungen, diese Entwicklung bewirkt, wissen wir nicht.
+
+***
+
+Der Crystall ist die mit dem Entstehen stillstehende, abgeschlossene Zelle: die Pflanze — wächst — bleibt aber mit der Erde in Verbindung, das Thier wird, wächst und löst sich zu selbständiger freier Bewegung los.
+
+***
+
+Auch dies sind blos Entwürfe, Grundlinien. Möge die Zukunft sie bestätigen und verbessern.
+
+#### XIX. Der Krystall.
+
 ...
