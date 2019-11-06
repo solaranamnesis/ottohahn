@@ -1108,4 +1108,42 @@ Die grossen Crystall-Kelche stechen in die Augen. Die Wurzelzelle, welche dazu g
 
 ***
 
+Trachyt ist ein Gemisch von lebenden und todten Zellen, ebenso Klingstein.
+
+***
+
+Ich wäre heute schon im Stande gewesen, die Leitpflanzen für etwa 30 Gesteine zu zeichnen. Wollte es aber lieber Anderen überlassen, welche mehr Zeit haben.
+
+***
+
+Die beliebten Metamorphosen müssen nach meiner Ansicht stark zusammenschrumpfen.
+
+Mechanische Zerreibung, Lösung, Ablagerung — dies sind aber nicht die eigentlichen Metamorphosen.
+
+Die Träume von Verwandlung eines Gesteins ins andere lösen sich auf.
+
+Denn wenn des Gesteins-Art und Structur von der Pflanze abhängt, aus deren Körper das Gestein wurde, so kann ein ursprüngliches Gestein nicht — ein anderes werden. Ist so wenig möglich als eine Eiche in eine Palme, und eine Palme in eine Eiche sich verwandelt.
+
+#### VIII. Carrararischer Marmor.
+
+Ich bezog eine weisse Platte mit grauen Flecken zu einem Buffet welches mir als Kasten für meine Steinschliffe dient.
+
+Ich verschüttete etwas Fuchsin und musste die Platte reinigen.
+
+Ich rieb sie.
+
+— Plötzlich was sah ich!
+
+Kelche von 1 Meter Länge. Taf. XXI.
+
+Ich nenne sie
+
+_Marmora Darwini_.
+
+Mein Schreibtisch hat dieselbe Platte, aber nur mit etwas weniger deutlichen Pflanzen.
+
+Ich schrieb also eine ganze Abhandlung über die Urzelle auf der Urzelle, denn der ganze Marmor ist nichts als Pflanze. Wirklich — nicht blos Ironie des Schicksals.
+
+#### IX. Nachtrag.
+
 ...
