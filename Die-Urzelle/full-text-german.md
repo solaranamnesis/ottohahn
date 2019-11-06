@@ -1454,4 +1454,34 @@ Auch die Freude an dem grossen Naturleben (am Ganzen) will ich nicht verderben. 
 
 #### XV. Sandsteine.
 
+Die Huronian-Formation ist, wie ich vermuthe, ebenfalls eine Pflanzenschichte, wie die meisten Sandsteine.
+
+Sicher, dass es Pflanzenschichten sind, weiss ich vom Buntensandstein, Lettenkohlen- und Keuper-Sandstein.
+
+Als ich nemlich in Tübingen zur Druckerei ging, fand ich ein Stück Stubensandstein, etwa 6 cm. Durchmesser mit den deutlichsten Kelchen. Die Staffel des Hauses von Kneuper-Sandstein zeigte Pflanzen von 1/2 Mtr. Länge.
+
+Die Rampe des Bahnhofs von Lettenkohlen-Sandstein ist durchaus Pflanze, wie auch daneben das Pflaster von Bonebed-Sandstein.
+
+Wie hundertmal bin ich schon über diese Platten und Andere sind noch öfter darüber gegangen.
+
+Zu Hause untersuchte ich Dünnschliffe von Buntemsandstein und Keuper. In ersterem fand ich Kelch an Kelch (von länglicher Form), in letzterem ebenso kleine rundliche Kelche, beide microscopisch. Die Kelchzellen im Bunten-Sandstein von Glimmer! Prachtvoll.
+
+Hier ist also die Pflanze überall mit Quarz ausgefüllt. Daher Sandstein!
+
+Wie einfach nun Alles.
+
+Statt Strömen von Meeren ruhige Pflanzen-Seen.
+
+So wird noch aus mancher haarsträubend geschilderten, ja sogar abgebildeten Revolution auf der Erde, wie sie unsere Geologen mit Vorliebe vorführen, ein stagnirendes Wasser.
+
+***
+
+Wo Platten und regelmässige Schichten-Ablagerungen sind, muss immer an Pflanzen gedacht werden. Die Pflanze ist ein zerbrechlicher Stoff, daher der schieferige Abgang.
+
+#### XVI. Meteorstein.
+
+von Knyahinya vom 6. Juni 1858.
+
+
+
 ...
