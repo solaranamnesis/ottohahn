@@ -1434,7 +1434,7 @@ Diese Thatsachen erklären auch die „Einschlüsse im Quarz und Feldspat“ ein
 
 Wenn ich also jetzt sage: Granit, Gneiss, Porphyr sind kein Urgebirge, so heisst dies richtiger gesagt:
 
-Die Bestandtheile dieser Gebebirge Quarz, Feldspat, Glimmer sind in ihrer jezigen Form in Folge der organischen Arbeit der Erde ausgeschieden und wieder zusammengelagert. Das führt auf die Frage: was war vorher da? Da sind wir allerdings durch meine Entdeckungen nur in soferne besser daran, als wir jetzt wissen, dass Etwas, nemlich das Urgebirge, »im Anfang« nicht da war, also auch entstand wie das übrige Sedimentgebirge. War es meteorsteinartige Masse?
+Die Bestandtheile dieser Gebebirge Quarz, Feldspat, Glimmer sind in ihrer jezigen Form in Folge der organischen Arbeit der Erde ausgeschieden und wieder zusammengelagert. Das führt auf die Frage: was war vorher da? Da sind wir allerdings durch meine Entdeckungen nur in soferne besser daran, als wir jetzt wissen, dass Etwas, nemlich das Urgebirge, „im Anfang“ nicht da war, also auch entstand wie das übrige Sedimentgebirge. War es meteorsteinartige Masse?
 
 Wir müssen also unsere Zuflucht wieder zur Beobachtung nehmen.
 
