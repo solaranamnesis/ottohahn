@@ -1890,4 +1890,44 @@ Ich erstaunte, als ich den Einwurf hören musste: „Wie aus den Bestandtheilen 
 
 Einmal sind die Bestandtheile keiner Pflanze blos Kohlenstoff, Sauerstoff und Wasserstoff: das Knochengerüste von Kiesel, Kalk, die Aschenbestandtheile sind vergessen, vergessen sind die Kiesel-Skelette der Diatomaceen, die Kieselzellen der Equiseten etc. Hier wird sicher nicht aus Kohlenstoff, Sauerstoff und Wasserstoff Kieselerde, sondern die Kieselerde ist durch die Pflanze hindurchgegangen, von der Pflanze abgelagert.
 
-...
+Man vergleiche Nägeli und Schwendener, das Microscop (1877) S. 488.
+
+Nun glaube ich aber eben mit der Serpentinpflanze nachgewiesen zu haben, dass sogar an die Stelle der Urpflanze, mag sie bestanden haben, aus was sie will, ein Bittererde-Silicat treten kann. Dass aber Pflanzen aus der Granitzeit anders organisirt waren, als die der Jetztzeit, versteht sich von selbst und waren sie anders, so waren natürlich auch ihre Ausscheidungen anders als heute.
+
+Uebrigens scheiden viele Pflanzen heute noch vorzugsweise Kieselerde in den Fruchtschalen, Samenhülsen aus.
+
+Was die „Ausscheidungen“ betrifft, so erinnere ich an die verschiedensten Minerale in den Ammonitenkammern, welche dort und nur dort vorkommen. Sind sie von den Ammoniten ausgeschieden? Gewiss nicht. Es ist also das Wort „Ausscheidung“ cum grano salis zu verstehen. Das Mineral liegt da: Welches der Zusammenhang mit der Pflanze ist, ist noch nicht — aber dass ein Zusammenhang besteht, ist festgestellt. Keinenfalls kann die Thatsache, dass Granat an der Stelle von Pflanzenkelchen vorkommt, als Gegenbeweis dagegen dienen, dass kein Pflanzenkelch da ist. Ist die Pflanze einmal festgestellt, so sehe die Wissenschaft eben, wie sie die Thatsache erklären kann.
+
+Freilich bei uns fängt man nicht mit dem Auge an, sondern mit der Rechnung. Statt zu sehen, zu betrachten, zu versuchen, macht man sich aus seinem beschränkten Wissen die Rechnung fertig. Wenn es nun aber doch so ist? Wenn eine unbefangene nur halbwegs sorgfältige Beobachtung die Thatsache bestätigt, was dann?
+
+Der scharfsinnige Arago (und es sind nicht einmal alle Leute, welche absprechende Behauptungen aufstellen, scharfsinnig) bewies vor den Augen und Ohren von ganz Frankreich, dass eine Eisenbahn unmöglich seie. Es hat Jahrhunderte angestanden, bis gegen die Behauptungen aller Fachgelehrten die Versteinerungen als Thier-Reste anerkannt wurden.
+
+***
+
+Die feinen Linien im Granit mit schwarzen Punkten gezogen, kann man unmöglich aus blossen Crystallen erklären, sie können also nicht blos die Peripherie eines Minerals andeuten. Aber auch zufällige Linien sind sie nicht. Es herrscht ein Gesetz darin und dieses Gesetz ist die Form der Pflanze: nur die einzelnen Zellen haben die Form des Crystalls, sind aber keine vollkommenen Crystalle.
+
+***
+
+Erst am Schlusse der Arbeit, gestattete ich mir einen Blick auf die Pflanzenarten zu thun.
+
+Ich fasse die äussere Structur des Gesteins ins Auge, welche durch die Pflanze, aus welcher es sich zusammensetzt, bedingt ist.
+
+Insbesondere zwei geschliffene Granite von Kullgren Uddevalla in Schweden („Granit of flera sorter“, wie er im Handel heisst) machen mich darauf aufmerksam, dass die Pflanzenform des Granits auch die von Flechten sein könnte. Es sind kurze Kelchzellen, welche senkrecht oder neben einander stehend, das Gestein bilden (Cladonia?).
+
+Erst im Gneiss findet sich horizontale Lagerung des Gesteins bedingt durch lange Pflanzen, welche nun mehr den See-Algen ähnlich sind.
+
+Ich ziehe aus der Gesteins-Structur der Granit-Pflanze den Schluss, dass die Erdoberfläche zur Granitzeit nicht unter Wasser, sondern erst von Dampf umgeben war. Die Pflanzen des Granits wären dann Landpflanzen. Im Wasser würden die Pflanzen-Schichten sofort in horizontalen Lagern sich angesetzt haben.
+
+Die Flechten scheinen mir überhaupt die erste Pflanzenform zu sein, welche unmittelbar aus Mineralsubstanz entstehen.
+
+Erst im Gneiss-Alter der Erde finden sich die ächten Wasserpflanzen, in Wasser abgelagerte Pflanzen.
+
+***
+
+Mit der Structur der Pflanzen hängt die Form der heutigen Gebirge (Pflanzenberge) zusammen.
+
+***
+
+Man sieht, wie schwer es ist, von angewöhnten hergebrachten Vorstellungen sich loszumachen und mit unparteiischen Augen zu sehen.
+
+***
