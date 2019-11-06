@@ -1400,5 +1400,36 @@ Perlit von Antisana — lebende Pflanzen. Phonolit lebende Pflanzen.
 
 sind bedeutend.
 
+Wir dürfen uns nun die Erdoberfläche beim Beginn des organischen Lebens jedenfalls nicht mehr als von einem heissen oder gar feuerflüssigen Granit- oder Gneissbrei bedeckt denken. Denn dieser Brei, welcher so lange die Phantasie der Geologen beschäftigte, bezüglich dessen sie sich nur darüber stritten, ob derselbe feuerflüssig oder wasserflüssig gewesen sei, (was man denn auch in die ganz unrichtige Frageform fasste: ob durch Wasser oder Feuer entstanden?) — dieser Brei muss jetzt einer anderen Vorstellung weichen.
+
+Da war von den ersten Atmosphäreniederschlägen Eine grosse See über die ganze Erde, in dieser wuchsen Pflanzen in undenkbarer Menge, und zwar die niedersten Arten einer einzelligen Alge oder Flechte.
+
+Diese Pflanzen, die Erzeugnisse der Verbindung des ersten Wassers mit der Erde, bauten sich in Kieselzellen auf, setzten neue Zellen an, starben ab, und das wurde die erste Erdschichte!
+
+Leider haben sie die Erde selbst dem Geologen auf ewig bedeckt. Damit, dass der Basalt als Pflanze nachgewiesen ist, ist jede Hoffnung verloren, jemals das Erdinnere kennen zu lernen.
+
+Diese Pflanzen des Granits müssen ein grosses Volum eingenommen haben, sie bildeten schon im Anfang ihres erstaunlichen Wachsthums Berge und Hügel in der See und diese Berge und Hügel wurden zu unseren heutigen Granit- und Gneiss-Gebirgen. Daher die Fächer-, die Kuppel-Formen.
+
+Die Gneissbildung war einzig und allein die Folge davon, dass die Schründe, Risse und Tiefen der ursprünglichen Erdoberfläche durch Tange, Schlamm ausgefüllt waren. Nun erst konnte sich ein eigentliches regelmässiges Sediment bilden.
+
+Es war möglich, wenn eine ebene Grundlage geschaffen war.
+
+Indessen bildeten sich die Pflanzen in der Form weiter.
+
+Wo die Ablagerung eine ursprüngliche, das Wachsthum der Pflanze ein ungehindertes war, finden wir Gneiss in seinen verschiedenen Formen.
+
+Aber es gab auch Stellen, wo Detritus sich ablagerte. Hier entstand aus den Leichen und dem Schlamm des Granit- und Gneissmeeres der Porphyr.
+
+Allerdings nicht ohne eigenes Leben. Aber das Leben darin ist viel kleiner. Die Formen sind meist microscopische, eine Masse abgerissener Leichen (ohne Zusammenhang mit dem Pflanzenstock) finden sich. Dagegen haben sich auch Crystalle auszuscheiden angefangen.
+
+Man hat sich gewiss schon oft im Stillen wenigstens darüber gewundert, warum im Granit und Gneiss der Quarz nicht crystallisirt, sondern blos in (wie man glaubte) ganz willkürlicher Form vorkommt.
+
+Der Grund ist, weil der Quarz und Feldspat des Granits und Gneisses in einen Pflanzenleib gebannt ist. (Hier sind blos die Anfänge einer Crystallisation.) Er ist Produkt der ersten organischen Thätigkeit der Erde. Im Porphyr war er frei und so sehen wir aus der Pflanzenthätigkeit den Stoff der künftigen Crystalle hervorgehen (wie den Apatit, Kalk aus den Gneiss-pflanzen).
+
+Es wäre sehr wichtig, jetzt die Entstehung bedeutender Mineralien (einschliesslich der Erze) in diesem Zusammenhang zu erforschen.
+
+Die meisten Minerale sind wol Produkte organischer Thätigkeit, sofern durch letztere der chemische Process wenigstens eingeleitet wurde, der zur Entstehung der Minerale führte.
+
+Diese Thatsachen erklären auch die „Einschlüsse im Quarz und Feldspat“ einzig genügend, besonders was die Regelmässigkeit der Lagerung betrifft, zerstören aber sofort die Hypothese vom ungeheuren Druck, welcher die Kohlensäure darin zusammengepresst hätte.
 
 ...
