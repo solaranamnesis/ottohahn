@@ -58,7 +58,7 @@ Dr. Otto Hahn, Rechts-Anwalt.
 
 *) Ich nenne das Kapitel „Geschichte einer Entdeckung“: muss aber auf II. verweisen als Fortsetzung dieses Kapitels. Spätere Entdeckungen konnte ich nicht mehr hier aufführen.
 
-Sir W. Logan in Montreal war es, welcher zuerst die Aufmerksamkeit auf einen im Laurentian-Gneiss von Canada eingelagerten Serpentin-Kalk lenkte, indem er dabei die Vermutung aussprach, es enthalte dieser Kalk und zwar in eingebetteten „Knollen“ die Reste der ersten organischen Schöpfung. 
+Sir W. Logan in Montreal war es, welcher zuerst die Aufmerksamkeit auf einen im Laurentian-Gneis von Canada eingelagerten Serpentin-Kalk lenkte, indem er dabei die Vermutung aussprach, es enthalte dieser Kalk und zwar in eingebetteten „Knollen“ die Reste der ersten organischen Schöpfung. 
 
 Dr. W. Dawson in Montreal, Kanzler des M'Gill College dort, nahm sich der Sache weiter an und bestimmte in Verbindung mit Dr. Hunt in Montreal und Dr. W. Carpenter in London, dem berühmtesten Mikroskopiker Englands, die Natur jener Knollen dahin, sie seien die versteinerten Reste einer Riesen-Foraminifere, die dem Genus Nummulina ähnlich sei. Dr. Dawson nannte dieselbe _Eozoon_ canadense. Unter diesem Namen wurde sie dann auch zur großen Freude Aller auf das erste noch ganz weiß gelassene Blatt der Naturgeschichte eingetragen. Allerdings wurde der Eintrag angefochten. Alsbald erhoben sich bedeutende Stimmen gegen die organische Natur des Gesteins. Die Schriften über _Eozoon_ schwollen dermaßen an, dass man sagen darf: das _Eozoon_ hat seine eigene Literatur.
 
@@ -88,7 +88,7 @@ Da fügte sich's, dass ich auf eine Einladung der Regierung von Canada eine Reis
 
 Nach meiner Rückreise untersuchte ich das Material.
 
-Das Ergebnis lege ich vor. Es besteht darin: dass der Kalk des Laurentian-Gneisses von Canada, der ältesten Sedimentschichte unserer Erde, eine Pflanzenschöpfung enthält, angehörend der Familie der Algen.
+Das Ergebnis lege ich vor. Es besteht darin: dass der Kalk des Laurentian-Gneises von Canada, der ältesten Sedimentschichte unserer Erde, eine Pflanzenschöpfung enthält, angehörend der Familie der Algen.
 
 Es sind bis jetzt wenige neue, von den lebenden verschiedene Arten festgestellt. Dass es aber bei fortgesetzter Untersuchung in kurzer Zeit mehr werden, davon bin ich überzeugt.
 
@@ -104,7 +104,7 @@ Manches Wort wäre nicht geschrieben worden, wenn man über das Gestein selbst e
 
 Wir verdanken dem Geological Survey of Canada unter der Leitung (früher Sir Willam Logans nun) des Herrn Dr. Selvyn die geologische Beschreibung und eine sehr schöne geologische Karte von Canada, ferner seit 10 Jahren fortlaufende in englischer wie französischer Sprache erscheinende jährliche Berichte. Das Verdienst Sir Willams ist es auch, die Laurentian-Formation als solche auf dem Granit auflagernd festgestellt zu haben. Diese Formation, also die älteste, soll nach Sir Logans Feststellung 30,000 Fuß mächtig sein.
 
-Große Züge des Laurentian-Gneisses erstrecken sich von Süden nach Norden streichend über ganz Canada.
+Große Züge des Laurentian-Gneises erstrecken sich von Süden nach Norden streichend über ganz Canada.
 
 Das einmal führt er Orthoklas- das andermal Anorthit-Feldspat.
 
@@ -366,7 +366,7 @@ denn die Zelle des deutlich sichtbaren Oogoniums (Tab. X. 2) zeigt eine sehr gro
 
 ###### _Chairokerdos._
 
-Der willkommene (erste) Fund einer Pflanze des Laurentian-Gneisses. Tafel IV. und V.
+Der willkommene (erste) Fund einer Pflanze des Laurentian-Gneises. Tafel IV. und V.
 
 Wie in allen bisherigen Algen bildet je ein Stengel eine Pflanze.
 
@@ -662,15 +662,15 @@ Ich wollte insbesondere noch ein Stück wasserhellen Kalkspats wegen der kupferg
 
 Ich ließ die Kiste öffnen.
 
-Da fielen mir die Laurentian-Gneisse in die Hand.
+Da fielen mir die Laurentian-Gneis in die Hand.
 
-#### IV. Was ist der Laurentian-Gneiss?
+#### IV. Was ist der Laurentian-Gneis?
 
 Diese Frage stellte ich an mich.
 
 Ich besah das Gestein, während ich es ins Zimmer trug, und erkannte sofort, 
 
-dass auch der Laurentian-Gneiss nur ein großes Pflanzen-Lager sei. 
+dass auch der Laurentian-Gneis nur ein großes Pflanzen-Lager sei. 
 
 Sofort wurden noch Dünnschliffe gefertigt und durch das Mikroskop vollkommen bestätigt, was das bloße Auge gesehen hatte.
 
@@ -762,7 +762,7 @@ Es ist oft unbegreiflich, wie nahe die Tatsache liegt, ohne dass man im Stand is
 
 Ich muss die Form meiner Abhandlung hier entschuldigen.
 
-Meine Arbeit galt dem _Eozoon_. Daraus wurde das Eophyllum. Sie galt dem Eophyllum. Daran schloss sich die Entdeckung der Pflanzenwelt des Serpentins. Sie sollte mit dem Serpentin geschlossen werden. Da fand ich, dass der Laurentian-Gneiss ein Pflanzenlager enthält, nichts als Pflanze ist.
+Meine Arbeit galt dem _Eozoon_. Daraus wurde das Eophyllum. Sie galt dem Eophyllum. Daran schloss sich die Entdeckung der Pflanzenwelt des Serpentins. Sie sollte mit dem Serpentin geschlossen werden. Da fand ich, dass der Laurentian-Gneis ein Pflanzenlager enthält, nichts als Pflanze ist.
 
 Aufs äußerste ermüdet, war ich froh, endlich Feder und Zeichenstift niederlegen zu können; da drängt es mich wieder in die Forschung hinein: ich kann noch nicht ruhen.
 
@@ -816,7 +816,7 @@ Um die Kontrolle wenigstens zu erleichtern, nehme ich die „Sammlung typischer 
 
 _Nr. 1. dem Granit von Brixen_.
 
-Ich werde, was ich im Schliffe finde, beschreiben und das Wesentliche abbilden, damit der Leser sich selbst orientiren kann. Zum Verständniss dieses Schliffes muss man schon das Bild aus dem Laurentian-Gneiss Taf. XVII. 4. XIX. 3 zu Hilfe nehmen.
+Ich werde, was ich im Schliffe finde, beschreiben und das Wesentliche abbilden, damit der Leser sich selbst orientiren kann. Zum Verständniss dieses Schliffes muss man schon das Bild aus dem Laurentian-Gneis Taf. XVII. 4. XIX. 3 zu Hilfe nehmen.
 
 Auf den ersten Blick erscheint Alles als ein Gemisch von Feldspath und Quarz-Körner mit Glimmer und etwas Hornblende. Sind es Sprünge, welche den Schliff durchziehen? Sind es Crystallflächen? Es sind keine Sprünge da, keine Crystalle.
 
@@ -838,7 +838,7 @@ Eine Hornblende-Pflanze Taf. XVII. 15.
 
 Nicht minder löst sich
 
-_3. Gneissgranit vom St. Gotthardt_.
+_3. Gneisgranit vom St. Gotthardt_.
 
 Ein Pflanzenbild daraus XX. Fig. 1.
 
@@ -900,7 +900,7 @@ Nun füge ich noch bei
 
 Darstellungen
 
-eines _Laurentian-Gneisses_ von Canada
+eines _Laurentian-Gneises_ von Canada
 
 Taf. XIX. Fig. 1-8.,
 
@@ -912,7 +912,7 @@ eines _Protogyns_ vom Montblanc
 
 Taf. XIX. Fig. 17. 18. 19. 20.,
 
-eines _Gneisses_ vom Montblanc
+eines _Gneises_ vom Montblanc
 
 Taf. XX. Fig. 1.
 
@@ -1038,7 +1038,7 @@ Unbegreiflich, dass man dies Alles bis jetzt übersah.
 
 Man hatte eben den Schlüssel, das Bild der Urpflanze, nicht.
 
-Ich machte den zweiten Dünnschliff aus dem Laurentian-Gneiss und sah erst beim Bedecken mit dem Glas die Pflanze mit blossem Auge.
+Ich machte den zweiten Dünnschliff aus dem Laurentian-Gneis und sah erst beim Bedecken mit dem Glas die Pflanze mit blossem Auge.
 
 ***
 
@@ -1046,9 +1046,9 @@ Die künftige Gesteinslehre ist Pflanzen-Versteinerungslehre.
 
 ***
 
-Sismondi fand ein Equisetum (wie ich erst heute aus Mohr sehe), im Gneisse eingelagert.
+Sismondi fand ein Equisetum (wie ich erst heute aus Mohr sehe), im Gneis eingelagert.
 
-Dass der ganze Gneiss Pflanze sei, sah er nicht.
+Dass der ganze Gneis Pflanze sei, sah er nicht.
 
 ***
 
@@ -1098,7 +1098,7 @@ Man setzt allen Pechstein zu den Vulkan-Gesteinen: der eine ist ein Lager von le
 
 ***
 
-Der erste Kalk stellt sich wirklich als Ausscheidungsmasse dar, so der Kalk des Laurentian-Gneisses.
+Der erste Kalk stellt sich wirklich als Ausscheidungsmasse dar, so der Kalk des Laurentian-Gneises.
 
 Nachher wird er erst Baustoff für Pflanzen-Arten. Vor mir liegt ein Serpentin von Todtmoos mit einem Pflanzen-Kelch von 1 Ctm. Länge im Durchschnitt, so fein gezeichnet, als irgend ein Zeichner es vermag. Wundervoll wie im Basalt der Olivin-Crystall Pflanze, die Pflanze Crystall ist.
 
@@ -1260,7 +1260,7 @@ Jeder Niederschlag ist eine Aenderung der Mischung: das Zurückbleibende ist imm
 
 Im Silur finden sich noch die alten Arten von Algen. Ich glaubte mein Werk nicht besser schliessen zu können, als mit Abbildungen einer Anzahl Pflanzen aus dem Silur. Allerdings nicht derer, welche man dort gewöhnlich aufgeführt findet. Die bekannten Algen aus dem Silur sind ganz andere, als die Urpflanze, welche ich nachwies; hätte man sie im Silur erkannt, so hätte sie auch im Granit und Gneis nicht übersehen werden können.
 
-Der Granit und Gneiss ist die eigentliche Pflanzenzeit unserer Erde. Im Silur schwindet die Masse der Pflanzen. Die Formen sind noch da, aber der Schlamm herrscht schon vor, welcher die Pflanze die Kieselerde zu lösen verhindert.
+Der Granit und Gneis ist die eigentliche Pflanzenzeit unserer Erde. Im Silur schwindet die Masse der Pflanzen. Die Formen sind noch da, aber der Schlamm herrscht schon vor, welcher die Pflanze die Kieselerde zu lösen verhindert.
 
 (Jedes Geschöpf gräbt sich selbst sein Grab!)
 
@@ -1400,7 +1400,7 @@ Perlit von Antisana — lebende Pflanzen. Phonolit lebende Pflanzen.
 
 sind bedeutend.
 
-Wir dürfen uns nun die Erdoberfläche beim Beginn des organischen Lebens jedenfalls nicht mehr als von einem heissen oder gar feuerflüssigen Granit- oder Gneissbrei bedeckt denken. Denn dieser Brei, welcher so lange die Phantasie der Geologen beschäftigte, bezüglich dessen sie sich nur darüber stritten, ob derselbe feuerflüssig oder wasserflüssig gewesen sei, (was man denn auch in die ganz unrichtige Frageform fasste: ob durch Wasser oder Feuer entstanden?) — dieser Brei muss jetzt einer anderen Vorstellung weichen.
+Wir dürfen uns nun die Erdoberfläche beim Beginn des organischen Lebens jedenfalls nicht mehr als von einem heissen oder gar feuerflüssigen Granit- oder Gneisbrei bedeckt denken. Denn dieser Brei, welcher so lange die Phantasie der Geologen beschäftigte, bezüglich dessen sie sich nur darüber stritten, ob derselbe feuerflüssig oder wasserflüssig gewesen sei, (was man denn auch in die ganz unrichtige Frageform fasste: ob durch Wasser oder Feuer entstanden?) — dieser Brei muss jetzt einer anderen Vorstellung weichen.
 
 Da war von den ersten Atmosphäreniederschlägen Eine grosse See über die ganze Erde, in dieser wuchsen Pflanzen in undenkbarer Menge, und zwar die niedersten Arten einer einzelligen Alge oder Flechte.
 
@@ -1408,23 +1408,23 @@ Diese Pflanzen, die Erzeugnisse der Verbindung des ersten Wassers mit der Erde, 
 
 Leider haben sie die Erde selbst dem Geologen auf ewig bedeckt. Damit, dass der Basalt als Pflanze nachgewiesen ist, ist jede Hoffnung verloren, jemals das Erdinnere kennen zu lernen.
 
-Diese Pflanzen des Granits müssen ein grosses Volum eingenommen haben, sie bildeten schon im Anfang ihres erstaunlichen Wachsthums Berge und Hügel in der See und diese Berge und Hügel wurden zu unseren heutigen Granit- und Gneiss-Gebirgen. Daher die Fächer-, die Kuppel-Formen.
+Diese Pflanzen des Granits müssen ein grosses Volum eingenommen haben, sie bildeten schon im Anfang ihres erstaunlichen Wachsthums Berge und Hügel in der See und diese Berge und Hügel wurden zu unseren heutigen Granit- und Gneis-Gebirgen. Daher die Fächer-, die Kuppel-Formen.
 
-Die Gneissbildung war einzig und allein die Folge davon, dass die Schründe, Risse und Tiefen der ursprünglichen Erdoberfläche durch Tange, Schlamm ausgefüllt waren. Nun erst konnte sich ein eigentliches regelmässiges Sediment bilden.
+Die Gneisbildung war einzig und allein die Folge davon, dass die Schründe, Risse und Tiefen der ursprünglichen Erdoberfläche durch Tange, Schlamm ausgefüllt waren. Nun erst konnte sich ein eigentliches regelmässiges Sediment bilden.
 
 Es war möglich, wenn eine ebene Grundlage geschaffen war.
 
 Indessen bildeten sich die Pflanzen in der Form weiter.
 
-Wo die Ablagerung eine ursprüngliche, das Wachsthum der Pflanze ein ungehindertes war, finden wir Gneiss in seinen verschiedenen Formen.
+Wo die Ablagerung eine ursprüngliche, das Wachsthum der Pflanze ein ungehindertes war, finden wir Gneis in seinen verschiedenen Formen.
 
-Aber es gab auch Stellen, wo Detritus sich ablagerte. Hier entstand aus den Leichen und dem Schlamm des Granit- und Gneissmeeres der Porphyr.
+Aber es gab auch Stellen, wo Detritus sich ablagerte. Hier entstand aus den Leichen und dem Schlamm des Granit- und Gneismeeres der Porphyr.
 
 Allerdings nicht ohne eigenes Leben. Aber das Leben darin ist viel kleiner. Die Formen sind meist microscopische, eine Masse abgerissener Leichen (ohne Zusammenhang mit dem Pflanzenstock) finden sich. Dagegen haben sich auch Crystalle auszuscheiden angefangen.
 
-Man hat sich gewiss schon oft im Stillen wenigstens darüber gewundert, warum im Granit und Gneiss der Quarz nicht crystallisirt, sondern blos in (wie man glaubte) ganz willkürlicher Form vorkommt.
+Man hat sich gewiss schon oft im Stillen wenigstens darüber gewundert, warum im Granit und Gneis der Quarz nicht crystallisirt, sondern blos in (wie man glaubte) ganz willkürlicher Form vorkommt.
 
-Der Grund ist, weil der Quarz und Feldspat des Granits und Gneisses in einen Pflanzenleib gebannt ist. (Hier sind blos die Anfänge einer Crystallisation.) Er ist Produkt der ersten organischen Thätigkeit der Erde. Im Porphyr war er frei und so sehen wir aus der Pflanzenthätigkeit den Stoff der künftigen Crystalle hervorgehen (wie den Apatit, Kalk aus den Gneiss-pflanzen).
+Der Grund ist, weil der Quarz und Feldspat des Granits und Gneises in einen Pflanzenleib gebannt ist. (Hier sind blos die Anfänge einer Crystallisation.) Er ist Produkt der ersten organischen Thätigkeit der Erde. Im Porphyr war er frei und so sehen wir aus der Pflanzenthätigkeit den Stoff der künftigen Crystalle hervorgehen (wie den Apatit, Kalk aus den Gneis-pflanzen).
 
 Es wäre sehr wichtig, jetzt die Entstehung bedeutender Mineralien (einschliesslich der Erze) in diesem Zusammenhang zu erforschen.
 
@@ -1432,7 +1432,7 @@ Die meisten Minerale sind wol Produkte organischer Thätigkeit, sofern durch let
 
 Diese Thatsachen erklären auch die „Einschlüsse im Quarz und Feldspat“ einzig genügend, besonders was die Regelmässigkeit der Lagerung betrifft, zerstören aber sofort die Hypothese vom ungeheuren Druck, welcher die Kohlensäure darin zusammengepresst hätte.
 
-Wenn ich also jetzt sage: Granit, Gneiss, Porphyr sind kein Urgebirge, so heisst dies richtiger gesagt:
+Wenn ich also jetzt sage: Granit, Gneis, Porphyr sind kein Urgebirge, so heisst dies richtiger gesagt:
 
 Die Bestandtheile dieser Gebebirge Quarz, Feldspat, Glimmer sind in ihrer jezigen Form in Folge der organischen Arbeit der Erde ausgeschieden und wieder zusammengelagert. Das führt auf die Frage: was war vorher da? Da sind wir allerdings durch meine Entdeckungen nur in soferne besser daran, als wir jetzt wissen, dass Etwas, nemlich das Urgebirge, „im Anfang“ nicht da war, also auch entstand wie das übrige Sedimentgebirge. War es meteorsteinartige Masse?
 
@@ -1828,9 +1828,9 @@ Solange der grösste Theil des Lebens unter Wasser war, mussten natürlich die L
 
 ***
 
-In den Granitpflanzen scheint die Umwandlung die gewesen zu sein, dass aus der todten Pflanze die Stoffe ausschieden, welche in Gas, oder in Wasser-Lösung sich überführen liessen und dass dann (vielleicht erst zur Gneisszeit) das Wasser seine in Lösung befindlichen Silicate etc. in den Zellen absetzte.
+In den Granitpflanzen scheint die Umwandlung die gewesen zu sein, dass aus der todten Pflanze die Stoffe ausschieden, welche in Gas, oder in Wasser-Lösung sich überführen liessen und dass dann (vielleicht erst zur Gneiszeit) das Wasser seine in Lösung befindlichen Silicate etc. in den Zellen absetzte.
 
-Mit Rücksicht hierauf habe ich auch die schwarze Farbe der darauf folgenden Thonschiefer, welcher meist von Kohlen herrührt, ferner die mächtigen Graphit- und Anthrazitlager im Granit und Gneiss und die Steinkohlenschichten selbst erklärt.
+Mit Rücksicht hierauf habe ich auch die schwarze Farbe der darauf folgenden Thonschiefer, welcher meist von Kohlen herrührt, ferner die mächtigen Graphit- und Anthrazitlager im Granit und Gneis und die Steinkohlenschichten selbst erklärt.
 
 Nach F. v. Hochstetter hat der Urkalk von Böhmen bituminösen Geruch!
 
@@ -1856,7 +1856,7 @@ Diese Frage soll eine offene sein.
 
 ***
 
-Man lese F. Zirkel, Lehrbuch der Petrographie, I. Band, über Graphit Seite 352, über Anthracit Seite 355 und vergleiche das dort Gesagte mit dem Ergebniss meiner Untersuchung, so wird sich das Geheimniss der Anthracitflöze im Granit und Gneiss lösen. Zirkel ist, wie ich, der Ansicht, dass sich die Färbung der jüngeren Gesteine durch Anthracit erkläre.
+Man lese F. Zirkel, Lehrbuch der Petrographie, I. Band, über Graphit Seite 352, über Anthracit Seite 355 und vergleiche das dort Gesagte mit dem Ergebniss meiner Untersuchung, so wird sich das Geheimniss der Anthracitflöze im Granit und Gneis lösen. Zirkel ist, wie ich, der Ansicht, dass sich die Färbung der jüngeren Gesteine durch Anthracit erkläre.
 
 Woher sollen diese Anthracit-Lager kommen, wenn der Granit nicht Pflanzen enthält, oder Pflanze war?
 
@@ -1864,7 +1864,7 @@ Ich halte wenigstens dafür, dass es keine einfachere Erklärung für ihr Entste
 
 ***
 
-Ich muss noch einmal auf die Verschiedenheit der Gesteine, welche man Serpentin nennt, hier zurückkommen. In dem canadischen Gneiss-Serpentin ist das ursprüngliche Mineral wahrscheinlich Olivin oder Augit. Die Lager von Serpentin sind sicher Auslaugungen, Niederschläge aus wässeriger Lösung. Pikrolith etc. sind ebenso unzweifelhaft wässerige Niederschläge, während in dem Serpentin von Snarum noch die Gestalt des Olivins sich erhalten hat, was Quenstedt so überzeugend nachwies. Freilich mag jener Olivin schon Pflanzen eingeschlossen haben und daher die eigenthümliche Textur.
+Ich muss noch einmal auf die Verschiedenheit der Gesteine, welche man Serpentin nennt, hier zurückkommen. In dem canadischen Gneis-Serpentin ist das ursprüngliche Mineral wahrscheinlich Olivin oder Augit. Die Lager von Serpentin sind sicher Auslaugungen, Niederschläge aus wässeriger Lösung. Pikrolith etc. sind ebenso unzweifelhaft wässerige Niederschläge, während in dem Serpentin von Snarum noch die Gestalt des Olivins sich erhalten hat, was Quenstedt so überzeugend nachwies. Freilich mag jener Olivin schon Pflanzen eingeschlossen haben und daher die eigenthümliche Textur.
 
 Der Umstand, dass unkundige Leute alle grünen durchsichtigen talkerde- und kieselerdehaltigen Minerale Serpentin nannten, kann natürlich zu nichts weiterem führen, als dass man die Serpentine nunmehr genauer untersucht und unterscheidet. Vergl. über Serpentin v. Draschke in Tschermak Mineralogische Mittheilungen I. 1871. S. 1. Kennt man die Form der Urpflanze, so wird es leicht sein, die ursprünglichen Serpentine und die abgeleiteten zu unterscheiden.
 
@@ -1914,13 +1914,13 @@ Ich fasse die äussere Structur des Gesteins ins Auge, welche durch die Pflanze,
 
 Insbesondere zwei geschliffene Granite von Kullgren Uddevalla in Schweden („Granit of flera sorter“, wie er im Handel heisst) machen mich darauf aufmerksam, dass die Pflanzenform des Granits auch die von Flechten sein könnte. Es sind kurze Kelchzellen, welche senkrecht oder neben einander stehend, das Gestein bilden (Cladonia?).
 
-Erst im Gneiss findet sich horizontale Lagerung des Gesteins bedingt durch lange Pflanzen, welche nun mehr den See-Algen ähnlich sind.
+Erst im Gneis findet sich horizontale Lagerung des Gesteins bedingt durch lange Pflanzen, welche nun mehr den See-Algen ähnlich sind.
 
 Ich ziehe aus der Gesteins-Structur der Granit-Pflanze den Schluss, dass die Erdoberfläche zur Granitzeit nicht unter Wasser, sondern erst von Dampf umgeben war. Die Pflanzen des Granits wären dann Landpflanzen. Im Wasser würden die Pflanzen-Schichten sofort in horizontalen Lagern sich angesetzt haben.
 
 Die Flechten scheinen mir überhaupt die erste Pflanzenform zu sein, welche unmittelbar aus Mineralsubstanz entstehen.
 
-Erst im Gneiss-Alter der Erde finden sich die ächten Wasserpflanzen, in Wasser abgelagerte Pflanzen.
+Erst im Gneis-Alter der Erde finden sich die ächten Wasserpflanzen, in Wasser abgelagerte Pflanzen.
 
 ***
 
