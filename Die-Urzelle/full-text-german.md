@@ -250,25 +250,25 @@ Nun war es aber eine schwere Arbeit, die Sache zu prüfen.
 
 Ich habe jetzt keinen Zweifel mehr.
 
-Und nur so erklären sich alle Thatsachen.
+Und nur so erklären sich alle Tatsachen.
 
-Die Serpentinbänder, welche das, was man bisher _Eozoon_ nannte, zusammensetzen, gehören einer Alge mit breiten Blättern, wenn der Ausdruck erlaubt ist, an, welche von einem Punkte ausgehend sich in regelmässigen Formen legt. Die Basalzelle sitzt auf dem Serpentin oder Dolomit auf. Wurzeln fand ich nur in Einem Falle, jedoch nicht sicher.
+Die Serpentinbänder, welche das, was man bisher _Eozoon_ nannte, zusammensetzen, gehören einer Alge mit breiten Blättern, wenn der Ausdruck erlaubt ist, an, welche von einem Punkte ausgehend sich in regelmäßigen Formen legt. Die Basalzelle sitzt auf dem Serpentin oder Dolomit auf. Wurzeln fand ich nur in Einem Falle, jedoch nicht sicher.
 
 Der Kalk ist die Einlagerung. Deutliche Brutzellen sind darin sichtbar: denn im Dünnschliff stechen sie durch den Kalk noch durch.
 
 Die Gegenprobe kann man durch Auflösung des Kalks mit Säure machen. Hier sind die Blätter völlig mit Brutzellen besetzt: die „Warzenansätze“ Gümbel's.
 
-Die Sache ist noch viel klarer, wo die Pflanze in Dolomit verwandelt ist. Hier kann man mit blossem Auge die Brutzellen erkennen.
+Die Sache ist noch viel klarer, wo die Pflanze in Dolomit verwandelt ist. Hier kann man mit bloßem Auge die Brutzellen erkennen.
 
 Wasserklare Becherzellen sieht man auf dem Dolomit herausgewittert lagern.
 
-Am schönsten aber sind die Kalke, in welchen die Pflanzen theils in Serpentin theils in Glimmer verwandelt sind.
+Am schönsten aber sind die Kalke, in welchen die Pflanzen teils in Serpentin teils in Glimmer verwandelt sind.
 
-Dieselben Zellen finden sich in einem Doppelspat in Kupfer und Malachit verwandelt mit blossem Auge sichtbar!
+Dieselben Zellen finden sich in einem Doppelspat in Kupfer und Malachit verwandelt mit bloßem Auge sichtbar!
 
-Die Canalsysteme des „Zwischen-Skelets“ sind also microscopische Pflanzen, welche theils einfach von Kalk oder auf den grossen Algen angewachsen oder dort todt abgelagert worden sind.
+Die Kanalsysteme des „Zwischen-Skelets“ sind also mikroskopische Pflanzen, welche teils einfach von Kalk oder auf den großen Algen angewachsen oder dort tot abgelagert worden sind.
 
-Wie ich im Eingang angedeutet, braucht man allerdings einen Schlüssel zu dieser neuen Schöpfung, — denn sie ist unserer Vorstellung vollkommen neu. Dieser Schlüssel liegt in den microscopischen Formen.
+Wie ich im Eingang angedeutet, braucht man allerdings einen Schlüssel zu dieser neuen Schöpfung, — denn sie ist unserer Vorstellung vollkommen neu. Dieser Schlüssel liegt in den mikroskopischen Formen.
 
 Nun aber lässt sich von diesem sicheren Ausgangspunkte die Sache leicht verfolgen.
 
@@ -278,13 +278,13 @@ Nur muss ich auch hier vor der alleinigen Benützung der Dünnschliffe warnen. E
 
 Ich übertrage nun den ersten Namen:
 
-Eophyllum auf die mit blossem Auge sichtbare grösste Pflanzenform.
+Eophyllum auf die mit bloßem Auge sichtbare größte Pflanzenform.
 
 Sie bildet die Algenwiesen im Laurentian, aber freilich nicht in gar riesiger Form, nur durch ihre Menge ist sie riesig. Sie ist enthalten in den Serpentin-Knollen des Laurentiankalks, welche man bisher _Eozoon canadense_ nannte.
 
-Aber hier ist sie nur in ihrer grössten Entwicklung: die acervuline Form des _Eozoon_ ist nichts, als kleines Eophyllum und vorzugsweise Brutzellen desselben.
+Aber hier ist sie nur in ihrer größten Entwicklung: die acervuline Form des _Eozoon_ ist nichts, als kleines Eophyllum und vorzugsweise Brutzellen desselben.
 
-Die Pflanze ist eine Alge: in ihrer eigenthümlichen Form stimmt sie mit keiner lebenden vollständig, jedenfalls gehört sie schon zu den höher entwickelten Fucusarten.
+Die Pflanze ist eine Alge: in ihrer eigentümlichen Form stimmt sie mit keiner lebenden vollständig, jedenfalls gehört sie schon zu den höher entwickelten Fucusarten.
 
 Die Basalzelle ist eine halbrunde becherförmige Zelle, welche im Dolomit aufsetzt, einige kleinere Zellen und dann die nächste in Becherform treibt, welche immer wieder neue Zellen ansetzt.
 
@@ -292,7 +292,7 @@ Die neuen Knospen, ich nenne sie Brutzellen, sitzen überall auf dem Rande der Z
 
 Die Form ist in Tafel I. 1. dargestellt.
 
-Das von Carpenter abgebildete Stück _Eozoon_, welches nachher in so viele Bücher überging, zeigt in dem Kugligen nur Brutzellen des Eophyllum, und ich bin überzeugt, dass sie sich an dem abgebildeten Stück noch mit blossem Auge erkennen liessen.
+Das von Carpenter abgebildete Stück _Eozoon_, welches nachher in so viele Bücher überging, zeigt in dem Kugligen nur Brutzellen des Eophyllum, und ich bin überzeugt, dass sie sich an dem abgebildeten Stück noch mit bloßem Auge erkennen ließen.
 
 Die Durchschnitte der Brutzellen sind leicht verständlich, sobald man sich diese Zellen aus dem Kalk herauslöst, indem man ihn in eine verdünnte Säure legt, oder auch, wenn man sie im Serpentin sucht, wo sie wie lebend gesehen werden können.
 
@@ -300,13 +300,13 @@ Ganze Pflanzen ziehen sich durch die Serpentinlager hindurch.
 
 Ich habe die Basalzelle in Taf. I. f. 2. abgebildet, eine Brutzelle daselbst 4:5. zeigt eine solche im Serpentin.
 
-Die regelmässige Lage des Eophyllums rührt wahrscheinlich daher, dass sie sich schon bei Lebzeiten in Kalk eingebettet hat.
+Die regelmäßige Lage des Eophyllums rührt wahrscheinlich daher, dass sie sich schon bei Lebzeiten in Kalk eingebettet hat.
 
 ##### 7. Die Formen.
 
 Man nehme nun Taf. II. zur Hilfe, um sich eine Vorstellung von dem Leben zu machen, welches sich hier entwickelt.
 
-Alle diese Formen sind theils aus dem Kalk gelöst, theils nach den im Serpentin erhaltenen Pflanzen gezeichnet; meist bei 90 facher Vergrösserung.
+Alle diese Formen sind teils aus dem Kalk gelöst, teils nach den im Serpentin erhaltenen Pflanzen gezeichnet; meist bei 90-facher Vergrößerung.
 
 Ich wage es nicht, bei dem mir vorliegenden Material hier irgend schon Arten zu bestimmen. Dazu ist die Zeit noch nicht gekommen.
 
@@ -318,11 +318,11 @@ Ich lasse nun
 
 folgen, welche durch vollständige Exemplare festgestellt sind.
 
-Allein auch hier kann es sich blos darum handeln, nach der Gesammtform Namen zu geben.
+Allein auch hier kann es sich bloß darum handeln, nach der Gesamtform Namen zu geben.
 
-Alle folgende sind microscopisch im Kalk.
+Alle folgende sind mikroskopisch im Kalk.
 
-Ich gebe in Taf. III die 4 von mir unterschiedenen Arten von microscopischen Algen des Laurentian, welche als „Canal-Systeme“ bezeichnet wurden, 1. 3. 4. in 80-, 2. in 20- maliger Vergrösserung.
+Ich gebe in Taf. III die 4 von mir unterschiedenen Arten von mikroskopischen Algen des Laurentian, welche als „Kanal-Systeme“ bezeichnet wurden, 1. 3. 4. in 80-, 2. in 20- maliger Vergrößerung.
 
 Sie leben in Gesellschaft. Einzelne Formen werden nach diesen aufgeführt.
 
@@ -338,15 +338,15 @@ Wahrscheinlich dieser Art gehört an Taf. VII. 4.
 
 Taf. III. 2. 1/20.
 
-Es sind dies die grössten microscopischen Pflanzen im Kalk. Ihre Anordnung ist leicht verständlich. Im Eck des Bildes ist eine Zelle 80 mal vergrössert.
+Es sind dies die größten mikroskopischen Pflanzen im Kalk. Ihre Anordnung ist leicht verständlich. Im Eck des Bildes ist eine Zelle 80-mal vergrößert.
 
-Die Blätter sind in ein milchweisses Silicat verwandelt.
+Die Blätter sind in ein milchweißes Silicat verwandelt.
 
 ###### _Pseudozoon._
 
 Taf. III. 3. (1/80).
 
-Denn diese Canäle wurden von Dr. Carpenter als die Canalsysteme von Nummuliten gekennzeichnet; aber freilich nicht vollständig wurden sie gezeichnet, sondern blos die oberen geraden (Faden-) Zellen des Bildes. Wären die unteren dazu gezeichnet worden, so hätte wohl Niemand sich überreden lassen, dass es sich hier um Canalsysteme einer Foraminifere handelte.
+Denn diese Kanäle wurden von Dr. Carpenter als die Kanalsysteme von Nummuliten gekennzeichnet; aber freilich nicht vollständig wurden sie gezeichnet, sondern bloß die oberen geraden (Faden-) Zellen des Bildes. Wären die unteren dazu gezeichnet worden, so hätte wohl Niemand sich überreden lassen, dass es sich hier um Kanalsysteme einer Foraminifere handelte.
 
 ###### _Kilocarpon._
 
@@ -354,7 +354,7 @@ Taf. III. 4. 1/80. und Taf. IX. 1/140 Taf. X. 1/750. 1/450.
 
 Ebenfalls ein „System“.
 
-Diese Algen mussten eine Gallert um sich ansetzen, wie es die Nostocaceen thun. Nur so erklärt sich das lappenartige Aussehen bei regelmässiger Lagerung des Ganzen.
+Diese Algen mussten eine Gallert um sich ansetzen, wie es die Nostocaceen tun. Nur so erklärt sich das lappenartige Aussehen bei regelmäßiger Lagerung des Ganzen.
 
 Wahrscheinlich dieselbe Pflanze ist Tab. IX. und X.
 
@@ -362,7 +362,7 @@ Ich nenne sie
 
 ###### _Kilo-Karpon,_
 
-denn die Zelle des deutlich sichtbaren Oogoniums (Tab. X. 2) zeigt eine sehr grosse Anzahl von Prothallien, welche sich sodann auch in dem Kalk und Serpentin finden.
+denn die Zelle des deutlich sichtbaren Oogoniums (Tab. X. 2) zeigt eine sehr große Anzahl von Prothallien, welche sich sodann auch in dem Kalk und Serpentin finden.
 
 ###### _Chairokerdos._
 
@@ -372,11 +372,11 @@ Wie in allen bisherigen Algen bildet je ein Stengel eine Pflanze.
 
 Ein schwacher Wurzelansatz in Form einer platt gewölbten oder becherförmigen Zelle, dann eine gewundene längere, weiter eine becherartige Zelle.
 
-Nun beginnt die Theilung erst mit einer gewundenen Zelle, setzt dann fort in gestreckten, diesen folgen perlschnurartige Zellen, welche mit einer Sporenzelle endigen. Die Sporen liegen geordnet. Taf. V. Fig. 2.
+Nun beginnt die Teilung erst mit einer gewundenen Zelle, setzt dann fort in gestreckten, diesen folgen perlschnurartige Zellen, welche mit einer Sporenzelle endigen. Die Sporen liegen geordnet. Taf. V. Fig. 2.
 
 Der nächste Stengel trägt eine leere Sporenzelle. (Taf. IV.)
 
-V. 1. ist eine 300 malige Vergrösserung der dritten Pflanze von rechts, der auch die Sporenzelle angehört.
+V. 1. ist eine 300-malige Vergrößerung der dritten Pflanze von rechts, der auch die Sporenzelle angehört.
 
 Die erste Pflanze (von rechts) hat Blätterform, gehört aber ohne Zweifel zu derselben Art.
 
@@ -422,7 +422,7 @@ Die Kelche sitzen unmittelbar im Kalk.
 
 Die Schale. Taf. VIII. 2. (1/90).
 
-Schalenförmige Zellen. Die Stengel daneben zeigen Copulation.
+Schalenförmige Zellen. Die Stengel daneben zeigen Kopulation.
 
 Das Zierlichste aber ist
 
@@ -438,9 +438,9 @@ Tafel XI. 2. 3. 4.
 
 Ich habe die Formen zusammengestellt, welche alle denselben Charakter an sich tragen.
 
-Bei Fig. 2. ist zu beachten, dass der eine Zell-Knoten nach rechts, der andere nach links geht, was ich nur nach sorgfältiger Beobachtung zeichnen liess.
+Bei Fig. 2. ist zu beachten, dass der eine Zell-Knoten nach rechts, der andere nach links geht, was ich nur nach sorgfältiger Beobachtung zeichnen ließ.
 
-In einem Bilde, welches leider nicht auf die Tafel kam, sitzt in dieser (wahrscheinlich Copulations-) Zelle in der Mitte ein Kelch.
+In einem Bilde, welches leider nicht auf die Tafel kam, sitzt in dieser (wahrscheinlich Kopulations-) Zelle in der Mitte ein Kelch.
 
 Möglich also, dass an der Stelle Fig. 2. diese Kelch-Zelle abgebrochen ist.
 
@@ -456,13 +456,13 @@ Eine Zelle setzt sich an (nach unten), die nächste kehrt sich nach oben. Tafel 
 
 Ich habe Fälle beobachtet, wo mehrere Zellen nach unten sich über einander setzten.
 
-Mir ist es wahrscheinlich, dass hier die Zelle von Kalk überlagert und so genöthigt wurde, ihre Wurzelbildung fortzusetzen.
+Mir ist es wahrscheinlich, dass hier die Zelle von Kalk überlagert und so genötigt wurde, ihre Wurzelbildung fortzusetzen.
 
 Eigentliche Wurzeln fand ich, jedoch nicht sicher, nur in einem Dünnschliffe.
 
-Nun setzt sich an diese Zelle, meist seitlich an ihrem Rand, oder an einem beliebigen Theile ihrer Oberfläche, eine Brut-Zelle (Knospe) in Form eines Blattes oder eines Bechers an. Es theilen sich die Zellen: so entsteht ein Stamm.
+Nun setzt sich an diese Zelle, meist seitlich an ihrem Rand, oder an einem beliebigen Theile ihrer Oberfläche, eine Brut-Zelle (Knospe) in Form eines Blattes oder eines Bechers an. Es teilen sich die Zellen: so entsteht ein Stamm.
 
-Die Befruchtungsorgane scheinen erst nach einem grösseren Wachsthum sich zu bilden. Tafel V. und IX.
+Die Befruchtungsorgane scheinen erst nach einem größeren Wachstum sich zu bilden. Tafel V. und IX.
 
 Was die Form der Zellen betrifft, so ist dieselbe unerschöpflich verschieden.
 
@@ -470,35 +470,35 @@ Immer aber bewahrt sie den Charakter der Urpflanze.
 
 Merkwürdig ist die Erhaltung.
 
-Nicht blos ganze Pflanzen, sondern Membrane sind erhalten. Sehr häufig finden sich die Modelle der Zellhöhlen. Diese sind gewöhnlich mit Dolomit ausgefüllt, wenigstens wo sie in Dolomit und Serpentin lagern.
+Nicht bloß ganze Pflanzen, sondern Membrane sind erhalten. Sehr häufig finden sich die Modelle der Zellhöhlen. Diese sind gewöhnlich mit Dolomit ausgefüllt, wenigstens wo sie in Dolomit und Serpentin lagern.
 
 So sind uns Modelle der Hohlräume der Pflanzen erhalten. Tafel II. Fig. 10.
 
-Diese Form findet sich tausendmal im Serpentin wie im Gneiss, auch im Dolomit selbst. Der offene Zwischenraum zeigt überall die Linie der Zellscheidewände.
+Diese Form findet sich tausendmal im Serpentin wie im Gneis, auch im Dolomit selbst. Der offene Zwischenraum zeigt überall die Linie der Zellscheidewände.
 
 Ebenso häufig finden sich ganze Brutzellen in Serpentin verwandelt.
 
-Die einfache Behandlung mit Salzsäure liefert diese Zelle in grosser Menge. Ja ich habe sogar Kieselskelette erhalten, wo der übrige Theil der Pflanze wahrscheinlich in Kalk verwandelt war.
+Die einfache Behandlung mit Salzsäure liefert diese Zelle in großer Menge. Ja ich habe sogar Kieselskelette erhalten, wo der übrige Theil der Pflanze wahrscheinlich in Kalk verwandelt war.
 
-Wenn man so die Form der Urpflanze gewonnen hat, so nehme man einen beliebigen Dünnschliff des „_Eozoon_“ und man wird die Linien derselben in jedem Theile finden. Die einen Exemplare freilich sind blos Abschnitte, andere Halbschnitte; am besten erkennt man desshalb die Pflanze an den seitlichen Einschlüssen.
+Wenn man so die Form der Urpflanze gewonnen hat, so nehme man einen beliebigen Dünnschliff des „_Eozoon_“ und man wird die Linien derselben in jedem Theile finden. Die einen Exemplare freilich sind bloß Abschnitte, andere Halbschnitte; am besten erkennt man deshalb die Pflanze an den seitlichen Einschlüssen.
 
-Ueberall zeigt die in Kiesel (wahrscheinlich Glimmer) erhaltene Zellmembrane die Form der Pflanze.
+Überall zeigt die in Kiesel (wahrscheinlich Glimmer) erhaltene Zellmembrane die Form der Pflanze.
 
 Jetzt erst ist mir auch klar, warum die Chrysotilfasern überall parallel sich lagern (dieselben, die Dr. Carpenter für eine Haut mit Tubuli eines Nummuliten ansah).
 
 Diese Chrysotilfasern haben sich um die Pflanze (den Serpentin) in der Art gelagert, dass sie die Oberfläche der Zelle in Parallel-Kreisen umgeben: (in einer Foraminifereschale stünden sie senkrecht auf der Kammer!)
 
-Wenn ich jetzt meine Dünnschliffe durchsehe und finde darin die deutlichsten Brutzellen an der Pflanze, in der Tiefe des Kelches die runde Oeffnung, welche ganz constant (also hundertfältig) sich findet, ferner ganz junge Zellen noch in den alten, endlich im Kalk daneben diese Zellen: so muss ich glauben, dass alle, welche am _Eozoon_ arbeiteten (ich eingeschlossen), mit Blindheit geschlagen waren.
+Wenn ich jetzt meine Dünnschliffe durchsehe und finde darin die deutlichsten Brutzellen an der Pflanze, in der Tiefe des Kelches die runde Öffnung, welche ganz konstant (also hundertfältig) sich findet, ferner ganz junge Zellen noch in den alten, endlich im Kalk daneben diese Zellen: so muss ich glauben, dass alle, welche am _Eozoon_ arbeiteten (ich eingeschlossen), mit Blindheit geschlagen waren.
 
-Vollends unbegreiflich ist dies hinsichtlich der Pflanzen im Serpentin des Eophyllumkalks. Hier liegen sie sogar für das blosse Auge. Aber weil dieser Serpentin nicht _Eozoon_ war, desshalb untersuchte ihn auch Niemand mehr. Jeder, der die Sache jetzt untersucht, wird sich an die Stirne schlagen und ausrufen: wie war das zu ühersehen möglich!
+Vollends unbegreiflich ist dies hinsichtlich der Pflanzen im Serpentin des Eophyllumkalks. Hier liegen sie sogar für das bloße Auge. Aber weil dieser Serpentin nicht _Eozoon_ war, deshalb untersuchte ihn auch Niemand mehr. Jeder, der die Sache jetzt untersucht, wird sich an die Stirne schlagen und ausrufen: wie war das zu übersehen möglich!
 
 Und vollends ist es unbegreiflich bei Gelehrten, welche über jede Menge von Gesteinen verfügten, um es ohne Rücksicht auch vernichten zu können.
 
-Insofern ist die Erfahrung mit dem _Eozoon_ ein bedeutender Präcedenzfall.
+Insofern ist die Erfahrung mit dem _Eozoon_ ein bedeutender Präzedenzfall.
 
 Nur in Einem Punkt muss ich meine frühere Beweisführung berichtigen, indem ich sie erkläre.
 
-Ich habe sehr grosses Gewicht auf das ursprüngliche, unzersetzte Gestein in den Serpentin-Körnern gelegt und damit gegen die „Kammer“ bewiesen.
+Ich habe sehr großes Gewicht auf das ursprüngliche, unzersetzte Gestein in den Serpentin-Körnern gelegt und damit gegen die „Kammer“ bewiesen.
 
 Richtig ist, dass dies vorkommt.
 
@@ -506,13 +506,13 @@ Allein hier war die erste Frage: was ist _Eozoon_?
 
 Dies war von Anfang an nicht so festgestellt.
 
-Wenige konnten sich nur darüber vergewissern, was die Entdecker als „Eozoongestein“ anerkennen. Ich gebe zu, dass in dem, was mir nachher Dr. Dawson als „_Eozoon_“ vorlegte, wenig unzersetztes Gestein in den „Kammern“ gefunden werden wird.
+Wenige konnten sich nur darüber vergewissern, was die Entdecker als „Eozoongestein“ anerkennen. Ich gebe zu, dass in dem, was mir nachher Dr. Dawson als „_Eozoon_“ vorlegte, wenig unzersetzte Gestein in den „Kammern“ gefunden werden wird.
 
 Der Serpentin ist allerdings in einem flüssigen Zustand gewesen, hat sogar ganze Lager gebildet: ein solches ist die Unterlage des ganzen Eophyllumgesteins, wie insbesondere das breite Serpentinband, unter dem ersten breiteren Kalkband. 
 
-Da sind, allerdings selten, Mineraltheile, welche polarisiren und daher in der Regel auf das erhaltene ursprüngliche Gestein zu deuten waren. 
+Da sind, allerdings selten, Mineralteile, welche polarisieren und daher in der Regel auf das erhaltene ursprüngliche Gestein zu deuten waren. 
 
-Dass ich den Serpentin erst im zweiten Stadium der Verwitterung begriffen ansah, der Irrthum rührt daher, dass ich die Zellwände als Gesteinstheile ansah und dass ich zuviel Werth auf die Theile des Gesteins legte, wo diese noch wirkliche polarisirende Mineraleinschlüsse enthalten.
+Dass ich den Serpentin erst im zweiten Stadium der Verwitterung begriffen ansah, der Irrtum rührt daher, dass ich die Zellwände als Gesteinsteile ansah und dass ich zuviel Werth auf die Theile des Gesteins legte, wo diese noch wirkliche polarisierende Mineraleinschlüsse enthalten.
 
 Diese Einschlüsse könnten allerdings auch Dolomit sein, welcher sich im Serpentin ausschied und so die Polarisationserscheinung bewirkte.
 
@@ -522,13 +522,13 @@ Die wichtigen Ergebnisse meiner Entdeckung sind:
 
 I. die ersten organischen Formen sind die niedersten Pflanzen, woraus höchst wahrscheinlich
 
-II. folgt, dass wirklich die Bildungen der Gegenwart die Erzeugnisse der Fortentwicklung sind; es ist also eine blos einmalige gleichzeitige „Schöpfung“ nicht — dagegen
+II. folgt, dass wirklich die Bildungen der Gegenwart die Erzeugnisse der Fortentwicklung sind; es ist also eine bloß einmalige gleichzeitige „Schöpfung“ nicht — dagegen
 
-III. ist eben vermöge des Gesetzes der Entwicklung anzunehmen, dass die niedersten Formen der Laurentianzeit heute längst in höhere sich verwandelt haben: die niedersten von heute also können nicht die Nachkommen von damals sein und hieraus schliesse ich, dass heute noch derselbe Uebergang von Unorganischem zum Organischen (Schöpfung) stattfindet.
+III. ist eben vermöge des Gesetzes der Entwicklung anzunehmen, dass die niedersten Formen der Laurentianzeit heute längst in höhere sich verwandelt haben: die niedersten von heute also können nicht die Nachkommen von damals sein und hieraus schließe ich, dass heute noch derselbe Übergang von Unorganischem zum Organischen (Schöpfung) stattfindet.
 
 Möge nun die Frucht langjähriger Arbeit zu neuen Forschungen anregen.
 
-Ein Grund ist gelegt. Die Eophyllumkalke von Canada bieten dem Forscher eine unermessliche Fundgrube der Erkenntniss, denn keine Schichte der Erde hat wie diese erste ihre Todten so wunderbar schön erhalten.
+Ein Grund ist gelegt. Die Eophyllumkalke von Canada bieten dem Forscher eine unermessliche Fundgrube der Erkenntnis, denn keine Schichte der Erde hat wie diese erste ihre Toten so wunderbar schön erhalten.
 
 Der klarste Kalksteinniederschlag, noch mehr aber die Serpentinschichten, haben Häute von kaum messbarer Dicke uns aufbewahrt.
 
@@ -536,17 +536,17 @@ Das Bild der Urzelle, welches nun naturgeschichtlich festgestellt ist, ist fast 
 
 Freilich das Werden selbst sieht man doch nicht. Zum Werden kommt der Mensch immer zu spät: wenn er es sieht, ist schon ein Gewordenes da.
 
-Was führt die einfachsten Stoffe der Erde in diese einfachsten Formen? Dieses Räthsel der Entwicklungslehre wird nie gelöst werden. Aus den wissenschaftlich registrirten Stoffen allein lässt es sich nicht erklären. Diese Tatsache wird auch den Naturforscher und gerade den Naturforscher, als den Mann der Erfahrung, zuerst zur Erkenntniss eines Stoffes treiben, welcher selbst zwar mit den Sinnen nicht mehr wahrgenommen werden kann, dessen Wirkungen aber in die Sinne fallen und damit dem Verstande den Beweis seines Daseins aufnöthigt. Nenne man diesen Stoff, wie man will, er ist da. Das ist zunächst die Hauptsache. Unsere Zeit streitet über die Frage, ob es denn ausser der Materie auch einen Geist gebe? Die Zeit wird freilich auch noch kommen, wo man einsieht, dass es ebensowenig einen Geist, (Leben) ohne die Materie gäbe.
+Was führt die einfachsten Stoffe der Erde in diese einfachsten Formen? Dieses Rätsel der Entwicklungslehre wird nie gelöst werden. Aus den wissenschaftlich registrierten Stoffen allein lässt es sich nicht erklären. Diese Tatsache wird auch den Naturforscher und gerade den Naturforscher, als den Mann der Erfahrung, zuerst zur Erkenntnis eines Stoffes treiben, welcher selbst zwar mit den Sinnen nicht mehr wahrgenommen werden kann, dessen Wirkungen aber in die Sinne fallen und damit dem Verstande den Beweis seines Daseins aufnötigt. Nenne man diesen Stoff, wie man will, er ist da. Das ist zunächst die Hauptsache. Unsere Zeit streitet über die Frage, ob es denn außer der Materie auch einen Geist gebe? Die Zeit wird freilich auch noch kommen, wo man einsieht, dass es ebensowenig einen Geist, (Leben) ohne die Materie gäbe.
 
-Das Entwicklungsgesetz aber ist es gerade, welches den Menschen zu der Ueberzeugung leitet, dass die Schöpfung auch mit seinem Dasein, wie es jetzt ist, noch nicht abgeschlossen sein kann, dass es vielmehr noch höhere Daseinsformen für ihn geben muss, welche zu erreichen, Naturgesetz für ihn ist.
+Das Entwicklungsgesetz aber ist es gerade, welches den Menschen zu der Überzeugung leitet, dass die Schöpfung auch mit seinem Dasein, wie es jetzt ist, noch nicht abgeschlossen sein kann, dass es vielmehr noch höhere Daseinsformen für ihn geben muss, welche zu erreichen, Naturgesetz für ihn ist.
 
 So allein erklären sich hundert Tatsachen des geistigen und Seelenlebens, welche ohne dieses Gesetz unverständlich wären, kurz, so allein erklärt sich der Mensch selbst.
 
 Es ist daher die Entwicklungslehre, auf den Menschen übertragen, das Gesetz des Fortschritts ja der Unsterblichkeit. Nicht im Kampf um das niedere Dasein, sondern im Kampf um das höchste Dasein geht der Mensch seinen Lauf nach dem Gesetz der Linie, die sich nur im Unendlichen mit einer andern schneidet.
 
-Ich konnte mir nicht versagen, diese Schlussbemerkungen zu machen. Ich glaube in meiner Arbeit gezeigt zu haben, dass ich die exacte Wissenschaft liebe. Aber es gibt eine exacte Wissenschaft auch des Geistigen und nicht blos des Körperlichen. Zu einer wie der andern gehört, dass man sehen will. Will man sehen, die Tatsachen sind da.
+Ich konnte mir nicht versagen, diese Schlussbemerkungen zu machen. Ich glaube in meiner Arbeit gezeigt zu haben, dass ich die exakte Wissenschaft liebe. Aber es gibt eine exakte Wissenschaft auch des Geistigen und nicht bloß des Körperlichen. Zu einer wie der andern gehört, dass man sehen will. Will man sehen, die Tatsachen sind da.
 
-Auf diesem Wege möchte ich nicht blos die Naturwissenschaft, sondern auch die Wissenschaft des Menschen, die höchste welche es geben kann, durch meine Arbeit um einen Schritt weiter geführt sehen.
+Auf diesem Wege möchte ich nicht bloß die Naturwissenschaft, sondern auch die Wissenschaft des Menschen, die höchste welche es geben kann, durch meine Arbeit um einen Schritt weiter geführt sehen.
 
 #### II. Das erste Thier.
 
@@ -556,9 +556,9 @@ _das erste Thier_
 
 finden sollte, welches wir kennen.
 
-Ich besitze es in 1 vollständigen Exemplar (in Canadabalsam) und in Bruchstücken, wovon einige nahezu vollständig.
+Ich besitze es in 1 vollständigen Exemplar (in Kanadabalsam) und in Bruchstücken, wovon einige nahezu vollständig.
 
-Vergebens sah ich mich nach einem Nachbild unter den lebenden, wie unter den ausgestorbenen um. Es gleicht einigermassen Serpula oder Vermetus.
+Vergebens sah ich mich nach einem Nachbild unter den lebenden, wie unter den ausgestorbenen um. Es gleicht einigermaßen Serpula oder Vermetus.
 
 Ich nenne es _Titanus Bismarki_ Taf. XII. unserm Reichskanzler zu Ehren.
 
@@ -568,9 +568,9 @@ Der Panzer muss durch Häute verbunden gewesen sein. Dafür spricht Taf. XIII. F
 
 Ein Exemplar ist 0,59 mm. lang, 0,06 mm. durchschnittlich breit.
 
-Der Panzer besteht aus zahllosen contractilen Ringen; der _Titanus_ vermag jede Stellung anzunehmen.
+Der Panzer besteht aus zahllosen kontraktilen Ringen; der _Titanus_ vermag jede Stellung anzunehmen.
 
-Ein Stück (vorausgesetzt, dass es derselben Art angehört) zeigt, dass eine parthienweise Zusammenziehung der Glieder stattfand, denn der Leib innerhalb des Kieselpanzers ist in gleichmässig von einander abstehenden Segmenten zusammengezogen, und daher bildet der Panzer scharfe Kanten.
+Ein Stück (vorausgesetzt, dass es derselben Art angehört) zeigt, dass eine partienweise Zusammenziehung der Glieder stattfand, denn der Leib innerhalb des Kieselpanzers ist in gleichmäßig von einander abstehenden Segmenten zusammengezogen, und daher bildet der Panzer scharfe Kanten.
 
 In dem Panzer steckt ein Leib, welcher ebenfalls der Säure widerstanden hat.
 
@@ -588,7 +588,7 @@ Durchmesser desselben 0,03 mm.
 
 Aus der Mundöffnung ragt eine Wulst hervor, der eigentliche Mund.
 
-Wenn man bei Taf. XII. Fig. 3. das Microscop hoch einstellt, so sieht man nur die herzförmige Oeffnung: wird der Tubus gesenkt, so erblickt man durch die Schale und hinter derselben die Mundöffnung. Leider lassen sich solche zarte Dinge in der Zeichnung nicht vollständig wiedergeben.
+Wenn man bei Taf. XII. Fig. 3. das Mikroskop hoch einstellt, so sieht man nur die herzförmige Öffnung: wird der Tubus gesenkt, so erblickt man durch die Schale und hinter derselben die Mundöffnung. Leider lassen sich solche zarte Dinge in der Zeichnung nicht vollständig wiedergeben.
 
 Figur 3 hat einen übrigens undeutlichen Lappen, der über die Mundöffnung hervorragt.
 
@@ -600,19 +600,19 @@ Dass die Form eine organische ist, lässt sich wohl in keiner Weise bezweifeln. 
 
 Die Form ist _Serpula_ ähnlich.
 
-Freilich suchte man bis jetzt wohl schwerlich ein Thier, das den Anneliden gleicht, in der untersten Schichte, Thieren, welche ihre Stellang im Thierreich fast schon über dem ersten Viertheil desselben einnehmen.
+Freilich suchte man bis jetzt wohl schwerlich ein Tier, das den Anneliden gleicht, in der untersten Schichte, Tieren, welche ihre Stellung im Tierreich fast schon über dem ersten Viertheil desselben einnehmen.
 
-Es wäre aber auch möglich, dass wir hier nur die äussere Gestalt eines höheren Thieres vor uns haben, denn die innere Organisation lässt sich nicht mehr feststellen.
+Es wäre aber auch möglich, dass wir hier nur die äußere Gestalt eines höheren Tieres vor uns haben, denn die innere Organisation lässt sich nicht mehr feststellen.
 
 _Titanus_ unterscheidet sich von allem, was im Eophyllumkalk vorkommt, sofort durch die Textur.
 
-Die Streifen (Glieder) des Panzers sind wie mit dem Grabstichel gezeichnet, die Beweglichkeit muss desshalb auch eine vollkommene gewesen sein.
+Die Streifen (Glieder) des Panzers sind wie mit dem Grabstichel gezeichnet, die Beweglichkeit muss deshalb auch eine vollkommene gewesen sein.
 
 Man könnte im _Titanus_ hienach den Vorgänger der Trilobiten sehen.
 
 Die Bruchstücke Taf. XIII. zeigen alle gleiche Textur.
 
-Gewisse hyaline Ansätze auf Pflanzen von derselben Art, wie die Mundöffnungen, könnten vermuthen lassen, dass man es hier mit jungen Thieren zu thun hat, die sich auf anderen Gegenständen ansaugen.
+Gewisse hyaline Ansätze auf Pflanzen von derselben Art, wie die Mundöffnungen, könnten vermuten lassen, dass man es hier mit jungen Tieren zu tun hat, die sich auf anderen Gegenständen ansaugen.
 
 Doch die Sache muss erst in weiteren Exemplaren untersucht werden, wie denn dies Alles mehr eine Ankündigung und Aufforderung zu weiterer Forschung sein soll, als ein wissenschaftlicher Abschluss.
 
@@ -620,15 +620,15 @@ Es sind nur einmal neue organische Formen und damit ist eine neue Schöpfungsper
 
 #### III. Serpentin.
 
-Als ich die Arbeit bis hieher vollendet hatte, fiel mein Blick auf einen Briefbeschwerer von Serpentin, der auf meinem Arbeitstisch lag. Ich sah hier bläuliche Flecken und sofort erkannte ich die vom Laurentian-Serpentin beschriebenen Formen in dem Serpentin von Sachsen wieder.
+Als ich die Arbeit bis hierher vollendet hatte, fiel mein Blick auf einen Briefbeschwerer von Serpentin, der auf meinem Arbeitstisch lag. Ich sah hier bläuliche Flecken und sofort erkannte ich die vom Laurentian-Serpentin beschriebenen Formen in dem Serpentin von Sachsen wieder.
 
-Bei genauer Untersuchung fand ich die schönsten Linien und Formen von solcher Reinheit und Vollendung, als sie der Palaeontologe nur wünschen kann.
+Bei genauer Untersuchung fand ich die schönsten Linien und Formen von solcher Reinheit und Vollendung, als sie der Paläontologe nur wünschen kann.
 
-Sofort nahm ich alle meine Serpentine, sowohl Dünnschliffe als Handstücke vor. Wie erstaunte ich aber, als ich in dem grössten Theil derselben Pflanzen-Formen von 1-2 cm. fand!
+Sofort nahm ich alle meine Serpentine, sowohl Dünnschliffe als Handstücke vor. Wie erstaunte ich aber, als ich in dem größten Theil derselben Pflanzen-Formen von 1-2 cm. fand!
 
 Ich fand daneben eine solche Masse kleinerer Formen, dass ich die Ansicht ausspreche:
 
-ein grosser Theil der Serpentine, insbesondere der böhmischen und sächsischen, ist nichts als ein grosses Algen-Lager, ähnlich den fossilen Diatomeen-Lagern.
+ein großer Theil der Serpentine, insbesondere der böhmischen und sächsischen, ist nichts als ein großes Algen-Lager, ähnlich den fossilen Diatomeen-Lagern.
 
 Es lagert die verkieselte Pflanze in der ursprünglich flüssigen Serpentinmasse.
 
@@ -642,25 +642,25 @@ _Opthalmia Hochstetteri_.
 
 Wir haben also ungeheure Schichten eines bis dahin für azoisch gehaltenen Gesteins als reines organisches Lager.
 
-Die Kelche sind mit Granat gefüllt. Offenbar steht diese Bildung in Verbindung mit der Thätigkeit der Pflanze.
+Die Kelche sind mit Granat gefüllt. Offenbar steht diese Bildung in Verbindung mit der Tätigkeit der Pflanze.
 
 Wie war es möglich, diese Formen zu übersehen?
 
-Aber freilich, ehe man den Schlüssel zur Form aus dem canadischen Laurentian-Gestein hatte, war es nicht so leicht, nur daran zu denken und deshalb sah man es auch nicht.
+Aber freilich, ehe man den Schlüssel zur Form aus dem kanadischen Laurentian-Gestein hatte, war es nicht so leicht, nur daran zu denken und deshalb sah man es auch nicht.
 
-Jede Apotheker-Reibschale, jeder Briefbeschwerer zeigt uns in einem Cubikcentimeter eine grössere und vielleicht 1000 kleinere Pflanzen-Zellen.
+Jede Apotheker-Reibschale, jeder Briefbeschwerer zeigt uns in einem Kubikzentimeter eine größere und vielleicht 1000 kleinere Pflanzen-Zellen.
 
 Ich zeichne aus dem Eophyllum-Kalk noch 2 Tafeln Zellenformen, um die Grundform derselben zur Anschauung zu bringen.
 
 Der Gedanke an das Erlebte beschäftigte mich den ganzen Tag.
 
-Wie ganz anders erschien mir mit Einem Male das bisher so räthselhafte Gestein!
+Wie ganz anders erschien mir mit Einem Male das bisher so rätselhafte Gestein!
 
 Ich war schon im Begriff, mich zur Ruhe zu begeben, als mir einfiel, dass ich noch eine Kiste Gesteine von Canada verpackt im Hausgang stehen habe.
 
-Ich wollte insbesondere noch ein Stück wasserhellen Kalkspats wegen der kupfergefärbten Pflanze darin suchen und damit meine ganze Arbeit schliessen.
+Ich wollte insbesondere noch ein Stück wasserhellen Kalkspats wegen der kupfergefärbten Pflanze darin suchen und damit meine ganze Arbeit schließen.
 
-Ich liess die Kiste öffnen.
+Ich ließ die Kiste öffnen.
 
 Da fielen mir die Laurentian-Gneisse in die Hand.
 
@@ -670,45 +670,45 @@ Diese Frage stellte ich an mich.
 
 Ich besah das Gestein, während ich es ins Zimmer trug, und erkannte sofort, 
 
-dass auch der Laurentian-Gneiss nur ein grosses Pflanzen-Lager sei. 
+dass auch der Laurentian-Gneiss nur ein großes Pflanzen-Lager sei. 
 
-Sofort wurden noch Dünnschliffe gefertigt und durch das Microscop vollkommen bestätigt, was das blosse Auge gesehen hatte.
+Sofort wurden noch Dünnschliffe gefertigt und durch das Mikroskop vollkommen bestätigt, was das bloße Auge gesehen hatte.
 
-Ich untersuchte in der Folge alle meine Handstücke, etwa 30 Stücke und fand eines wie das andere grösstentheils aus Pflanzen (Algen) bestehend.
+Ich untersuchte in der Folge alle meine Handstücke, etwa 30 Stücke und fand eines wie das andere größtenteils aus Pflanzen (Algen) bestehend.
 
-Die meisten sind schon mit blossem Auge zu erkennen.
+Die meisten sind schon mit bloßem Auge zu erkennen.
 
-Mit schwacher Vergrösserung löst sich die ganze Masse des Gneisses in Pflanzen auf.
+Mit schwacher Vergrößerung löst sich die ganze Masse des Gneises in Pflanzen auf.
 
-Also eine Formation, welche in ihrer Mächtigkeit auf 30,000 Fuss geschätzt ist, ein Pflanzenlager!
+Also eine Formation, welche in ihrer Mächtigkeit auf 30,000 Fuß geschätzt ist, ein Pflanzenlager!
 
-Meine Laurentiangneiss-Handstücke sind aus der Gegend von Ottawa und vom Lake Simcoe bis zum Nipissing-See gesammelt, letztere also von einer Fläche von 130 engl. Meilen und alle sind Eine grosse Pflanze!
+Meine Laurentiangneiss-Handstücke sind aus der Gegend von Ottawa und vom Lake Simcoe bis zum Nipissing-See gesammelt, letztere also von einer Fläche von 130 engl. Meilen und alle sind Eine große Pflanze!
 
 Ich fertige nun Tafeln, um eine Vorstellung zu geben.
 
 Das Handstück I. ist von Templeton bei Ottawa (der Hauptstadt Canadas). Glimmerschiefer.
 
-Es ist aus einer Apatitgrube. Es hat fleischrothen Kalkspath, graugrüne Apatitcrystalle mit 6 seitigen Tafeln von schwarzem Glimmer.
+Es ist aus einer Apatitgrube. Es hat fleischroten Kalkspat, graugrüne Apatitkristalle mit 6 seitigen Tafeln von schwarzem Glimmer.
 
-Seine Textur ist fein-blättrig. Auf der Bruchfläche erkennt man deutlich strahlenförmige Parthien. Sofort fallen auch weisse rundliche Stellen in die Augen. Es sind die Kelch-Zellen, welche gegen den Beschauer gekehrt sind.
+Seine Textur ist fein-blättrig. Auf der Bruchfläche erkennt man deutlich strahlenförmige Parthien. Sofort fallen auch weiße rundliche Stellen in die Augen. Es sind die Kelch-Zellen, welche gegen den Beschauer gekehrt sind.
 
-Bei genauer Besichtigung findet man die Zellkelche in den grösseren Glimmer-Partien, sodann die Zellen, welche den Stamm bilden.
+Bei genauer Besichtigung findet man die Zellkelche in den größeren Glimmer-Partien, sodann die Zellen, welche den Stamm bilden.
 
 Schwarze Glimmer-Tafeln umhüllen die schönsten Kelche. Die feinste Textur ist noch sichtbar.
 
-Eine Pflanze kann schon mit blossem Auge auf 1 cm. Raum verfolgt werden.
+Eine Pflanze kann schon mit bloßem Auge auf 1 cm. Raum verfolgt werden.
 
-Schon mit blossem Auge sieht man ferner die Verwandlung der Pflanze in Apatit und Glimmer.
+Schon mit bloßem Auge sieht man ferner die Verwandlung der Pflanze in Apatit und Glimmer.
 
 Die Pflanzen nehmen etwa 2/3 der Gesteinsmasse ein.*
 
 *) Vergleiche unten.
 
-Die Apatit-Crystalle sind wahrscheinlich das Produkt des kleinen organischen Lebens.
+Die Apatit-Kristalle sind wahrscheinlich das Produkt des kleinen organischen Lebens.
 
 Eine Mischung von phosphorsaurem und kohlensaurem Kalk wird von der Pflanze zersetzt.
 
-Es trennen sich phosphorsaurer und kohlensaurer Kalk und so lagern die Apatit-Crystalle im kohlensauren Kalke.
+Es trennen sich phosphorsaurer und kohlensaurer Kalk und so lagern die Apatit-Kristalle im kohlensauren Kalke.
 
 Die Pflanze dieses Gesteins habe ich auf Tafel XVII. 10. abgebildet.
 
@@ -718,15 +718,15 @@ Einzelzeichnungen Fig. 11. 12. 13.
 
 Um einen Dünnschliff daraus zu fertigen, war das Gestein I. zu weich und zu wenig homogen. Der Glimmer blätterte ab, wie die Pflanzen darin lagen. 
 
-Fig. 14. eine Pflanze aus einem Apatit-Crystall.
+Fig. 14. eine Pflanze aus einem Apatit-Kristall.
 
-Handstück 2. vom Muskoka-See. Sehr feldspathreich.
+Handstück 2. vom Muskoka-See. Sehr feldspatreich.
 
 Taf. XVII. 4. Aus demselben Stücke Fig. 5. 6. 7. 8. 9.
 
 Ich konnte nur eine Pflanzen-Art feststellen.
 
-Taf. XVII. Figur 10-13 sind schwache Vergrösserungen 1/5.
+Taf. XVII. Figur 10-13 sind schwache Vergrößerungen 1/5.
 
 Ich nenne die Pflanze Fig. 4.
 
@@ -746,25 +746,25 @@ _Selvynia_.
 
 #### V. Glimmer.
 
-In einem canadischen Glimmer aus dem Laurentian bilde ich Taf. XVII. Fig. 1. 2. 3. ab.
+In einem kanadischen Glimmer aus dem Laurentian bilde ich Taf. XVII. Fig. 1. 2. 3. ab.
 
-Die Zelle Fig. 3. ist in Hämatit verwandelt, ist durchsichtig und zeigt so den Canal, der durch die Zelle bis zur Wurzel hinabgeht, aufs deutlichste. Fig. 2. ist wahrscheinlich ein Durchschnitt des Kelchrandes.
+Die Zelle Fig. 3. ist in Hämatit verwandelt, ist durchsichtig und zeigt so den Kanal, der durch die Zelle bis zur Wurzel hinabgeht, aufs deutlichste. Fig. 2. ist wahrscheinlich ein Durchschnitt des Kelchrandes.
 
 #### VI. Das „Urgebirge“.
 
 Wieder war die Arbeit geschlossen.
 
-War der Laurentian-Gneiss von einer Masse Zellen-Pflanzen durchzogen, warum sollte es unser Gneiss nicht auch sein?
+War der Laurentian-Gneis von einer Masse Zellen-Pflanzen durchzogen, warum sollte es unser Gneis nicht auch sein?
 
-Und wenn der Gneiss es ist, wie verhält sich Granit und Porphyr?
+Und wenn der Gneis es ist, wie verhält sich Granit und Porphyr?
 
-Es ist oft unbegreiflich, wie nahe die Tatsache liegt, ohne dass man im Stand ist, sie zu sehen. Trotz des Microscops — man sieht eben nichts.
+Es ist oft unbegreiflich, wie nahe die Tatsache liegt, ohne dass man im Stand ist, sie zu sehen. Trotz des Mikroskops — man sieht eben nichts.
 
 Ich muss die Form meiner Abhandlung hier entschuldigen.
 
 Meine Arbeit galt dem _Eozoon_. Daraus wurde das Eophyllum. Sie galt dem Eophyllum. Daran schloss sich die Entdeckung der Pflanzenwelt des Serpentins. Sie sollte mit dem Serpentin geschlossen werden. Da fand ich, dass der Laurentian-Gneiss ein Pflanzenlager enthält, nichts als Pflanze ist.
 
-Aufs äusserste ermüdet, war ich froh, endlich Feder und Zeichenstift niederlegen zu können; da drängt es mich wieder in die Forschung hinein: ich kann noch nicht ruhen.
+Aufs äußerste ermüdet, war ich froh, endlich Feder und Zeichenstift niederlegen zu können; da drängt es mich wieder in die Forschung hinein: ich kann noch nicht ruhen.
 
 Ich bemerke hier, dass die Entdeckung des Serpentins — da ich dieses schreibe — erst 2 Tage alt, und das was ich heute schreibe, die Arbeit von 12 Stunden ist. Gestern hatte ich das Manuskript für den Druck schon geschlossen, als der Gedanke sich aufs Neue meldete und mich festhielt. Der Gedanke war es, welchen ich oben ausgesprochen.
 
@@ -774,29 +774,29 @@ Der Granit ist nichts als Pflanzen-, keine Gesteinsmasse daneben, alles Pflanze!
 
 Glimmer und Hornblende sind die Kelchzellen. Der Feldspat ist Füllmasse der Pflanze, Baustoff der Pflanzenzellenhäute. Der Quarz bildet meist Brutzellen.
 
-Der Gneiss enthält schon die vorgeschrittenen Formen der Pflanzen.
+Der Gneis enthält schon die vorgeschrittenen Formen der Pflanzen.
 
-Insbesondere beim Knotengneiss sind die Knoten nichts als grössere Kelchzellen.
+Insbesondere beim Knotengneis sind die Knoten nichts als größere Kelchzellen.
 
-Auch der Porphyr enthält lebende Pflanzen. Derselbe ist der Schlamm des ersten Urgebirgs. (Felsit ebenso.)
+Auch der Porphyr enthält lebende Pflanzen. Derselbe ist der Schlamm des ersten Urgebirges. (Felsit ebenso.)
 
-Erst nach dem Suchen durch das Microscop sehe ich die Form mit blossem Auge — Pflanzen von der vollen Länge der Handstücke.
+Erst nach dem Suchen durch das Mikroskop sehe ich die Form mit bloßem Auge — Pflanzen von der vollen Länge der Handstücke.
 
 ***
 
-Ich gebe diese Arbeiten, wie sie entstanden sind. Es sind Entdeckungen von solcher Bedeutung, dass es wohl nicht als Anmassung erscheinen kann, wenn ich zugleich einen Blick in meine Werkstätte thun lasse, nebenbei ist es der individuelle Grund, dass ich zu ermüdet bin, um Alles umzuarbeiten.
+Ich gebe diese Arbeiten, wie sie entstanden sind. Es sind Entdeckungen von solcher Bedeutung, dass es wohl nicht als Anmaßung erscheinen kann, wenn ich zugleich einen Blick in meine Werkstätte tun lasse, nebenbei ist es der individuelle Grund, dass ich zu ermüdet bin, um Alles umzuarbeiten.
 
 Bei der nunmehrigen Beweisführung muss ich die Form der Urpflanze als bekannt annehmen.
 
-Die Formen sind in Laurentian-Kalk unumstösslich festgestellt, und zwar schon in verhältnissmässig grosser Verschiedenheit. Dort bestehen, wie ich vermuthe, hunderte von Arten.
+Die Formen sind in Laurentian-Kalk unumstößlich festgestellt, und zwar schon in verhältnismäßig großer Verschiedenheit. Dort bestehen, wie ich vermute, hunderte von Arten.
 
-Im Kalk sind schon die microscopischen Arten enthalten, vielleicht sind sie dort erst entstanden. Im Gneisse sind es Pflanzen, welche mit blossem Auge zu erkennen, dabei schon sehr entwickelt in der Form sind.
+Im Kalk sind schon die mikroskopischen Arten enthalten, vielleicht sind sie dort erst entstanden. Im Gneis sind es Pflanzen, welche mit bloßem Auge zu erkennen, dabei schon sehr entwickelt in der Form sind.
 
 Das Prototyp all dieser Pflanzen ist zumeist ein einfacher Trichter.
 
 Die untere Spitze verzweigt sich zur Wurzelzelle.
 
-Der Trichterhals theilt sich und streckt sich, Zelle reiht sich an Zelle durch Theilung.
+Der Trichterhals teilt sich und streckt sich, Zelle reiht sich an Zelle durch Teilung.
 
 Dadurch entsteht der Stamm.
 
@@ -804,15 +804,15 @@ Nun setzen sich sowohl am Rande des Trichters, als auch an der Zellkante neue Tr
 
 Aber auch in Form von Mycelium-Fäden strecken sich Zellen aus, welche wieder Trichter treiben. Diese Fadenzellen suchen Vereinigung und verzweigen sich.
 
-Ich bemerke aber hier, dass auch in den Trichtern wirkliche Mineral- (Crystall-?) Einlagerungen vorkommen. Diese erscheinen mir als Produkte des organischen Vorgangs.
+Ich bemerke aber hier, dass auch in den Trichtern wirkliche Mineral- (Kristall-?) Einlagerungen vorkommen. Diese erscheinen mir als Produkte des organischen Vorgangs.
 
-Ich bilde die Entwicklung der Urzelle ab Taf. XVIII. 1-7. jedoch nur, soweit ich das Bild im Serpentin gewann. Im Granit herrschen die Stammzellen vor, jedoch in der uranfänglichsten Form, welche sich denken lässt — der Crystallform.
+Ich bilde die Entwicklung der Urzelle ab Taf. XVIII. 1-7. jedoch nur, soweit ich das Bild im Serpentin gewann. Im Granit herrschen die Stammzellen vor, jedoch in der uranfänglichen Form, welche sich denken lässt — der Kristallform.
 
 ***
 
 Mit diesen Vorbegriffen und Vorstellungen, welche ich durch meine Beobachtungen als festgestellt annehmen darf, wollen wir an die Arbeit gehen.
 
-Um die Controle wenigstens zu erleichtern, nehme ich die „Sammlung typischer Gesteine“ von R. Fuess in Berlin, Serie II., und beginne mit
+Um die Kontrolle wenigstens zu erleichtern, nehme ich die „Sammlung typischer Gesteine“ von R. Fuess in Berlin, Serie II., und beginne mit
 
 _Nr. 1. dem Granit von Brixen_.
 
