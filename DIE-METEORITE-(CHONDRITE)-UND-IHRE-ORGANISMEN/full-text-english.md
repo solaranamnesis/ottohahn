@@ -775,7 +775,7 @@ The magnification specification, i.e. the ratio of the true size to the diameter
 
 I therefore preferred to denote the real size of the object by directly stating the diameter of each shape.
 
-*) A similar treatment of Dr. Kuntze with Dr. H. Karsten's Flora Columbiae. Until he cleanses himself of the accusation Dr. W. Joos raised against him on these criticisms, he has no right to be heard in science.
+*) A similar treatment of Dr. Kuntze with Dr. H. Karsten's _Flora Columbiae_. Until he cleanses himself of the accusation Dr. W. Joos raised against him on these criticisms, he has no right to be heard in science.
 
 ## Table Index
 
