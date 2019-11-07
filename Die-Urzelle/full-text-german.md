@@ -216,7 +216,7 @@ Diese aber sind wie aller Serpentin. Allerdings die reihenförmige Lage der Kör
 
 Ich gieng bei meiner Untersuchung von dem Bild Tafel IV. und V. aus.
 
-Nachdem mir durch dieses Bild die Pflanze unwiderleglich festgestellt und so ein Bild der Pflanze des Laurentiangneisses gegeben war: konnte es nicht schwer sein, die Kanalsysteme der „Eozoonknollen“ überhaupt zu deuten. Sie lösten sich alle in Pflanzen auf.
+Nachdem mir durch dieses Bild die Pflanze unwiderleglich festgestellt und so ein Bild der Pflanze des Laurentiangneises gegeben war: konnte es nicht schwer sein, die Kanalsysteme der „Eozoonknollen“ überhaupt zu deuten. Sie lösten sich alle in Pflanzen auf.
 
 Sodann bildete dieselbe Form auch den Schlüssel zur Lösung des ganzen Gesteins.
 
@@ -682,7 +682,7 @@ Mit schwacher Vergrößerung löst sich die ganze Masse des Gneises in Pflanzen 
 
 Also eine Formation, welche in ihrer Mächtigkeit auf 30,000 Fuß geschätzt ist, ein Pflanzenlager!
 
-Meine Laurentiangneiss-Handstücke sind aus der Gegend von Ottawa und vom Lake Simcoe bis zum Nipissing-See gesammelt, letztere also von einer Fläche von 130 engl. Meilen und alle sind Eine große Pflanze!
+Meine Laurentiangneis-Handstücke sind aus der Gegend von Ottawa und vom Lake Simcoe bis zum Nipissing-See gesammelt, letztere also von einer Fläche von 130 engl. Meilen und alle sind Eine große Pflanze!
 
 Ich fertige nun Tafeln, um eine Vorstellung zu geben.
 
@@ -816,15 +816,15 @@ Um die Kontrolle wenigstens zu erleichtern, nehme ich die „Sammlung typischer 
 
 _Nr. 1. dem Granit von Brixen_.
 
-Ich werde, was ich im Schliffe finde, beschreiben und das Wesentliche abbilden, damit der Leser sich selbst orientiren kann. Zum Verständniss dieses Schliffes muss man schon das Bild aus dem Laurentian-Gneis Taf. XVII. 4. XIX. 3 zu Hilfe nehmen.
+Ich werde, was ich im Schliffe finde, beschreiben und das Wesentliche abbilden, damit der Leser sich selbst orientieren kann. Zum Verständnis dieses Schliffes muss man schon das Bild aus dem Laurentian-Gneis Taf. XVII. 4. XIX. 3 zu Hilfe nehmen.
 
-Auf den ersten Blick erscheint Alles als ein Gemisch von Feldspath und Quarz-Körner mit Glimmer und etwas Hornblende. Sind es Sprünge, welche den Schliff durchziehen? Sind es Crystallflächen? Es sind keine Sprünge da, keine Crystalle.
+Auf den ersten Blick erscheint Alles als ein Gemisch von Feldspat und Quarz-Körner mit Glimmer und etwas Hornblende. Sind es Sprünge, welche den Schliff durchziehen? Sind es Kristallflächen? Es sind keine Sprünge da, keine Kristalle.
 
 Die Linien zeigen beim ersten Anblick eine gewisse Regel, aber sie ist unverständlich.
 
 Plötzlich springt das Gesetz in die Augen!
 
-Das ganze Gestein löst sich in Pilanzenzellen auf und diese selbst stehen in organischem Zusammenhang.
+Das ganze Gestein löst sich in Pflanzenzellen auf und diese selbst stehen in organischem Zusammenhang.
 
 Taf. XVIII. Fig. 8. folg. mag als Anhaltspunkt für die Auflösung eines Granits dienen.
 
@@ -842,7 +842,7 @@ _3. Gneisgranit vom St. Gotthardt_.
 
 Ein Pflanzenbild daraus XX. Fig. 1.
 
-_4. Cordieritgneiss von Mittweida_
+_4. Cordieritgneis von Mittweida_
 
 zeigt Taf. 20. Fig. 2. und 3.
 
@@ -852,41 +852,41 @@ Taf. XIX. Fig. 14. 15. 16.
 
 _Granulit (und Granat)_.
 
-Ich habe schon die Vermuthung ausgesprochen, dass auch der Granulit Pflanzen enthalte.
+Ich habe schon die Vermutung ausgesprochen, dass auch der Granulit Pflanzen enthalte.
 
 Das bestätigt sich nun vollständig.
 
-Allerdings sind die grösseren mit blossem Auge nicht sofort erkennbar.
+Allerdings sind die größeren mit bloßem Auge nicht sofort erkennbar.
 
-Allein wie oft, so muss auch hier die kleinere Form den Schlüssel zur Erkenntniss der grossen liefern.
+Allein wie oft, so muss auch hier die kleinere Form den Schlüssel zur Erkenntnis der großen liefern.
 
-Die kleinen mit blossem Auge kaum unterscheidbaren röthlichen Punkte im Granulit werden allgemein für „eingesprengte“ Granaten angesehen.
+Die kleinen mit bloßem Auge kaum unterscheidbaren rötlichen Punkte im Granulit werden allgemein für „eingesprengte“ Granaten angesehen.
 
-Sie sind die Ausfüllung der microscopischen das Gestein horizontal durchwuchernden Pflanze, bezw. ihrer Kelche.
+Sie sind die Ausfüllung der mikroskopischen das Gestein horizontal durchwuchernden Pflanze, bezw. ihrer Kelche.
 
 Taf. XIX. Fig. 14. 15. 16.
 
 Ich zeichne einige solcher Pflanzen und bemerke nur, dass dieselben nach allen Seiten fortsetzen, Kelche haben, vorzugsweise aber in horizontaler Richtung liegen.
 
-Die grossen Crystalle sind Ausfüllmassen der grösseren Pflanzenart. Ich nenne die kleinere Art zu Ehren des Herrn Prof. Oswald Heer
+Die großen Kristalle sind Ausfüllmassen der größeren Pflanzenart. Ich nenne die kleinere Art zu Ehren des Herrn Prof. Oswald Heer
 
 _Granatina Heeri_.
 
 Auch hier muss man sich freilich durch das Prototyp der Urpflanze leiten lassen, dann bleibt kein Zweifel.
 
-Dasselbe Verhältniss findet hinsichtlich des Granats im böhmischen und sächsischen Serpentin statt.
+Dasselbe Verhältnis findet hinsichtlich des Granats im böhmischen und sächsischen Serpentin statt.
 
-Auch hier sind die Granaten Füllmassen der grössten Pflanzenkelche.
+Auch hier sind die Granaten Füllmassen der größten Pflanzenkelche.
 
-Die weissen Granaten von Auerbach sind nichts anders.
+Die weißen Granaten von Auerbach sind nichts anders.
 
 Sie tragen noch deutlich den Steinkern ihrer Kelchvertiefungen an sich.
 
-Im umgebenden Gestein ist eine Menge microscopischer Pflanzen.
+Im umgebenden Gestein ist eine Menge mikroskopischer Pflanzen.
 
 Ich habe vor mir einen Kalkgranat.
 
-Granatoeder von 2 cm., voll von deutlich sichtbaren Pflanzen-Formen. Der Kern rundlich, leicht als Stein-Kern eines Pflanzen-Kelchs zu erkennen. Die Schichten in demselben tragen einzelne Pflanzen (in der hexogonalen Stellung des Dodecaeders).
+Granatoeder von 2 cm., voll von deutlich sichtbaren Pflanzen-Formen. Der Kern rundlich, leicht als Stein-Kern eines Pflanzen-Kelchs zu erkennen. Die Schichten in demselben tragen einzelne Pflanzen (in der hexagonalen Stellung des Dodekaeders).
 
 Als ob die Algen Krystalle zu Früchten gehabt hätten. —
 
@@ -918,7 +918,7 @@ Taf. XX. Fig. 1.
 
 _7. Protogyn_.
 
-Es war seiner Zeit ein grosser Lärm, als man das älteste Gestein der Erde gefunden zu haben glaubte. Man nannte es desshalb Protogyn.
+Es war seiner Zeit ein großer Lärm, als man das älteste Gestein der Erde gefunden zu haben glaubte. Man nannte es deshalb Protogyn.
 
 Ich habe eine Zeichnung vom Protogyn des Montblanc gegeben.
 
@@ -930,7 +930,7 @@ Zelle an Zelle. Brutzellen nach oben und unten.
 
 Die gelbe Färbung ist von Eisen. Daneben sind wasserhelle Zellen, Hornblende. Es sind die feinen Nadeln des Chlorits und Talks, wahrscheinlich auch zersetzte Hornblende.
 
-Die wasserhellen Zellen bestehen aus Quarz: sie nehmen den grössten Theil des Gesteins ein. Sie lassen sich aber leicht in die Form der Urpflanze auflösen.
+Die wasserhellen Zellen bestehen aus Quarz: sie nehmen den größten Theil des Gesteins ein. Sie lassen sich aber leicht in die Form der Urpflanze auflösen.
 
 Ich bilde eine Pflanze, mehrere Endzellen und Brutzellen ab.
 
@@ -948,9 +948,9 @@ Die Gesteinsarten sind
 
 entweder ursprüngliche oder abgeleitete Zersetzungs-Produkte, Schlamm und Laven.
 
-Ursprünglich sind blos 1. die Pflanzenlager, 2. das Gestein aus der Masse des Erdinnern; welches dies ist, ist zweifelhaft.
+Ursprünglich sind bloß 1. die Pflanzenlager, 2. das Gestein aus der Masse des Erdinnern; welches dies ist, ist zweifelhaft.
 
-Die meisten unserer „Urgesteine“ sind Pflanzenlager und daraus abgeleitete Gesteine. Ich habe aber gar keine Gesteine ohne todte Pflanzen wenigstens gefunden, letztere in den Laven und Schlammgesteinen.
+Die meisten unserer „Urgesteine“ sind Pflanzenlager und daraus abgeleitete Gesteine. Ich habe aber gar keine Gesteine ohne tote Pflanzen wenigstens gefunden, letztere in den Laven und Schlammgesteinen.
 
 Die Gesteinsart ist also bedingt durch die Pflanzen, aus welchen das Gestein besteht:
 
@@ -958,7 +958,7 @@ A. Die Urgesteine sind die Pflanzen-Lager: sie lassen sich auf die Pflanzen-Form
 
 B. Es gibt Mittelstufen: Detritus von Pflanzen-Lagern mit eingelagerten lebenden Pflanzen.
 
-C. Es gibt Gesteinsschlamm blos mit eingelagerten todten Pflanzen.
+C. Es gibt Gesteinsschlamm bloß mit eingelagerten toten Pflanzen.
 
 D. Laven.
 
@@ -968,15 +968,15 @@ Diese scheidet die Pflanze.
 
 Die gebildete Pflanze scheidet die übrigen Minerale aus, insbesondere Granat, Leuzit u. s. w.
 
-Die ersten Pflanzenzellen sind Crystall-Formen.
+Die ersten Pflanzenzellen sind Kristall-Formen.
 
 Feldspat zwei- und eingliederig, Quarz sechsgliedrig bildet die Hauptform. Die Hornblende bildet die Kelchzellen.
 
-Doch ist das Verhältniss der Zellen zu ihrem Inhalt noch näher festzustellen.
+Doch ist das Verhältnis der Zellen zu ihrem Inhalt noch näher festzustellen.
 
 ***
 
-Man sehe durch den Polarisations-Apparat und man wird jede Pflanzenzelle im Granit leicht unterscheiden und jedes Individuum leicht herausfinden. Die Streifen für Oligoklas angesehen, sind hozizontale Anwachsungsstreifen der Zelle.
+Man sehe durch den Polarisations-Apparat und man wird jede Pflanzenzelle im Granit leicht unterscheiden und jedes Individuum leicht herausfinden. Die Streifen für Oligoklas angesehen, sind horizontale Anwachsungsstreifen der Zelle.
 
 ***
 
@@ -988,7 +988,7 @@ Der Granit ist das erste Gestein. Von Anfang an ist Hornblende in ihm, welcher s
 
 ***
 
-Der Basalt enthält ganze (ich nenne sie lebende) Pflanzen. Was Zirkel Nephelinbasalt nennt, sind Stammzellen einer Pflanze, welche ich Mycelium Zirkeli nenne. Die „Fluidalstructur“ also Algenzellen.
+Der Basalt enthält ganze (ich nenne sie lebende) Pflanzen. Was Zirkel Nephelinbasalt nennt, sind Stammzellen einer Pflanze, welche ich Mycelium Zirkeli nenne. Die „Fluidalstruktur“ also Algenzellen.
 
 Die Olivine im Basalt sind Pflanzen-Zellen (sei es ursprüngliche, sei es, dass der Olivin-Crystall nachher die Pflanze umschreibt.
 
@@ -1006,19 +1006,19 @@ Man präge sich die Form derselben Tafel XVIII. ein, nehme ein Stück grobkörni
 
 ***
 
-Im Hypersthen ist die ursprünglichste Form der Pflanzenzelle (nach einer rein geometrischen Linie) und so findet man auch die Zelle theilweise im Granit.
+Im Hypersthen ist die ursprünglichste Form der Pflanzenzelle (nach einer rein geometrischen Linie) und so findet man auch die Zelle teilweise im Granit.
 
 ***
 
-Naher Zusammenhang der Crystallform mit der Form der Pflanzenzelle! Ursprünglich dasselbe.
+Naher Zusammenhang der Kristallform mit der Form der Pflanzenzelle! Ursprünglich dasselbe.
 
 ***
 
-Leucit bildet Kelchzell-Ausfüllungen mit Anwachsungs-Streifen. Die Punkte in den kleinen Crystallen sind wohl Sporen. Hieraus erklären sich die Polarisations-Erscheinungen.
+Leucit bildet Kelchzell-Ausfüllungen mit Anwachsungs-Streifen. Die Punkte in den kleinen Kristallen sind wohl Sporen. Hieraus erklären sich die Polarisations-Erscheinungen.
 
 ***
 
-Die Schiefersteine sind theils ursprüngliche, theils abgeleitete. Im ersteren Falle bilden sie sich aus einer Masse von Zellpflanzen, im letzteren Fall sind sie ein Magma mit einer Unzahl todter und weniger lebender Zellen.
+Die Schiefersteine sind teils ursprüngliche, teils abgeleitete. Im ersteren Falle bilden sie sich aus einer Masse von Zellpflanzen, im letzteren Fall sind sie ein Magma mit einer Unzahl toter und weniger lebender Zellen.
 
 ***
 
@@ -1026,7 +1026,7 @@ Der Pechstein ist ein Pflanzengestein und nicht vulkanisch.
 
 ***
 
-In den meisten Gesteinen lassen sich die Pflanzen mit blossem Auge leicht erkennen, wenn man die Grundform weiss.
+In den meisten Gesteinen lassen sich die Pflanzen mit bloßem Auge leicht erkennen, wenn man die Grundform weiß.
 
 ***
 
@@ -1038,7 +1038,7 @@ Unbegreiflich, dass man dies Alles bis jetzt übersah.
 
 Man hatte eben den Schlüssel, das Bild der Urpflanze, nicht.
 
-Ich machte den zweiten Dünnschliff aus dem Laurentian-Gneis und sah erst beim Bedecken mit dem Glas die Pflanze mit blossem Auge.
+Ich machte den zweiten Dünnschliff aus dem Laurentian-Gneis und sah erst beim Bedecken mit dem Glas die Pflanze mit bloßem Auge.
 
 ***
 
@@ -1058,15 +1058,15 @@ Die vorstehenden Thesen sollten nur die ersten Beobachtungen geben. In der Haupt
 
 ***
 
-Insbesondere mögen die Mineralogen auf die Pflanze zurückgehen. Es ist wunderbar, in welch engem Zusammenhang Pflanze und Crystall stehen.
+Insbesondere mögen die Mineralogen auf die Pflanze zurückgehen. Es ist wunderbar, in welch engem Zusammenhang Pflanze und Kristall stehen.
 
 ***
 
-Es gibt sehr viele Pseudo-Krystalle durch blossen Druck, Guss-Formen aus Kelchzellen, welche mathematische Form haben.
+Es gibt sehr viele Pseudo-Krystalle durch bloßen Druck, Guss-Formen aus Kelchzellen, welche mathematische Form haben.
 
 ***
 
-Man hätte schon stutzig darüber werden sollen, dass der Granit keine Crystalle enthält. Die Linien im Dünnschliff des Granits sind Pflanzen-Zell-Membranen.
+Man hätte schon stutzig darüber werden sollen, dass der Granit keine Kristalle enthält. Die Linien im Dünnschliff des Granits sind Pflanzen-Zell-Membranen.
 
 ***
 
@@ -1074,17 +1074,17 @@ Man nehme den Polarisationsapparat. Auch der Blätterbruch wird oft nur die Anwa
 
 Die Tschermak'sche Theorie mag chemisch richtig sein. Wichtiger aber ist die mechanische Erklärungsweise.
 
-Der Orthoclas ist in Anwachsungsschichten abgesetzt, daher die verschiedenen Polarisationsstreifen. Die Zellwände spielen mit. Dies ist im Labrador leicht erkennbar, welcher Pflanzenstämme von Zolldurchmesser enthält. Feinste Zelllagerung, daher die Lichtbrechung. Sehe es eben an einer Pflanze von 1 cm. Durchmesser.
+Der Orthoklas ist in Anwachsungsschichten abgesetzt, daher die verschiedenen Polarisationsstreifen. Die Zellwände spielen mit. Dies ist im Labrador leicht erkennbar, welcher Pflanzenstämme von Zolldurchmesser enthält. Feinste Zelllagerung, daher die Lichtbrechung. Sehe es eben an einer Pflanze von 1 cm. Durchmesser.
 
 ***
 
 Nun haben wir für die Zukunft eine einfache Gesteinslehre. Alles ist Sedimentgesteinslehre.
 
-Im Urgebirge ist die Pflanze, vom Uebergangsgebirge mag das Thier Leitfossil sein.
+Im Urgebirge ist die Pflanze, vom Übergangesgebirge mag das Tier Leitfossil sein.
 
 ***
 
-Ich habe den Vortheil sofort genossen.
+Ich habe den Vorteil sofort genossen.
 
 ***
 
@@ -1094,21 +1094,21 @@ In jedem Gestein finden sich Zellen und Steinkerne von Pflanzen.
 
 ***
 
-Man setzt allen Pechstein zu den Vulkan-Gesteinen: der eine ist ein Lager von lebenden, der andere von todten Pflanzen.
+Man setzt allen Pechstein zu den Vulkan-Gesteinen: der eine ist ein Lager von lebenden, der andere von toten Pflanzen.
 
 ***
 
 Der erste Kalk stellt sich wirklich als Ausscheidungsmasse dar, so der Kalk des Laurentian-Gneises.
 
-Nachher wird er erst Baustoff für Pflanzen-Arten. Vor mir liegt ein Serpentin von Todtmoos mit einem Pflanzen-Kelch von 1 Ctm. Länge im Durchschnitt, so fein gezeichnet, als irgend ein Zeichner es vermag. Wundervoll wie im Basalt der Olivin-Crystall Pflanze, die Pflanze Crystall ist.
+Nachher wird er erst Baustoff für Pflanzen-Arten. Vor mir liegt ein Serpentin von Todtmoos mit einem Pflanzen-Kelch von 1 Ctm. Länge im Durchschnitt, so fein gezeichnet, als irgend ein Zeichner es vermag. Wundervoll wie im Basalt der Olivin-Kristall Pflanze, die Pflanze Kristall ist.
 
-Der Olivin ist Pflanzenzelle, die Feldspäthe, der Nephelin ebenso.
+Der Olivin ist Pflanzenzelle, die Feldspate, der Nephelin ebenso.
 
-Die grossen Crystall-Kelche stechen in die Augen. Die Wurzelzelle, welche dazu gehört, ist ein kleiner Crystall, häufig ist auch die Brutzelle auf dem Kelche ein Crystall. Zuweilen ist die ganze Zelle von dem Crystalle umschrieben. Wie eine mathematische Aufgabe.
+Die großen Kristall-Kelche stechen in die Augen. Die Wurzelzelle, welche dazu gehört, ist ein kleiner Kristall, häufig ist auch die Brutzelle auf dem Kelche ein Kristall. Zuweilen ist die ganze Zelle von dem Kristalle umschrieben. Wie eine mathematische Aufgabe.
 
 ***
 
-Trachyt ist ein Gemisch von lebenden und todten Zellen, ebenso Klingstein.
+Trachyt ist ein Gemisch von lebenden und toten Zellen, ebenso Klingstein.
 
 ***
 
@@ -1122,11 +1122,11 @@ Mechanische Zerreibung, Lösung, Ablagerung — dies sind aber nicht die eigentl
 
 Die Träume von Verwandlung eines Gesteins ins andere lösen sich auf.
 
-Denn wenn des Gesteins-Art und Structur von der Pflanze abhängt, aus deren Körper das Gestein wurde, so kann ein ursprüngliches Gestein nicht — ein anderes werden. Ist so wenig möglich als eine Eiche in eine Palme, und eine Palme in eine Eiche sich verwandelt.
+Denn wenn des Gesteins-Art und Struktur von der Pflanze abhängt, aus deren Körper das Gestein wurde, so kann ein ursprüngliches Gestein nicht — ein anderes werden. Ist so wenig möglich als eine Eiche in eine Palme, und eine Palme in eine Eiche sich verwandelt.
 
 #### VIII. Carrararischer Marmor.
 
-Ich bezog eine weisse Platte mit grauen Flecken zu einem Buffet welches mir als Kasten für meine Steinschliffe dient.
+Ich bezog eine weiße Platte mit grauen Flecken zu einem Buffet welches mir als Kasten für meine Steinschliffe dient.
 
 Ich verschüttete etwas Fuchsin und musste die Platte reinigen.
 
@@ -1142,7 +1142,7 @@ _Marmora Darwini_.
 
 Mein Schreibtisch hat dieselbe Platte, aber nur mit etwas weniger deutlichen Pflanzen.
 
-Ich schrieb also eine ganze Abhandlung über die Urzelle auf der Urzelle, denn der ganze Marmor ist nichts als Pflanze. Wirklich — nicht blos Ironie des Schicksals.
+Ich schrieb also eine ganze Abhandlung über die Urzelle auf der Urzelle, denn der ganze Marmor ist nichts als Pflanze. Wirklich — nicht bloß Ironie des Schicksals.
 
 #### IX. Nachtrag.
 
