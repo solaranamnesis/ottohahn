@@ -1,19 +1,18 @@
 ![Cover Photograph](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg)
 
-# DIE METEORITE (CHONDRITE) UND IHRE ORGANISMEN.
+# Die Meteorite (Chondrite) und ihre Organismen
 
-## DARGESTELLT UND BESCHRIEBEN VON DR. OTTO HAHN.
+## Dargestellt und Beschrieben von Dr. Otto Hahn
 
-### 32 TAFELN MIT 142 ABBILDUNGEN.
+### 32 Tafeln mit 142 Abbildungen
 
-#### LICHTDRUCK VON MARTIN ROMMEL IN STUTTGART.
+#### Lichtdruck von Martin Rommel in Stuttgart
 
-#### TÜBINGEN 1880.
+#### Tübingen 1880
 
-#### VERLAG DER H. LAUPP'SCHEN BUCHHANDLUNG.
+#### Verlag der H. Laupp'schen Buchhandlung
 
-
-# INHALTSÜBERSICHT.
+# Inhaltsübersicht
 
 ## [Einleitung](full-text-german.md#einleitung-1)
 
