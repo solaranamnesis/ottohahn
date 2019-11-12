@@ -1,19 +1,18 @@
 ![Cover Photograph](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg)
 
-# THE METEORITE (CHONDRITE) AND ITS ORGANISMS
+# The Meteorite (Chondrite) and its Organisms
 
-## PRESENTED AND DESCRIBED BY DR. OTTO HAHN
+## Presented and Described by Dr. Otto Hahn
 
-### 32 TABLES WITH 142 PHOTOMICROGRAPHS
+### 32 Tables with 142 Photomicrographs
 
-#### LIGHT PRINT OF MARTIN ROMMEL IN STUTTGART
+#### Light Print of Martin Rommel in Stuttgart
 
-#### TÜBINGEN 1880
+#### Tübingen 1880
 
-#### PUBLISHED BY H. LAUPP'SCHEN BUCHHANDLUNG
+#### Published by H. Laupp'schen Buchhandlung
 
-
-# TABLE OF CONTENTS
+# Table of Contents
 
 ## [Introduction](full-text-english.md#introduction-1)
 
