@@ -52,7 +52,7 @@ The latter remark no doubt refers to the proof furnished by Dr. Hahn's discovery
 
 As was suggested in the paper referred to, "the Richter-Thomson hypothesis of the origin of life on the earth has become a tangible reality!"
 
-## Timeline of Publications
+## Timeline of Publications Pertaining to the Organic Theory of the Chondrites
 
 ### 1875 - [About the Nature of the Stone Meteorite from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
 
