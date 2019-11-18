@@ -632,7 +632,7 @@ However, I must save a thin section investigation until the time when the materi
 
 It is quite certain that small planets, weighing half of the Earth's kilograms, fall and therefore revolve. One can now think of the following options:
 
-1. The meteorites revolve outside the solar system (one such might have been observed by Petit in Toulouse)
+1. The meteorites revolve outside the solar system (one such might have been observed by [Frédéric] Petit in Toulouse)
 
 2. The meteorites revolve within the solar system: by itself around the sun — around the Sun with planets (perhaps even individuals with the Earth) — around the sun, the planets and their satellites
 
