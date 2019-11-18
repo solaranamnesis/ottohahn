@@ -392,7 +392,7 @@ The most incredible is [Table 6: Figure 1](https://cdn.solaranamnesis.com/OttoHa
 
 [Table 5: Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-3_edit-b.jpg): Two individuals show the structure most clearly, as well as the growth points. In [Figure 4](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-4_edit-b.jpg) (which is a bad photo), several individuals lie together in a fan-like manner.
 
-In [Table 3, Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-3_edit-b.jpg) and [Table 4: Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg) [and 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-2_edit-b.jpg), it is believed to be seen the round mouth opening as implied from above. 
+In [Table 3: Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-3_edit-b.jpg) and [Table 4: Figures 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-1_edit-b.jpg) [and 2](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-2_edit-b.jpg), it is believed to be seen the round mouth opening as implied from above. 
 
 After all this, I think _Urania_ is a sessile sponge that contracts in a spiral form, absorbing and expelling water like our living sponges.
 
