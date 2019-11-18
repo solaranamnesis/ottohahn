@@ -370,7 +370,7 @@ All this evidence is of course unknown to the botanist and zoologist, while ever
 
 ###### 1. _Urania_
 
-Round, lobed bodies with an obvious place of growth. Table 2 gives a larger image of an _Urania_ (compared with [Table 5: Fig. 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-1_edit-b.jpg), the same picture). One sees here: the acute general form, the outermost lobed edge (white, on the left), the folds, which developed while contracting, the place of growth. Even more clearly is the latter as a chalice, [Table 4: Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-3_edit-b.jpg).
+Rounded, lobed bodies with an obvious place of growth. Table 2 gives a larger image of an _Urania_ (compared with [Table 5: Fig. 1](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_5-1_edit-b.jpg), the same picture). One sees here: the acute general form, the outermost lobed edge (white, on the left), the folds, which developed while contracting, the place of growth. Even more clearly is the latter as a chalice, [Table 4: Figure 3](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_4-3_edit-b.jpg).
 
 Consolidated spiral-form _Urania_ [Table 3: Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-5_edit-b2.jpg) [and 6](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_3-6_edit-b2.jpg).
 
