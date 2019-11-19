@@ -610,7 +610,7 @@ Once the iron is assumed to be the nucleus of planets, I believe it then becomes
 
 ## The Iron of Ovifak
 
-Through the kindness of Professor Dr. von Nordenskjöld, I was given six pieces of the iron of Ovifak and basalt, in which the same was found, for examination.
+Through the kindness of Professor Dr. von Nordenskjöld, I was given six pieces of the iron of Ovifak and a basalt, in which the same was found, for examination.
 
 [Friedrich] Wöhler (_New Yearbook for Mineralogy_ 1869, p. 32) does not consider it to be meteoritic because of its chemical composition. The occurrence of an item in a cleft in one of my pieces does not speak for a meteoritic origin either. Iron parts with Widmannstätten's figures are also found in the basalt and olivine, and yet both are not addressed as meteoritic. Finally, there are transitions from stone to iron, indicating that the iron did not fall into the basalt by chance. It would be a great miracle if this iron had fallen into it just at the time when the basalt was liquid, quite apart from the fact that this iron would hardly be preserved for more than a few years. And yet this iron is said to be meteoritic because of its structure.
 
