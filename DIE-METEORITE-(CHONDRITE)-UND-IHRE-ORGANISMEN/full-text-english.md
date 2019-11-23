@@ -4,7 +4,7 @@
 
 ## Presented and Described by Dr. Otto Hahn
 
-### 32 Tables with 142 Photomicrographs
+### 32 Tables with 142 Photographs
 
 #### Light Print of Martin Rommel in Stuttgart
 
