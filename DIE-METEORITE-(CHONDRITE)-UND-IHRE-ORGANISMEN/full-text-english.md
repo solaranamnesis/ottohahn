@@ -116,7 +116,7 @@ In such beginnings mistakes are inevitable, so it is only a small demand in aski
 
 Δός μοι χέντρον.
 
-Last year when I wrote-down in my diary certain new observations about the composition of the rocks of our Earth and finally also of the meteorites the importance of the latter to geology was not fully clear to me.
+Last year, when I wrote-down in my diary certain new observations about the composition of the rocks of our Earth, and also of the meteorites, the importance of the latter to geology was not fully clear to me.
 
 It was only when I was forced by the attacks of opponents to take the investigation again into my own hands that I clearly realized the importance that a careful study of the meteorites could be to the history of our Earth. Lastly, I came to the conclusion that in the present state of geology the meteorites — and only the meteorites — give the point from which the history of the Earth could at last be explored with near certainty.
 
