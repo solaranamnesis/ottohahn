@@ -18,7 +18,7 @@
 
 ### [Section 1](full-text-english.md#section-1-1)
 
-#### [Previous Views on the Meteorites](full-text-english.md#previous-views-on-the-meteorites)
+#### [Previous Views on the Meteorites](full-text-english.md##previous-views-on-the-meteorites-1)
 
 #### [History and Overview](full-text-english.md#history-and-overview-1)
 
