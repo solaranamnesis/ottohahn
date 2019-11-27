@@ -18,7 +18,7 @@
 
 ### [Section 1](full-text-english.md#section-1-1)
 
-#### [Previous Views on Meteorites](full-text-english.md#previous-views-on-the-meteorite)
+#### [Previous Views on the Meteorites](full-text-english.md#previous-views-on-the-meteorite)
 
 #### [History and Overview](full-text-english.md#history-and-overview-1)
 
@@ -110,7 +110,7 @@ In such beginnings mistakes are inevitable, so it is only a small demand in aski
 
 ## Section 1
 
-### Previous Views On the Meteorite
+### Previous Views on the Meteorites
 
 ### History and Overview
 
