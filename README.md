@@ -7,7 +7,7 @@
 Attempt at a translation of Dr. Otto Hahn's 1880 book: "Die Meteorite (Chondrite) und ihre Organismen", from the original German to English, I welcome all pull requests of submitted translations and/or edits.
 
 [English - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-english.md)  
-[English - PDF](https://cdn.solaranamnesis.com/OttoHahn/THE-METEORITE-AND-ITS-ORGANISMS-OTTO-HAHN.pdf)(For latest translation view plain text)  
+[English - PDF](https://cdn.solaranamnesis.com/OttoHahn/THE-METEORITE-AND-ITS-ORGANISMS-OTTO-HAHN.pdf) (For latest translation view plain text)  
 [German - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-german.md)  
 [German - PDF](https://cdn.solaranamnesis.com/OttoHahn/DIE-METEORITE-CHONDRITE-UND-IHRE-ORGANISMEN-OTTO-HAHN.pdf)  
 
