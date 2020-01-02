@@ -216,7 +216,7 @@ Gümbel goes on to say that the material constituting the chondrites was formed 
 
 What I value so highly in Gümbel's report is the scrupulous prejudice-free, let's say impartial, observations. I have allowed myself to quote the work of Gümbel literally because it is indeed difficult for me to summarize such representations and to separate fact from interpretation.
 
-Proper observations and incorrect explanations are so closely intertwined that it is impossible to do both. I thought while I read Gümbel's paper (after completing my own investigations and manuscript) that I was coming to step on my conclusions at every moment. But, just as the surge of the surf seizes and throws back the man who wants to reach the shore while at each time he thinks he has made it, so also here: the old dogma always pulls the honored researcher from the saving cliff into the sea and into the bottomless whirlpool of traditions.
+Proper observations and incorrect explanations are so closely intertwined that it is impossible to do both. I thought while I read Gümbel's paper (after completing my own investigations and manuscript) that I was coming to step on my conclusions at every moment. But, just as the surge of the surf seizes and throws back the man who wants to reach the shore, while with each attempt he thinks he has made it, so also here: the old dogma always pulls the honored researcher from the saving cliff into the sea and into the bottomless whirlpool of traditions.
 
 Daubrée's commendable work _Experimental Geology_ was obtained only in translation and after completion of my work. No one will find that it refutes my conclusions. Daubrée himself depicted Knyahinya: pressed, melted, dissolved, calculated, only not — seen.
 
