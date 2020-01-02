@@ -152,7 +152,7 @@ If the surface of the planet, or of the planets, consists of layers of olivine f
 
 I imagine that the planetary materials (including water, which is usually overlooked) during the first mass formation were not, as [Immanuel] Kant and [Pierre-Simon] Laplace say, a glowing haze, but rather a vapor and mass as cold as space. Here, however, one has overlooked a great logical error in the above mentioned theory.
 
-That the attraction of mass should form mass! That the effect should simultaneously be the cause! The mass is to be formed by mass attraction, that is, by the fact that it was already there! It is to be regretted that this error of thought has not been discovered earlier. A mass, when it is present, can increase through attraction, but not by it: it is as if someone should be his own father!
+That the attraction of mass should form mass! That the effect should simultaneously be the cause! The mass is to be formed by mass attraction, that is, by the fact that it was already there! It is to be regretted that this error of thought has not been discovered earlier. A mass, when it is present, can increase through attraction, but not from it: it is as if someone should be his own father!
 
 So another force had to have formed the mass; but this could only be either the crystallization force or the organic formative force.
 
