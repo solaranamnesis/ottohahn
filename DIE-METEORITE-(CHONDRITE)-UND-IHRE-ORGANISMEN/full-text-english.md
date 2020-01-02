@@ -96,7 +96,7 @@ Thus, we have gained two solid points by which a lever can be set.
 
 The chondrites, an olivine feldspar (enstatite) rock, consist of an animal world; they are not part of a sedimentary rock layer nor a conglomerate, but a felt of animals, a fabric whose meshes were all once living beings and life of the lowest kind, the beginnings of creation.
 
-However, I could not make a systematic enumeration of the life which is preserved in the meteorites: I just wanted to prove that it is so — that is all. I therefore only depicted the organic beings that I was able to assure myself as determining undoubtedly; on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both to future investigation.
+However, I could not make a systematic enumeration of the life which is preserved in the meteorites: I just wanted to prove that it is so — that is all. I therefore only depicted the organic beings that I was able to assure myself as determining undoubtedly: on the one hand the genera which coincide with terrestrial forms and, on the other, separating out the specifically meteoritic forms, while leaving both to future investigation.
 
 It is to be expected that my enumeration will be, through further research and with the help of richer material than I have available, multiplied and supplemented. Subdivisions had to be avoided: since every newly discovered being would overturn any divisions and make the effort arduous with any work in vain.
 
