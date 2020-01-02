@@ -314,7 +314,7 @@ If these requirements are valid, it remains only to decide whether plant or anim
 
 I believe, before I go to the positive proof, that the negative proof ought to lead.
 
-The proof you see, that I claim for the existence of organic beings is twofold: a negative one, by showing that the meteoritic forms do not belong to the mineral kingdom, and a positive one, by showing the similarity of the meteoritic forms with those of Earth, whether living or extinct. The first thing to prove, therefore, is the following sentence: 
+You see, the proof that I claim for the existence of organic beings is twofold: a negative one, by showing that the meteoritic forms do not belong to the mineral kingdom, and a positive one, by showing the similarity of the meteoritic forms with those of Earth, whether living or extinct. The first thing to prove, therefore, is the following sentence: 
 
 The inclusions in the meteorites are not mineral formations.
 
