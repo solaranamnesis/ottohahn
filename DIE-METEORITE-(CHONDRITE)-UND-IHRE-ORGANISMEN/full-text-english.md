@@ -90,7 +90,7 @@ The chondrites that I have studied are olivine enstatite rock. They have undergo
 
 Only the surface of the meteorites has changed considerably, indeed, only at the last moment of their planetesimal existence and mostly due to the influence of frictional heating created, in this case, by the Earth's atmosphere. But the original meteorite itself essentially remains. We now see that before us is a piece of a planet as it was in the process of becoming, and thus the history of our Earth's body is now open to us, provided that we are correct that the meteorites, in their formation, are homogeneous in their chemical composition with the world matter that formed the Earth and vice versa. At the same time, by sending me the "Meteorite of Ovifak" (I owe it to the kindness of Professor Dr. von Nordenskjöld) I was offered the opportunity of bringing this rock into the investigation.
 
-I consider it to be terrestrial — as part of the deepest layer our Earth, i.e. the olivine layer, which belongs under the granite. I call this original layer the Olivine Formation. Since the rock is very similar to a meteorite, it is natural to declare it to be the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
+I consider it to be terrestrial — as part of the deepest layer of Earth, i.e. the olivine layer, which belongs under the granite. I call this original layer the Olivine Formation. Since the rock is very similar to a meteorite, it is natural to declare it to be the same. The reasons why I do not consider it to be meteoritic but true to the Earth's core are laid down in this book.
 
 Thus, we have gained two solid points by which a lever can be set.
 
