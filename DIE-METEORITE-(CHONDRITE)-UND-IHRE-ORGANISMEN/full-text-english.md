@@ -76,7 +76,7 @@ It was not the inconsequential attacks on _The Primordial Cell_ that gave me sta
 
 If, in the first part of _The Primordial Cell_ I had tolerated the doctrine and with resignation accepted that the core of our Earth, and with it the knowledge pertaining to its real genesis, will always remain hidden from us, then, at the end of this book there is yet a possibility: the meteorite indicates a passage from far away, although not yet actively pursued by researchers.
 
-With this as our guide, I would like to move forward.
+With this as a guide, I would like to continue.
 
 I did it, accompanied on the one hand by sharply pronounced ridicule from the specialists, and on the other with joy from my earlier results and the now daily support and counsel from the few friends whom I have succeeded in convincing.
 
