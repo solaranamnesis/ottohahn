@@ -350,9 +350,9 @@ I believe that the sight of my forms will make further discussion about the dive
 
 It has been previously held that such crystallization will turn into the enstatite-bronzite-olivine spheres. Gümbel pointed out that all spheres have eccentric centers!
 
-Here the idea on the basic difference between the meteoritic forms and the crystallites is made quite clear.
+Here the idea about the basic difference between meteoritic forms and crystallites is made quite clear.
 
-The crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, it is ground away, which Gümbel overlooked) — a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that crystals unite with a crystal of equal mass, which then create the concentric forms.
+Crystallites always grow around one point (concentric). The forms in the meteorites are all elliptical and pear-shaped: if the outer form is also spherical, the alleged inclusions are eccentrically arranged and the center lies on the periphery (even beyond it, namely, it is ground away, which Gümbel overlooked) — a phenomenon that never occurs in the mineral kingdom. It is precisely the condition of crystallites, i.e. sphere formation, that crystals unite with a crystal of equal mass, which then create the concentric forms.
 
 Therefore, if the spheres in the meteorites were crystallites, then, at least according to the laws of Earth, concentric formations should show.
 
