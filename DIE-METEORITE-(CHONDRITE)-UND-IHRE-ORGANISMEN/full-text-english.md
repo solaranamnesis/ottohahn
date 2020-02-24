@@ -1023,7 +1023,7 @@ Combination of mineral structures with organic ones from the chondrites.
 [Figure 2.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-2_edit-b.jpg) Borkut sphere D. 1.00 mm.  
 [Figure 3.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-3_edit-b.jpg) Nummulite from Kempten. The channel is clearly visible (with the magnifying glass).  
 [Figure 4.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-4_edit-b.jpg) Thin section from Lias γδ. This thin section is taken from the assembled collection of 30 thin sections of sedimentary rocks, manufactured by geologist Hildebrand in Ohmenhausen near Reutlingen, which I strongly recommend for studying the microscopic nature of sedimentary rocks and inclusions.  
-[Figure 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-5_edit-b.jpg) _Eozoön canadense_, so-called channel system of _Eozoon_.  
+[Figure 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-5_edit-b.jpg) _Eozoön canadense_, so-called channel system of _Eozoön_.  
 [Figure 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-6_edit-b.jpg) ditto. Both cuts taken from rocks collected by me in Little Nation. Compare the channel system of the numulites in Figure 3 with this alleged channel system! Picture 3 and 5 should be the same object.  
 
 Compare to Figure 5 from _Primordial Cell_ Table 4 and 5.
