@@ -72,9 +72,9 @@
 
 ## Introduction
 
-It was not the inconsequential attacks on _The Primordial Cell_ that gave me stamina to establish certain new geological facts, but rather it was the untenability of all previous views regarding that undisputedly most important part of the geological sciences, the part through which it relates to the cosmos — that is, in the doctrine of the so-called plutonic rocks.
+It was not the inconsequential attacks on _Primordial Cell_ that gave me stamina to establish certain new geological facts, but rather it was the untenability of all previous views regarding that undisputedly most important part of the geological sciences, the part through which it relates to the cosmos — that is, in the doctrine of the so-called plutonic rocks.
 
-If, in the first part of _The Primordial Cell_ I had tolerated the doctrine and with resignation accepted that the core of our Earth, and with it the knowledge pertaining to its real genesis, will always remain hidden from us, then, at the end of this book there is yet a possibility: the meteorite indicates a passage from far away, although not yet actively pursued by researchers.
+If, in the first part of _Primordial Cell_ I had tolerated the doctrine and with resignation accepted that the core of our Earth, and with it the knowledge pertaining to its real genesis, will always remain hidden from us, then, at the end of this book there is yet a possibility: the meteorite indicates a passage from far away, although not yet actively pursued by researchers.
 
 With this as a guide, I would like to continue.
 
@@ -120,21 +120,21 @@ Last year, when I wrote-down in my diary certain new observations about the comp
 
 It was only when I was forced by the attacks of opponents to take the investigation again into my own hands that I clearly realized the importance that a careful study of the meteorites could be to the history of our Earth. Lastly, I came to the conclusion that in the present state of geology the meteorites — and only the meteorites — give the point from which the history of Earth could at last be explored with near certainty.
 
-If in _The Primordial Cell_ I thought that I had reached the limit of research with granite, I soon learned better. I contemplated that by virtue of its specific gravity, the Earth's core must also consist of at least solid iron, especially considering the very probable order of the meteorites, which go from the pure iron to the feldspar rocks of Earth. I further believed that a conclusion for Earth based upon the meteorites could be ventured, the conclusion that in the other planets and in those, or the one, whose debris we have in the hundreds of thousands of orbiting meteorites before us we have a sequence of stratification from heavy to light, a stratigraphy which we probably pass through in the series from the pure-irons through the half-irons (Pallasite, Hainwood) to the chondrites and the eucrites, then to the coal meteorites (Cold Bokkeveld).
+If in _Primordial Cell_ I thought that I had reached the limit of research with granite, I soon learned better. I contemplated that by virtue of its specific gravity, the Earth's core must also consist of at least solid iron, especially considering the very probable order of the meteorites, which go from the pure iron to the feldspar rocks of Earth. I further believed that a conclusion for Earth based upon the meteorites could be ventured, the conclusion that in the other planets and in those, or the one, whose debris we have in the hundreds of thousands of orbiting meteorites before us we have a sequence of stratification from heavy to light, a stratigraphy which we probably pass through in the series from the pure-irons through the half-irons (Pallasite, Hainwood) to the chondrites and the eucrites, then to the coal meteorites (Cold Bokkeveld).
 
 Once this likelihood had been understood, it was obvious that the meteorites should be subjected to a thorough examination of their morphological characteristics. This was also highly necessary because so far almost nothing has happened in this direction: one can convince oneself of this by comparing my photomicrographs with the roughly twenty meager illustrations, which taken together form the material of the science today. The academic writings of Berlin, Vienna, and Munich have only a few panels each, the drawings are small, and it immediately shows, are taken from the least suitable meteorites for this direction of investigation and, moreover, probably not from the best part, the interior.
 
 So if, I thought, my earlier assertion that the Knyahinya Meteorite consisted entirely of life was not confirmed by my new investigations, then science would still have been served if I were to show the true nature of this meteorite. Fortunately, however, I was spared this retreat: on the contrary, the results of my new research were far beyond expectations — a new world emerged.
 
-But, of course — science is skeptical — it rightly demands more stringent evidence than I offered in _The Primordial Cell_; a book written more at the stage of, I would say, intuition. Today I present the evidence.
+But, of course — science is skeptical — it rightly demands more stringent evidence than I offered in _Primordial Cell_; a book written more at the stage of, I would say, intuition. Today I present the evidence.
 
 As one examines the tables of this work, it immediately becomes clear that these are not mineral forms, but organic ones; that we have before us the images of life, images of life of the lowest order, a creation which in greater part finds some of its closest relatives here on Earth — regarding the corals and crinoids, this is determined with absolute certainty; however, the sponges have only some similarity with those forms of the terrestrial genera.
 
-Thus, the genesis is determined in terms of the parts. However, in my study of twenty chondrites (and 360 thin sections of them) the assertion made in _The Primordial Cell_ was confirmed — that the rock of the chondrites is not a type of sedimentary rock as on Earth, in which fossils are embedded, that it is not a conglomerate formation; but rather, its whole mass is entirely formed of organic beings, like our coral rocks. So not a plant, as I had assumed earlier, but plant-animals! The whole stone is life: — I think science will forgive me the first mistake.
+Thus, the genesis is determined in terms of the parts. However, in my study of twenty chondrites (and 360 thin sections of them) the assertion made in _Primordial Cell_ was confirmed — that the rock of the chondrites is not a type of sedimentary rock as on Earth, in which fossils are embedded, that it is not a conglomerate formation; but rather, its whole mass is entirely formed of organic beings, like our coral rocks. So not a plant, as I had assumed earlier, but plant-animals! The whole stone is life: — I think science will forgive me the first mistake.
 
 Needless to say, the iron meteorites were now subject to additional testing. Here it rests as only a first observation.
 
-However, time and circumstances, especially the lack of available materials, prevented me from concluding the investigation prior to this publication. But if I repeat today the first assertion, that meteoritic iron is nothing but a mat of plants, then I may now regard myself as more legitimate than at the time when I wrote _The Primordial Cell_ and asserted the prior statement. I have to add that I also found life-forms in the irons. The researchers who avoid the forms of the chondrites that I depict may overlook the fact that the so-called Widmanstätten's figures are, for the most part, plant cells and not crystals.
+However, time and circumstances, especially the lack of available materials, prevented me from concluding the investigation prior to this publication. But if I repeat today the first assertion, that meteoritic iron is nothing but a mat of plants, then I may now regard myself as more legitimate than at the time when I wrote _Primordial Cell_ and asserted the prior statement. I have to add that I also found life-forms in the irons. The researchers who avoid the forms of the chondrites that I depict may overlook the fact that the so-called Widmanstätten's figures are, for the most part, plant cells and not crystals.
 
 The investigations up till now, in the whole field, with the exception of [Karl Wilhelm von] Gümbel's work in the Munich Academy, are of little use, both regarding the accuracy of their observations and even more their interpretations based upon those observations, i.e. on unproven hypotheses and weak assumptions — not suitable for scientific findings as such. And due to this the field was still wide open to me, although my only regret is that I cannot make a draft in time regarding the irons.
 
@@ -178,7 +178,7 @@ This planet carries water life, so life has arisen in water and lives by water; 
 
 The life of the chondrite is almost entirely a microscopic one, it ranges from 0.20 to a maximum of 3 mm in diameter; often it takes a magnification of 1000 to clearly see the delicate structures, while at such magnification our terrestrial fossils dissolve into a shapeless surface.
 
-Thus, through the observations first laid down in _The Primordial Cell_, the path was wide open for me to cover the distances that science must cross.
+Thus, through the observations first laid down in _Primordial Cell_, the path was wide open for me to cover the distances that science must cross.
 
 But it really doesn't take a titanium effort to destroy an old building. It has already been much worn, only ignored: it requires only one striking proof and the work will have been done. Traditions, based on insufficient observations, dissolve into what they are, allowing science to once again proceed freely on its course.
 
@@ -548,7 +548,7 @@ Even here an adequate observation of a single is not enough for a complete concl
 
 ## The Iron Meteorites
 
-As I have already indicated in _The Primordial Cell_, the structure of the iron meteorites is nothing other than a single mat of unicellular plants. The so-called Widmanstätten figures are, for the most part nothing other than these unicellular plants.
+As I have already indicated in _Primordial Cell_, the structure of the iron meteorites is nothing other than a single mat of unicellular plants. The so-called Widmanstätten figures are, for the most part nothing other than these unicellular plants.
 
 A piece of the Toluca iron meteorite lies in front of me in which the cylindrical cells alternately emerge from each other, the two are often copulated. The individual cells show a double cell wall (iron band), show cross partitioning, show clear round root points; in some there is a marrow substance (which it is really called), indeed, in the inside of the cell there is yet more structure. All of the cells lie in a mat of filler (iron-filler).
 
@@ -670,7 +670,7 @@ Going off the results so far, some conclusions could also be drawn regarding the
 
 On the Earth, olivine is followed by granite, a feldspar rock: this order also corresponds with the specific gravity of the mineral.
 
-The specific gravity of hornblende is 3-3.40, olivine 3.35, enstatite 3.10-3.29, orthoclase 2.53-3.10, and quartz 2-2.80. The high specific gravity of hornblende seems to stem from its iron content. This sequence of specific gravity, just as in their stratification, strongly suggests mineral formation in water, i.e. in an aqueous solution. Here I must repeat what I have already said in _The Primordial Cell_: that creation, i.e. organic formation, could not have started with crabs (Trilobites). We find a constant series of forms everywhere in the later strata, so why should this law not continue all the way down to the very beginning?
+The specific gravity of hornblende is 3-3.40, olivine 3.35, enstatite 3.10-3.29, orthoclase 2.53-3.10, and quartz 2-2.80. The high specific gravity of hornblende seems to stem from its iron content. This sequence of specific gravity, just as in their stratification, strongly suggests mineral formation in water, i.e. in an aqueous solution. Here I must repeat what I have already said in _Primordial Cell_: that creation, i.e. organic formation, could not have started with crabs (Trilobites). We find a constant series of forms everywhere in the later strata, so why should this law not continue all the way down to the very beginning?
 
 This alone should lead one to the assumption that the immediate precursors to the Silurian, gneiss, and granite have an organic origin.
 
@@ -742,13 +742,13 @@ I avoided giving names not for fear of falling into the hands of critics, but be
 
 For a long time, I was faced with the choice of whether I should really take the path of photographic representation. However, I arrived at the decision in question more so out of thoughtfulness for the outsider.
 
-There was a lot of talk regarding imagination in the criticism of _The Primordial Cell_. I realize that the illustrations were not exact, that might be, but they are correct. For example, see the photographic depiction of the objects in _The Primordial Cell_ on [Table 32: Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-5_edit-b.jpg) compared to Table 4 and 5 in _The Primordial Cell_.
+There was a lot of talk regarding imagination in the criticism of _Primordial Cell_. I realize that the illustrations were not exact, that might be, but they are correct. For example, see the photographic depiction of the objects in _Primordial Cell_ on [Table 32: Figure 5](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-5_edit-b.jpg) compared to Table 4 and 5 in _Primordial Cell_.
 
 I would like to ask Dr. Kuntze in Leipzig whether he teaches of such synthetic algae — if so, I would be very grateful for the provisioning of such a preparation to convince me of an error.* As far as I know, the dendrites and "synthetic algae", which were thus held against me without any examination or knowledge, are merely stripes not structures and secretions. In accordance with its formation it is usually a uniformly distributed continuously stained bulk, which lies between two stone slabs, i.e. as a perfect surface and so resembles plant shadows.
 
-I admit that "synthetic algae" can be made from algae, as some researchers have said. But I must also point out that all structures that are thread or band-like have been explained as algae without much thought. To know that you have an alga in front of you, something more is needed. Things have been explained as plants that certainly do not show half as much form or structure as my pictures in _The Primordial Cell_. Not all thread or sheaf shapes in rocks or other masses would I explain, using only these features, as algae.
+I admit that "synthetic algae" can be made from algae, as some researchers have said. But I must also point out that all structures that are thread or band-like have been explained as algae without much thought. To know that you have an alga in front of you, something more is needed. Things have been explained as plants that certainly do not show half as much form or structure as my pictures in _Primordial Cell_. Not all thread or sheaf shapes in rocks or other masses would I explain, using only these features, as algae.
 
-My illustrations in _The Primordial Cell_ clearly show cell walls and cells; if these things were artificial algae or dendrites, they would not have any transverse walls.
+My illustrations in _Primordial Cell_ clearly show cell walls and cells; if these things were artificial algae or dendrites, they would not have any transverse walls.
 
 With this I return to my subject.
 
@@ -1026,4 +1026,4 @@ Combination of mineral structures with organic ones from the chondrites.
 [Figure 5.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-5_edit-b.jpg) _Eozoön canadense_, so-called channel system of _Eozoon_.  
 [Figure 6.](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_32-6_edit-b.jpg) ditto. Both cuts taken from rocks collected by me in Little Nation. Compare the channel system of the numulites in Figure 3 with this alleged channel system! Picture 3 and 5 should be the same object.  
 
-Compare to Figure 5 from _The Primordial Cell_ Table 4 and 5.
+Compare to Figure 5 from _Primordial Cell_ Table 4 and 5.
