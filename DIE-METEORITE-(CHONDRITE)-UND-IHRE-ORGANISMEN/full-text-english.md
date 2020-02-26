@@ -254,7 +254,7 @@ Pultusk, Warschau — January 30, 1868
 Olvinio — August 31, 1872  
 Simbirsk
 
-All rocks are thoroughly certified. Above all, I have the kindness of my revered teacher, Professor Dr. [Friedrich August] von Quenstedts, who thanked me with the excellent Tübingen University Collection (which, as is well known, originates for the most part from [Karl Ludwig] Baron von Reichenbach in Vienna).
+All rocks are thoroughly certified. Above all, I have the kindness of my revered teacher, Professor Dr. [Friedrich August] von Quenstedt, who thanked me with the excellent Tübingen University Collection (which, as is well known, originates for the most part from [Karl Ludwig] Baron von Reichenbach in Vienna).
 
 ### 3.
 
