@@ -224,7 +224,7 @@ Was ich in dem Berichte Gümbels so hoch schätze, ist die gewissenhafte vorurte
 
 Richtige Beobachtungen und unrichtige Erklärungen stehen so nahe beisammen, dass es unmöglich ist beides zu sondern. Ich glaubte, als ich die Gümbel'sche Abhandlung (nach dem Abschluss meiner Untersuchungen und meines Manuskripts) durchlas, in jedem Augenblick auf meine Resultate zu treten. Aber wie die Woge der Brandung den, welcher das Land gewinnen will, jedes mal dann wieder ergreift und zurückwirft, wenn er schon das Land gefasst zu haben glaubt, so auch hier: allemal reißt das alte Dogma den geehrten Forscher von der rettenden Klippe hinweg in den bodenlosen Strudel der Traditionen zurück.
 
-Daubrée's verdienstvolles Werk „Experimentalgeologie“ erhielt ich erst in der Übersetzung zur Hand und ebenfalls nach Abschluss meiner Arbeit. Dass es diese widerlegte, wird wohl Niemand finden. Daubrée hat selbst Knyahinya abgebildet. M. hat gepresst, geschmolzen, aufgelöst, berechnet, nur nicht — gesehen.
+Daubrée's verdienstvolles Werk _Experimentalgeologie_ erhielt ich erst in der Übersetzung zur Hand und ebenfalls nach Abschluss meiner Arbeit. Dass es diese widerlegte, wird wohl Niemand finden. Daubrée hat selbst Knyahinya abgebildet. M. hat gepresst, geschmolzen, aufgelöst, berechnet, nur nicht — gesehen.
 
 ## DIE METEORITE UND IHRE MINERALOGISCHEN EIGENSCHAFTEN.
 
@@ -234,7 +234,7 @@ Die Literatur der Meteorite ist eine sehr umfangreiche. Sie ist jedoch, was die 
 
 ### 2.
 
-Die Meteorite werden eingeteilt in Eisen und Steine, zwischen beiden steht jedoch noch eine Klasse: Halbeisen, d. h. eine Verbindung von gediegenem Eisen und Stein — die Pallasite. Während die Eisen eine ziemliche Übereinstimmung, sowohl in ihrer chemischen Zusammensetzung, als in der Form ihrer Struktur zeigen, sind die Pallasite (je nach dem Vorwiegend des Eisens) sehr verschieden. Aber es finden sich noch weitere Verschiedenheiten darunter. Hainholz z. B. hat neben Eisen und Olivin ein blaues Mineral (Enstatit) und in diesem einen großen Reichtum von Tierformen. — Die Steine werden eingeteilt in Chondrite, Stannerite [eukriten], Luotolaxer [howarditen], Bokkefelder [karbonatisch], Bishopvillit [aubriten], (Quenstedt, Klar und Wahr S. 280 folg.)
+Die Meteorite werden eingeteilt in Eisen und Steine, zwischen beiden steht jedoch noch eine Klasse: Halbeisen, d. h. eine Verbindung von gediegenem Eisen und Stein — die Pallasite. Während die Eisen eine ziemliche Übereinstimmung, sowohl in ihrer chemischen Zusammensetzung, als in der Form ihrer Struktur zeigen, sind die Pallasite (je nach dem Vorwiegend des Eisens) sehr verschieden. Aber es finden sich noch weitere Verschiedenheiten darunter. Hainholz z. B. hat neben Eisen und Olivin ein blaues Mineral (Enstatit) und in diesem einen großen Reichtum von Tierformen. — Die Steine werden eingeteilt in Chondrite, Stannerite [eukriten], Luotolaxer [howarditen], Bokkefelder [karbonatisch], Bishopvillit [aubriten], (Quenstedt, _Klar und Wahr_ S. 280 folg.)
 
 Ich habe mich vorzugsweise mit den Chondriten beschäftigt und, wo ich von Meteoriten rede, rede ich von dieser allerdings auch am zahlreichsten vertretenen Klasse von Stein-Meteoriten.
 
@@ -260,7 +260,7 @@ Ich habe untersucht:
 1872 31 Aug. Olvinio.  
 Simbirsk.
 
-Alle Gesteine sind durchaus beglaubigt. Ich habe hier vor Allem der Liberalität meines verehrten Lehrers, Herrn Professor Dr. [Friedrich August] von Quenstedts, mit welcher er mir die vorzügliche Tübinger Universitäts-Sammlung (welche bekanntlich zum größten Teil vom Freiherrn [Karl Ludwig] von Reichenbach in Wien stammt) dankend zu gedenken.
+Alle Gesteine sind durchaus beglaubigt. Ich habe hier vor Allem der Liberalität meines verehrten Lehrers, Herrn Professor Dr. [Friedrich August] von Quenstedt, mit welcher er mir die vorzügliche Tübinger Universitäts-Sammlung (welche bekanntlich zum größten Teil vom Freiherrn [Karl Ludwig] von Reichenbach in Wien stammt) dankend zu gedenken.
 
 ### 3.
 
@@ -278,7 +278,7 @@ Nur in seltenen Fällen ist in völlig durchsichtigen, also ganz dünnen Schliff
 
 ### 4.
 
-Dass die Chondrite zum größten Teile aus Bronzit-Enstatit (Augit) und Olivin sowie Magnetkies bestehen, ist eine in der Wissenschaft angenommen Tatsache. Quenstedt, Handbuch der Mineralogie S. 722.
+Dass die Chondrite zum größten Teile aus Bronzit-Enstatit (Augit) und Olivin sowie Magnetkies bestehen, ist eine in der Wissenschaft angenommen Tatsache. Quenstedt, _Handbuch der Mineralogie_ S. 722.
 
 Insbesondere aber sind die Einschlüsse, welche ich für Korallen erkläre, für Enstatit angesprochen worden. Damit glaubte man die Struktur derselben erklären zu können. Andere gingen noch weiter und erklärten die Einschlüsse zum Teil für Gläser: (Tschermak).
 
@@ -302,7 +302,7 @@ Die Behauptung, es seien Gläser, wurde der Mitteilung meiner ersten Dünnschlif
 
 Unsere Forscher, mit Ausnahme Gümbels, sprechen von den Meteoriten als vulkanischen Bomben, erklären das Gestein als identisch mit dem Vulkangesteine der Erde, zählen also den Meteorstein ohne Bedenken zu den vulkanischen. Der Gegenbeweis ist der Gegenstand dieses Buchs.
 
-Richtig allein hat Quenstedt die Frage für eine offene erklärt und gesagt: es sei dem Mikroskop vorbehalten, das Rätsel der Zusammensetzung der Meteorite zu lösen! Handbuch der Mineralogie S. 722.
+Richtig allein hat Quenstedt die Frage für eine offene erklärt und gesagt: es sei dem Mikroskop vorbehalten, das Rätsel der Zusammensetzung der Meteorite zu lösen! _Handbuch der Mineralogie_ S. 722.
 
 ## 2. ABSCHNITT.
 
