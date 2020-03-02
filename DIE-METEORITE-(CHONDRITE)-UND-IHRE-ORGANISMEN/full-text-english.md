@@ -72,7 +72,7 @@
 
 ## Introduction
 
-It was not the inconsequential attacks on _Primordial Cell_ that gave me stamina to establish certain new geological facts, but rather it was the untenability of all previous views regarding that undisputedly most important part of the geological sciences, the part through which it relates to the cosmos — that is, in the doctrine of the so-called plutonic rocks.
+It was not the inconsequential attacks on my _Primordial Cell_ that gave me stamina to establish certain new geological facts, but rather it was the untenability of all previous views regarding that undisputedly most important part of the geological sciences, the part through which it relates to the cosmos — that is, in the doctrine of the so-called plutonic rocks.
 
 If, in the first part of _Primordial Cell_ I had tolerated the doctrine and with resignation accepted that the core of our Earth, and with it the knowledge pertaining to its real genesis, will always remain hidden from us, then, at the end of this book there is yet a possibility: the meteorite indicates a passage from far away, although not yet actively pursued by researchers.
 
