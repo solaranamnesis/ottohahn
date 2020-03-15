@@ -1966,32 +1966,32 @@ Man sieht, wie schwer es ist, von angewöhnten hergebrachten Vorstellungen sich 
 
 [Tafel 15](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-15.png).
 
-Tafel 16.
+[Tafel 16](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-16.png).
 
-Tafel 17.
+[Tafel 17](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-17.png).
 
-Tafel 18.
+[Tafel 18](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-18.png).
 
-Tafel 19.
+[Tafel 19](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-19.png).
 
-Tafel 20.
+[Tafel 20](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-20.png).
 
-Tafel 21.
+[Tafel 21](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-21.png).
 
-Tafel 22.
+[Tafel 22](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-22.png).
 
-Tafel 23.
+[Tafel 23](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-23.png).
 
-Tafel 24.
+[Tafel 24](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-24.png).
 
-Tafel 25.
+[Tafel 25](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-25.png).
 
-Tafel 26.
+[Tafel 26](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-26.png).
 
-Tafel 27.
+[Tafel 27](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-27.png).
 
-Tafel 28.
+[Tafel 28](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-28.png).
 
-Tafel 29.
+[Tafel 29](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-29.png).
 
-Tafel 30.
+[Tafel 30](https://cdn.solaranamnesis.com/OttoHahn/figures/urzelle/Tab-30.png).
