@@ -30,7 +30,7 @@ Allerdings werden die Botaniker nicht ungestraft in ihre Wissenschaft mich haben
 
 Mögen sie die Hauptsache ins Auge fassen.
 
-Was die Bedeutung meiner Entdeckungen betrifft, so wird mir billig Niemand zumuten, sie nicht zu kennen und zu verstehen. Die bisherige Wissenschaft der Geologie ist mit Einem Schlage zum dritten Theile antiquiert. Ja ich darf es aussprechen, es ist nun erst ein Grund darin gelegt.
+Was die Bedeutung meiner Entdeckungen betrifft, so wird mir billig Niemand zumuten, sie nicht zu kennen und zu verstehen. Die bisherige Wissenschaft der Geologie ist mit Einem Schlage zum dritten Teile antiquiert. Ja ich darf es aussprechen, es ist nun erst ein Grund darin gelegt.
 
 Durch meine Entdeckung der Pflanze im Meteorstein von Knyahinya war mir ein Blick in die Sphären des Himmels gestattet. Was dem stolzen Fernrohr nicht, das war dem stillen, bescheidenen Mikroskop vergönnt.
 
@@ -462,7 +462,7 @@ Mir ist es wahrscheinlich, dass hier die Zelle von Kalk überlagert und so genö
 
 Eigentliche Wurzeln fand ich, jedoch nicht sicher, nur in einem Dünnschliffe.
 
-Nun setzt sich an diese Zelle, meist seitlich an ihrem Rand, oder an einem beliebigen Theile ihrer Oberfläche, eine Brut-Zelle (Knospe) in Form eines Blattes oder eines Bechers an. Es teilen sich die Zellen: so entsteht ein Stamm.
+Nun setzt sich an diese Zelle, meist seitlich an ihrem Rand, oder an einem beliebigen Teile ihrer Oberfläche, eine Brut-Zelle (Knospe) in Form eines Blattes oder eines Bechers an. Es teilen sich die Zellen: so entsteht ein Stamm.
 
 Die Befruchtungsorgane scheinen erst nach einem größeren Wachstum sich zu bilden. Tafel V. und IX.
 
@@ -480,9 +480,9 @@ Diese Form findet sich tausendmal im Serpentin wie im Gneis, auch im Dolomit sel
 
 Ebenso häufig finden sich ganze Brutzellen in Serpentin verwandelt.
 
-Die einfache Behandlung mit Salzsäure liefert diese Zelle in großer Menge. Ja ich habe sogar Kieselskelette erhalten, wo der übrige Theil der Pflanze wahrscheinlich in Kalk verwandelt war.
+Die einfache Behandlung mit Salzsäure liefert diese Zelle in großer Menge. Ja ich habe sogar Kieselskelette erhalten, wo der übrige Teil der Pflanze wahrscheinlich in Kalk verwandelt war.
 
-Wenn man so die Form der Urpflanze gewonnen hat, so nehme man einen beliebigen Dünnschliff des „_Eozoon_“ und man wird die Linien derselben in jedem Theile finden. Die einen Exemplare freilich sind bloß Abschnitte, andere Halbschnitte; am besten erkennt man deshalb die Pflanze an den seitlichen Einschlüssen.
+Wenn man so die Form der Urpflanze gewonnen hat, so nehme man einen beliebigen Dünnschliff des „_Eozoon_“ und man wird die Linien derselben in jedem Teile finden. Die einen Exemplare freilich sind bloß Abschnitte, andere Halbschnitte; am besten erkennt man deshalb die Pflanze an den seitlichen Einschlüssen.
 
 Überall zeigt die in Kiesel (wahrscheinlich Glimmer) erhaltene Zellmembrane die Form der Pflanze.
 
@@ -514,7 +514,7 @@ Der Serpentin ist allerdings in einem flüssigen Zustand gewesen, hat sogar ganz
 
 Da sind, allerdings selten, Mineralteile, welche polarisieren und daher in der Regel auf das erhaltene ursprüngliche Gestein zu deuten waren. 
 
-Dass ich den Serpentin erst im zweiten Stadium der Verwitterung begriffen ansah, der Irrtum rührt daher, dass ich die Zellwände als Gesteinsteile ansah und dass ich zuviel Werth auf die Theile des Gesteins legte, wo diese noch wirkliche polarisierende Mineraleinschlüsse enthalten.
+Dass ich den Serpentin erst im zweiten Stadium der Verwitterung begriffen ansah, der Irrtum rührt daher, dass ich die Zellwände als Gesteinsteile ansah und dass ich zuviel Werth auf die Teile des Gesteins legte, wo diese noch wirkliche polarisierende Mineraleinschlüsse enthalten.
 
 Diese Einschlüsse könnten allerdings auch Dolomit sein, welcher sich im Serpentin ausschied und so die Polarisationserscheinung bewirkte.
 
@@ -562,7 +562,7 @@ Ich besitze es in 1 vollständigen Exemplar (in Kanadabalsam) und in Bruchstück
 
 Vergebens sah ich mich nach einem Nachbild unter den lebenden, wie unter den ausgestorbenen um. Es gleicht einigermaßen Serpula oder Vermetus.
 
-Ich nenne es _Titanus Bismarki_ Taf. XII. unserm Reichskanzler zu Ehren.
+Ich nenne es _Titanus bismarki_ Taf. XII. unserm Reichskanzler zu Ehren.
 
 Ein Wurm mit einem Kieselpanzer: denn derselbe hat der Salzsäure widerstanden.
 
@@ -578,7 +578,7 @@ In dem Panzer steckt ein Leib, welcher ebenfalls der Säure widerstanden hat.
 
 Der Panzer ist egelartig geformt, nicht rund, sondern im Durchschnitt flach-linsenförmig, wie der Durchschnitt eines Blutegels. Er nimmt von oben nach unten an Dicke ab. Das dickere Ende ist herzförmig, die scharfe Spitze nach oben gekehrt.
 
-Es bildet eine Art Wohnkammer: der betreffende Theil des Panzers ist deutlich glasig.
+Es bildet eine Art Wohnkammer: der betreffende Teil des Panzers ist deutlich glasig.
 
 Mundöffnung 0,12 mm. breit,
 
@@ -626,11 +626,11 @@ Als ich die Arbeit bis hierher vollendet hatte, fiel mein Blick auf einen Briefb
 
 Bei genauer Untersuchung fand ich die schönsten Linien und Formen von solcher Reinheit und Vollendung, als sie der Paläontologe nur wünschen kann.
 
-Sofort nahm ich alle meine Serpentine, sowohl Dünnschliffe als Handstücke vor. Wie erstaunte ich aber, als ich in dem größten Theil derselben Pflanzen-Formen von 1-2 cm. fand!
+Sofort nahm ich alle meine Serpentine, sowohl Dünnschliffe als Handstücke vor. Wie erstaunte ich aber, als ich in dem größten Teil derselben Pflanzen-Formen von 1-2 cm. fand!
 
 Ich fand daneben eine solche Masse kleinerer Formen, dass ich die Ansicht ausspreche:
 
-ein großer Theil der Serpentine, insbesondere der böhmischen und sächsischen, ist nichts als ein großes Algen-Lager, ähnlich den fossilen Diatomeen-Lagern.
+ein großer Teil der Serpentine, insbesondere der böhmischen und sächsischen, ist nichts als ein großes Algen-Lager, ähnlich den fossilen Diatomeen-Lagern.
 
 Es lagert die verkieselte Pflanze in der ursprünglich flüssigen Serpentinmasse.
 
@@ -640,7 +640,7 @@ Tafel XIV. 4. ist eine Form von 1 1/2 cm., welche ich so bestimmt gesehen, als e
 
 Ich nenne sie meinem verehrten Freunde K. Hofrath Dr. F. v. Hochstetter in Wien zu Ehren und wegen ihrer knospenartigen Form
 
-_Opthalmia Hochstetteri_.
+_Opthalmia hochstetteri_.
 
 Wir haben also ungeheure Schichten eines bis dahin für azoisch gehaltenen Gesteins als reines organisches Lager.
 
@@ -932,7 +932,7 @@ Zelle an Zelle. Brutzellen nach oben und unten.
 
 Die gelbe Färbung ist von Eisen. Daneben sind wasserhelle Zellen, Hornblende. Es sind die feinen Nadeln des Chlorits und Talks, wahrscheinlich auch zersetzte Hornblende.
 
-Die wasserhellen Zellen bestehen aus Quarz: sie nehmen den größten Theil des Gesteins ein. Sie lassen sich aber leicht in die Form der Urpflanze auflösen.
+Die wasserhellen Zellen bestehen aus Quarz: sie nehmen den größten Teil des Gesteins ein. Sie lassen sich aber leicht in die Form der Urpflanze auflösen.
 
 Ich bilde eine Pflanze, mehrere Endzellen und Brutzellen ab.
 
@@ -1258,7 +1258,7 @@ Beweis für die Entwicklung neuer Arten bei veränderter Lebensbedingung!
 
 In der That finde ich in dem chemischen Vorgang den Schlüssel zum morphologischen.
 
-Jeder Niederschlag ist eine Aenderung der Mischung: das Zurückbleibende ist immer ein Theil, wie das Ausgeschiedene. Mit dem Laurentiankalk war der Anfang zur Entkalkung der Erdoberfläche gemacht und damit zugleich der Auflösung der Kieselerde durch das Wasser ein mechanischer Abschluss gegeben. Die alten Pflanzen, welche durch ihre Bezüge, wie ihre Ausscheidungen die Oberfläche der Erde geändert hatten, welche zuletzt in mechanischen Decken auf ihrem Lebenselemente lagern, finden ihr Gedeihen nicht mehr wie früher. Nur einzelne Individuen überdauern die Katastrophe, entwickeln sich im Laurentian (Labrador und Hornblende), zulezt in der Kohlenperiode zu Riesen, um dann einer jüngeren Generation zu weichen.
+Jeder Niederschlag ist eine Aenderung der Mischung: das Zurückbleibende ist immer ein Teil, wie das Ausgeschiedene. Mit dem Laurentiankalk war der Anfang zur Entkalkung der Erdoberfläche gemacht und damit zugleich der Auflösung der Kieselerde durch das Wasser ein mechanischer Abschluss gegeben. Die alten Pflanzen, welche durch ihre Bezüge, wie ihre Ausscheidungen die Oberfläche der Erde geändert hatten, welche zuletzt in mechanischen Decken auf ihrem Lebenselemente lagern, finden ihr Gedeihen nicht mehr wie früher. Nur einzelne Individuen überdauern die Katastrophe, entwickeln sich im Laurentian (Labrador und Hornblende), zulezt in der Kohlenperiode zu Riesen, um dann einer jüngeren Generation zu weichen.
 
 Im Silur finden sich noch die alten Arten von Algen. Ich glaubte mein Werk nicht besser schliessen zu können, als mit Abbildungen einer Anzahl Pflanzen aus dem Silur. Allerdings nicht derer, welche man dort gewöhnlich aufgeführt findet. Die bekannten Algen aus dem Silur sind ganz andere, als die Urpflanze, welche ich nachwies; hätte man sie im Silur erkannt, so hätte sie auch im Granit und Gneis nicht übersehen werden können.
 
@@ -1514,7 +1514,7 @@ Ein kreisrundes gewölbtes Blatt.
 
 Von dem Stammzelle-Ansatz gehen 12 Samenzellen aus, welche am Rande des Blattes mit einer runden Oeffnung endigen.
 
-Am oberen linken Theile steht eine neue Zelle an.
+Am oberen linken Teile steht eine neue Zelle an.
 
 Der Stamm wächst aus einem runden Kelche und endigt dann mit einer Wurzelzelle. An demselben Stamm sind mehrere junge Zellen ausgewachsen.
 
@@ -1564,11 +1564,11 @@ Die Erhaltung ist ausgezeichnet.
 
 Ich nenne sie
 
-_Heliola Caroli_
+_Heliola caroli_
 
 unserem König zur Ehre.
 
-2. Ein weiterer Schliff (Fundort unbekannt) Taf. XXVI. Fig. 9. natürliche Grösse. Fig. 1. u. 3. Theile 1/90.
+2. Ein weiterer Schliff (Fundort unbekannt) Taf. XXVI. Fig. 9. natürliche Grösse. Fig. 1. u. 3. Teile 1/90.
 
 3. Meteorstein von Pultusk
 
@@ -1584,7 +1584,7 @@ Vergleiche Taf. XXVIII. Fig. 1. Basalt.
 
 Diese Pflanze nenne ich dem mit Unrecht vergessenen schwedischen Naturforscher Imanuel von Swedenborg zu Ehren:
 
-_Sphaerothallium Swedenborgi_.
+_Sphaerothallium swedenborgi_.
 
 7. Ensisheim. Taf. XXVII. 4. 1/2.
 
@@ -1612,7 +1612,7 @@ Es stimmt das specifische Gewicht der Erde mit dem Gestein, oder vielmehr Metall
 
 Die Pflanzen gleichen wenigstens den tellurischen: insbesondere der „acervulinen Form“ des Eozoon.
 
-Ob diese Meteoreisen und Steine nicht Theile der Erde sind, welche in frühester Zeit losgelöst und ihren eigenen Weg eine Zeit lang genommen, später aber sich wieder mit der Erde vereinigt haben?
+Ob diese Meteoreisen und Steine nicht Teile der Erde sind, welche in frühester Zeit losgelöst und ihren eigenen Weg eine Zeit lang genommen, später aber sich wieder mit der Erde vereinigt haben?
 
 Wie aber können Pflanzen Eisen werden?
 
@@ -1620,13 +1620,13 @@ Können sie Eisen, Olivin sein?
 
 Die Erhaltung der Formen, wie sie im Leben sind, eine solche Erhaltung der Organe ist wirklich wunderbar, und könnte zu letzterer Meinung führen.
 
-Im Hornblende-Gestein von Montreal sind Theile der Pflanze metallisches Eisen.
+Im Hornblende-Gestein von Montreal sind Teile der Pflanze metallisches Eisen.
 
 ***
 
 Ich nenne die Pflanze des Meteoreisens von Toluca
 
-_Astrosideron Quenstedti_
+_Astrosideron quenstedti_
 
 zu Ehren meines Lehrers, die des Pallasits zu Ehren des Kaisers von Russland:
 
@@ -1708,9 +1708,9 @@ Ich muss solche Fragen offen lassen.
 
 ***
 
-Es schnüren sich aber auch weitere Zellen innerhalb der Zelle ab. Es erfolgt eine Theilung in zwei Reihen und sofort.
+Es schnüren sich aber auch weitere Zellen innerhalb der Zelle ab. Es erfolgt eine Teilung in zwei Reihen und sofort.
 
-Die Theilungszelle ist ebenso gut Kelch als Stammzelle.
+Die Teilungszelle ist ebenso gut Kelch als Stammzelle.
 
 ***
 
@@ -1826,7 +1826,7 @@ Kelchausfüllung: schliesst Brutzellen ein.
 
 Ich glaube, man kann drei Zeitalter der Erde annehmen, das Alter des Siliciums (der Kieselerde), das des Aluminiums (des Thons), das des Calciums (des Kalks).
 
-Solange der grösste Theil des Lebens unter Wasser war, mussten natürlich die Lebensvorgänge auch andere sein, als heute, wo die meisten Pflanzen-Arten wenigstens Luftpflanzen sind, und aus einer Erde sich nähren, welche in keiner Weise ebenso gedacht werden kann, wie die Erdoberfläche vor der ersten Pflanzenentwicklung.
+Solange der grösste Teil des Lebens unter Wasser war, mussten natürlich die Lebensvorgänge auch andere sein, als heute, wo die meisten Pflanzen-Arten wenigstens Luftpflanzen sind, und aus einer Erde sich nähren, welche in keiner Weise ebenso gedacht werden kann, wie die Erdoberfläche vor der ersten Pflanzenentwicklung.
 
 ***
 
@@ -1880,7 +1880,7 @@ Hat man aber die Form dieser Urpflanze einmal festgestellt, so wird es ein Leich
 
 Ich möchte die Forscher dort hauptsächlich auf die besser erhaltenen Brutzellen und darauf aufmerksam machen, dass die Zellscheidewände stets durch schwarze Punkte, nämlich zurückgebliebene Kohlen, manchmal sogar durch Kohlensäure-Einschlüsse angedeutet sind. Nimmt man den Polarisationsapparat zu Hilfe, so wird jede Zelle, welche so abgegränzt ist, auch verschieden polarisiren, weil die Lage des Gesteins in jeder Zelle eine verschiedene ist.
 
-Freilich das gebe ich zu, dass ein Theil des Pflanzen-Gesteins in Folge späterer Vorgänge auch unkenntlich wird. Ein zersetzter Granit kann nie als Untersuchungs-Material verwendet werden.
+Freilich das gebe ich zu, dass ein Teil des Pflanzen-Gesteins in Folge späterer Vorgänge auch unkenntlich wird. Ein zersetzter Granit kann nie als Untersuchungs-Material verwendet werden.
 
 ***
 
