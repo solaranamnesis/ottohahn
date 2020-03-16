@@ -1446,7 +1446,7 @@ Meine Entdeckungen nötigen nun zu einer besseren Erforschung und Erklärung der
 
 Ein Wunsch, den ich daran anknüpfen möchte, ist der: nicht ohne Erforschung, ohne ganz gründliche Versuche Hypothesen auf Hypothesen zu häufen. Ich gestehe, ich schlich mich jedesmal aus der Gesellschaft fort, wenn die Rede auf die Vorgänge in der Granitzeit kam und von diesen natürlich fürchterlichen Revolutionen mit einer Sicherheit gesprochen ward wie von einem Theaterstück, das man von der 1. Gallerie aus mit ansah. Es gibt in der Tat nichts wohlfeileres als solch wichtige Besprechungen, aber auch keinen endloseren Streit als diesen.
 
-Ueberhaupt möchte ich dringend rathen, den Weg der Beobachtung, des Versuchs noch lange nicht zu verlassen.
+Überhaupt möchte ich dringend rathen, den Weg der Beobachtung, des Versuchs noch lange nicht zu verlassen.
 
 Seit der Aufstellung der Darwin'schen Sätze, welche aber durch tausend Beobachtungen, also Tatsachen, begründet waren, glaubt Jeder Sätze aufstellen zu dürfen — ohne Beobachtung. Damit ist die Wissenschaft selbst und zwar nicht unverschuldet in starken Misscredit gekommen, sie hörte eben auf, die exacte zu sein und fiel damit in einen Fehler, welchen sie an einer andern Wissenschaft rügte.
 
@@ -1636,7 +1636,7 @@ _Alexandrea_.
 
 Gibt es nicht Protisten von Mineral und Pflanzen, wie von Pflanze und Tier?
 
-Es ist die Uebereinstimmung der siderischen und tellurischen Pflanzen zu untersuchen.
+Es ist die Übereinstimmung der siderischen und tellurischen Pflanzen zu untersuchen.
 
 ***
 
@@ -1872,7 +1872,7 @@ Der Umstand, dass unkundige Leute alle grünen durchsichtigen talkerde- und kies
 
 ***
 
-Man hat den Pflanzen überhaupt noch sehr wenig Aufmerksamkeit geschenkt. Noch in den 50 ger Jahren sprach man kaum von Pflanzen (Algen) in dem obern Uebergangsgebirge. Erst im Kohlengebirge waren sie wirklich anerkannt.
+Man hat den Pflanzen überhaupt noch sehr wenig Aufmerksamkeit geschenkt. Noch in den 50 ger Jahren sprach man kaum von Pflanzen (Algen) in dem obern Übergangsgebirge. Erst im Kohlengebirge waren sie wirklich anerkannt.
 
 Wer sich mit dem Gegenstand, welchen ich vorgelegt habe, beschäftigen. will, muss zuerst das Silur genauer ansehen und sich hier davon überzeugen, dass die Form, welche ich schon im Laurentian nachgewiesen habe, im Silur millionenfach vorkommt. Der Riesenform im Marmor von Carrara habe ich schon erwähnt. Man muss mit Einem Wort sich mit dem Gegenstand erst vertraut machen. Oldhamia antiqua ist schon ein gutes Object für die Studien.
 
@@ -1896,7 +1896,7 @@ Man vergleiche Nägeli und Schwendener, das Microscop (1877) S. 488.
 
 Nun glaube ich aber eben mit der Serpentinpflanze nachgewiesen zu haben, dass sogar an die Stelle der Urpflanze, mag sie bestanden haben, aus was sie will, ein Bittererde-Silicat treten kann. Dass aber Pflanzen aus der Granitzeit anders organisirt waren, als die der Jetztzeit, versteht sich von selbst und waren sie anders, so waren natürlich auch ihre Ausscheidungen anders als heute.
 
-Uebrigens scheiden viele Pflanzen heute noch vorzugsweise Kieselerde in den Fruchtschalen, Samenhülsen aus.
+Übrigens scheiden viele Pflanzen heute noch vorzugsweise Kieselerde in den Fruchtschalen, Samenhülsen aus.
 
 Was die „Ausscheidungen“ betrifft, so erinnere ich an die verschiedensten Minerale in den Ammonitenkammern, welche dort und nur dort vorkommen. Sind sie von den Ammoniten ausgeschieden? Gewiss nicht. Es ist also das Wort „Ausscheidung“ cum grano salis zu verstehen. Das Mineral liegt da: Welches der Zusammenhang mit der Pflanze ist, ist noch nicht — aber dass ein Zusammenhang besteht, ist festgestellt. Keinenfalls kann die Tatsache, dass Granat an der Stelle von Pflanzenkelchen vorkommt, als Gegenbeweis dagegen dienen, dass kein Pflanzenkelch da ist. Ist die Pflanze einmal festgestellt, so sehe die Wissenschaft eben, wie sie die Tatsache erklären kann.
 
