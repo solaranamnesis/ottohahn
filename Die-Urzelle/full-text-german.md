@@ -242,7 +242,7 @@ Man sieht hieraus, wie oberflächlich, einseitig überhaupt die bisherigen Unter
 
 Ein größeres Rätsel freilich als das „_Eozoon_“ ist wohl schwerlich der Naturforschung aufgegeben worden.
 
-Als ich die erste Ankündigung des Eophyllum dem „Ausland“ übergab, dachte ich noch nicht daran, dass die großen Serpentinbänder auch Pflanzen seien. Ich hatte diese Arbeit zur Hälfte nach dem ersten Plan fertig, als ich endlich ein schlechtes Gesteinsexemplar in die Hand bekam, bei welchem sich aber gerade deshalb die Serpentinteile eigentümlich deutlich abhoben.
+Als ich die erste Ankündigung des Eophyllum dem _Ausland_ übergab, dachte ich noch nicht daran, dass die großen Serpentinbänder auch Pflanzen seien. Ich hatte diese Arbeit zur Hälfte nach dem ersten Plan fertig, als ich endlich ein schlechtes Gesteinsexemplar in die Hand bekam, bei welchem sich aber gerade deshalb die Serpentinteile eigentümlich deutlich abhoben.
 
 Ich sah und sah und mit einem Male war mir klar, dass die „Sarcode-Kammer“ nichts als Pflanzenzellen seien. So geht es den Mikroskopikern.
 
