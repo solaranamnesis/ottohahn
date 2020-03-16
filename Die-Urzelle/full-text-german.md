@@ -22,7 +22,7 @@ Dies traf vorzugsweise beim Urgebirge zu — kehrte aber auch beim Flöz- und am
 
 Einen solchen glaube ich jetzt geliefert zu haben.
 
-Die „Entstehung“ der ganzen heutigen Erdoberfläche mit Ausnahme der heute noch sich bildenden vulkanischen Gebirge und auch bei diesen hat das Wasser — zum mindesten einen mechanischen, ich glaube aber auch chemischen Antheil, — ich sage die „Entstehung des Urgebirgs“ ohne alle Feuerwirkung ist durch die vorgelegten Tatsachen erwiesen, und zwar so voll als überhaupt etwas zu beweisen denkbar ist. Möglich ist es freilich, auch diesen Beweis eine Weile anzuzweifeln. Allein ich bin sicher, der Widerspruch wird bald verstummen, denn wo man etwas millionenfach sehen kann, da kann ein Zweifel nicht mehr bestehen. Ein gewöhnliches Mikroskop, eine gute Lupe genügt vollständig, sich zu überzeugen.
+Die „Entstehung“ der ganzen heutigen Erdoberfläche mit Ausnahme der heute noch sich bildenden vulkanischen Gebirge und auch bei diesen hat das Wasser — zum mindesten einen mechanischen, ich glaube aber auch chemischen Anteil, — ich sage die „Entstehung des Urgebirgs“ ohne alle Feuerwirkung ist durch die vorgelegten Tatsachen erwiesen, und zwar so voll als überhaupt etwas zu beweisen denkbar ist. Möglich ist es freilich, auch diesen Beweis eine Weile anzuzweifeln. Allein ich bin sicher, der Widerspruch wird bald verstummen, denn wo man etwas millionenfach sehen kann, da kann ein Zweifel nicht mehr bestehen. Ein gewöhnliches Mikroskop, eine gute Lupe genügt vollständig, sich zu überzeugen.
 
 So kann ich denn meine Arbeit ruhig in die Welt senden. Ihr Erfolg, die Anerkennung der Tatsachen und ihrer Deutung, macht mir keine Sorge.
 
@@ -130,7 +130,7 @@ In diesen Serpentin-Kalkschichten, aber auch auf Gneis oder Dolomit aufgelagert,
 
 Es sind Serpentinlamellen, welche von einem Mittelpunkt ausgehend sich dann verjüngend nach der Seite verbreiten.
 
-Die beste Abbildung, die ich kenne, ist in Dawson's Life's Dawn on Earth, London 1875 zu S. 168 in Naturselbstdruck und daher unfehlbar treu.
+Die beste Abbildung, die ich kenne, ist in Dawson's _Life's Dawn on Earth_, London 1875 zu S. 168 in Naturselbstdruck und daher unfehlbar treu.
 
 Unbegreiflich ist, dass man beim Anblick dieser Form nicht sofort an eine Pflanze dachte.
 
@@ -212,7 +212,7 @@ Dass die „Schale“ größtenteils fehlt, kann ich aus meiner Anschauung versi
 
 Dass die Tubuli überall Chrysotil sind, bedarf keiner weiteren Ausführung mehr.
 
-So bleiben von dem „Thier“ bloß die Kammern übrig.
+So bleiben von dem „Tier“ bloß die Kammern übrig.
 
 Diese aber sind wie aller Serpentin. Allerdings die reihenförmige Lage der Körner wäre auffallend. Das Merkmal der Kammer nun wäre die einzige Beweis-Tatsache: sie ist für sich allein nach dem Zugeständnis der Gegner selbst nicht hinreichend, um eine Foraminifere festzustellen.
 
@@ -226,7 +226,7 @@ Sobald die Form des Eophyllum einmal als Pflanze feststand, so wurde es wahrsche
 
 Der Beweis wurde ergänzt mit Durchschnitten größerer Stücke, wo eine Anzahl Pflanzen alle und immer in Einem Ausgangspunkt zusammenlaufen.
 
-Man sehe doch einmal den Naturselbstdruck des _Eozoon_ in Dawson's „Life's Dawn on Earth“! Man denke sich das Bild nach der anderen Seite ergänzt. Freilich in 4 eckig willkürlich herausgesägten kleinen Stücken war die Pflanzenform nicht leicht zu erkennen. Man nehme nun ferner ein 1/2 Meter großes Stück Lagergestein und man sieht dort von etwa 3 zu 3 Cmetern auf dem Serpentin die Formen der „Kanalsysteme“, hier im Großen von Serpentin nachgebildet: man wird ferner die Wurzelansätze an der Gränze der Serpentin- und Dolomit-Schichte finden. Endlich sind nicht nur die Zellhäute erhalten, sondern die Prothallien dem Hundert nach im Kalk und im Serpentin!
+Man sehe doch einmal den Naturselbstdruck des _Eozoon_ in Dawson's _Life's Dawn on Earth_! Man denke sich das Bild nach der anderen Seite ergänzt. Freilich in 4 eckig willkürlich herausgesägten kleinen Stücken war die Pflanzenform nicht leicht zu erkennen. Man nehme nun ferner ein 1/2 Meter großes Stück Lagergestein und man sieht dort von etwa 3 zu 3 Cmetern auf dem Serpentin die Formen der „Kanalsysteme“, hier im Großen von Serpentin nachgebildet: man wird ferner die Wurzelansätze an der Gränze der Serpentin- und Dolomit-Schichte finden. Endlich sind nicht nur die Zellhäute erhalten, sondern die Prothallien dem Hundert nach im Kalk und im Serpentin!
 
 Wenn man das Gestein genau untersucht, so findet man die Formen schon mit bloßem Auge.
 
@@ -448,7 +448,7 @@ Möglich also, dass an der Stelle Fig. 2. diese Kelch-Zelle abgebrochen ist.
 
 Fig. 5. zeigt den Fadenansatz einer ähnlichen Art.
 
-##### 9. Ueberblick.
+##### 9. Überblick.
 
 Der allgemeine Charakter dieser Pflanzenformen des Laurentian-Kalks ist (ich wage den Ausdruck) ein höchst roher, einfacher, anfänglicher. Aber etwas haben sie, was sie den Pflanzen der Jetztzeit mindestens gleichstellt: sie sind vermöge ihrer Anlage einer ungemessenen Vermehrung fähig.
 
@@ -514,7 +514,7 @@ Der Serpentin ist allerdings in einem flüssigen Zustand gewesen, hat sogar ganz
 
 Da sind, allerdings selten, Mineralteile, welche polarisieren und daher in der Regel auf das erhaltene ursprüngliche Gestein zu deuten waren. 
 
-Dass ich den Serpentin erst im zweiten Stadium der Verwitterung begriffen ansah, der Irrtum rührt daher, dass ich die Zellwände als Gesteinsteile ansah und dass ich zuviel Werth auf die Teile des Gesteins legte, wo diese noch wirkliche polarisierende Mineraleinschlüsse enthalten.
+Dass ich den Serpentin erst im zweiten Stadium der Verwitterung begriffen ansah, der Irrtum rührt daher, dass ich die Zellwände als Gesteinsteile ansah und dass ich zuviel Wert auf die Teile des Gesteins legte, wo diese noch wirkliche polarisierende Mineraleinschlüsse enthalten.
 
 Diese Einschlüsse könnten allerdings auch Dolomit sein, welcher sich im Serpentin ausschied und so die Polarisationserscheinung bewirkte.
 
@@ -550,11 +550,11 @@ Ich konnte mir nicht versagen, diese Schlussbemerkungen zu machen. Ich glaube in
 
 Auf diesem Wege möchte ich nicht bloß die Naturwissenschaft, sondern auch die Wissenschaft des Menschen, die höchste welche es geben kann, durch meine Arbeit um einen Schritt weiter geführt sehen.
 
-#### II. Das erste Thier.
+#### II. Das erste Tier.
 
 Ich hatte meine Arbeit schon geschlossen, als ich in dem (mit Salzsäure aufgelöstem) Eophyllumkalk noch
 
-_das erste Thier_
+_das erste Tier_
 
 finden sollte, welches wir kennen.
 
@@ -598,11 +598,11 @@ Ein gebrochenes Stück Taf. XIII. 2 zeigt eine deutliche Röhre.
 
 Das andere Ende des Körpers (der Schwanz) ist zweilappig, wie eine Klappe. Taf. XII. Fig. 1. Taf. XIII. Fig. 5. ist ein abgebrochenes Stück, welches vollständig mit Taf. XII. Fig. 1. stimmt.
 
-Dass die Form eine organische ist, lässt sich wohl in keiner Weise bezweifeln. Dass es ein Thier und keine Pflanze ist, dafür spricht die Bewegung, welche aus den verschiedenen Stellungen des Geschöpfs geschlossen werden kann.
+Dass die Form eine organische ist, lässt sich wohl in keiner Weise bezweifeln. Dass es ein Tier und keine Pflanze ist, dafür spricht die Bewegung, welche aus den verschiedenen Stellungen des Geschöpfs geschlossen werden kann.
 
 Die Form ist _Serpula_ ähnlich.
 
-Freilich suchte man bis jetzt wohl schwerlich ein Tier, das den Anneliden gleicht, in der untersten Schichte, Tieren, welche ihre Stellung im Tierreich fast schon über dem ersten Viertheil desselben einnehmen.
+Freilich suchte man bis jetzt wohl schwerlich ein Tier, das den Anneliden gleicht, in der untersten Schichte, Tieren, welche ihre Stellung im Tierreich fast schon über dem ersten Vierteil desselben einnehmen.
 
 Es wäre aber auch möglich, dass wir hier nur die äußere Gestalt eines höheren Tieres vor uns haben, denn die innere Organisation lässt sich nicht mehr feststellen.
 
@@ -768,7 +768,7 @@ Meine Arbeit galt dem _Eozoon_. Daraus wurde das Eophyllum. Sie galt dem Eophyll
 
 Aufs äußerste ermüdet, war ich froh, endlich Feder und Zeichenstift niederlegen zu können; da drängt es mich wieder in die Forschung hinein: ich kann noch nicht ruhen.
 
-Ich bemerke hier, dass die Entdeckung des Serpentins — da ich dieses schreibe — erst 2 Tage alt, und das was ich heute schreibe, die Arbeit von 12 Stunden ist. Gestern hatte ich das Manuskript für den Druck schon geschlossen, als der Gedanke sich aufs Neue meldete und mich festhielt. Der Gedanke war es, welchen ich oben ausgesprochen.
+Ich bemerke hier, dass die Entdeckung des Serpentins — da ich dieses schreibe — erst 2 Tage alt, und das was ich heute schreibe, die Arbeit von 12 Stunden ist. Gestern hatte ich das Manuskript für den Druck schon geschlossen, als der Gedanke sich aufs Neue meldete und mich festielt. Der Gedanke war es, welchen ich oben ausgesprochen.
 
 Es war die Arbeit einer Nacht, die Dünnschliffe des Urgebirges zu durchgehen und nun steht es mir fest:
 
@@ -1246,7 +1246,7 @@ In den Anlagen von Montreal sind sog. „Fancy“-Steine, Kalk mit Protuberanzen
 
 Aber auch kleinere Formen gibt es, ja microscopische — das Silur ist noch vorzugsweise Pflanze.
 
-Hier beginnt erst das grosse Thierleben.
+Hier beginnt erst das grosse Tierleben.
 
 #### XIII. Rückblick.
 
@@ -1256,7 +1256,7 @@ Durch den Kalkniederschlag schliesst sich die Urpflanze von ihrem Lebenselement,
 
 Beweis für die Entwicklung neuer Arten bei veränderter Lebensbedingung!
 
-In der That finde ich in dem chemischen Vorgang den Schlüssel zum morphologischen.
+In der Tat finde ich in dem chemischen Vorgang den Schlüssel zum morphologischen.
 
 Jeder Niederschlag ist eine Aenderung der Mischung: das Zurückbleibende ist immer ein Teil, wie das Ausgeschiedene. Mit dem Laurentiankalk war der Anfang zur Entkalkung der Erdoberfläche gemacht und damit zugleich der Auflösung der Kieselerde durch das Wasser ein mechanischer Abschluss gegeben. Die alten Pflanzen, welche durch ihre Bezüge, wie ihre Ausscheidungen die Oberfläche der Erde geändert hatten, welche zuletzt in mechanischen Decken auf ihrem Lebenselemente lagern, finden ihr Gedeihen nicht mehr wie früher. Nur einzelne Individuen überdauern die Katastrophe, entwickeln sich im Laurentian (Labrador und Hornblende), zulezt in der Kohlenperiode zu Riesen, um dann einer jüngeren Generation zu weichen.
 
@@ -1292,7 +1292,7 @@ Ich untersuche
 
 ersterer Feldspat-, beide letztere Nephelin-Basalte.
 
-Anfangs glaubte ich, letztere enthalten todte Pflanzen oder Pflanzen-Reste, bald überzeugte ich mich vom Gegentheil — auch der sog. Nephelin-Basalt ist ein Pflanzen-Gestein mit lebenden Pflanzen (wenig todte Reste.) —
+Anfangs glaubte ich, letztere enthalten todte Pflanzen oder Pflanzen-Reste, bald überzeugte ich mich vom Gegenteil — auch der sog. Nephelin-Basalt ist ein Pflanzen-Gestein mit lebenden Pflanzen (wenig todte Reste.) —
 
 ***
 
@@ -1300,7 +1300,7 @@ Dies fordert zu neuen Gedanken auf.
 
 Die Pflanze zur Tertiärzeit musste einen langen Weg machen und kam lebend zur Oberfläche!
 
-Die Urpflanze lebte also in der Nacht, sie lebt heute noch dort und bedarf zu ihrem Wachsthum nur des Wassers.
+Die Urpflanze lebte also in der Nacht, sie lebt heute noch dort und bedarf zu ihrem Wachstum nur des Wassers.
 
 Dies fliesst ihr von der Oberfläche zu.
 
@@ -1318,25 +1318,25 @@ Die Vulkane kommen mit ihrem Meere, gehen mit ihrem Meere.
 
 ***
 
-Alle unsere thätigen Vulkane liegen nicht zu entfernt vom Meere.
+Alle unsere tätigen Vulkane liegen nicht zu entfernt vom Meere.
 
 Beweis, dass sie dem Wasser ihre Entstehung verdanken.
 
 ***
 
-Die Thätigkeit des Erdinnern muss eine organische sein, eine unorganische wäre nicht denkbar. Denn alle möglichen blos chemischen Verbindungen hätten längst vollzogen sein müssen. Ohne Hinzutreten eines neuen Stoffes wäre eine Thätigkeit nicht möglich. Dieser Stoff kann kein anderer sein, als Luft oder Wasser. Die Luft ist es nicht, wenigstens blos an offenen Stellen, an schon entstandenen Vulcanen wird sie von geringer Bedeutung.
+Die Tätigkeit des Erdinnern muss eine organische sein, eine unorganische wäre nicht denkbar. Denn alle möglichen blos chemischen Verbindungen hätten längst vollzogen sein müssen. Ohne Hinzutreten eines neuen Stoffes wäre eine Tätigkeit nicht möglich. Dieser Stoff kann kein anderer sein, als Luft oder Wasser. Die Luft ist es nicht, wenigstens blos an offenen Stellen, an schon entstandenen Vulcanen wird sie von geringer Bedeutung.
 
-Auch die früheren wirklichen Revolutionen der Erde hatten ihren Grund in der organischen Thätigkeit der Urpflanze.
+Auch die früheren wirklichen Revolutionen der Erde hatten ihren Grund in der organischen Tätigkeit der Urpflanze.
 
 Heute noch wuchert sie unter der festen Erdoberfläche, bildet Gase, und so entstehen die Erdbeben, die Vulcane.
 
 Die Vulcane sind nicht Feuerbrände im Innern der Erde. Vielmehr sind es blos Gase, welche beim Austritt aus der Erde sich rückwärts entzünden, mechanisch wirken und dabei das anstehende Gestein schmelzen. Lava.
 
-Daher die periodische Thätigkeit, der Anfang derselben blosse Gasausströmungen. Erdbeben.
+Daher die periodische Tätigkeit, der Anfang derselben blosse Gasausströmungen. Erdbeben.
 
 Es können sich leichtbrennliche Gase bilden, welche wie die schlagenden Wetter sich entzünden und dann bei fortwährendem Zuströmen fortbrennen.
 
-Eben diese Art der Thätigkeit in Verbindung mit Erdschwankungen spricht dafür, dass die von der Pflanze ausgeschiedenen Gase dem Ventile zuströmen und dort verbrennen, bis der Vorrath erschöpft ist.
+Eben diese Art der Tätigkeit in Verbindung mit Erdschwankungen spricht dafür, dass die von der Pflanze ausgeschiedenen Gase dem Ventile zuströmen und dort verbrennen, bis der Vorrath erschöpft ist.
 
 Alles dies ist blos mittelst des Wassers möglich.
 
@@ -1410,7 +1410,7 @@ Diese Pflanzen, die Erzeugnisse der Verbindung des ersten Wassers mit der Erde, 
 
 Leider haben sie die Erde selbst dem Geologen auf ewig bedeckt. Damit, dass der Basalt als Pflanze nachgewiesen ist, ist jede Hoffnung verloren, jemals das Erdinnere kennen zu lernen.
 
-Diese Pflanzen des Granits müssen ein grosses Volum eingenommen haben, sie bildeten schon im Anfang ihres erstaunlichen Wachsthums Berge und Hügel in der See und diese Berge und Hügel wurden zu unseren heutigen Granit- und Gneis-Gebirgen. Daher die Fächer-, die Kuppel-Formen.
+Diese Pflanzen des Granits müssen ein grosses Volum eingenommen haben, sie bildeten schon im Anfang ihres erstaunlichen Wachstums Berge und Hügel in der See und diese Berge und Hügel wurden zu unseren heutigen Granit- und Gneis-Gebirgen. Daher die Fächer-, die Kuppel-Formen.
 
 Die Gneisbildung war einzig und allein die Folge davon, dass die Schründe, Risse und Tiefen der ursprünglichen Erdoberfläche durch Tange, Schlamm ausgefüllt waren. Nun erst konnte sich ein eigentliches regelmässiges Sediment bilden.
 
@@ -1418,7 +1418,7 @@ Es war möglich, wenn eine ebene Grundlage geschaffen war.
 
 Indessen bildeten sich die Pflanzen in der Form weiter.
 
-Wo die Ablagerung eine ursprüngliche, das Wachsthum der Pflanze ein ungehindertes war, finden wir Gneis in seinen verschiedenen Formen.
+Wo die Ablagerung eine ursprüngliche, das Wachstum der Pflanze ein ungehindertes war, finden wir Gneis in seinen verschiedenen Formen.
 
 Aber es gab auch Stellen, wo Detritus sich ablagerte. Hier entstand aus den Leichen und dem Schlamm des Granit- und Gneismeeres der Porphyr.
 
@@ -1426,33 +1426,33 @@ Allerdings nicht ohne eigenes Leben. Aber das Leben darin ist viel kleiner. Die 
 
 Man hat sich gewiss schon oft im Stillen wenigstens darüber gewundert, warum im Granit und Gneis der Quarz nicht crystallisirt, sondern blos in (wie man glaubte) ganz willkürlicher Form vorkommt.
 
-Der Grund ist, weil der Quarz und Feldspat des Granits und Gneises in einen Pflanzenleib gebannt ist. (Hier sind blos die Anfänge einer Crystallisation.) Er ist Produkt der ersten organischen Thätigkeit der Erde. Im Porphyr war er frei und so sehen wir aus der Pflanzenthätigkeit den Stoff der künftigen Crystalle hervorgehen (wie den Apatit, Kalk aus den Gneis-pflanzen).
+Der Grund ist, weil der Quarz und Feldspat des Granits und Gneises in einen Pflanzenleib gebannt ist. (Hier sind blos die Anfänge einer Crystallisation.) Er ist Produkt der ersten organischen Tätigkeit der Erde. Im Porphyr war er frei und so sehen wir aus der Pflanzentätigkeit den Stoff der künftigen Crystalle hervorgehen (wie den Apatit, Kalk aus den Gneis-pflanzen).
 
 Es wäre sehr wichtig, jetzt die Entstehung bedeutender Mineralien (einschliesslich der Erze) in diesem Zusammenhang zu erforschen.
 
-Die meisten Minerale sind wol Produkte organischer Thätigkeit, sofern durch letztere der chemische Process wenigstens eingeleitet wurde, der zur Entstehung der Minerale führte.
+Die meisten Minerale sind wol Produkte organischer Tätigkeit, sofern durch letztere der chemische Process wenigstens eingeleitet wurde, der zur Entstehung der Minerale führte.
 
-Diese Thatsachen erklären auch die „Einschlüsse im Quarz und Feldspat“ einzig genügend, besonders was die Regelmässigkeit der Lagerung betrifft, zerstören aber sofort die Hypothese vom ungeheuren Druck, welcher die Kohlensäure darin zusammengepresst hätte.
+Diese Tatsachen erklären auch die „Einschlüsse im Quarz und Feldspat“ einzig genügend, besonders was die Regelmässigkeit der Lagerung betrifft, zerstören aber sofort die Hypothese vom ungeheuren Druck, welcher die Kohlensäure darin zusammengepresst hätte.
 
 Wenn ich also jetzt sage: Granit, Gneis, Porphyr sind kein Urgebirge, so heisst dies richtiger gesagt:
 
-Die Bestandtheile dieser Gebebirge Quarz, Feldspat, Glimmer sind in ihrer jezigen Form in Folge der organischen Arbeit der Erde ausgeschieden und wieder zusammengelagert. Das führt auf die Frage: was war vorher da? Da sind wir allerdings durch meine Entdeckungen nur in soferne besser daran, als wir jetzt wissen, dass Etwas, nemlich das Urgebirge, „im Anfang“ nicht da war, also auch entstand wie das übrige Sedimentgebirge. War es meteorsteinartige Masse?
+Die Bestandteile dieser Gebebirge Quarz, Feldspat, Glimmer sind in ihrer jezigen Form in Folge der organischen Arbeit der Erde ausgeschieden und wieder zusammengelagert. Das führt auf die Frage: was war vorher da? Da sind wir allerdings durch meine Entdeckungen nur in soferne besser daran, als wir jetzt wissen, dass Etwas, nemlich das Urgebirge, „im Anfang“ nicht da war, also auch entstand wie das übrige Sedimentgebirge. War es meteorsteinartige Masse?
 
 Wir müssen also unsere Zuflucht wieder zur Beobachtung nehmen.
 
-Was die Erde heute noch auswirft, Augit, Feldspat in der Lava ist der Kern der Erde, allerdings ist es aber auch zweifelhaft, ob ganz in dieser Form, ob die Masse nicht auf ihrem Wege zum Lichte selbst schon Beimischungen erhalten hat, ob nicht die Metalle, insbesondere das Eisen (nach dem Gesetz der Schwere) wenigstens theilweise davon zurückgeblieben sind.
+Was die Erde heute noch auswirft, Augit, Feldspat in der Lava ist der Kern der Erde, allerdings ist es aber auch zweifelhaft, ob ganz in dieser Form, ob die Masse nicht auf ihrem Wege zum Lichte selbst schon Beimischungen erhalten hat, ob nicht die Metalle, insbesondere das Eisen (nach dem Gesetz der Schwere) wenigstens teilweise davon zurückgeblieben sind.
 
-Meine Entdeckungen nöthigen nun zu einer besseren Erforschung und Erklärung der Thatsachen bezüglich des Erdinnern.
+Meine Entdeckungen nötigen nun zu einer besseren Erforschung und Erklärung der Tatsachen bezüglich des Erdinnern.
 
-Ein Wunsch, den ich daran anknüpfen möchte, ist der: nicht ohne Erforschung, ohne ganz gründliche Versuche Hypothesen auf Hypothesen zu häufen. Ich gestehe, ich schlich mich jedesmal aus der Gesellschaft fort, wenn die Rede auf die Vorgänge in der Granitzeit kam und von diesen natürlich fürchterlichen Revolutionen mit einer Sicherheit gesprochen ward wie von einem Theaterstück, das man von der 1. Gallerie aus mit ansah. Es gibt in der That nichts wohlfeileres als solch wichtige Besprechungen, aber auch keinen endloseren Streit als diesen.
+Ein Wunsch, den ich daran anknüpfen möchte, ist der: nicht ohne Erforschung, ohne ganz gründliche Versuche Hypothesen auf Hypothesen zu häufen. Ich gestehe, ich schlich mich jedesmal aus der Gesellschaft fort, wenn die Rede auf die Vorgänge in der Granitzeit kam und von diesen natürlich fürchterlichen Revolutionen mit einer Sicherheit gesprochen ward wie von einem Theaterstück, das man von der 1. Gallerie aus mit ansah. Es gibt in der Tat nichts wohlfeileres als solch wichtige Besprechungen, aber auch keinen endloseren Streit als diesen.
 
 Ueberhaupt möchte ich dringend rathen, den Weg der Beobachtung, des Versuchs noch lange nicht zu verlassen.
 
-Seit der Aufstellung der Darwin'schen Sätze, welche aber durch tausend Beobachtungen, also Thatsachen, begründet waren, glaubt Jeder Sätze aufstellen zu dürfen — ohne Beobachtung. Damit ist die Wissenschaft selbst und zwar nicht unverschuldet in starken Misscredit gekommen, sie hörte eben auf, die exacte zu sein und fiel damit in einen Fehler, welchen sie an einer andern Wissenschaft rügte.
+Seit der Aufstellung der Darwin'schen Sätze, welche aber durch tausend Beobachtungen, also Tatsachen, begründet waren, glaubt Jeder Sätze aufstellen zu dürfen — ohne Beobachtung. Damit ist die Wissenschaft selbst und zwar nicht unverschuldet in starken Misscredit gekommen, sie hörte eben auf, die exacte zu sein und fiel damit in einen Fehler, welchen sie an einer andern Wissenschaft rügte.
 
-Freilich, man braucht auf das Denken nicht zu verzichten. Man kann auch im Kämmerlein sich seine Hypothesen machen. Aber man hüte sich, aus 2, 3 Thatsachen das Weltganze erklären zu wollen.
+Freilich, man braucht auf das Denken nicht zu verzichten. Man kann auch im Kämmerlein sich seine Hypothesen machen. Aber man hüte sich, aus 2, 3 Tatsachen das Weltganze erklären zu wollen.
 
-Auch die Freude an dem grossen Naturleben (am Ganzen) will ich nicht verderben. Im Gegentheil, ich möchte sie erst erweitern. Dieses ist nur möglich nach redlicher Arbeit am Ganzen. Dies ist die Beschäftigung mit dem Einzelnen, eine Beschäftigung, die nie ermattet und die grosse Schuld der Zeiten sandkornweise tilgt, diese Arbeit gibt uns allein einen wahren wissenschaftlichen Einblick ins Ganze.
+Auch die Freude an dem grossen Naturleben (am Ganzen) will ich nicht verderben. Im Gegenteil, ich möchte sie erst erweitern. Dieses ist nur möglich nach redlicher Arbeit am Ganzen. Dies ist die Beschäftigung mit dem Einzelnen, eine Beschäftigung, die nie ermattet und die grosse Schuld der Zeiten sandkornweise tilgt, diese Arbeit gibt uns allein einen wahren wissenschaftlichen Einblick ins Ganze.
 
 #### XV. Sandsteine.
 
@@ -1488,7 +1488,7 @@ Wieder war meine Arbeit geschlossen, als ich nochmals meine Schliffe vornahm, um
 
 Ich war mit der Durchsicht am Schluss und hatte mich schon herzlich gefreut, auch in dem Gabbro-Gestein dieselben Pflanzen gefunden zu haben, wie im Granit, — da waren noch 4 Meteorsteine übrig.
 
-Der Zweck, der mich beschäftigte, war, organische Einschlüsse zu finden. Sollte ich die Meteorsteine ansehen? Ich fürchtete mich fast, so thöricht zu sein und in der That vor einigen Tagen hatte ich die Schliffe für jetzt als werthlos zurückgelegt.
+Der Zweck, der mich beschäftigte, war, organische Einschlüsse zu finden. Sollte ich die Meteorsteine ansehen? Ich fürchtete mich fast, so thöricht zu sein und in der Tat vor einigen Tagen hatte ich die Schliffe für jetzt als werthlos zurückgelegt.
 
 Endlich entschloss ich mich doch.
 
@@ -1634,7 +1634,7 @@ _Alexandrea_.
 
 ***
 
-Gibt es nicht Protisten von Mineral und Pflanzen, wie von Pflanze und Thier?
+Gibt es nicht Protisten von Mineral und Pflanzen, wie von Pflanze und Tier?
 
 Es ist die Uebereinstimmung der siderischen und tellurischen Pflanzen zu untersuchen.
 
@@ -1644,19 +1644,19 @@ Nun ist ein sicheres Erkennungszeichen für Meteoreisen gegeben.
 
 Das Eisen aus dem Basalt von Grönland ist nichts als Pflanze, ist also Meteoreisen.
 
-#### XVIII. Die Urzelle — Crystall-Pflanze — das Thier.
+#### XVIII. Die Urzelle — Crystall-Pflanze — das Tier.
 
-Bis jetzt hatte man keine Kenntniss von der wirklichen Form der Urzelle. Erst im Laufe meiner Untersuchung wurde sie mir klar und klar, dass sie auch die Grundform des thierischen Körpers sei. Dies geschah aber erst, nachdem ich Alles Bisherige gesehen und geschrieben hatte.
+Bis jetzt hatte man keine Kenntniss von der wirklichen Form der Urzelle. Erst im Laufe meiner Untersuchung wurde sie mir klar und klar, dass sie auch die Grundform des tierischen Körpers sei. Dies geschah aber erst, nachdem ich Alles Bisherige gesehen und geschrieben hatte.
 
-Man wusste nur, dass die Zelle eigentlich die Einheit des thierischen Körpers sei, dieser aus jener zusammengesetzt wird.
+Man wusste nur, dass die Zelle eigentlich die Einheit des tierischen Körpers sei, dieser aus jener zusammengesetzt wird.
 
 Man kannte eine Unzahl Formen dieser Zelle, man kannte Verbindungen dieser Zellen zu Gefässen und Organen. Aber ein Ding, welches Urzelle und Urbild auch des menschlichen Körpers sein könnte, davon hatte man keine Ahnung.
 
-Dieses Urbild glaube ich in der Urzelle entdeckt zu haben, deren Wachsthum ich auf Tafel XVIII. dargestellt habe. Die Weiterentwicklung derselben ist die Figur Taf. I. und Taf. XVIII. 8. XIX. 3. Die nähere Begründung später.
+Dieses Urbild glaube ich in der Urzelle entdeckt zu haben, deren Wachstum ich auf Tafel XVIII. dargestellt habe. Die Weiterentwicklung derselben ist die Figur Taf. I. und Taf. XVIII. 8. XIX. 3. Die nähere Begründung später.
 
 ***
 
-Die Entstehung der Urzelle, das bemerke ich hier, rauss mit dem Stoff im Zusammenhang stehen. Sie entstand aus dem Stoff der Erdoberfläche in Verbindung mit dem der Atmosphäre, des Aethers. Die Stoffe sind verbraucht, sind in andere theilweise unlösliche Formen übergeführt und so ist eine Zwischenwand zwischen Atmosphäre und dem Erdinnern geschaffen, eine Absperrung, welche eine fortdauernde Erzeugung derselben im früheren Maase unmöglich macht.
+Die Entstehung der Urzelle, das bemerke ich hier, rauss mit dem Stoff im Zusammenhang stehen. Sie entstand aus dem Stoff der Erdoberfläche in Verbindung mit dem der Atmosphäre, des Aethers. Die Stoffe sind verbraucht, sind in andere teilweise unlösliche Formen übergeführt und so ist eine Zwischenwand zwischen Atmosphäre und dem Erdinnern geschaffen, eine Absperrung, welche eine fortdauernde Erzeugung derselben im früheren Maase unmöglich macht.
 
 ***
 
@@ -1680,7 +1680,7 @@ Ich habe auf Tafel XVIII. die Entwicklung der Zelle in ihrem ersten Stadium abge
 
 Ich möchte auch die Frage offen lassen, ob das, was ich als den Anfang bezeichnet habe, wirklich das erste Stadium der Entwicklung ist: ob also nicht die erste Zelle nach abwärts gerichtet ist? und dann erst der zweite Abschnitt der Zell-Bildung, nach oben, eintritt.
 
-Ich habe einige Thatsachen beobachtet, welche dafür sprechen.
+Ich habe einige Tatsachen beobachtet, welche dafür sprechen.
 
 Im Kalk stehen die Zellen, so lange die Pflanze im Kalk wächst, nach unten: erst wenn sie aus dem Kalk hervortreten, entstehen die Zellen, welche sich nach oben richten. Das lässt sich bei grösseren Arten beobachten, welche den Serpentin durchsezen, also in die Luft- oder Wasserschichte eingetreten sind.
 
@@ -1696,7 +1696,7 @@ An dieser bildet sich ein Ansatz, Wurzelzelle. Die Zelle wird zum Trichter. Der 
 
 Die Quer-Durchschnitts-Form der Zelle ist die runde.
 
-Ob ein Gesetz ihre Länge beherrscht, ist zweifelhaft, eine Grenze hat das Wachsthum, aber nach welchem Gesetz ist nicht sicher.
+Ob ein Gesetz ihre Länge beherrscht, ist zweifelhaft, eine Grenze hat das Wachstum, aber nach welchem Gesetz ist nicht sicher.
 
 (Anwendung auf die Säule im Crystall).
 
@@ -1720,11 +1720,11 @@ Die einzelnen Zellen sind zugleich Crystalle und bleiben es nach dem Tode; dadur
 
 Die eigentliche Pflanze ist da, sobald eine Zelle ein selbständiges Ganze aus der Baustoffmasse sich abscheidet.
 
-Aus dieser entsteht dann, indem sie sich vom Boden loslöst und ihre Nahrung nicht durch die Wurzel vom Boden oder durch den Kelch aus der Luft, dem Wasser zieht, was nach oben oder aussen offene Nahrungsorgane voraussetzt — das Thier. Die Bewegung ist eine Folge davon.
+Aus dieser entsteht dann, indem sie sich vom Boden loslöst und ihre Nahrung nicht durch die Wurzel vom Boden oder durch den Kelch aus der Luft, dem Wasser zieht, was nach oben oder aussen offene Nahrungsorgane voraussetzt — das Tier. Die Bewegung ist eine Folge davon.
 
 Titanus Bismarki Tafel XII. XIII. ist ein Schlauch, der sich festsetzen, aber auch frei bewegen kann, der seine Nahrung nicht mehr aus dem Stein, der Erde, zieht, sondern frei wählt, sich nach der Nahrung bewegt.
 
-Damit glaube ich auch den Begriff des Thiers einigermassen festgestellt zu haben.
+Damit glaube ich auch den Begriff des Tiers einigermassen festgestellt zu haben.
 
 ***
 
@@ -1736,7 +1736,7 @@ Was freilich diese Abschnürungen, diese Entwicklung bewirkt, wissen wir nicht.
 
 ***
 
-Der Crystall ist die mit dem Entstehen stillstehende, abgeschlossene Zelle: die Pflanze — wächst — bleibt aber mit der Erde in Verbindung, das Thier wird, wächst und löst sich zu selbständiger freier Bewegung los.
+Der Crystall ist die mit dem Entstehen stillstehende, abgeschlossene Zelle: die Pflanze — wächst — bleibt aber mit der Erde in Verbindung, das Tier wird, wächst und löst sich zu selbständiger freier Bewegung los.
 
 ***
 
@@ -1748,7 +1748,7 @@ Ich habe schon oben zur Untersuchung darüber aufgefordert, ob der Crystall weni
 
 Unsere Abbildungen Tab. XXII. XXVII. Fig. 5. 6. 8. legen die Frage nahe, ob der Crystall aus der Pflanze, oder die Pflanze aus dem Crystall entstanden sei.
 
-Soviel aber ist mir sofort klar: wir müssen unsere Crystalle einer neuen Prüfung unterwerfen, nemlich in der Richtung, ob wir es wirklich mit Crystallen zu thun haben.
+Soviel aber ist mir sofort klar: wir müssen unsere Crystalle einer neuen Prüfung unterwerfen, nemlich in der Richtung, ob wir es wirklich mit Crystallen zu tun haben.
 
 Ich habe gezeigt, dass gewisse Crystalle (Granit, Leuzit etc.) Füllmassen von Pflanzen-Zellen sind. Daher also auch wohl das Gesetz der Symmetrie. Dieses ist nicht ein Gesetz der Molecüle, sondern der Pflanzen-Symmetrie, der Pflanzenzelle.
 
@@ -1836,7 +1836,7 @@ Mit Rücksicht hierauf habe ich auch die schwarze Farbe der darauf folgenden Tho
 
 Nach F. v. Hochstetter hat der Urkalk von Böhmen bituminösen Geruch!
 
-Es wäre in der That merkwürdig, dass von den Tangen, welche nach anderer Meinung 50 M. mächtige Kohlenschichten hinterlassen konnten, nicht Eine Pflanze erhalten ist.
+Es wäre in der Tat merkwürdig, dass von den Tangen, welche nach anderer Meinung 50 M. mächtige Kohlenschichten hinterlassen konnten, nicht Eine Pflanze erhalten ist.
 
 Sind die Tange im Silur erhalten, so müssen sie noch viel mehr im Kohlengebirge sich auffinden lassen, vorausgesetzt, dass sie da sind.
 
@@ -1866,9 +1866,9 @@ Ich halte wenigstens dafür, dass es keine einfachere Erklärung für ihr Entste
 
 ***
 
-Ich muss noch einmal auf die Verschiedenheit der Gesteine, welche man Serpentin nennt, hier zurückkommen. In dem canadischen Gneis-Serpentin ist das ursprüngliche Mineral wahrscheinlich Olivin oder Augit. Die Lager von Serpentin sind sicher Auslaugungen, Niederschläge aus wässeriger Lösung. Pikrolith etc. sind ebenso unzweifelhaft wässerige Niederschläge, während in dem Serpentin von Snarum noch die Gestalt des Olivins sich erhalten hat, was Quenstedt so überzeugend nachwies. Freilich mag jener Olivin schon Pflanzen eingeschlossen haben und daher die eigenthümliche Textur.
+Ich muss noch einmal auf die Verschiedenheit der Gesteine, welche man Serpentin nennt, hier zurückkommen. In dem canadischen Gneis-Serpentin ist das ursprüngliche Mineral wahrscheinlich Olivin oder Augit. Die Lager von Serpentin sind sicher Auslaugungen, Niederschläge aus wässeriger Lösung. Pikrolith etc. sind ebenso unzweifelhaft wässerige Niederschläge, während in dem Serpentin von Snarum noch die Gestalt des Olivins sich erhalten hat, was Quenstedt so überzeugend nachwies. Freilich mag jener Olivin schon Pflanzen eingeschlossen haben und daher die eigentümliche Textur.
 
-Der Umstand, dass unkundige Leute alle grünen durchsichtigen talkerde- und kieselerdehaltigen Minerale Serpentin nannten, kann natürlich zu nichts weiterem führen, als dass man die Serpentine nunmehr genauer untersucht und unterscheidet. Vergl. über Serpentin v. Draschke in Tschermak Mineralogische Mittheilungen I. 1871. S. 1. Kennt man die Form der Urpflanze, so wird es leicht sein, die ursprünglichen Serpentine und die abgeleiteten zu unterscheiden.
+Der Umstand, dass unkundige Leute alle grünen durchsichtigen talkerde- und kieselerdehaltigen Minerale Serpentin nannten, kann natürlich zu nichts weiterem führen, als dass man die Serpentine nunmehr genauer untersucht und unterscheidet. Vergl. über Serpentin v. Draschke in Tschermak Mineralogische Mitteilungen I. 1871. S. 1. Kennt man die Form der Urpflanze, so wird es leicht sein, die ursprünglichen Serpentine und die abgeleiteten zu unterscheiden.
 
 ***
 
@@ -1888,9 +1888,9 @@ Der gelbbraune „Alabaster“, welcher von den Italienern in Vasen, Statuetten 
 
 ***
 
-Ich erstaunte, als ich den Einwurf hören musste: „Wie aus den Bestandtheilen einer Pflanze: Kohlenstoff, Sauerstoff und Wasserstoff, in den Kelchen Kieselerde, Thonerde, Kalk, Bittererde, Eisenoxyd entstehe?“ Als ob dies die Frage wäre.
+Ich erstaunte, als ich den Einwurf hören musste: „Wie aus den Bestandteilen einer Pflanze: Kohlenstoff, Sauerstoff und Wasserstoff, in den Kelchen Kieselerde, Thonerde, Kalk, Bittererde, Eisenoxyd entstehe?“ Als ob dies die Frage wäre.
 
-Einmal sind die Bestandtheile keiner Pflanze blos Kohlenstoff, Sauerstoff und Wasserstoff: das Knochengerüste von Kiesel, Kalk, die Aschenbestandtheile sind vergessen, vergessen sind die Kiesel-Skelette der Diatomaceen, die Kieselzellen der Equiseten etc. Hier wird sicher nicht aus Kohlenstoff, Sauerstoff und Wasserstoff Kieselerde, sondern die Kieselerde ist durch die Pflanze hindurchgegangen, von der Pflanze abgelagert.
+Einmal sind die Bestandteile keiner Pflanze blos Kohlenstoff, Sauerstoff und Wasserstoff: das Knochengerüste von Kiesel, Kalk, die Aschenbestandteile sind vergessen, vergessen sind die Kiesel-Skelette der Diatomaceen, die Kieselzellen der Equiseten etc. Hier wird sicher nicht aus Kohlenstoff, Sauerstoff und Wasserstoff Kieselerde, sondern die Kieselerde ist durch die Pflanze hindurchgegangen, von der Pflanze abgelagert.
 
 Man vergleiche Nägeli und Schwendener, das Microscop (1877) S. 488.
 
@@ -1898,11 +1898,11 @@ Nun glaube ich aber eben mit der Serpentinpflanze nachgewiesen zu haben, dass so
 
 Uebrigens scheiden viele Pflanzen heute noch vorzugsweise Kieselerde in den Fruchtschalen, Samenhülsen aus.
 
-Was die „Ausscheidungen“ betrifft, so erinnere ich an die verschiedensten Minerale in den Ammonitenkammern, welche dort und nur dort vorkommen. Sind sie von den Ammoniten ausgeschieden? Gewiss nicht. Es ist also das Wort „Ausscheidung“ cum grano salis zu verstehen. Das Mineral liegt da: Welches der Zusammenhang mit der Pflanze ist, ist noch nicht — aber dass ein Zusammenhang besteht, ist festgestellt. Keinenfalls kann die Thatsache, dass Granat an der Stelle von Pflanzenkelchen vorkommt, als Gegenbeweis dagegen dienen, dass kein Pflanzenkelch da ist. Ist die Pflanze einmal festgestellt, so sehe die Wissenschaft eben, wie sie die Thatsache erklären kann.
+Was die „Ausscheidungen“ betrifft, so erinnere ich an die verschiedensten Minerale in den Ammonitenkammern, welche dort und nur dort vorkommen. Sind sie von den Ammoniten ausgeschieden? Gewiss nicht. Es ist also das Wort „Ausscheidung“ cum grano salis zu verstehen. Das Mineral liegt da: Welches der Zusammenhang mit der Pflanze ist, ist noch nicht — aber dass ein Zusammenhang besteht, ist festgestellt. Keinenfalls kann die Tatsache, dass Granat an der Stelle von Pflanzenkelchen vorkommt, als Gegenbeweis dagegen dienen, dass kein Pflanzenkelch da ist. Ist die Pflanze einmal festgestellt, so sehe die Wissenschaft eben, wie sie die Tatsache erklären kann.
 
-Freilich bei uns fängt man nicht mit dem Auge an, sondern mit der Rechnung. Statt zu sehen, zu betrachten, zu versuchen, macht man sich aus seinem beschränkten Wissen die Rechnung fertig. Wenn es nun aber doch so ist? Wenn eine unbefangene nur halbwegs sorgfältige Beobachtung die Thatsache bestätigt, was dann?
+Freilich bei uns fängt man nicht mit dem Auge an, sondern mit der Rechnung. Statt zu sehen, zu betrachten, zu versuchen, macht man sich aus seinem beschränkten Wissen die Rechnung fertig. Wenn es nun aber doch so ist? Wenn eine unbefangene nur halbwegs sorgfältige Beobachtung die Tatsache bestätigt, was dann?
 
-Der scharfsinnige Arago (und es sind nicht einmal alle Leute, welche absprechende Behauptungen aufstellen, scharfsinnig) bewies vor den Augen und Ohren von ganz Frankreich, dass eine Eisenbahn unmöglich seie. Es hat Jahrhunderte angestanden, bis gegen die Behauptungen aller Fachgelehrten die Versteinerungen als Thier-Reste anerkannt wurden.
+Der scharfsinnige Arago (und es sind nicht einmal alle Leute, welche absprechende Behauptungen aufstellen, scharfsinnig) bewies vor den Augen und Ohren von ganz Frankreich, dass eine Eisenbahn unmöglich seie. Es hat Jahrhunderte angestanden, bis gegen die Behauptungen aller Fachgelehrten die Versteinerungen als Tier-Reste anerkannt wurden.
 
 ***
 
@@ -1910,7 +1910,7 @@ Die feinen Linien im Granit mit schwarzen Punkten gezogen, kann man unmöglich a
 
 ***
 
-Erst am Schlusse der Arbeit, gestattete ich mir einen Blick auf die Pflanzenarten zu thun.
+Erst am Schlusse der Arbeit, gestattete ich mir einen Blick auf die Pflanzenarten zu tun.
 
 Ich fasse die äussere Structur des Gesteins ins Auge, welche durch die Pflanze, aus welcher es sich zusammensetzt, bedingt ist.
 
