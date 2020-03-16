@@ -54,11 +54,11 @@ Reutlingen, August 1879
 
 Dr. Otto Hahn, Rechts-Anwalt.
 
-#### I.
+#### 1.
 
 ##### 1. Geschichte einer Entdeckung.*
 
-*) Ich nenne das Kapitel „Geschichte einer Entdeckung“: muss aber auf II. verweisen als Fortsetzung dieses Kapitels. Spätere Entdeckungen konnte ich nicht mehr hier aufführen.
+*) Ich nenne das Kapitel „Geschichte einer Entdeckung“: muss aber auf 2 verweisen als Fortsetzung dieses Kapitels. Spätere Entdeckungen konnte ich nicht mehr hier aufführen.
 
 Sir W. Logan in Montreal war es, welcher zuerst die Aufmerksamkeit auf einen im Laurentian-Gneis von Canada eingelagerten Serpentin-Kalk lenkte, indem er dabei die Vermutung aussprach, es enthalte dieser Kalk und zwar in eingebetteten „Knollen“ die Reste der ersten organischen Schöpfung. 
 
@@ -196,11 +196,11 @@ Dazu gehört vor Allem der wahre Sachverhalt bezüglich der „Kanalsysteme“. 
 
 Hier aber verhalten sich die Tatsachen jetzt vollkommen anders, und es ist unbegreiflich, wie Dr. Carpenter diese Kanalsysteme in das Schema des _Eozoon_ aufnehmen konnte.
 
-Diese Kanalsysteme sind einmal, wie ich Taf. III. zeige, sehr verschieden. Wäre das _Eozoon_ eine Foraminifere, so wäre es gar nicht denkbar, dass in — zugestandenermaßen ein und derselben Foraminifere ein Kanal becherförmig, ein anderer fadenförmig, ein dritter perlschnurartig gereiht wäre.
+Diese Kanalsysteme sind einmal, wie ich Taf. 3 zeige, sehr verschieden. Wäre das _Eozoon_ eine Foraminifere, so wäre es gar nicht denkbar, dass in — zugestandenermaßen ein und derselben Foraminifere ein Kanal becherförmig, ein anderer fadenförmig, ein dritter perlschnurartig gereiht wäre.
 
 Sodann finden sich, wie Möbius dargestellt hat, bei der lebenden Foraminifere bloß fadenförmige Kanalsysteme.
 
-Becher-, Kugel- und Perlschnur-Formen kommen gar nicht vor. Die Fadenformen habe ich in etwa 20 Dünnschliffen bloß einmal (Taf. III. Fig. 3) gefunden, überall herrscht die Becher- form vor. Aber auch, wo die Fadenform vorkommt, gehen die „Kanäle“ von Zweigen aus, was verschwiegen wurde.
+Becher-, Kugel- und Perlschnur-Formen kommen gar nicht vor. Die Fadenformen habe ich in etwa 20 Dünnschliffen bloß einmal (Taf. 3 Fig. 3) gefunden, überall herrscht die Becher- form vor. Aber auch, wo die Fadenform vorkommt, gehen die „Kanäle“ von Zweigen aus, was verschwiegen wurde.
 
 Was aber endlich den Ausschlag gibt, ist, dass diese Kanalsysteme bloß an ganz vereinzelten Stellen vorkommen, ohne dass man irgend einen Grund hätte, anzunehmen, dieses Fehlen habe seine Ursache in der Metamorphose des Gesteins oder in einer anderen solchen Ursache. Dies ist längst hervorgehoben worden.
 
@@ -234,7 +234,7 @@ Blos eine Ergänzung dieses Beweises ist es, dass dieselben Pflanzenformen in de
 
 Nun muss ich aber noch auf einen Umstand aufmerksam machen, darauf nämlich, dass der Serpentin in den Stücken, welche _Eozoon_ sein sollten, also in den Knollen, Füllmasse ist. Der Kalk ist das Lager.
 
-Anders bei den Formen der Tafel I. 3., welche ich Coralloidea nenne. Hier sind die Algen in Dolomit verwandelt, der Serpentin ist das Lager. Hier also ist das Verhältnis umgekehrt.
+Anders bei den Formen der Tafel 1. 3., welche ich Coralloidea nenne. Hier sind die Algen in Dolomit verwandelt, der Serpentin ist das Lager. Hier also ist das Verhältnis umgekehrt.
 
 Man sieht hieraus, wie oberflächlich, einseitig überhaupt die bisherigen Untersuchungen waren, wie sie vollständig durch die Knappheit des Materials beherrscht waren.
 
@@ -292,7 +292,7 @@ Die Basalzelle ist eine halbrunde becherförmige Zelle, welche im Dolomit aufset
 
 Die neuen Knospen, ich nenne sie Brutzellen, sitzen überall auf dem Rande der Zelle auf, und geben dem Blatte dadurch das höckerige Ansehen.
 
-Die Form ist in Tafel I. 1. dargestellt.
+Die Form ist in Tafel 1. 1. dargestellt.
 
 Das von Carpenter abgebildete Stück _Eozoon_, welches nachher in so viele Bücher überging, zeigt in dem Kugligen nur Brutzellen des Eophyllum, und ich bin überzeugt, dass sie sich an dem abgebildeten Stück noch mit bloßem Auge erkennen ließen.
 
@@ -300,13 +300,13 @@ Die Durchschnitte der Brutzellen sind leicht verständlich, sobald man sich dies
 
 Ganze Pflanzen ziehen sich durch die Serpentinlager hindurch.
 
-Ich habe die Basalzelle in Taf. I. f. 2. abgebildet, eine Brutzelle daselbst 4:5. zeigt eine solche im Serpentin.
+Ich habe die Basalzelle in Taf. 1. f. 2. abgebildet, eine Brutzelle daselbst 4:5. zeigt eine solche im Serpentin.
 
 Die regelmäßige Lage des Eophyllums rührt wahrscheinlich daher, dass sie sich schon bei Lebzeiten in Kalk eingebettet hat.
 
 ##### 7. Die Formen.
 
-Man nehme nun Taf. II. zur Hilfe, um sich eine Vorstellung von dem Leben zu machen, welches sich hier entwickelt.
+Man nehme nun Taf. 2. zur Hilfe, um sich eine Vorstellung von dem Leben zu machen, welches sich hier entwickelt.
 
 Alle diese Formen sind teils aus dem Kalk gelöst, teils nach den im Serpentin erhaltenen Pflanzen gezeichnet; meist bei 90-facher Vergrößerung.
 
@@ -324,21 +324,21 @@ Allein auch hier kann es sich bloß darum handeln, nach der Gesamtform Namen zu 
 
 Alle folgende sind mikroskopisch im Kalk.
 
-Ich gebe in Taf. III die 4 von mir unterschiedenen Arten von mikroskopischen Algen des Laurentian, welche als „Kanal-Systeme“ bezeichnet wurden, 1. 3. 4. in 80-, 2. in 20- maliger Vergrößerung.
+Ich gebe in Taf. 3 die 4 von mir unterschiedenen Arten von mikroskopischen Algen des Laurentian, welche als „Kanal-Systeme“ bezeichnet wurden, 1. 3. 4. in 80-, 2. in 20- maliger Vergrößerung.
 
 Sie leben in Gesellschaft. Einzelne Formen werden nach diesen aufgeführt.
 
 ###### _Kampyloklon._
 
-Taf. III. 1. 1/80.
+Taf. 3. 1. 1/80.
 
 Kampyloklon: von der Biegung seines Stammes und der Zweige. Die Basalzelle ist rund, abwärts gekehrt. An diese reiht sich eine gewundene Blattzelle, an diese eine Becherzelle an und diese treibt entweder wieder eine Blatt- oder eine Becherzelle.
 
-Wahrscheinlich dieser Art gehört an Taf. VII. 4.
+Wahrscheinlich dieser Art gehört an Taf. 7. 4.
 
 ###### _Leucophyllum._
 
-Taf. III. 2. 1/20.
+Taf. 3. 2. 1/20.
 
 Es sind dies die größten mikroskopischen Pflanzen im Kalk. Ihre Anordnung ist leicht verständlich. Im Eck des Bildes ist eine Zelle 80-mal vergrößert.
 
@@ -346,59 +346,59 @@ Die Blätter sind in ein milchweißes Silicat verwandelt.
 
 ###### _Pseudozoon._
 
-Taf. III. 3. (1/80).
+Taf. 3. 3. (1/80).
 
 Denn diese Kanäle wurden von Dr. Carpenter als die Kanalsysteme von Nummuliten gekennzeichnet; aber freilich nicht vollständig wurden sie gezeichnet, sondern bloß die oberen geraden (Faden-) Zellen des Bildes. Wären die unteren dazu gezeichnet worden, so hätte wohl Niemand sich überreden lassen, dass es sich hier um Kanalsysteme einer Foraminifere handelte.
 
 ###### _Kilocarpon._
 
-Taf. III. 4. 1/80. und Taf. IX. 1/140 Taf. X. 1/750. 1/450.
+Taf. 3. 4. 1/80. und Taf. 9. 1/140 Taf. 10. 1/750. 1/450.
 
 Ebenfalls ein „System“.
 
 Diese Algen mussten eine Gallert um sich ansetzen, wie es die Nostocaceen tun. Nur so erklärt sich das lappenartige Aussehen bei regelmäßiger Lagerung des Ganzen.
 
-Wahrscheinlich dieselbe Pflanze ist Tab. IX. und X.
+Wahrscheinlich dieselbe Pflanze ist Tab. 9. und 10.
 
 Ich nenne sie
 
 ###### _Kilo-Karpon,_
 
-denn die Zelle des deutlich sichtbaren Oogoniums (Tab. X. 2) zeigt eine sehr große Anzahl von Prothallien, welche sich sodann auch in dem Kalk und Serpentin finden.
+denn die Zelle des deutlich sichtbaren Oogoniums (Tab. 10. 2) zeigt eine sehr große Anzahl von Prothallien, welche sich sodann auch in dem Kalk und Serpentin finden.
 
 ###### _Chairokerdos._
 
-Der willkommene (erste) Fund einer Pflanze des Laurentian-Gneises. Tafel IV. und V.
+Der willkommene (erste) Fund einer Pflanze des Laurentian-Gneises. Tafel 4. und 5.
 
 Wie in allen bisherigen Algen bildet je ein Stengel eine Pflanze.
 
 Ein schwacher Wurzelansatz in Form einer platt gewölbten oder becherförmigen Zelle, dann eine gewundene längere, weiter eine becherartige Zelle.
 
-Nun beginnt die Teilung erst mit einer gewundenen Zelle, setzt dann fort in gestreckten, diesen folgen perlschnurartige Zellen, welche mit einer Sporenzelle endigen. Die Sporen liegen geordnet. Taf. V. Fig. 2.
+Nun beginnt die Teilung erst mit einer gewundenen Zelle, setzt dann fort in gestreckten, diesen folgen perlschnurartige Zellen, welche mit einer Sporenzelle endigen. Die Sporen liegen geordnet. Taf. 5. Fig. 2.
 
-Der nächste Stengel trägt eine leere Sporenzelle. (Taf. IV.)
+Der nächste Stengel trägt eine leere Sporenzelle. (Taf. 4.)
 
-V. 1. ist eine 300-malige Vergrößerung der dritten Pflanze von rechts, der auch die Sporenzelle angehört.
+5. 1. ist eine 300-malige Vergrößerung der dritten Pflanze von rechts, der auch die Sporenzelle angehört.
 
 Die erste Pflanze (von rechts) hat Blätterform, gehört aber ohne Zweifel zu derselben Art.
 
 Eine Zellmembran ist deutlich wahrzunehmen.
 
-Tafel VI. 4. 1/320 wahrscheinlich dieselbe Art.
+Tafel 6. 4. 1/320 wahrscheinlich dieselbe Art.
 
 ###### _Poterion._
 
-Tafel VI. Fig. 1. Die Becheralge. Fig. 2. Basalzelle.
+Tafel 6. Fig. 1. Die Becheralge. Fig. 2. Basalzelle.
 
 ###### _Margarodes._
 
-Taf. VI. 3. (1/650).
+Taf. 6. 3. (1/650).
 
 Perlschnuralge entwickelt sich aus einer Wurzelzelle, welche auf einem geraden Zweige (einer anderen Art) aufsitzt.
 
 ###### _Lichnon._
 
-(Die Lampe) Taf. VII. 1. 2. (Fig. 4. die Wurzelzelle) (1/90).
+(Die Lampe) Taf. 7. 1. 2. (Fig. 4. die Wurzelzelle) (1/90).
 
 Die Zelle 2. gehört derselben Art an, ist jedoch ohne Stengel im Dünnschliff. Ich habe aus dem Kalk eine Zellhaut vollkommen gleich mit Säure ausgewaschen.
 
@@ -410,19 +410,19 @@ Trompeten-Alge (1/90).
 
 ###### _Kilikodendron._
 
-Becherbaum. Tafel VII. 6. (1/90).
+Becherbaum. Tafel 7. 6. (1/90).
 
 Fig. 7. 8. Die Pflanze in ihrer ersten Entwicklung. Eine wundervolle Form bildet
 
 ###### _Pleurophyllum._
 
-Ribben-Blatt. Taf. VIII. Fig. 1. (1/750).
+Ribben-Blatt. Taf. 8. Fig. 1. (1/750).
 
 Die Kelche sitzen unmittelbar im Kalk.
 
 ###### _Phiala._
 
-Die Schale. Taf. VIII. 2. (1/90).
+Die Schale. Taf. 8. 2. (1/90).
 
 Schalenförmige Zellen. Die Stengel daneben zeigen Kopulation.
 
@@ -430,13 +430,13 @@ Das Zierlichste aber ist
 
 ###### _Theochara._
 
-Gotteslust. Taf. XI. 1. 1/90.
+Gotteslust. Taf. 11. 1. 1/90.
 
 in Dolomit verwandelt, glashell.
 
 ###### _Linophyton._
 
-Tafel XI. 2. 3. 4.
+Tafel 11. 2. 3. 4.
 
 Ich habe die Formen zusammengestellt, welche alle denselben Charakter an sich tragen.
 
@@ -454,7 +454,7 @@ Der allgemeine Charakter dieser Pflanzenformen des Laurentian-Kalks ist (ich wag
 
 Das Individuum selbst ist einfach, ist eine Zelle.
 
-Eine Zelle setzt sich an (nach unten), die nächste kehrt sich nach oben. Tafel VII. Fig. 7.
+Eine Zelle setzt sich an (nach unten), die nächste kehrt sich nach oben. Tafel 7. Fig. 7.
 
 Ich habe Fälle beobachtet, wo mehrere Zellen nach unten sich über einander setzten.
 
@@ -464,7 +464,7 @@ Eigentliche Wurzeln fand ich, jedoch nicht sicher, nur in einem Dünnschliffe.
 
 Nun setzt sich an diese Zelle, meist seitlich an ihrem Rand, oder an einem beliebigen Teile ihrer Oberfläche, eine Brut-Zelle (Knospe) in Form eines Blattes oder eines Bechers an. Es teilen sich die Zellen: so entsteht ein Stamm.
 
-Die Befruchtungsorgane scheinen erst nach einem größeren Wachstum sich zu bilden. Tafel V. und IX.
+Die Befruchtungsorgane scheinen erst nach einem größeren Wachstum sich zu bilden. Tafel 5. und 9.
 
 Was die Form der Zellen betrifft, so ist dieselbe unerschöpflich verschieden.
 
@@ -474,7 +474,7 @@ Merkwürdig ist die Erhaltung.
 
 Nicht bloß ganze Pflanzen, sondern Membrane sind erhalten. Sehr häufig finden sich die Modelle der Zellhöhlen. Diese sind gewöhnlich mit Dolomit ausgefüllt, wenigstens wo sie in Dolomit und Serpentin lagern.
 
-So sind uns Modelle der Hohlräume der Pflanzen erhalten. Tafel II. Fig. 10.
+So sind uns Modelle der Hohlräume der Pflanzen erhalten. Tafel 2. Fig. 10.
 
 Diese Form findet sich tausendmal im Serpentin wie im Gneis, auch im Dolomit selbst. Der offene Zwischenraum zeigt überall die Linie der Zellscheidewände.
 
@@ -522,11 +522,11 @@ Diese Einschlüsse könnten allerdings auch Dolomit sein, welcher sich im Serpen
 
 Die wichtigen Ergebnisse meiner Entdeckung sind:
 
-I. die ersten organischen Formen sind die niedersten Pflanzen, woraus höchst wahrscheinlich
+1. die ersten organischen Formen sind die niedersten Pflanzen, woraus höchst wahrscheinlich
 
-II. folgt, dass wirklich die Bildungen der Gegenwart die Erzeugnisse der Fortentwicklung sind; es ist also eine bloß einmalige gleichzeitige „Schöpfung“ nicht — dagegen
+2. folgt, dass wirklich die Bildungen der Gegenwart die Erzeugnisse der Fortentwicklung sind; es ist also eine bloß einmalige gleichzeitige „Schöpfung“ nicht — dagegen
 
-III. ist eben vermöge des Gesetzes der Entwicklung anzunehmen, dass die niedersten Formen der Laurentianzeit heute längst in höhere sich verwandelt haben: die niedersten von heute also können nicht die Nachkommen von damals sein und hieraus schließe ich, dass heute noch derselbe Übergang von Unorganischem zum Organischen (Schöpfung) stattfindet.
+3. ist eben vermöge des Gesetzes der Entwicklung anzunehmen, dass die niedersten Formen der Laurentianzeit heute längst in höhere sich verwandelt haben: die niedersten von heute also können nicht die Nachkommen von damals sein und hieraus schließe ich, dass heute noch derselbe Übergang von Unorganischem zum Organischen (Schöpfung) stattfindet.
 
 Möge nun die Frucht langjähriger Arbeit zu neuen Forschungen anregen.
 
@@ -550,7 +550,7 @@ Ich konnte mir nicht versagen, diese Schlussbemerkungen zu machen. Ich glaube in
 
 Auf diesem Wege möchte ich nicht bloß die Naturwissenschaft, sondern auch die Wissenschaft des Menschen, die höchste welche es geben kann, durch meine Arbeit um einen Schritt weiter geführt sehen.
 
-#### II. Das erste Tier.
+#### 2. Das erste Tier.
 
 Ich hatte meine Arbeit schon geschlossen, als ich in dem (mit Salzsäure aufgelöstem) Eophyllumkalk noch
 
@@ -562,11 +562,11 @@ Ich besitze es in 1 vollständigen Exemplar (in Kanadabalsam) und in Bruchstück
 
 Vergebens sah ich mich nach einem Nachbild unter den lebenden, wie unter den ausgestorbenen um. Es gleicht einigermaßen Serpula oder Vermetus.
 
-Ich nenne es _Titanus bismarki_ Taf. XII. unserm Reichskanzler zu Ehren.
+Ich nenne es _Titanus bismarki_ Taf. 12. unserm Reichskanzler zu Ehren.
 
 Ein Wurm mit einem Kieselpanzer: denn derselbe hat der Salzsäure widerstanden.
 
-Der Panzer muss durch Häute verbunden gewesen sein. Dafür spricht Taf. XIII. Fig. 1.
+Der Panzer muss durch Häute verbunden gewesen sein. Dafür spricht Taf. 13. Fig. 1.
 
 Ein Exemplar ist 0,59 mm. lang, 0,06 mm. durchschnittlich breit.
 
@@ -590,13 +590,13 @@ Durchmesser desselben 0,03 mm.
 
 Aus der Mundöffnung ragt eine Wulst hervor, der eigentliche Mund.
 
-Wenn man bei Taf. XII. Fig. 3. das Mikroskop hoch einstellt, so sieht man nur die herzförmige Öffnung: wird der Tubus gesenkt, so erblickt man durch die Schale und hinter derselben die Mundöffnung. Leider lassen sich solche zarte Dinge in der Zeichnung nicht vollständig wiedergeben.
+Wenn man bei Taf. 12. Fig. 3. das Mikroskop hoch einstellt, so sieht man nur die herzförmige Öffnung: wird der Tubus gesenkt, so erblickt man durch die Schale und hinter derselben die Mundöffnung. Leider lassen sich solche zarte Dinge in der Zeichnung nicht vollständig wiedergeben.
 
 Figur 3 hat einen übrigens undeutlichen Lappen, der über die Mundöffnung hervorragt.
 
-Ein gebrochenes Stück Taf. XIII. 2 zeigt eine deutliche Röhre.
+Ein gebrochenes Stück Taf. 13. 2 zeigt eine deutliche Röhre.
 
-Das andere Ende des Körpers (der Schwanz) ist zweilappig, wie eine Klappe. Taf. XII. Fig. 1. Taf. XIII. Fig. 5. ist ein abgebrochenes Stück, welches vollständig mit Taf. XII. Fig. 1. stimmt.
+Das andere Ende des Körpers (der Schwanz) ist zweilappig, wie eine Klappe. Taf. 12. Fig. 1. Taf. 13. Fig. 5. ist ein abgebrochenes Stück, welches vollständig mit Taf. 12. Fig. 1. stimmt.
 
 Dass die Form eine organische ist, lässt sich wohl in keiner Weise bezweifeln. Dass es ein Tier und keine Pflanze ist, dafür spricht die Bewegung, welche aus den verschiedenen Stellungen des Geschöpfs geschlossen werden kann.
 
@@ -612,7 +612,7 @@ Die Streifen (Glieder) des Panzers sind wie mit dem Grabstichel gezeichnet, die 
 
 Man könnte im _Titanus_ hienach den Vorgänger der Trilobiten sehen.
 
-Die Bruchstücke Taf. XIII. zeigen alle gleiche Textur.
+Die Bruchstücke Taf. 13. zeigen alle gleiche Textur.
 
 Gewisse hyaline Ansätze auf Pflanzen von derselben Art, wie die Mundöffnungen, könnten vermuten lassen, dass man es hier mit jungen Tieren zu tun hat, die sich auf anderen Gegenständen ansaugen.
 
@@ -620,7 +620,7 @@ Doch die Sache muss erst in weiteren Exemplaren untersucht werden, wie denn dies
 
 Es sind nur einmal neue organische Formen und damit ist eine neue Schöpfungsperiode festgestellt.
 
-#### III. Serpentin.
+#### 3. Serpentin.
 
 Als ich die Arbeit bis hierher vollendet hatte, fiel mein Blick auf einen Briefbeschwerer von Serpentin, der auf meinem Arbeitstisch lag. Ich sah hier bläuliche Flecken und sofort erkannte ich die vom Laurentian-Serpentin beschriebenen Formen in dem Serpentin von Sachsen wieder.
 
@@ -634,9 +634,9 @@ ein großer Teil der Serpentine, insbesondere der böhmischen und sächsischen, 
 
 Es lagert die verkieselte Pflanze in der ursprünglich flüssigen Serpentinmasse.
 
-Ich zeichne nun sofort die Form aus 3 Briefbeschwerern cf. Tafel XIV. und begnüge mich vorerst damit, die Wissenschaft auf die Tatsache aufmerksam gemacht zu haben.
+Ich zeichne nun sofort die Form aus 3 Briefbeschwerern cf. Tafel 14. und begnüge mich vorerst damit, die Wissenschaft auf die Tatsache aufmerksam gemacht zu haben.
 
-Tafel XIV. 4. ist eine Form von 1 1/2 cm., welche ich so bestimmt gesehen, als es nur sein kann.
+Tafel 14. 4. ist eine Form von 1 1/2 cm., welche ich so bestimmt gesehen, als es nur sein kann.
 
 Ich nenne sie meinem verehrten Freunde K. Hofrath Dr. F. v. Hochstetter in Wien zu Ehren und wegen ihrer knospenartigen Form
 
@@ -666,7 +666,7 @@ Ich ließ die Kiste öffnen.
 
 Da fielen mir die Laurentian-Gneis in die Hand.
 
-#### IV. Was ist der Laurentian-Gneis?
+#### 4. Was ist der Laurentian-Gneis?
 
 Diese Frage stellte ich an mich.
 
@@ -688,7 +688,7 @@ Meine Laurentiangneis-Handstücke sind aus der Gegend von Ottawa und vom Lake Si
 
 Ich fertige nun Tafeln, um eine Vorstellung zu geben.
 
-Das Handstück I. ist von Templeton bei Ottawa (der Hauptstadt Canadas). Glimmerschiefer.
+Das Handstück 1. ist von Templeton bei Ottawa (der Hauptstadt Canadas). Glimmerschiefer.
 
 Es ist aus einer Apatitgrube. Es hat fleischroten Kalkspat, graugrüne Apatitkristalle mit 6 seitigen Tafeln von schwarzem Glimmer.
 
@@ -712,23 +712,23 @@ Eine Mischung von phosphorsaurem und kohlensaurem Kalk wird von der Pflanze zers
 
 Es trennen sich phosphorsaurer und kohlensaurer Kalk und so lagern die Apatit-Kristalle im kohlensauren Kalke.
 
-Die Pflanze dieses Gesteins habe ich auf Tafel XVII. 10. abgebildet.
+Die Pflanze dieses Gesteins habe ich auf Tafel 17. 10. abgebildet.
 
 Ich nenne sie _Dufferinia_ zu Ehren des Lords Dufferin, des Generalgouverneurs von Canada, als ich dort war.
 
 Einzelzeichnungen Fig. 11. 12. 13.
 
-Um einen Dünnschliff daraus zu fertigen, war das Gestein I. zu weich und zu wenig homogen. Der Glimmer blätterte ab, wie die Pflanzen darin lagen. 
+Um einen Dünnschliff daraus zu fertigen, war das Gestein 1. zu weich und zu wenig homogen. Der Glimmer blätterte ab, wie die Pflanzen darin lagen. 
 
 Fig. 14. eine Pflanze aus einem Apatit-Kristall.
 
 Handstück 2. vom Muskoka-See. Sehr feldspatreich.
 
-Taf. XVII. 4. Aus demselben Stücke Fig. 5. 6. 7. 8. 9.
+Taf. 17. 4. Aus demselben Stücke Fig. 5. 6. 7. 8. 9.
 
 Ich konnte nur eine Pflanzen-Art feststellen.
 
-Taf. XVII. Figur 10-13 sind schwache Vergrößerungen 1/5.
+Taf. 17. Figur 10-13 sind schwache Vergrößerungen 1/5.
 
 Ich nenne die Pflanze Fig. 4.
 
@@ -740,19 +740,19 @@ Diese Pflanze scheint eine der ältesten und ursprünglichsten zu sein.
 
 Das zweite Handstück zeigt ferner die Form
 
-Tafel XIX. Figur 3.
+Tafel 19. Figur 3.
 
 Ich nenne sie zu Ehren des Vorstandes des Geological Surveys of Canada Mr. Selvyn 
 
 _Selvynia_.
 
-#### V. Glimmer.
+#### 5. Glimmer.
 
-In einem kanadischen Glimmer aus dem Laurentian bilde ich Taf. XVII. Fig. 1. 2. 3. ab.
+In einem kanadischen Glimmer aus dem Laurentian bilde ich Taf. 17. Fig. 1. 2. 3. ab.
 
 Die Zelle Fig. 3. ist in Hämatit verwandelt, ist durchsichtig und zeigt so den Kanal, der durch die Zelle bis zur Wurzel hinabgeht, aufs deutlichste. Fig. 2. ist wahrscheinlich ein Durchschnitt des Kelchrandes.
 
-#### VI. Das „Urgebirge“.
+#### 6. Das „Urgebirge“.
 
 Wieder war die Arbeit geschlossen.
 
@@ -808,17 +808,17 @@ Aber auch in Form von Mycelium-Fäden strecken sich Zellen aus, welche wieder Tr
 
 Ich bemerke aber hier, dass auch in den Trichtern wirkliche Mineral- (Kristall-?) Einlagerungen vorkommen. Diese erscheinen mir als Produkte des organischen Vorgangs.
 
-Ich bilde die Entwicklung der Urzelle ab Taf. XVIII. 1-7. jedoch nur, soweit ich das Bild im Serpentin gewann. Im Granit herrschen die Stammzellen vor, jedoch in der uranfänglichen Form, welche sich denken lässt — der Kristallform.
+Ich bilde die Entwicklung der Urzelle ab Taf. 18. 1-7. jedoch nur, soweit ich das Bild im Serpentin gewann. Im Granit herrschen die Stammzellen vor, jedoch in der uranfänglichen Form, welche sich denken lässt — der Kristallform.
 
 ***
 
 Mit diesen Vorbegriffen und Vorstellungen, welche ich durch meine Beobachtungen als festgestellt annehmen darf, wollen wir an die Arbeit gehen.
 
-Um die Kontrolle wenigstens zu erleichtern, nehme ich die „Sammlung typischer Gesteine“ von R. Fuess in Berlin, Serie II., und beginne mit
+Um die Kontrolle wenigstens zu erleichtern, nehme ich die „Sammlung typischer Gesteine“ von R. Fuess in Berlin, Serie 2., und beginne mit
 
 _Nr. 1. dem Granit von Brixen_.
 
-Ich werde, was ich im Schliffe finde, beschreiben und das Wesentliche abbilden, damit der Leser sich selbst orientieren kann. Zum Verständnis dieses Schliffes muss man schon das Bild aus dem Laurentian-Gneis Taf. XVII. 4. XIX. 3 zu Hilfe nehmen.
+Ich werde, was ich im Schliffe finde, beschreiben und das Wesentliche abbilden, damit der Leser sich selbst orientieren kann. Zum Verständnis dieses Schliffes muss man schon das Bild aus dem Laurentian-Gneis Taf. 17 F. 4. Taf. 19 F. 3 zu Hilfe nehmen.
 
 Auf den ersten Blick erscheint Alles als ein Gemisch von Feldspat und Quarz-Körner mit Glimmer und etwas Hornblende. Sind es Sprünge, welche den Schliff durchziehen? Sind es Kristallflächen? Es sind keine Sprünge da, keine Kristalle.
 
@@ -828,21 +828,21 @@ Plötzlich springt das Gesetz in die Augen!
 
 Das ganze Gestein löst sich in Pflanzenzellen auf und diese selbst stehen in organischem Zusammenhang.
 
-Taf. XVIII. Fig. 8. folg. mag als Anhaltspunkt für die Auflösung eines Granits dienen.
+Taf. 18. Fig. 8. folg. mag als Anhaltspunkt für die Auflösung eines Granits dienen.
 
 Merkwürdigeres noch bietet
 
 _Nr. 2. Granit von Altendamm_.
 
-Brutzellen siehe XVII. Fig. 16. 17. 18.
+Brutzellen siehe 17. Fig. 16. 17. 18.
 
-Eine Hornblende-Pflanze Taf. XVII. 15.
+Eine Hornblende-Pflanze Taf. 17. 15.
 
 Nicht minder löst sich
 
 _3. Gneisgranit vom St. Gotthardt_.
 
-Ein Pflanzenbild daraus XX. Fig. 1.
+Ein Pflanzenbild daraus 20. Fig. 1.
 
 _4. Cordieritgneis von Mittweida_
 
@@ -850,7 +850,7 @@ zeigt Taf. 20. Fig. 2. und 3.
 
 _5. Granulit von Hardtmannsdorf_.
 
-Taf. XIX. Fig. 14. 15. 16.
+Taf. 19. Fig. 14. 15. 16.
 
 _Granulit (und Granat)_.
 
@@ -866,13 +866,13 @@ Die kleinen mit bloßem Auge kaum unterscheidbaren rötlichen Punkte im Granulit
 
 Sie sind die Ausfüllung der mikroskopischen das Gestein horizontal durchwuchernden Pflanze, bezw. ihrer Kelche.
 
-Taf. XIX. Fig. 14. 15. 16.
+Taf. 19. Fig. 14. 15. 16.
 
 Ich zeichne einige solcher Pflanzen und bemerke nur, dass dieselben nach allen Seiten fortsetzen, Kelche haben, vorzugsweise aber in horizontaler Richtung liegen.
 
 Die großen Kristalle sind Ausfüllmassen der größeren Pflanzenart. Ich nenne die kleinere Art zu Ehren des Herrn Prof. Oswald Heer
 
-_Granatina Heeri_.
+_Granatina heeri_.
 
 Auch hier muss man sich freilich durch das Prototyp der Urpflanze leiten lassen, dann bleibt kein Zweifel.
 
@@ -896,7 +896,7 @@ _6. Quarzporphyr von Schwärz bei Halle_.
 
 Eine schlammige Grundmasse mit unzähligen Zellmembranen aber auch lebenden Pflanzen.
 
-Taf. XX. Fig. 4. folg.
+Taf. 20. Fig. 4. folg.
 
 Nun füge ich noch bei
 
@@ -904,19 +904,19 @@ Darstellungen
 
 eines _Laurentian-Gneises_ von Canada
 
-Taf. XIX. Fig. 1-8.,
+Taf. 19. Fig. 1-8.,
 
 eines _Hornblendegesteins_ von Montreal
 
-Taf. XIX. Fig. 9.,
+Taf. 19. Fig. 9.,
 
 eines _Protogyns_ vom Montblanc
 
-Taf. XIX. Fig. 17. 18. 19. 20.,
+Taf. 19. Fig. 17. 18. 19. 20.,
 
 eines _Gneises_ vom Montblanc
 
-Taf. XX. Fig. 1.
+Taf. 20. Fig. 1.
 
 _7. Protogyn_.
 
@@ -936,9 +936,9 @@ Die wasserhellen Zellen bestehen aus Quarz: sie nehmen den größten Teil des Ge
 
 Ich bilde eine Pflanze, mehrere Endzellen und Brutzellen ab.
 
-Ebenso die Wurzel-Zelle. Taf. XIX. Fig. 17-20.
+Ebenso die Wurzel-Zelle. Taf. 19. Fig. 17-20.
 
-#### VII.
+#### 7.
 
 Ich versuche es nach diesen Ergebnissen,
 
@@ -1004,7 +1004,7 @@ Ebenso enthält Gabbro, Talk-Pflanzen.
 
 Man betrachte die Gestalt der Ur-Pflanze und man wird sie überall wieder finden.
 
-Man präge sich die Form derselben Tafel XVIII. ein, nehme ein Stück grobkörnigen Granit und man wird die Form so scharf gezeichnet sehen, als die eines Ammoniten im Jura.
+Man präge sich die Form derselben Tafel 18. ein, nehme ein Stück grobkörnigen Granit und man wird die Form so scharf gezeichnet sehen, als die eines Ammoniten im Jura.
 
 ***
 
@@ -1126,7 +1126,7 @@ Die Träume von Verwandlung eines Gesteins ins andere lösen sich auf.
 
 Denn wenn des Gesteins-Art und Struktur von der Pflanze abhängt, aus deren Körper das Gestein wurde, so kann ein ursprüngliches Gestein nicht — ein anderes werden. Ist so wenig möglich als eine Eiche in eine Palme, und eine Palme in eine Eiche sich verwandelt.
 
-#### VIII. Carrararischer Marmor.
+#### 8. Carrararischer Marmor.
 
 Ich bezog eine weiße Platte mit grauen Flecken zu einem Buffet welches mir als Kasten für meine Steinschliffe dient.
 
@@ -1136,21 +1136,21 @@ Ich rieb sie.
 
 — Plötzlich was sah ich!
 
-Kelche von 1 Meter Länge. Taf. XXI.
+Kelche von 1 Meter Länge. Taf. 21.
 
 Ich nenne sie
 
-_Marmora Darwini_.
+_Marmora darwini_.
 
 Mein Schreibtisch hat dieselbe Platte, aber nur mit etwas weniger deutlichen Pflanzen.
 
 Ich schrieb also eine ganze Abhandlung über die Urzelle auf der Urzelle, denn der ganze Marmor ist nichts als Pflanze. Wirklich — nicht bloß Ironie des Schicksals.
 
-#### IX. Nachtrag.
+#### 9. Nachtrag.
 
 Ich habe den Ophicalit von Krummau in Böhmen, ferner den von Passau untersucht: dieselben, welche Gümbel und v. Hochstetter als Eozoon erklärten. Beide enthalten Pflanzen, jedoch nicht so viele, als das canadische Gestein. Der „Warzenansäze“ Gümbels habe ich schon gedacht.
 
-#### X. Basalt.
+#### 10. Basalt.
 
 Ich wollte den Basalt blos gelegentlich besprechen. Ich konnte mir aber doch nicht versagen, dieses von den Vulkanisten am eifrigsten umworbene Gestein einer genaueren Untersuchung zu unterziehen.
 
@@ -1158,7 +1158,7 @@ Ich habe 2 Basalte von Biberich.
 
 Beide haben 3 cm. lange Pflanzen (ohne alle Unterbrechung) Zelle an Zelle gefügt.
 
-Der Dünnschliff zeigt ein vollständiges zusammenhängendes Pflanzen-Netz. Es kann sich daher bei beiden nicht darum handeln, dass sie etwa blos eingelagerte Pflanzen (Leichen) enthalten. Die Pflanzen sind durchaus erhalten, also, wie ich sie nenne, lebende. Dasselbe Verhältniss ist bei den Alb-(Nephelin)Basalten. Einzelzeichnungen Taf. XXVIII. 1-7.
+Der Dünnschliff zeigt ein vollständiges zusammenhängendes Pflanzen-Netz. Es kann sich daher bei beiden nicht darum handeln, dass sie etwa blos eingelagerte Pflanzen (Leichen) enthalten. Die Pflanzen sind durchaus erhalten, also, wie ich sie nenne, lebende. Dasselbe Verhältniss ist bei den Alb-(Nephelin)Basalten. Einzelzeichnungen Taf. 28. 1-7.
 
 In jedem Basaltstück, besonders den leicht angewitterten, lassen sich die Pflanzen erkennen. Die Frage ist jetzt nur noch: was ist Basalt, was ist Lava?
 
@@ -1170,7 +1170,7 @@ Der Basalt ist ein Eruptivgestein: er rührt aber von Schlammausbrüchen, ebenso
 
 Es wäre von grossem Interesse (es ist meines Wissens noch nicht geschehen), dass man die neueren Schlammausbrüche in der Tiefe, wo sie rein erhalten sind, untersucht.
 
-#### XI. Feldspath.
+#### 11. Feldspath.
 
 Auch über dieses Mineral muss ich noch einige besondere Bemerkungen machen.
 
@@ -1196,11 +1196,11 @@ Perthit von Granville Canada sind die schönsten macroscopischen Pflanzen. Ebens
 
 ***
 
-Ein Bild eines Hauyngesteins bietet Tafel XXII. Hornblende schräg, Hauyn horizontal schraffirt, das schwarze ist Magnetit, das übrige Gestein (Feldspat)-Pflanze. Man sieht an dem Kelche links den Kelchstil als Crystall: einen Kelch in einen Hornblendecrystall verwandelt, zwei Brutzellen in Hauyn: ebenso an der Wurzelzelle und in diese Crystalle eingefügt das Bild der Pflanze!
+Ein Bild eines Hauyngesteins bietet Tafel 22. Hornblende schräg, Hauyn horizontal schraffirt, das schwarze ist Magnetit, das übrige Gestein (Feldspat)-Pflanze. Man sieht an dem Kelche links den Kelchstil als Crystall: einen Kelch in einen Hornblendecrystall verwandelt, zwei Brutzellen in Hauyn: ebenso an der Wurzelzelle und in diese Crystalle eingefügt das Bild der Pflanze!
 
-#### XII. Silur.
+#### 12. Silur.
 
-Die Algen des Urgebirgs setzen im Silur fort. In Quebec und Montreal habe ich eine ansehnliche Sammlung von Handstücken zusammengebracht. Pflanzenbilder daraus Taf. XXII. XXIII.
+Die Algen des Urgebirgs setzen im Silur fort. In Quebec und Montreal habe ich eine ansehnliche Sammlung von Handstücken zusammengebracht. Pflanzenbilder daraus Taf. 22. und 23.
 
 Von Quebec die Kalk- und Thonschichten, in Montreal Kalk und Hornblendegesteine.
 
@@ -1208,21 +1208,21 @@ Im Silur-Kalk von Quebec sind überall die Algen noch die Gesteinsbildner, dann 
 
 Der Mont real bei Montreal ist ein Hügel von Hornblende.
 
-Ich gebe einige Pflanzenbilder aus demselben in Tafel XXIV. Aber auch hier sind nicht die Pflanzen im Gestein, sondern das Gestein ist noch die Pflanze.
+Ich gebe einige Pflanzenbilder aus demselben in Tafel 24. Aber auch hier sind nicht die Pflanzen im Gestein, sondern das Gestein ist noch die Pflanze.
 
 In einer Kelchzelle, aber auch nur dort, fand ich die Bilder
 
-Tafel XXIV. Figur 5. 6. 7.
+Tafel 24. Figur 5. 6. 7.
 
 Ich hielt sie für eine Diatomacee und nenne sie
 
-_Diatoma Montreali_
+_Diatoma montreali_
 
 der Stadt Montreal zu Ehren, deren Gastfreundschaft ich genoss.
 
-Die Pflanzen-Form Taf. XXIV. Fig. 2. nenne ich
+Die Pflanzen-Form Taf. 24. Fig. 2. nenne ich
 
-_Parthenon Munderlohi_
+_Parthenon munderlohi_
 
 (deutscher Consul in Montreal), der mich auf der Excursion begleitete.
 
@@ -1230,13 +1230,13 @@ Merkwürdig sind Kieselknollen, die im Silur bei Montreal gefunden werden, amöb
 
 Ich nenne sie Herrn Dawson zu Ehren, der dort wohnt,
 
-_Photophoba Dawsoni_.
+_Photophoba dawsoni_.
 
 Mögen wir uns über diese Photophoba hinüber die Hand der Versöhnung reichen.
 
 Im Silur, schon in dem Hornblendegestein, sind riesige Formen. Eine Kelchzelle von 3 cm. Breite! und zwar dieselbe Form, aus welcher das Labrodorgestein gebildet ist.
 
-Taf. XXIII. Fig. 7.
+Taf. 23. Fig. 7.
 
 Ich nenne sie _Beyrichia_ zu Ehren des Herrn Prof. Beyrich. Eine Art Oldhamia.
 
@@ -1248,7 +1248,7 @@ Aber auch kleinere Formen gibt es, ja microscopische — das Silur ist noch vorz
 
 Hier beginnt erst das grosse Tierleben.
 
-#### XIII. Rückblick.
+#### 13. Rückblick.
 
 Im Silur findet die grösste Entwicklung der Individuen statt, dagegen nehmen sie in der Zahl ab.
 
@@ -1374,7 +1374,7 @@ _Roca Pichincha von Quito_ — lebende Pflanzen.
 
 _Hauyngestein von Tomlada-Lazio_ — lebende Pflanzen.
 
-Abbildung Tafel XXII.
+Abbildung Tafel 22.
 
 Schräg schraffirt Hornblende, gerade schraffirt Hauyn, dunkel Eisen. Hell gezeichnet weisse Glas- oder Feldspatmasse.
 
@@ -1382,7 +1382,7 @@ Wunderbare Zusammenfügung von Pflanze und Crystall!
 
 Ich nenne diese Pflanze zu Ehren Sr. K. Hoheit des Kronprinzen Rudolph von Oestreich, des eifrigen Naturforschers,
 
-_Stygia Rudolphi_.
+_Stygia rudolphi_.
 
 ***
 
@@ -1398,7 +1398,7 @@ Sphaerulit hat macroscopische Pflanzen, todte eingebettet.
 
 Perlit von Antisana — lebende Pflanzen. Phonolit lebende Pflanzen.
 
-#### XIV. Die Ergebnisse dieser Entdeckungen.
+#### 14. Die Ergebnisse dieser Entdeckungen.
 
 sind bedeutend.
 
@@ -1454,7 +1454,7 @@ Freilich, man braucht auf das Denken nicht zu verzichten. Man kann auch im Kämm
 
 Auch die Freude an dem grossen Naturleben (am Ganzen) will ich nicht verderben. Im Gegenteil, ich möchte sie erst erweitern. Dieses ist nur möglich nach redlicher Arbeit am Ganzen. Dies ist die Beschäftigung mit dem Einzelnen, eine Beschäftigung, die nie ermattet und die grosse Schuld der Zeiten sandkornweise tilgt, diese Arbeit gibt uns allein einen wahren wissenschaftlichen Einblick ins Ganze.
 
-#### XV. Sandsteine.
+#### 15. Sandsteine.
 
 Die Huronian-Formation ist, wie ich vermuthe, ebenfalls eine Pflanzenschichte, wie die meisten Sandsteine.
 
@@ -1480,7 +1480,7 @@ So wird noch aus mancher haarsträubend geschilderten, ja sogar abgebildeten Rev
 
 Wo Platten und regelmässige Schichten-Ablagerungen sind, muss immer an Pflanzen gedacht werden. Die Pflanze ist ein zerbrechlicher Stoff, daher der schieferige Abgang.
 
-#### XVI. Meteorstein.
+#### 16. Meteorstein.
 
 von Knyahinya vom 6. Juni 1858.
 
@@ -1504,9 +1504,9 @@ Das Aussehen grau-grünlich, man sieht kleine metallische Punkte, ferner zwei du
 
 Die Formen, welche ich feststelle, sind folgende:
 
-_Urania Guilielmi_
+_Urania guilielmi_
 
-zu Ehren unseres Kaisers. Taf. XVII.
+zu Ehren unseres Kaisers. Taf. 17.
 
 Die Pflanze steht zwischen Alge und Farn.
 
@@ -1548,13 +1548,13 @@ Merkwürdigerweise zeigt Nr. 2. Meteor-Dünnschliff Tübinger Sammlung (Fundort 
 
 Doch halt —
 
-Der ganze Schliff ist eine Kelchzelle (das übrige Material ging beim Schleifen zu Grunde). Taf. XXVI. Fig. 2. in natürlicher Grösse. Fig. 4. (Lupe).
+Der ganze Schliff ist eine Kelchzelle (das übrige Material ging beim Schleifen zu Grunde). Taf. 26. Fig. 2. in natürlicher Grösse. Fig. 4. (Lupe).
 
 Dieser Dünnschliff ist völlig durchzogen mit einer schlingpflanzartigen Alge (wie ich sie in den Algen des Laurentian-Serpentins beobachtet habe).
 
 Die Masse ist Olivin.
 
-Am Rande des Kelches sitzen graue Kelche. Taf. XXVI. Fig. 5. 6. 7. 8.
+Am Rande des Kelches sitzen graue Kelche. Taf. 26. Fig. 5. 6. 7. 8.
 
 Die Schlingalge ist dunkler Olivin, metallisches (gediegenes?) Eisen ist überall ausgeschieden und bildet nun die Prothallien.
 
@@ -1568,35 +1568,35 @@ _Heliola caroli_
 
 unserem König zur Ehre.
 
-2. Ein weiterer Schliff (Fundort unbekannt) Taf. XXVI. Fig. 9. natürliche Grösse. Fig. 1. u. 3. Teile 1/90.
+2. Ein weiterer Schliff (Fundort unbekannt) Taf. 26. Fig. 9. natürliche Grösse. Fig. 1. u. 3. Teile 1/90.
 
 3. Meteorstein von Pultusk
 
-Taf. XXVII. 3. 1/2. Der ganze Schliff.
+Taf. 27. 3. 1/2. Der ganze Schliff.
 
 4. Desgl. 1. u. 2. 1/90. 
 
-Vergleiche Taf. XXVIII. Fig. 1. Basalt.
+Vergleiche Taf. 28. Fig. 1. Basalt.
 
-5. Dhurmsala 1/90. Taf. XXVII. Fig. 7.
+5. Dhurmsala 1/90. Taf. 27. Fig. 7.
 
-6. Hainholz. Taf. XXVII. 9. u. 10. 1/2.
+6. Hainholz. Taf. 27. 9. u. 10. 1/2.
 
 Diese Pflanze nenne ich dem mit Unrecht vergessenen schwedischen Naturforscher Imanuel von Swedenborg zu Ehren:
 
 _Sphaerothallium swedenborgi_.
 
-7. Ensisheim. Taf. XXVII. 4. 1/2.
+7. Ensisheim. Taf. 27. 4. 1/2.
 
 8. Schliff aus der Tübinger Sammlung.
 
-#### XVII. Meteoreisen.
+#### 17. Meteoreisen.
 
 Nachdem der Meteorstein von Knyahinya und andere untersucht waren, nahm ich Meteoreisen vor.
 
 Als sicherstes Kennzeichen des ächten Meteor-Eisens gelten die Widmannstättischen Figuren.
 
-Ihre wahre Gestalt geht aus Tafel XXIX. Fig. 1-9. (Meteoreisen von Toluca) hervor. Es sind Pflanzen und nichts als Pflanzen.
+Ihre wahre Gestalt geht aus Tafel 29. Fig. 1-9. (Meteoreisen von Toluca) hervor. Es sind Pflanzen und nichts als Pflanzen.
 
 ##### Pallaseisen.
 
@@ -1644,7 +1644,7 @@ Nun ist ein sicheres Erkennungszeichen für Meteoreisen gegeben.
 
 Das Eisen aus dem Basalt von Grönland ist nichts als Pflanze, ist also Meteoreisen.
 
-#### XVIII. Die Urzelle — Crystall-Pflanze — das Tier.
+#### 18. Die Urzelle — Crystall-Pflanze — das Tier.
 
 Bis jetzt hatte man keine Kenntniss von der wirklichen Form der Urzelle. Erst im Laufe meiner Untersuchung wurde sie mir klar und klar, dass sie auch die Grundform des tierischen Körpers sei. Dies geschah aber erst, nachdem ich Alles Bisherige gesehen und geschrieben hatte.
 
@@ -1652,7 +1652,7 @@ Man wusste nur, dass die Zelle eigentlich die Einheit des tierischen Körpers se
 
 Man kannte eine Unzahl Formen dieser Zelle, man kannte Verbindungen dieser Zellen zu Gefässen und Organen. Aber ein Ding, welches Urzelle und Urbild auch des menschlichen Körpers sein könnte, davon hatte man keine Ahnung.
 
-Dieses Urbild glaube ich in der Urzelle entdeckt zu haben, deren Wachstum ich auf Tafel XVIII. dargestellt habe. Die Weiterentwicklung derselben ist die Figur Taf. I. und Taf. XVIII. 8. XIX. 3. Die nähere Begründung später.
+Dieses Urbild glaube ich in der Urzelle entdeckt zu haben, deren Wachstum ich auf Tafel 18. dargestellt habe. Die Weiterentwicklung derselben ist die Figur Taf. 1. und Taf. 18. 8. Taf. 19. 3. Die nähere Begründung später.
 
 ***
 
@@ -1676,7 +1676,7 @@ Ich möchte übrigens die Frage hier offen lassen, ob die erste Form nicht blos 
 
 Ist sie nach oben, oder nach unten gerichtet?
 
-Ich habe auf Tafel XVIII. die Entwicklung der Zelle in ihrem ersten Stadium abgebildet.
+Ich habe auf Tafel 18. die Entwicklung der Zelle in ihrem ersten Stadium abgebildet.
 
 Ich möchte auch die Frage offen lassen, ob das, was ich als den Anfang bezeichnet habe, wirklich das erste Stadium der Entwicklung ist: ob also nicht die erste Zelle nach abwärts gerichtet ist? und dann erst der zweite Abschnitt der Zell-Bildung, nach oben, eintritt.
 
@@ -1722,7 +1722,7 @@ Die eigentliche Pflanze ist da, sobald eine Zelle ein selbständiges Ganze aus d
 
 Aus dieser entsteht dann, indem sie sich vom Boden loslöst und ihre Nahrung nicht durch die Wurzel vom Boden oder durch den Kelch aus der Luft, dem Wasser zieht, was nach oben oder aussen offene Nahrungsorgane voraussetzt — das Tier. Die Bewegung ist eine Folge davon.
 
-Titanus Bismarki Tafel XII. XIII. ist ein Schlauch, der sich festsetzen, aber auch frei bewegen kann, der seine Nahrung nicht mehr aus dem Stein, der Erde, zieht, sondern frei wählt, sich nach der Nahrung bewegt.
+_Titanus bismarki_ Tafel 12. 13. ist ein Schlauch, der sich festsetzen, aber auch frei bewegen kann, der seine Nahrung nicht mehr aus dem Stein, der Erde, zieht, sondern frei wählt, sich nach der Nahrung bewegt.
 
 Damit glaube ich auch den Begriff des Tiers einigermassen festgestellt zu haben.
 
@@ -1742,11 +1742,11 @@ Der Crystall ist die mit dem Entstehen stillstehende, abgeschlossene Zelle: die 
 
 Auch dies sind blos Entwürfe, Grundlinien. Möge die Zukunft sie bestätigen und verbessern.
 
-#### XIX. Der Krystall.
+#### 19. Der Krystall.
 
 Ich habe schon oben zur Untersuchung darüber aufgefordert, ob der Crystall wenigstens mit der Ur-Pflanzen-Zelle nicht in einem gewissen Zusammenhang stehe.
 
-Unsere Abbildungen Tab. XXII. XXVII. Fig. 5. 6. 8. legen die Frage nahe, ob der Crystall aus der Pflanze, oder die Pflanze aus dem Crystall entstanden sei.
+Unsere Abbildungen Taf. 22. und Taf. 27. Fig. 5. 6. 8. legen die Frage nahe, ob der Crystall aus der Pflanze, oder die Pflanze aus dem Crystall entstanden sei.
 
 Soviel aber ist mir sofort klar: wir müssen unsere Crystalle einer neuen Prüfung unterwerfen, nemlich in der Richtung, ob wir es wirklich mit Crystallen zu tun haben.
 
@@ -1762,7 +1762,7 @@ Das Ergebniss ist:
 
 Die Crystallform ist eine Umschreibung der Pflanzenform in der Art, dass sich überall eine Pflanze in dem Crystall eingezeichnet findet, oder der Crystall um die Pflanze liegt.
 
-Quarz. Tafel XXX. 9. 10.
+Quarz. Tafel 30. 9. 10.
 
 Ich finde in zwei dünnen Quarzen die Figuren der Urpflanzenform ein-, aber auch auf der Seite aufgezeichnet. Die Einschlüsse und gewisse dunkle und helle Stellen bezeichnen die Gestalt der eingelagerten Pflanze.
 
@@ -1770,7 +1770,7 @@ Die matten Flächen des Quarzes auf dem Dihexaeder, welche als Zwillingsbildung 
 
 ***
 
-Aragonit, Herrengrund. Zwillinge, Drillinge. Tafel XXX. 5.
+Aragonit, Herrengrund. Zwillinge, Drillinge. Tafel 30. 5.
 
 Auf der geraden Endfläche sind soviele Pflanzen als Crystalle.
 
@@ -1794,7 +1794,7 @@ Die Kelchblätter selbst sind in Glimmer verwandelt.
 
 ***
 
-Pinit. Taf. XXX. Fig. 15. 16.
+Pinit. Taf. 30. Fig. 15. 16.
 
 Soviel Pflanzen, soviel Säulen. (Wahrscheinlich dasselbe Gesetz beim Turmalin, überhaupt bei der Säulenform.)
 
@@ -1804,7 +1804,7 @@ Auf jeder Säulenfläche eine Pflanze.
 
 ***
 
-Smaragd, Beryll. Ebenso. Tafel XXX. Fig. 13.
+Smaragd, Beryll. Ebenso. Tafel 30. Fig. 13.
 
 ***
 
@@ -1822,7 +1822,7 @@ _Diamant_.
 
 Kelchausfüllung: schliesst Brutzellen ein.
 
-#### XX. Schluss.
+#### 20. Schluss.
 
 Ich glaube, man kann drei Zeitalter der Erde annehmen, das Alter des Siliciums (der Kieselerde), das des Aluminiums (des Thons), das des Calciums (des Kalks).
 
@@ -1858,7 +1858,7 @@ Diese Frage soll eine offene sein.
 
 ***
 
-Man lese F. Zirkel, Lehrbuch der Petrographie, I. Band, über Graphit Seite 352, über Anthracit Seite 355 und vergleiche das dort Gesagte mit dem Ergebniss meiner Untersuchung, so wird sich das Geheimniss der Anthracitflöze im Granit und Gneis lösen. Zirkel ist, wie ich, der Ansicht, dass sich die Färbung der jüngeren Gesteine durch Anthracit erkläre.
+Man lese F. Zirkel, Lehrbuch der Petrographie, 1. Band, über Graphit Seite 352, über Anthracit Seite 355 und vergleiche das dort Gesagte mit dem Ergebniss meiner Untersuchung, so wird sich das Geheimniss der Anthracitflöze im Granit und Gneis lösen. Zirkel ist, wie ich, der Ansicht, dass sich die Färbung der jüngeren Gesteine durch Anthracit erkläre.
 
 Woher sollen diese Anthracit-Lager kommen, wenn der Granit nicht Pflanzen enthält, oder Pflanze war?
 
@@ -1868,7 +1868,7 @@ Ich halte wenigstens dafür, dass es keine einfachere Erklärung für ihr Entste
 
 Ich muss noch einmal auf die Verschiedenheit der Gesteine, welche man Serpentin nennt, hier zurückkommen. In dem canadischen Gneis-Serpentin ist das ursprüngliche Mineral wahrscheinlich Olivin oder Augit. Die Lager von Serpentin sind sicher Auslaugungen, Niederschläge aus wässeriger Lösung. Pikrolith etc. sind ebenso unzweifelhaft wässerige Niederschläge, während in dem Serpentin von Snarum noch die Gestalt des Olivins sich erhalten hat, was Quenstedt so überzeugend nachwies. Freilich mag jener Olivin schon Pflanzen eingeschlossen haben und daher die eigentümliche Textur.
 
-Der Umstand, dass unkundige Leute alle grünen durchsichtigen talkerde- und kieselerdehaltigen Minerale Serpentin nannten, kann natürlich zu nichts weiterem führen, als dass man die Serpentine nunmehr genauer untersucht und unterscheidet. Vergl. über Serpentin v. Draschke in Tschermak Mineralogische Mitteilungen I. 1871. S. 1. Kennt man die Form der Urpflanze, so wird es leicht sein, die ursprünglichen Serpentine und die abgeleiteten zu unterscheiden.
+Der Umstand, dass unkundige Leute alle grünen durchsichtigen talkerde- und kieselerdehaltigen Minerale Serpentin nannten, kann natürlich zu nichts weiterem führen, als dass man die Serpentine nunmehr genauer untersucht und unterscheidet. Vergl. über Serpentin v. Draschke in Tschermak Mineralogische Mitteilungen 1. 1871. S. 1. Kennt man die Form der Urpflanze, so wird es leicht sein, die ursprünglichen Serpentine und die abgeleiteten zu unterscheiden.
 
 ***
 
