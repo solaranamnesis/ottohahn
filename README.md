@@ -70,7 +70,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1881 - [More About the Animal Remains in the Meteorites](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/26/1) by David F. Weinland
 
-### 1881 - [Once Again the "Organisms of the Meteorite"](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/37/4) by Anton Rzehak
+### 1881 - [Yet Again the "Organisms of the Meteorite"](https://github.com/solaranamnesis/Das-Ausland/tree/master/1881/37/4) by Anton Rzehak
 
 ### 1881 - [The Meteorite and its Organisms](https://github.com/solaranamnesis/Hermann-Karsten) by Hermann Karsten
 
