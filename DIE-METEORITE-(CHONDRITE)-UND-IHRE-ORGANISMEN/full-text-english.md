@@ -212,7 +212,7 @@ Gümbel, having placed the meteorites as related to the olivine rocks of Earth, 
 
 Gümbel goes on to say that the material constituting the chondrites was formed by a disturbed crystallization and fragmentation resulting from explosive processes within a space filled with vapor and hydrogen gases supplying the minerals. He closes p. 72 with a discussion of the Kaba meteorite:
 
-"Perhaps, however, it is still possible to prove the presence of organic beings on extraterrestrial bodies." I hope this is successful. From his illustrations one can see that the investigation was based on bad material. After all, more thin sections should have been made and the magnification is far from enough. What I refer to is the upcoming description of my tables.
+"Perhaps, however, it is still possible to prove the presence of organic beings on extraterrestrial bodies." I hope that I have succeeded. — From his illustrations one can see that the investigation was based on bad material. After all, more thin sections should have been made and the magnification is far from enough. What I refer to is the upcoming description of my tables.
 
 What I value so highly in Gümbel's report is the scrupulous prejudice-free, let's say impartial, observations. I have allowed myself to quote the work of Gümbel literally because it is indeed difficult for me to summarize such representations and to separate fact from interpretation.
 
