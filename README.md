@@ -56,7 +56,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1863 - [A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin](https://github.com/solaranamnesis/Gustav-Rose) by Gustav Rose
 
-### 1875 - [About the Nature of the Stone Meteorite from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
+### 1875 - [On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
 
 ### 1878 - [About the Stone Meteorites Found in Bavaria](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
 
