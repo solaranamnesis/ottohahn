@@ -76,7 +76,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1882 - [About the Animal Remains Discovered in the Meteorites](https://github.com/solaranamnesis/David-Friedrich-Weinland) by David F. Weinland
 
-### 1882 - [The Claimed Organisms of the Meteorites](https://github.com/solaranamnesis/Karl-Christoph-Vogt) by Karl Vogt
+### 1882 - [The Alleged Organisms of the Meteorites](https://github.com/solaranamnesis/Karl-Christoph-Vogt) by Karl Vogt
 
 ### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill
 
