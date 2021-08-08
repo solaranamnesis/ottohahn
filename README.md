@@ -15,7 +15,7 @@ Figures are hyperlinked in the plain text versions and included at the end in th
 
 ## Background:
 
-"In the August 1881 issue of the New York magazine Science there is a long overlooked article entitled 'Mr. Darwin on Dr. Hahn's discovery of fossil organisms in meteorites'. Science was founded the preceding year by journalist John Michels with financial backing of Thomas Edison. Struggling to find a place in the popular science market, the illustrated weekly magazine was only published until March 1882. The current journal of the same name is a later incarnation. The article contains some extraordinary quotations from a lost Darwin letter or letters and, even more surprisingly, spoken words attributed to Darwin upon viewing meteorite specimens. The passage reads:
+"In the August 1881 issue of the New York magazine Science there is a long overlooked article entitled "Mr. Darwin on Dr. Hahn's Discovery of Fossil Organisms in Meteorites." Science was founded the preceding year by journalist John Michels with financial backing of Thomas Edison. Struggling to find a place in the popular science market, the illustrated weekly magazine was only published until March 1882. The current journal of the same name is a later incarnation. The article contains some extraordinary quotations from a lost Darwin letter or letters and, even more surprisingly, spoken words attributed to Darwin upon viewing meteorite specimens. The passage reads:
 
 Not content with the mere presentation of his work, Dr. Hahn visited the veteran zoologist and brought his preparations to him for inspection.
 No sooner had Mr. Darwin peered through the microscope on one of the finest specimens when he started up from his seat and exclaimed:
@@ -48,7 +48,7 @@ And after a pause of silent reflection he added:
 
 "Now reaches life down!"
 
-The latter remark no doubt refers to the proof furnished by Dr. Hahn's discovery that organisms can reach our planet from celestial space. It is an acknowledgment of the relief Mr. Darwin must have felt in not being forced to a belief in a primeval _"generatio equivoca"_.
+The latter remark no doubt refers to the proof furnished by Dr. Hahn's discovery that organisms can reach our planet from celestial space. It is an acknowledgment of the relief Mr. Darwin must have felt in not being forced to a belief in a primeval _"generatio equivoca."_
 
 As was suggested in the paper referred to, "the Richter-Thomson hypothesis of the origin of life on the earth has become a tangible reality!"
 
