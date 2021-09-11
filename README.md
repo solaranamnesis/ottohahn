@@ -56,9 +56,9 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1863 - [A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin](https://github.com/solaranamnesis/Gustav-Rose) by Gustav Rose
 
-### 1875 - [On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
+### 1875 - [On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Carl von Gümbel
 
-### 1878 - [About the Stone Meteorites Found in Bavaria](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Karl von Gümbel
+### 1878 - [About the Stone Meteorites Found in Bavaria](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Carl von Gümbel
 
 ### 1879 - [The Primordial Cell](https://github.com/solaranamnesis/ottohahn/tree/master/Die-Urzelle) by Otto Hahn
 
@@ -76,7 +76,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1882 - [About the Animal Remains Discovered in the Meteorites](https://github.com/solaranamnesis/David-Friedrich-Weinland) by David F. Weinland
 
-### 1882 - [The Alleged Organisms of the Meteorites](https://github.com/solaranamnesis/Karl-Christoph-Vogt) by Karl Vogt
+### 1882 - [The Alleged Organisms of the Meteorites](https://github.com/solaranamnesis/Karl-Christoph-Vogt) by Carl Vogt
 
 ### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill
 
