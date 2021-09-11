@@ -52,7 +52,7 @@ The latter remark no doubt refers to the proof furnished by Dr. Hahn's discovery
 
 As was suggested in the paper referred to, "the Richter-Thomson hypothesis of the origin of life on the earth has become a tangible reality!"
 
-## Timeline of Publications Pertaining to the Organic Theory of the Chondrites
+## Timeline of Publications Pertaining to the Petrified Organism Theory of the Chondrites
 
 ### 1863 - [A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin](https://github.com/solaranamnesis/Gustav-Rose) by Gustav Rose
 
