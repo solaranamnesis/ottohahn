@@ -42,7 +42,7 @@ Not content with the mere presentation of his work, Dr. Hahn visited the veteran
 
 No sooner had Mr. Darwin peered through the microscope on one of the finest specimens when he started up from his seat and exclaimed:
 
-"Almighty God! what a wonderful discovery! Wonderful!"
+"Almighty God! What a wonderful discovery! Wonderful!"
 
 And after a pause of silent reflection he added:
 
