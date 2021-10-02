@@ -78,6 +78,8 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1882 - [The Alleged Organisms of the Meteorites](https://github.com/solaranamnesis/Karl-Christoph-Vogt) by Carl Vogt
 
+### 1916 - [The Nummulosphere. Part 3: The Ocean Floor or Benthoplankton](https://github.com/solaranamnesis/randolph-kirkpatrick) by Randolph Kirkpatrick
+
 ### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill
 
 Merrill makes no mention of the organic theory in 1920, suggesting that the works of Hahn/Karsten/Weinland were forgotten/ignored by this time in the "accepted" literature on the chondrites.
