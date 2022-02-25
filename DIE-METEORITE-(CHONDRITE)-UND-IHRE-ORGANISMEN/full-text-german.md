@@ -1,6 +1,6 @@
 ![Cover Photograph](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg)
 
-# Die Meteorite (Chondrite) und ihre Organismen
+# Die Meteorit (Chondrit) und ihre Organismen
 
 ## Dargestellt und Beschrieben von Dr. Otto Hahn
 
