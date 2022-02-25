@@ -3,7 +3,7 @@
 
 ![Cover Photograph](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg)
 
-Attempt at a translation of Dr. Otto Hahn's 1880 book: "Die Meteorite (Chondrite) und ihre Organismen", from the original German to English, I welcome all pull requests of submitted translations and/or edits.
+Attempt at a translation of Dr. Otto Hahn's 1880 book: "Die Meteorit (Chondrit) und ihre Organismen", from the original German to English, I welcome all pull requests of submitted translations and/or edits.
 
 [English - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-english.md)  
 [English - PDF](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_die_meteorite_und_ihre_organismen_english_PDFlaTex.pdf)   
