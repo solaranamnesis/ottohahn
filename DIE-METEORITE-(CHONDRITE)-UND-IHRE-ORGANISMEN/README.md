@@ -1,4 +1,4 @@
-## Die Meteorite (Chondrite) und ihre Organismen (1880) by Dr. Otto Hahn (1828–1904)
+## Die Meteorit (Chondrit) und ihre Organismen (1880) by Dr. Otto Hahn (1828–1904)
 ### "The Meteorite (Chondrite) and its Organisms"
 
 ![Cover Photograph](https://cdn.solaranamnesis.com/OttoHahn/figures/meteorite_22-3_edit-b.jpg)
