@@ -257,7 +257,7 @@ Ich habe untersucht:
 1860 01 Mai New-Concord, Ohio.  
 1866 09 Juni Knyahinya, Ungarn.  
 1868 30 Jan. Pultusk, Warschau.  
-1872 31 Aug. Olvinio.  
+1872 31 Aug. Orvinio.  
 Simbirsk.
 
 Alle Gesteine sind durchaus beglaubigt. Ich habe hier vor Allem der Liberalität meines verehrten Lehrers, Herrn Professor Dr. [Friedrich August] von Quenstedt, mit welcher er mir die vorzügliche Tübinger Universitäts-Sammlung (welche bekanntlich zum größten Teil vom Freiherrn [Karl Ludwig] von Reichenbach in Wien stammt) dankend zu gedenken.
