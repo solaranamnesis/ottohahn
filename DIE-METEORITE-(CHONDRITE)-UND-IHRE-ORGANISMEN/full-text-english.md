@@ -251,8 +251,8 @@ Heredia, Costa Rica — April 1, 1857
 New Concord, Ohio — May 1, 1860  
 Knyahinya, Hungary [Ukraine] — June 9, 1866  
 Pultusk, Warsaw [Poland] — January 30, 1868  
-Olvinio — August 31, 1872  
-Simbirsk
+Orvinio [Italy] — August 31, 1872  
+Simbirsk [Russia — 1838]
 
 All rocks are thoroughly certified. Above all, I have the kindness of my revered teacher, Professor Dr. [Friedrich August] von Quenstedt, who thanked me with the excellent Tübingen University Collection (which, as is well known, originates for the most part from [Karl Ludwig] Baron von Reichenbach in Vienna).
 
