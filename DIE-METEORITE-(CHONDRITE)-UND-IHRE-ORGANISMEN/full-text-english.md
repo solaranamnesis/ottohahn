@@ -234,23 +234,23 @@ I prefer to study the chondrites, and where I speak of meteorites, I am referrin
 
 I have examined:
 
-Tabor, Böhmen — July 3, 1753  
-Siena, Toskana — June 16, 1794  
-L'Aigle, Normandy — April 26, 1803  
-Weston, Connecticut — December 14, 1807  
+Tábor, Böhmen [Czech Republic] — July 3, 1753  
+Siena, Tuscany [Italy] — June 16, 1794  
+L'Aigle, Normandy [France] — April 26, 1803  
+Weston, Connecticut [USA] — December 14, 1807  
 Tipperary, Ireland — November 23, 1810  
-Blansko, Brünn — November 25, 1833  
+Blansko, Brünn [Czech Republic] — November 25, 1833  
 Château-Renard, Loiret — July 12, 1841  
 Linn [Marion] County, Iowa — February 25, 1847  
 Cabarras [Monroe] County, North Carolina — October 31, 1849  
 Mezö-Madaras [Romania] — September 4, 1852  
-Borkut, Ungarn — October 13, 1852  
+Borkut, Hungary — October 13, 1852  
 Bremervörde, Hanover — May 13, 1855  
 Parnallee, East India [Tamil Nadu] — February 28, 1857  
 Heredia, Costa Rica — April 1, 1857  
 New Concord, Ohio — May 1, 1860  
-Knyahinya, Ungarn. — June 9, 1866  
-Pultusk, Warschau — January 30, 1868  
+Knyahinya, Hungary [Ukraine] — June 9, 1866  
+Pultusk, Warsaw [Poland] — January 30, 1868  
 Olvinio — August 31, 1872  
 Simbirsk
 
