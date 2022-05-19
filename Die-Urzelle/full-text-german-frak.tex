@@ -14,9 +14,26 @@
 \usepackage{fancyhdr}
 \usepackage{imakeidx}
 \usepackage{microtype}
-\makeindex[columns=2, title=Alphabetical Index, intoc]
+\usepackage[titles]{tocloft}
+\makeindex[columns=2, title=\frakfamily{Alphabetical Index}, intoc]
 \begin{document}
 \frakfamily
+\renewcommand{\contentsname}{
+\frakfamily{Inhaltsverzeichnis}
+}
+\renewcommand{\listfigurename}{
+\frakfamily{Abbildungsverzeichnis}
+}
+% fix toc page numbers
+\let\origcftsecfont\cft
+\let\origcftsecpagefont\cftsecpagefont
+\let\origcftsecafterpnum\cftsecafterpnum
+\renewcommand{\cftsecpagefont}{\frakfamily{\origcftsecpagefont}}
+\renewcommand{\cftsecafterpnum}{\frakfamily{\origcftsecafterpnum}}
+\let\origcftsubsecpagefont\cftsubsecpagefont
+\let\origcftsubsecafterpnum\cftsubsecafterpnum
+\renewcommand{\cftsubsecpagefont}{\frakfamily{\origcftsubsecpagefont}}
+\renewcommand{\cftsubsecafterpnum}{\frakfamily{\origcftsubsecafterpnum}}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	\scshape % Use small caps for all text on the title page
@@ -30,9 +47,9 @@
 	
 	\vspace{0.75\baselineskip} % Whitespace above the title
 	
-	{\LARGE Die Urzelle\\}
+	{\Huge Die Urzelle\\}
 	\vspace{0.75\baselineskip}
-	{\large Nebst dem Beweis\\ dass\\ Granit, Gneis, Serpentin, Talk, Gewisse\\ Sandsteine, auch Basalt, endlich\\ Meteorstein und Meteoreisen aus Pflanzen\\ Bestehen:\\ die Entwicklungslehre durch\\ Tatsachen neu Begr"undet\\} % Title
+	{\Large Nebst dem Beweis\\ dass\\ Granit, Gneis, Serpentin, Talk, Gewisse\\ Sandsteine, auch Basalt, endlich\\ Meteorstein und Meteoreisen aus Pflanzen\\ Bestehen:\\ die Entwicklungslehre durch\\ Tatsachen neu Begr"undet\\} % Title
 	
 	\vspace{0.75\baselineskip} % Whitespace below the title
 	
@@ -45,7 +62,7 @@
 	%	Subtitle
 	%------------------------------------------------
 	
-	{von\\ \scshape\Large Dr. Otto Hahn\\} % Subtitle or further description
+	{\Large von\\ \LARGE Dr. Otto Hahn\\} % Subtitle or further description
 	
 	\vspace*{1\baselineskip} % Whitespace under the subtitle
 	
@@ -78,10 +95,14 @@
 \setlength{\parskip}{1mm plus1mm minus1mm}
 \setcounter{tocdepth}{2}
 \setcounter{secnumdepth}{3}
+\pagestyle{fancy}
+\fancyhf{}
+\cfoot{\frakfamily{\thepage}}
 \tableofcontents
 \clearpage
 \listoffigures
 \clearpage
+\LARGE
 \section*{\frakfamily{Vorrede}}
 \paragraph{}
 Es gibt wohl keine Wissenschaft, welche nicht und zwar gerade da, wo sie es am wenigsten w"unscht, wei"se Bl"atter in ihrem goldenen Buche aufzuweisen h"atte.
