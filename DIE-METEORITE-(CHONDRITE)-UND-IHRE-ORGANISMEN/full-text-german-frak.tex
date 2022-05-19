@@ -13,9 +13,27 @@
 \usepackage{fancyhdr}
 \usepackage{microtype}
 \usepackage{imakeidx}
-\makeindex[columns=2, title=Alphabetischer Index, intoc]
+\usepackage[titles]{tocloft}
+\makeindex[columns=2, title=\frakfamily{Alphabetischer Index}, intoc]
 \begin{document}
 \frakfamily
+\renewcommand{\contentsname}{
+\frakfamily{Inhaltsverzeichnis}
+}
+\renewcommand{\listfigurename}{
+\frakfamily{Abbildungsverzeichnis}
+}
+% fix toc page numbers
+\let\origcftsecfont\cft
+\let\origcftsecpagefont\cftsecpagefont
+\let\origcftsecafterpnum\cftsecafterpnum
+\renewcommand{\cftsecpagefont}{\frakfamily{\origcftsecpagefont}}
+\renewcommand{\cftsecafterpnum}{\frakfamily{\origcftsecafterpnum}}
+\let\origcftsubsecpagefont\cftsubsecpagefont
+\let\origcftsubsecafterpnum\cftsubsecafterpnum
+\renewcommand{\cftsubsecpagefont}{\frakfamily{\origcftsubsecpagefont}}
+\renewcommand{\cftsubsecafterpnum}{\frakfamily{\origcftsubsecafterpnum}}
+
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	\scshape % Use small caps for all text on the title page
@@ -79,10 +97,14 @@
 \setlength{\parskip}{1mm plus1mm minus1mm}
 \setcounter{tocdepth}{2}
 \setcounter{secnumdepth}{3}
+\pagestyle{fancy}
+\fancyhf{}
+\cfoot{\frakfamily{\thepage}}
 \tableofcontents
 \clearpage
 \listoffigures
 \clearpage
+\LARGE
 \section{\frakfamily{Einleitung}}
 \subsection{\frakfamily{Einleitung}}
 \paragraph{}
@@ -200,11 +222,13 @@ Es folgt nun zun"achst eine kurze Darstellung der bisherigen Ansichten "uber die
 Nur die morphologischen Arbeiten "uber einzelne Meteorite\index{Meteorite}, von der Zeit an, als man das Mikroskop in der Geologie anzuwenden begann, sollen aufgez"ahlt werden.
 
 Was das Mikroskop bis jetzt zur Deutung der Meteorite\index{Meteorite} geliefert hat, das ist, abgesehen von den vergr"o"serten Olivinkristallen in [Nikolai Ivanovich] Kokscharow's \emph{Mineralien Russlands VI} Band S. 4, in folgenden Schriften enthalten:
+\large
 \begin{enumerate}
 \item Gustav Tschermak: "`die Tr"ummerstruktur der Meteoriten von Orvinio\index{meteorite!Orvinio} und Chantonnay"', vorgelegt in der Sitzung der K. Akademie der Wissenschaften (Wien) am 12. November 1874. (XX. Band der Sitzungsberichte der K. Akademie der Wissenschaften, I. Abteilung, November-Heft 1874. Mit 2 Tafeln.)
 \item Alexander Makowsky\index{Makowsky} und G. Tschermak: "`Bericht "uber den Meteoritenfall bei Tieschitz in M"ahren"'. Mit 5 Tafeln und 2 Holzschnitten, vorgelegt in der Sitzung der mathematisch-naturwissenschaftlichen Klasse (der Kgl. Akademie der Wissenschaften in Wien) am 21. November 1878. XXIX. Band der Denkschriften der genannten Klasse.
 \item Johann Gottfried Galle und [Arnold Constantin Peter Franz] von Lasaulx\index{Lasaulx}, vorgelegt von [Christian Friedrich Martin] Websky: "`Bericht "uber den Meteorsteinfall bei Gnadenfrei am 17. Mai 1879"'. Sitzung vom 31. Juli 1879. Monatsberichte der K. preu"sischen Akademie zu Berlin.
 \end{enumerate}
+\LARGE
 \paragraph{}
 Die fr"uheren Beschreibungen beschr"anken sich auf die Untersuchung mit blo"sem Auge und der Lupe, sowie die chemische Analyse.
 
@@ -245,6 +269,7 @@ Die Meteorite\index{Meteorite} werden eingeteilt in Eisen und Steine, zwischen b
 Ich habe mich vorzugsweise mit den Chondriten besch"aftigt und, wo ich von Meteoriten rede, rede ich von dieser allerdings auch am zahlreichsten vertretenen Klasse von Stein-Meteoriten.
 \paragraph{}
 Ich habe untersucht:
+\normalsize
 \begin{center}
 \begin{tabular}{ l r }
  Tabor, B"ohmen [Tschechische Republik] & July 3, 1753\index{Meteorite!Tabor} \\
@@ -268,7 +293,7 @@ Ich habe untersucht:
  Simbirsk [Russland] & [1838]\index{Meteorite!Simbirsk} \\
 \end{tabular}
 \end{center}
-\clearpage
+\LARGE
 \paragraph{}
 Alle Gesteine sind durchaus beglaubigt. Ich habe hier vor Allem der Liberalit"at meines verehrten Lehrers, Herrn Professor Dr. [Friedrich August] von Quenstedt, mit welcher er mir die vorz"ugliche T"ubinger Universit"ats-Sammlung (welche bekanntlich zum gr"o"sten Teil vom Freiherrn [Karl Ludwig] von Reichenbach in Wien stammt) dankend zu gedenken.
 
@@ -763,7 +788,7 @@ Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirklic
 \pagestyle{fancy}
 \fancyhf{}
 \rhead{\frakfamily{Tafel 1: Zusammenstellung von Mineral-Strukturen mit organischen aus Chondriten\index{chondrite}}}
-\cfoot{\thepage}
+\cfoot{\frakfamily{\thepage}}
 \begin{figure}[b]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_1-1_edit-b2.jpg}
 \caption{\frakfamily{Tafel 1: Figur 1 --- Enstatit (-Bronzit) vom Kupferberg V.}}
@@ -1648,7 +1673,6 @@ Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirklic
 \centering
 \end{figure}
 \clearpage
-\pagestyle{plain}
 \printindex
 \clearpage
 \end{document}
