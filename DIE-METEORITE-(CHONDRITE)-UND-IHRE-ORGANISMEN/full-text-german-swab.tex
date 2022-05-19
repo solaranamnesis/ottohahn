@@ -13,6 +13,7 @@
 \usepackage{fancyhdr}
 \usepackage{microtype}
 \usepackage{imakeidx}
+\usepackage[titles]{tocloft}
 \makeindex[columns=2, title=\swabfamily{Alphabetischer Index}, intoc]
 \begin{document}
 \swabfamily
@@ -22,6 +23,14 @@
 \renewcommand{\listfigurename}{
 \swabfamily{Abbildungsverzeichnis}
 }
+% fix toc page numbers
+\let\origcftsecpagefont\cftsecpagefont
+\let\origcftsecafterpnum\cftsecafterpnum
+\renewcommand{\cftsecpagefont}{\swabfamily{\origcftsecpagefont}}
+\let\origcftsubsecpagefont\cftsubsecpagefont
+\let\origcftsubsecafterpnum\cftsubsecafterpnum
+\renewcommand{\cftsubsecpagefont}{\swabfamily{\origcftsubsecpagefont}}
+% fix list of index page numbers
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	\scshape % Use small caps for all text on the title page
