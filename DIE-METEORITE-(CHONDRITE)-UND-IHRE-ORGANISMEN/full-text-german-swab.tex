@@ -15,6 +15,11 @@
 \usepackage{imakeidx}
 \usepackage[titles]{tocloft}
 \makeindex[columns=2, title=\swabfamily{Alphabetischer Index}, intoc]
+\usepackage{sectsty}
+
+\sectionfont{\Huge}
+\subsectionfont{\LARGE}
+\subsubsectionfont{\LARGE}
 \begin{document}
 \swabfamily
 \renewcommand{\contentsname}{
@@ -24,13 +29,16 @@
 \swabfamily{Abbildungsverzeichnis}
 }
 % fix toc page numbers
+\let\origcftsecfont\cft
 \let\origcftsecpagefont\cftsecpagefont
 \let\origcftsecafterpnum\cftsecafterpnum
 \renewcommand{\cftsecpagefont}{\swabfamily{\origcftsecpagefont}}
+\renewcommand{\cftsecafterpnum}{\swabfamily{\origcftsecafterpnum}}
 \let\origcftsubsecpagefont\cftsubsecpagefont
 \let\origcftsubsecafterpnum\cftsubsecafterpnum
 \renewcommand{\cftsubsecpagefont}{\swabfamily{\origcftsubsecpagefont}}
-% fix list of index page numbers
+\renewcommand{\cftsubsecafterpnum}{\swabfamily{\origcftsubsecafterpnum}}
+
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	\scshape % Use small caps for all text on the title page
@@ -44,7 +52,7 @@
 	
 	\vspace{0.75\baselineskip} % Whitespace above the title
 	
-	{\LARGE Die Meteorite (Chondrite)\\ und\\ ihre Organismen\\} % Title
+	{\Huge Die Meteorit (Chondrit)\\ und\\ ihre Organismen\\} % Title
 	
 	\vspace{0.75\baselineskip} % Whitespace below the title
 	
@@ -57,11 +65,11 @@
 	%	Subtitle
 	%------------------------------------------------
 	
-	{Dargestellt und Beschrieben\\ von\\ \scshape\Large Dr. Otto Hahn\\} % Subtitle or further description
+	{\Large Dargestellt und Beschrieben\\ von\\ \scshape\Large Dr. Otto Hahn\\} % Subtitle or further description
 	
 	\vspace*{1\baselineskip} % Whitespace under the subtitle
 	
-    {\small 32 Tafeln mit 142 Abbildungen} % Subtitle or further description
+    {\large 32 Tafeln mit 142 Abbildungen} % Subtitle or further description
     
 	%------------------------------------------------
 	%	Editor(s)
@@ -117,15 +125,15 @@ Das was mir meine bei einem anstrengenden Beruf fast "uber Menschenkraft gehende
 
 Es ist die Tierwelt in einem Gesteine, welches auf unsere Erde herabfiel und uns Kunde brachte von kleinsten Wesen aus fernsten R"aumen --- eine Tierwelt, welche zu erblicken ein sterbliches Auge kaum hoffen konnte: eine Welt von Wesen, welche uns zeigt, dass dieselbe Sch"opferkraft, welche unsere Erde aus einem Dunstnebel hat werden lassen, "uberall und gleichm"a"sig im Weltraum gewirkt und geschafft hat.
 
-Freilich weist das Gestein der Meteorite\index{Meteorite} und zwar der Chondrite --- denn diese sind's, welche ich vorzugsweise zum Gegenstand meiner Untersuchung machte, --- keine Tiere h"oheren Baus auf; Alles sind niedere Tiere --- dieselben, welche in unseren Silurschichten vorherrschen --- Schw"amme, Korallen und Crinoiden\index{Crinoid}, und auch in ihren Spezies-Merkmalen stimmen sie mit dieser Sch"opfung.
+Freilich weist das Gestein der Meteorit\index{Meteorit} und zwar der Chondrite --- denn diese sind's, welche ich vorzugsweise zum Gegenstand meiner Untersuchung machte, --- keine Tiere h"oheren Baus auf; Alles sind niedere Tiere --- dieselben, welche in unseren Silurschichten vorherrschen --- Schw"amme, Korallen und Crinoiden\index{Crinoid}, und auch in ihren Spezies-Merkmalen stimmen sie mit dieser Sch"opfung.
 
 Das Gestein der Chondrite, welche ich untersucht habe, ist ein Olivin-Enstatit-Gestein. Es hat von der Zeit seiner Entstehung, vom Tierknochen, bis es fiel, Verwandlungen durchgemacht, aber keine erhebliche: es ist nur von einer Silicatl"osung durchtr"ankt worden, wie alle unsere Jurameer-Ablagerungen von einer L"osung von Kalk. Wahrscheinlich machte es, so lange es noch ein Teil eines Planeten war, noch mehr Planeten-Perioden durch, wie auch den tieferen Schichten unserer Erde andere gefolgt sind, unter deren Einfluss dann die fr"uheren eine gewisse, freilich nicht so erhebliche Umwandlung als man gew"ohnlich annimmt, erfahren haben.
 
 Wesentlich ge"andert hat sich nur die Oberfl"ache des Gesteins und zwar im letzten Augenblick seines planetarischen Lebens durch den Einfluss der Reibungsw"arme, entstanden im Falle durch die Erdatmosph"are. Doch das Bild des urspr"unglichen Gesteins ist im Wesentlichen geblieben. Wir sehen nun vor uns ein St"uck Planeten wie er im Werden war, und damit ist uns die Geschichte unseres Erdk"orpers aufgeschlossen, sofern wir ein Recht haben von der Bildung eines seiner Bewegung nach gleichartigen, in seiner chemischen Zusammensetzung gleichen Weltk"orpers auf die gleiche Bildung der Erde zu schlie"sen und umgekehrt.
 
-Gleichzeitig war mir durch die Zusendung des "`Meteorite von Ovifak"' (ich verdanke ihn der G"ute des Herrn Professors Dr. von Nordenskj"old) Gelegenheit geboten, dieses Gestein in die Untersuchung hereinzuziehen.
+Gleichzeitig war mir durch die Zusendung des "`Meteorit von Ovifak"' (ich verdanke ihn der G"ute des Herrn Professors Dr. von Nordenskj"old) Gelegenheit geboten, dieses Gestein in die Untersuchung hereinzuziehen.
 
-Ich halte es f"ur irdisch --- halte es f"ur die tiefste Schichte unserer Erde, der Olivinschichte, die unter dem Granit lagert, angeh"orend. Ich nenne die urspr"ungliche Schichte Olivin-Formation. Da das Gestein einem Meteorite\index{Meteorite} sehr "ahnlich ist, lag es nahe, dasselbe f"ur einen solchen zu erkl"aren. Die Gr"unde, warum ich es nicht f"ur meteoritisch, sondern f"ur den wahren Erdkern halte, sind in diesem Buche niedergelegt.
+Ich halte es f"ur irdisch --- halte es f"ur die tiefste Schichte unserer Erde, der Olivinschichte, die unter dem Granit lagert, angeh"orend. Ich nenne die urspr"ungliche Schichte Olivin-Formation. Da das Gestein einem Meteorit\index{Meteorit} sehr "ahnlich ist, lag es nahe, dasselbe f"ur einen solchen zu erkl"aren. Die Gr"unde, warum ich es nicht f"ur meteoritisch, sondern f"ur den wahren Erdkern halte, sind in diesem Buche niedergelegt.
 
 So haben wir zwei feste Punkte gewonnen, von welchen aus ein Hebel angesetzt werden kann.
 
@@ -146,15 +154,15 @@ In solchen Anf"angen sind Irrt"umer unvermeidlich, es ist daher nur eine Forderu
 \subsection{\swabfamily{Geschichte und "Uberblick}}
 $\Delta$o$\sigma$ $\mu$o$\iota$ $\chi\epsilon\nu\tau\rho$o$\nu$%Δός μοι χέντρον
 \paragraph{}
-Als ich im vorigen Jahre mein Tagebuch enthaltend gewisse neue Beobachtungen "uber die Zusammensetzung der Gesteine unserer Erde und schlie"slich auch der Meteorite\index{Meteorite}, niederschrieb, war mir die Wichtigkeit der letzteren f"ur unsere Erdkunde noch nicht v"ollig klar.
+Als ich im vorigen Jahre mein Tagebuch enthaltend gewisse neue Beobachtungen "uber die Zusammensetzung der Gesteine unserer Erde und schlie"slich auch der Meteorit\index{Meteorit}, niederschrieb, war mir die Wichtigkeit der letzteren f"ur unsere Erdkunde noch nicht v"ollig klar.
 
-Erst als ich durch die Angriffe der Gegner gezwungen war, die Untersuchung aufs Neue in die Hand zu nehmen, trat es mir klar vor die Augen, welch' hohe Bedeutung eine sorgf"altige Erforschung der Meteorite\index{Meteorite} f"ur die Geschichte unserer Erde haben m"usse. Zuletzt kam ich zu der "Uberzeugung, dass bei dem jetzigen Stand unserer Erdkunde die Meteorite\index{Meteorite} und nur die Meteorite\index{Meteorite} den Punkt abg"aben, von welchem aus unsere Erdgeschichte wenigstens mit ziemlicher Sicherheit erforscht werden k"onne.
+Erst als ich durch die Angriffe der Gegner gezwungen war, die Untersuchung aufs Neue in die Hand zu nehmen, trat es mir klar vor die Augen, welch' hohe Bedeutung eine sorgf"altige Erforschung der Meteorit\index{Meteorit} f"ur die Geschichte unserer Erde haben m"usse. Zuletzt kam ich zu der "Uberzeugung, dass bei dem jetzigen Stand unserer Erdkunde die Meteorit\index{Meteorit} und nur die Meteorit\index{Meteorit} den Punkt abg"aben, von welchem aus unsere Erdgeschichte wenigstens mit ziemlicher Sicherheit erforscht werden k"onne.
 
-Wenn ich also in meiner \emph{Urzelle} mit dem Granit die m"ogliche Grenze der Forschung erreicht zu haben glaubte, so wurde ich bald eines Bessern belehrt. Ich erwog, dass unser Erdkern verm"oge seines spezifischen Gewichts ebenfalls mindestens aus gediegenem Eisen bestehen m"usse, erwog ferner die sehr wahrscheinliche Reihenfolge in den Meteorite\index{Meteorite}n, welche vom reinen Eisen bis zu den Feldspatgesteinen unserer Erde geht. Ich glaubte ferner, dass ein R"uckschluss von unserer Erde auf die Meteorite\index{Meteorite} gewagt werden d"urfe, der Schluss, dass auch in den "ubrigen Planeten und in denjenigen oder demjenigen, deren (oder dessen) Tr"ummer wir wohl in den hunderttausend von kreisenden Meteoriten vor uns haben, eine Reihenfolge der Schichtung vom Schweren zum Leichten bestanden habe, eine Schicht-Folge, welche wir wahrscheinlich in der Reihe vom reinen Eisen durch die Halbeisen (Pallasite, Hainholz) hindurch zu den Chondriten und Eukriten, dann zu den Ton-(Kohle-)Meteoriten (Bokkefeld) vor uns haben.
+Wenn ich also in meiner \emph{Urzelle} mit dem Granit die m"ogliche Grenze der Forschung erreicht zu haben glaubte, so wurde ich bald eines Bessern belehrt. Ich erwog, dass unser Erdkern verm"oge seines spezifischen Gewichts ebenfalls mindestens aus gediegenem Eisen bestehen m"usse, erwog ferner die sehr wahrscheinliche Reihenfolge in den Meteorit\index{Meteorit}n, welche vom reinen Eisen bis zu den Feldspatgesteinen unserer Erde geht. Ich glaubte ferner, dass ein R"uckschluss von unserer Erde auf die Meteorit\index{Meteorit} gewagt werden d"urfe, der Schluss, dass auch in den "ubrigen Planeten und in denjenigen oder demjenigen, deren (oder dessen) Tr"ummer wir wohl in den hunderttausend von kreisenden Meteoriten vor uns haben, eine Reihenfolge der Schichtung vom Schweren zum Leichten bestanden habe, eine Schicht-Folge, welche wir wahrscheinlich in der Reihe vom reinen Eisen durch die Halbeisen (Pallasite, Hainholz) hindurch zu den Chondriten und Eukriten, dann zu den Ton-(Kohle-)Meteoriten (Bokkefeld) vor uns haben.
 
-Nachdem diese Wahrscheinlichkeit einmal gewonnen war, lag es nahe, die Meteorite\index{Meteorite} einer genauen Pr"ufung hinsichtlich ihrer morphologischen Eigenschaften zu unterwerfen. Dies war auch in hohem Grade geboten, denn dass bisher in dieser Richtung so gut wie nichts geschehen ist, davon kann man sich durch Vergleichung meiner Abbildungen mit den etwa zwanzig d"urftigen Bildern "uberzeugen, welche zusammen das heute vorliegende Material unserer Wissenschaft bilden. Die akademischen Schriften von Berlin, Wien, M"unchen haben je nur einige Tafeln aufzuweisen, die Zeichnungen sind klein, und wie sich sofort zeigt, von den am wenigsten f"ur diese Richtung der Untersuchung geeigneten Meteoriten und ferner wahrscheinlich auch nicht von dem besten Teile, dem Innern, genommen.
+Nachdem diese Wahrscheinlichkeit einmal gewonnen war, lag es nahe, die Meteorit\index{Meteorit} einer genauen Pr"ufung hinsichtlich ihrer morphologischen Eigenschaften zu unterwerfen. Dies war auch in hohem Grade geboten, denn dass bisher in dieser Richtung so gut wie nichts geschehen ist, davon kann man sich durch Vergleichung meiner Abbildungen mit den etwa zwanzig d"urftigen Bildern "uberzeugen, welche zusammen das heute vorliegende Material unserer Wissenschaft bilden. Die akademischen Schriften von Berlin, Wien, M"unchen haben je nur einige Tafeln aufzuweisen, die Zeichnungen sind klein, und wie sich sofort zeigt, von den am wenigsten f"ur diese Richtung der Untersuchung geeigneten Meteoriten und ferner wahrscheinlich auch nicht von dem besten Teile, dem Innern, genommen.
 
-Sollte also auch, dachte ich, meine fr"uhere Behauptung: der Meteorstein von Knyahinya\index{Meteorite!Knyahinya} bestehe durchaus aus Pflanzen, durch meine neuen Untersuchungen sich nicht best"atigen, so w"are der Wissenschaft doch ein Dienst getan, wenn ich nur die wahre Form dieses Gesteins zur Darstellung bringen w"urde. Doch dieser R"uckzug blieb mir gl"ucklicherweise erspart, im Gegenteil: das Ergebnis der neuen Forschung war ein alle Erwartung weit "ubersteigendes --- eine neue Welt tat sich auf.
+Sollte also auch, dachte ich, meine fr"uhere Behauptung: der Meteorstein von Knyahinya\index{Meteorit!Knyahinya} bestehe durchaus aus Pflanzen, durch meine neuen Untersuchungen sich nicht best"atigen, so w"are der Wissenschaft doch ein Dienst getan, wenn ich nur die wahre Form dieses Gesteins zur Darstellung bringen w"urde. Doch dieser R"uckzug blieb mir gl"ucklicherweise erspart, im Gegenteil: das Ergebnis der neuen Forschung war ein alle Erwartung weit "ubersteigendes --- eine neue Welt tat sich auf.
 
 Aber freilich --- unsere Wissenschaft ist ungl"aubig --- sie fordert mit Recht strengere Beweise, als ich in meiner \emph{Urzelle} geboten habe; ein Buch, das fast mehr im Stadium, ich m"ochte sagen, der Intuition geschrieben ist. --- Heute lege ich Beweise vor.
 
@@ -172,11 +180,11 @@ Ich komme nun zur Schlussfolgerung f"ur unsere Erdkunde. Sind n"amlich die Chond
 
 Ein Feldspatmineral ist reines Wasserprodukt, ist Versteinerungsmittel f"ur Millionen von Organismen! Damit fallen alle Hypothesen "uber die metamorphischen und plutonischen Gesteine unserer Erde, damit f"allt die Theorie von dem feuerfl"ussigen Erdinnern, --- wenigstens kann aus dem Gestein kein Schluss mehr darauf gezogen werden.
 
-Ich muss dies noch n"aher begr"unden. Die Vergleichung der Gesteine der Erde und der Meteorite\index{Meteorite} zeigt, dass der Chondrit, wenigstens nach seiner chemischen Beschaffenheit, seine allern"achsten Verwandten auf der Erde hat.
+Ich muss dies noch n"aher begr"unden. Die Vergleichung der Gesteine der Erde und der Meteorit\index{Meteorit} zeigt, dass der Chondrit, wenigstens nach seiner chemischen Beschaffenheit, seine allern"achsten Verwandten auf der Erde hat.
 
 Das Olivingestein unserer Erde ist als Llerzolith ein Lagergestein, als Basalt sehen wir es den Granit durchbrechen; ich traf hier mit den Ergebnissen, welche [Gabriel Auguste] Daubrée gewonnen hatte, zusammen.
 
-Der tieferliegende Granit ist also jedenfalls j"unger als der Olivin. Ist aber das Olivingestein der Meteorite\index{Meteorite} verm"oge seiner Zusammensetzung ein Wassergestein, so wird es wohl der Granit unserer Erde auch sein; besteht das Olivingestein der Meteore aus niederen Tieren, so wird dasselbe bei dem Olivingestein der Erde der Fall: es wird wohl der Schluss uns erlaubt sein, dass auch dieses Gestein unserer Erde auf seiner urspr"unglichen Lagerst"atte aus denselben Tieren zusammengesetzt ist, wie der Chondrit. --- Und aus demselben Grunde wird auch der Granit, als j"ungeres Gestein, wohl denselben Ursprung haben. Haben wir in unserem (schw"abischen) Basalt nur Auslaugungen aus dem urspr"unglichen Olivingestein zu erblicken, so ist doch die Lagerung des Llerzoliths unter dem Granit festgestellt. Und erscheint auch dieses Gestein als eine Wasserablagerung ohne unterscheidbare Formen, so hat doch das Eisen von Ovifak solche; dieses aber ist so sehr mit dem Basalt, so innig und nicht blo"s mechanisch verbunden, dass beide als ein Gestein angesehen werden m"ussen. Dieses ist also das urspr"ungliche Olivin-Lagergestein. Damit aber ist der Annahme einer Entstehung der Erde auf feurigem Wege der wissenschaftliche Grund entzogen.
+Der tieferliegende Granit ist also jedenfalls j"unger als der Olivin. Ist aber das Olivingestein der Meteorit\index{Meteorit} verm"oge seiner Zusammensetzung ein Wassergestein, so wird es wohl der Granit unserer Erde auch sein; besteht das Olivingestein der Meteore aus niederen Tieren, so wird dasselbe bei dem Olivingestein der Erde der Fall: es wird wohl der Schluss uns erlaubt sein, dass auch dieses Gestein unserer Erde auf seiner urspr"unglichen Lagerst"atte aus denselben Tieren zusammengesetzt ist, wie der Chondrit. --- Und aus demselben Grunde wird auch der Granit, als j"ungeres Gestein, wohl denselben Ursprung haben. Haben wir in unserem (schw"abischen) Basalt nur Auslaugungen aus dem urspr"unglichen Olivingestein zu erblicken, so ist doch die Lagerung des Llerzoliths unter dem Granit festgestellt. Und erscheint auch dieses Gestein als eine Wasserablagerung ohne unterscheidbare Formen, so hat doch das Eisen von Ovifak solche; dieses aber ist so sehr mit dem Basalt, so innig und nicht blo"s mechanisch verbunden, dass beide als ein Gestein angesehen werden m"ussen. Dieses ist also das urspr"ungliche Olivin-Lagergestein. Damit aber ist der Annahme einer Entstehung der Erde auf feurigem Wege der wissenschaftliche Grund entzogen.
 
 Bestand die Oberfl"ache der Planeten oder des Planeten in den Schichten des Olivins aus Tieren, so ist dieselbe Schichte unserer Erde wohl auch nicht durch Feuer entstanden: wenigstens ist nicht der mindeste Grund zu dieser Vermutung mehr vorhanden, im Gegenteil, es ist anzunehmen, dass auch dieselbe Schichte der Erde eine Wasserbildung gewesen sei. --- Hier traf ich nun auf die Kant-Laplace'sche Theorie.
 
@@ -198,7 +206,7 @@ Was dieser Erkl"arung entgegen zu stehen scheint, ist nur die Erdw"arme und die 
 
 Wie sollte endlich ein feuriger Erdkern ohne Sauerstoff bestehen k"onnen! Und f"uhrt nicht eben auch das Dasein brennbarer Gase (denn solche sind die Ursachen der vulkanischen Erscheinungen,) insbesondere das der Schwefelgase auf organische im Erdinnern vorhandene Stoffe zur"uck? Hier bedarf es wahrhaft keiner neuen Beweise, sondern nur des Aufgebens gewisser Vorstellungen, welche sich der aus einigen augenf"alligen Erscheinungen erregten Phantasie bem"achtigt haben.
 
-Dies sind die Schlussfolgerungen aus der Untersuchung "uber die Meteorite\index{Meteorite} f"ur unsere Erdbildung. Ungleich bedeutender aber sind die Tatsachen, welche die Astronomie daraus ableiten kann.
+Dies sind die Schlussfolgerungen aus der Untersuchung "uber die Meteorit\index{Meteorit} f"ur unsere Erdbildung. Ungleich bedeutender aber sind die Tatsachen, welche die Astronomie daraus ableiten kann.
 
 Die D"unnschliffe von 20 von mir untersuchten Meteoriten (Chondriten), von F"allen, welche "uber ein Jahrhundert auseinander liegen, zeigen dieselben Formen, "ahnlich wie eine Leitmuschel "uberall in derselben Formation vorkommt; dies hat schon G"umbel, wenn er die Formen der Chondrite auch nicht richtig gedeutet hat, trefflich ausgesprochen.
 
@@ -212,16 +220,16 @@ So war mir durch die erste in meiner \emph{Urzelle} niedergelegte Beobachtung ei
 
 Es bedurfte aber wahrlich gerade keiner Titanenkraft mehr, um das alte Geb"aude umzust"urzen, es war schon viel vorgearbeitet, nur nicht beachtet: es bedarf nur eines einzigen durchschlagenden Beweises und die Arbeit ist getan. "Uberlieferungen, auf ungen"ugende Beobachtungen gest"utzt, l"osen sich in das auf, was sie sind, und nun hat die Wissenschaft wieder freie Bahn.
 \clearpage
-\subsection{\swabfamily{Die Bisherigen Ansichten "uber die Meteorite\index{Meteorite}}}
+\subsection{\swabfamily{Die Bisherigen Ansichten "uber die Meteorit\index{Meteorit}}}
 \paragraph{}
-Es folgt nun zun"achst eine kurze Darstellung der bisherigen Ansichten "uber die Entstehung und Natur der Meteorite\index{Meteorite}.
+Es folgt nun zun"achst eine kurze Darstellung der bisherigen Ansichten "uber die Entstehung und Natur der Meteorit\index{Meteorit}.
 
-Nur die morphologischen Arbeiten "uber einzelne Meteorite\index{Meteorite}, von der Zeit an, als man das Mikroskop in der Geologie anzuwenden begann, sollen aufgez"ahlt werden.
+Nur die morphologischen Arbeiten "uber einzelne Meteorit\index{Meteorit}, von der Zeit an, als man das Mikroskop in der Geologie anzuwenden begann, sollen aufgez"ahlt werden.
 
-Was das Mikroskop bis jetzt zur Deutung der Meteorite\index{Meteorite} geliefert hat, das ist, abgesehen von den vergr"o"serten Olivinkristallen in [Nikolai Ivanovich] Kokscharow's \emph{Mineralien Russlands VI} Band S. 4, in folgenden Schriften enthalten:
+Was das Mikroskop bis jetzt zur Deutung der Meteorit\index{Meteorit} geliefert hat, das ist, abgesehen von den vergr"o"serten Olivinkristallen in [Nikolai Ivanovich] Kokscharow's \emph{Mineralien Russlands VI} Band S. 4, in folgenden Schriften enthalten:
 \large
 \begin{enumerate}
-\item Gustav Tschermak: "`die Tr"ummerstruktur der Meteoriten von Orvinio\index{meteorite!Orvinio} und Chantonnay"', vorgelegt in der Sitzung der K. Akademie der Wissenschaften (Wien) am 12. November 1874. (XX. Band der Sitzungsberichte der K. Akademie der Wissenschaften, I. Abteilung, November-Heft 1874. Mit 2 Tafeln.)
+\item Gustav Tschermak: "`die Tr"ummerstruktur der Meteoriten von Orvinio\index{Meteorit!Orvinio} und Chantonnay"', vorgelegt in der Sitzung der K. Akademie der Wissenschaften (Wien) am 12. November 1874. (XX. Band der Sitzungsberichte der K. Akademie der Wissenschaften, I. Abteilung, November-Heft 1874. Mit 2 Tafeln.)
 \item Alexander Makowsky\index{Makowsky} und G. Tschermak: "`Bericht "uber den Meteoritenfall bei Tieschitz in M"ahren"'. Mit 5 Tafeln und 2 Holzschnitten, vorgelegt in der Sitzung der mathematisch-naturwissenschaftlichen Klasse (der Kgl. Akademie der Wissenschaften in Wien) am 21. November 1878. XXIX. Band der Denkschriften der genannten Klasse.
 \item Johann Gottfried Galle und [Arnold Constantin Peter Franz] von Lasaulx\index{Lasaulx}, vorgelegt von [Christian Friedrich Martin] Websky: "`Bericht "uber den Meteorsteinfall bei Gnadenfrei am 17. Mai 1879"'. Sitzung vom 31. Juli 1879. Monatsberichte der K. preu"sischen Akademie zu Berlin.
 \end{enumerate}
@@ -231,19 +239,19 @@ Die fr"uheren Beschreibungen beschr"anken sich auf die Untersuchung mit blo"sem 
 
 Sie stimmen alle dahin "uberein: Die Chondrite bestehen aus einer Grundmasse mit Kugeln von Enstatit (Bronzit), Olivin und Eisen, eingesprengtem Nickel- und Chromeisen.
 
-Eine andere Stellung nimmt ein: G"umbel: "Uber die in Bayern gefundenen Steinmeteoriten; Sitzungsberichte der mathematisch-physikalischen Klasse der K. b. Akademie der Wissenschaften zu M"unchen 1878. Heft 1, S. 14 ff. In der Beschreibung der Meteorite\index{Meteorite} von Eichst"adt und Sch"oneberg erw"ahnte er "`Maschenstruktur"' (S. 27. 46.) Allerdings spricht er auch von "`Abk"ommlingen zerbrochener gr"o"serer Chondren"' (S. 28). Das Bedeutende seiner Beobachtungen ist auf S. 58, welche ich hier folgen lasse:
+Eine andere Stellung nimmt ein: G"umbel: "Uber die in Bayern gefundenen Steinmeteoriten; Sitzungsberichte der mathematisch-physikalischen Klasse der K. b. Akademie der Wissenschaften zu M"unchen 1878. Heft 1, S. 14 ff. In der Beschreibung der Meteorit\index{Meteorit} von Eichst"adt und Sch"oneberg erw"ahnte er "`Maschenstruktur"' (S. 27. 46.) Allerdings spricht er auch von "`Abk"ommlingen zerbrochener gr"o"serer Chondren"' (S. 28). Das Bedeutende seiner Beobachtungen ist auf S. 58, welche ich hier folgen lasse:
 
 "`"Uberblickt man die Resultate der Untersuchung dieser wenn auch beschr"ankten Gruppe von Steinmeteoriten, so dr"angt sich die Wahrnehmung in den Vordergrund, dass sie, trotz einiger Verschiedenheit in der Natur ihrer Gemengteile, doch von vollst"andig gleichen Strukturverh"altnissen beherrscht sind. Alle sind unzweifelhafte Tr"ummergesteine, zusammengesetzt aus kleinen und gr"o"seren Mineralsplitterchen, aus den bekannten rundlichen Chondren, welche meist vollst"andig erhalten, aber oft auch in St"ucke zersprungen vorkommen und aus Gr"aupchen von metallischen Substanzen Meteoreisen, Schwefeleisen, Chromeisen. Alle diese Fragmente sind aneinander geklebt, nicht durch eine Zwischensubstanz oder durch ein Bindemittel verkittet, wie sich "uberhaupt keine amorphen, glas- oder lavaartigen Beimengungen vorfinden. Nur die Schmelzrinde und die oft auf Kl"uften auftretenden, der Schmelzrinde "ahnlich entstandenen schwarzen "Uberrindungen bestehen aus amorpher Glasmasse, die aber erst beim Niederfallen innerhalb unserer Atmosph"are nachtr"aglich entstanden ist. In dieser Schmelzrinde sind die schwerer schmelzbaren und gr"o"seren Mineralk"ornchen meist noch ungeschmolzen eingebettet. Die Mineralsplitterchen tragen durchaus keine Spuren einer Abrundung oder Abrollung an sich, sie sind scharfkantig und spitzeckig. Was die Chondren anbelangt, so ist ihre Oberfl"ache nie gegl"attet, wie sie sein m"usste, wenn die K"ugelchen das Produkt einer Abrollung w"aren, sie ist vielmehr stets h"ockerig uneben, maulbeerartig rau und warzig oder facettenartig mit einem Ansatz von Kristallfl"achen versehen. Viele derselben sind l"anglich, mit einer deutlichen Verj"ungung oder Zuspitzung nach einer Richtung, wie es bei Hagelk"ornern vorkommt. Oft begegnet man St"uckchen, welche offenbar als Teile zertr"ummerter oder zersprungener Chondren gelten m"ussen. Als Ausnahme kommen zwillingsartig verbundene K"ugelchen vor, h"aufiger solche, in welchen Meteoreisenst"uckchen ein- oder angewachsen sind. Nach zahlreichen D"unnschliffen sind sie verschiedenartig zusammengesetzt. Am h"aufigsten findet sich eine exzentrisch strahlig faserige Struktur in der Art, dass von einer weit aus der Mitte nach dem sich verj"ungenden oder etwas zugespitzten Teil hin verr"uckten Punkte aus ein Strahlenb"uschel gegen Au"sen sich verbreitet. Da die in den verschiedensten Richtungen gef"uhrten Schnitte immer s"aulen- oder nadelf"ormige, nie bl"atter- oder lamellenartige Anordnung in der diesen B"uschel bildenden Substanz erkennen lassen, so scheinen es in der Tat s"aulenf"ormige Fasern zu sein, aus welchen sich solche Chondren aufbauen. Bei gewissen Schnitten gewahrt man, dieser Annahme entsprechend, in den senkrecht zur L"angenrichtung gehenden Querschnitten der Fasern nur unregelm"a"sig eckige, kleinste Feldchen, als ob das Ganze aus lauter kleinen polyedrischen K"ornchen zusammengesetzt sei. Zuweilen sieht es aus, als ob in einem K"ugelchen gleichsam mehrere nach verschiedener Richtung hin strahlende Systeme vorhanden w"aren oder als ob gleichsam der Ausstrahlungspunkt sich w"ahrend ihrer Bildung ge"andert habe, wodurch bei Durchschnitten nach gewissen Richtungen eine scheinbar wirre, st"angliche Struktur zum Vorschein kommt. Gegen die Au"senseite hin, gegen welche der Viereinigungspunkt des Strahlenb"uschels einseitig verschoben ist, zeigt sich die Faserstruktur meist undeutlich oder durch eine mehr k"ornige Aggregatbildung ersetzt. Bei keinem der zahlreichen angeschliffenen Chondren konnte ich beobachten, dass die B"uschel so unmittelbar bis zum Rande verlaufen, als ob der Ausstrahlungspunkt gleichsam au"serhalb des K"ugelchens l"age, sofern nur dasselbe vollst"andig erhalten und nicht etwa ein blo"ses zersprungenes St"uck vorhanden war. Die zierlich quergegliederten F"aserchen verlaufen meist nicht nach der ganzen L"ange des B"uschels in gleicher Weise, sondern sie spitzen sich allm"ahlich zu, ver"asteln sich oder endigen, um andere an ihre Stelle treten zu lassen, so dass in dem Querschnitte eine mannichfache, maschenartige oder netzf"ormige Zeichnung entsteht. Diese F"aserchen bestehen, wie dies schon vielfach im Vorausgehenden geschildert wurde, aus einem meist helleren Kern und einer dunkleren Umh"ullung, jener durch S"auren mehr oder weniger zerlegbar, letztere dagegen dieser Einwirkung widerstehend. H"ochst merkw"urdig sind die schalenf"ormigen "Uberrindungen, welche aus Meteoreisen zu bestehen scheinen und in der Regel nur "uber einen kleineren Teil der K"ugelchen sich ausbreiten. Die gleichen einseitigen, im Durchschnitt mithin als bogenf"ormig gekr"ummte Streifchen sichtbaren "Uberrindungen kommen auch im Innern der Chondren vor und liefern einen starken Gegenbeweis gegen die Annahme, dass die Chondren durch Abrollung irgend eines Materials entstanden seien, wie denn "uberhaupt die ganze Anordnung der b"uscheligen Struktur mit Entschiedenheit gegen ihre Entstehung durch Abrollung spricht. Doch nicht alle Chondren sind exzentrisch faserig; viele, namentlich die kleineren besitzen eine feink"ornige Zusammensetzung, als best"anden sie aus einer zusammengeballten Staubmasse. Auch hierbei macht sich zuweilen die einseitige Ausbildung der K"ugelchen durch eine exzentrisch gr"o"sere Verdichtung der Staubteile bemerkbar"'.
 
 Und ferner S. 61:
 
-"`Der gew"ohnliche Typus der Meteorite\index{Meteorite} von steiniger Beschaffenheit ist soweit "uberwiegend derjenige der sog. Chondrite und die Zusammensetzung sowie die Struktur aller dieser Steine so sehr "ubereinstimmend, dass wir den gemeinsamen Ursprung und die uranf"angliche Zusammengeh"origkeit aller dieser Art Meteorite\index{Meteorite} --- wenn nicht aller --- wohl nicht weiter in Zweifel ziehen k"onnen.
+"`Der gew"ohnliche Typus der Meteorit\index{Meteorit} von steiniger Beschaffenheit ist soweit "uberwiegend derjenige der sog. Chondrite und die Zusammensetzung sowie die Struktur aller dieser Steine so sehr "ubereinstimmend, dass wir den gemeinsamen Ursprung und die uranf"angliche Zusammengeh"origkeit aller dieser Art Meteorit\index{Meteorit} --- wenn nicht aller --- wohl nicht weiter in Zweifel ziehen k"onnen.
 
-"`Der Umstand, dass sie s"amtlich in h"ochst unregelm"a"sig geformten St"uckchen in unsere Atmosph"are gelangen --- abgesehen von dem Zerspringen innerhalb der letzteren in mehrere Fragmente, was zwar h"aufig vorkommt, aber doch nicht in allen F"allen angenommen werden kann, namentlich nicht, wenn durch direkte Beobachtung das Fallen nur eines St"uckes konstatiert ist, --- l"asst weiter schlie"sen, dass sie bereits in regellos zertr"ummerten St"ucken als Abk"ommlinge von einem einzigen gr"o"seren Himmelsk"orper ihre Bahnen im Himmelsraume ziehen und in ihrer Zerstreutheit einzeln zuweilen in das Attraktionsbereich der Erde geraten zur Erde niederfallen. Der Mangel urspr"unglicher, lavaartiger, amorpher Bestandteile in Verbindung mit der "au"sern unregelm"a"sigen Form d"urfte von geo- oder kosmologischen Standpunkte aus die Annahme ausschlie"sen, dass diese Meteorite\index{Meteorite} Ausw"urfe von Mondvulkanen, wie vielfach behauptet wird, sein k"onnen."'
+"`Der Umstand, dass sie s"amtlich in h"ochst unregelm"a"sig geformten St"uckchen in unsere Atmosph"are gelangen --- abgesehen von dem Zerspringen innerhalb der letzteren in mehrere Fragmente, was zwar h"aufig vorkommt, aber doch nicht in allen F"allen angenommen werden kann, namentlich nicht, wenn durch direkte Beobachtung das Fallen nur eines St"uckes konstatiert ist, --- l"asst weiter schlie"sen, dass sie bereits in regellos zertr"ummerten St"ucken als Abk"ommlinge von einem einzigen gr"o"seren Himmelsk"orper ihre Bahnen im Himmelsraume ziehen und in ihrer Zerstreutheit einzeln zuweilen in das Attraktionsbereich der Erde geraten zur Erde niederfallen. Der Mangel urspr"unglicher, lavaartiger, amorpher Bestandteile in Verbindung mit der "au"sern unregelm"a"sigen Form d"urfte von geo- oder kosmologischen Standpunkte aus die Annahme ausschlie"sen, dass diese Meteorit\index{Meteorit} Ausw"urfe von Mondvulkanen, wie vielfach behauptet wird, sein k"onnen."'
 
-G"umbel fasst, nachdem er die Meteorite\index{Meteorite} in die Olivingesteine unserer Erde eingestellt hat, seine Ansicht hinsichtlich der Entstehung (S. 64) in den Satz zusammen:
+G"umbel fasst, nachdem er die Meteorit\index{Meteorit} in die Olivingesteine unserer Erde eingestellt hat, seine Ansicht hinsichtlich der Entstehung (S. 64) in den Satz zusammen:
 
-"`Es scheinen daher die Meteorite\index{Meteorite} aus einer Art erstem Verschlackungsprozess der Himmelsk"orper, aber da sie metallisches Eisen enthalten --- bei Mangel von Sauerstoff und Wasser hervorgegangen zu sein."'
+"`Es scheinen daher die Meteorit\index{Meteorit} aus einer Art erstem Verschlackungsprozess der Himmelsk"orper, aber da sie metallisches Eisen enthalten --- bei Mangel von Sauerstoff und Wasser hervorgegangen zu sein."'
 
 "`So geistreich, f"ahrt er (S. 68) fort, diese Hypothesen Daubrée's und Tschermak's sind (Entstehung aus zertr"ummertem Vulkangestein), so kann ich mich doch in Bezug auf die Entstehung der K"ugelchen (Chondren) ihrer Ansicht auf Grund meiner neuesten Untersuchungen nicht anschlie"sen. Ich habe im Gegensatze zu Tschermak's Annahme nachzuweisen gesucht, dass das innere Gef"uge der Chondren nicht au"ser Zusammenhang mit ihrer kugeligen Gestalt stehe, und dass man diese K"ugelchen weder als St"ucke eines Mineralkristalls, noch eines festen Gesteins ansehen k"onne. Spricht schon ihre nicht gegl"attete, nicht polierte Oberfl"ache, welche, wenn durch Abreibung oder Abrollung gebildet, bei solcher H"arte des Materials spiegelglatt sein m"usste, w"ahrend sie rauh, h"ockerig, oft strichweise kristallinisch facettirt erscheint, gegen die Abreibungstheorie, so ist auch gar kein Grund einzusehen, weshalb nicht alle anderen Mineral splitterchen wie Sandk"orner abgerundet seien und weshalb namentlich das Meteoreisen, das Schwefeleisen und das sehr harte Chromeisen, wie ich in dem Meteorit von L'Aigle mich "uberzeugt habe, stets nichtgerundete, oft "au"serst fein zerschlitzte Formen besitzen. Wie w"are es zudem denkbar, dass, wie h"aufig beobachtet wird, innerhalb der K"ugelchen konzentrische Anh"aufung von Meteoreisen vorkommen? Auch erscheint die exzentrisch faserige Struktur der meisten K"ugelchen in ihrem einseitig gelegenen Ausstrahlungspunkte in Bezug auf die Oberfl"ache nicht als zuf"allig, sondern der Art der Struktur der Hagelk"orner nachgebildet. Dieses innere Gef"uge steht im engsten Zusammenhang mit dem Akt ihrer Entstehung, welche nur als eine Verdichtung Mineral bildender Stoffe unter gleichzeitiger drehender Bewegung in D"ampfen, welche das Material zur Fortbildung lieferten, sich erkl"aren l"asst, wobei in der Richtung der Bewegung einseitig mehr Material sich ansetzte."'
 
@@ -255,13 +263,13 @@ Was ich in dem Berichte G"umbels so hoch sch"atze, ist die gewissenhafte vorurte
 
 Richtige Beobachtungen und unrichtige Erkl"arungen stehen so nahe beisammen, dass es unm"oglich ist beides zu sondern. Ich glaubte, als ich die G"umbel'sche Abhandlung (nach dem Abschluss meiner Untersuchungen und meines Manuskripts) durchlas, in jedem Augenblick auf meine Resultate zu treten. Aber wie die Woge der Brandung den, welcher das Land gewinnen will, jedes mal dann wieder ergreift und zur"uckwirft, wenn er schon das Land gefasst zu haben glaubt, so auch hier: allemal rei"st das alte Dogma den geehrten Forscher von der rettenden Klippe hinweg in den bodenlosen Strudel der Traditionen zur"uck.
 
-Daubrée's verdienstvolles Werk \emph{Experimentalgeologie} erhielt ich erst in der "Ubersetzung zur Hand und ebenfalls nach Abschluss meiner Arbeit. Dass es diese widerlegte, wird wohl Niemand finden. Daubrée hat selbst Knyahinya\index{Meteorite!Knyahinya} abgebildet. M. hat gepresst, geschmolzen, aufgel"ost, berechnet, nur nicht --- gesehen.
+Daubrée's verdienstvolles Werk \emph{Experimentalgeologie} erhielt ich erst in der "Ubersetzung zur Hand und ebenfalls nach Abschluss meiner Arbeit. Dass es diese widerlegte, wird wohl Niemand finden. Daubrée hat selbst Knyahinya\index{Meteorit!Knyahinya} abgebildet. M. hat gepresst, geschmolzen, aufgel"ost, berechnet, nur nicht --- gesehen.
 \clearpage
-\subsection{\swabfamily{Die Meteorite\index{Meteorite} und ihre Mineralogischen Eigenschaften}}
+\subsection{\swabfamily{Die Meteorit\index{Meteorit} und ihre Mineralogischen Eigenschaften}}
 \paragraph{}
-Die Literatur der Meteorite\index{Meteorite} ist eine sehr umfangreiche. Sie ist jedoch, was die Art und Zahl, chemische Zusammensetzung betrifft, so bekannt, dass ich auf diesen Teil derselben, also insbesondere die fr"uheren Arbeiten, nicht einzugehen brauche.
+Die Literatur der Meteorit\index{Meteorit} ist eine sehr umfangreiche. Sie ist jedoch, was die Art und Zahl, chemische Zusammensetzung betrifft, so bekannt, dass ich auf diesen Teil derselben, also insbesondere die fr"uheren Arbeiten, nicht einzugehen brauche.
 
-Die Meteorite\index{Meteorite} werden eingeteilt in Eisen und Steine, zwischen beiden steht jedoch noch eine Klasse: Halbeisen, d. h. eine Verbindung von gediegenem Eisen und Stein --- die Pallasite. W"ahrend die Eisen eine ziemliche "Ubereinstimmung, sowohl in ihrer chemischen Zusammensetzung, als in der Form ihrer Struktur zeigen, sind die Pallasite (je nach dem Vorwiegend des Eisens) sehr verschieden. Aber es finden sich noch weitere Verschiedenheiten darunter. Hainholz z. B. hat neben Eisen und Olivin ein blaues Mineral (Enstatit) und in diesem einen gro"sen Reichtum von Tierformen. --- Die Steine werden eingeteilt in Chondrite, Stannerite [eukriten], Luotolaxer [howarditen], Bokkefelder [karbonatisch], Bishopvillit [aubriten], (Quenstedt, Klar und Wahr S. 280 folg.)
+Die Meteorit\index{Meteorit} werden eingeteilt in Eisen und Steine, zwischen beiden steht jedoch noch eine Klasse: Halbeisen, d. h. eine Verbindung von gediegenem Eisen und Stein --- die Pallasite. W"ahrend die Eisen eine ziemliche "Ubereinstimmung, sowohl in ihrer chemischen Zusammensetzung, als in der Form ihrer Struktur zeigen, sind die Pallasite (je nach dem Vorwiegend des Eisens) sehr verschieden. Aber es finden sich noch weitere Verschiedenheiten darunter. Hainholz z. B. hat neben Eisen und Olivin ein blaues Mineral (Enstatit) und in diesem einen gro"sen Reichtum von Tierformen. --- Die Steine werden eingeteilt in Chondrite, Stannerite [eukriten], Luotolaxer [howarditen], Bokkefelder [karbonatisch], Bishopvillit [aubriten], (Quenstedt, Klar und Wahr S. 280 folg.)
 
 Ich habe mich vorzugsweise mit den Chondriten besch"aftigt und, wo ich von Meteoriten rede, rede ich von dieser allerdings auch am zahlreichsten vertretenen Klasse von Stein-Meteoriten.
 \paragraph{}
@@ -269,25 +277,25 @@ Ich habe untersucht:
 \normalsize
 \begin{center}
 \begin{tabular}{ l r }
- Tabor, B"ohmen [Tschechische Republik] & July 3, 1753\index{Meteorite!Tabor} \\
- Siena, Toskana [Italienische Republik] & June 16, 1794\index{Meteorite!Siena} \\
- L'Aigle, Normandy [Französische Republik] & April 26, 1803\index{Meteorite!L'Aigle} \\
- Weston, Connecticut [Vereinigte Staaten] & December 14, 1807\index{Meteorite!Weston} \\
- Tipperary, Irland & November 23, 1810\index{Meteorite!Tipperary} \\
- Blansko, Br"unn [Tschechische Republik] & November 25, 1833\index{Meteorite!Blansko} \\
- Château-Renard, Loiret [Französische Republik] & July 12, 1841\index{Meteorite!Château-Renard} \\
- Linn [Marion] County, Iowa [Vereinigte Staaten] & February 25, 1847\index{Meteorite!Marion County}\index{Meteorite!Linn} \\
- Cabarras [Monroe] County, North Carolina [Vereinigte Staaten] & October 31, 1849\index{Meteorite!Monroe County}\index{Meteorite!Cabarras} \\
- Mez"o-Madaras [Romania] & September 4, 1852\index{Meteorite!Mez"o-Madaras} \\
- Borkut, Ungarn & October 13, 1852\index{Meteorite!Borkut} \\
- Bremerv"orde, Hannover [Deutschland] & May 13, 1855\index{Meteorite!Bremerv"orde} \\
- Parnallee, Osten Indien [Tamil Nadu] & February 28, 1857\index{Meteorite!Parnallee} \\
- Heredia, Kostarika & April 1, 1857\index{Meteorite!Heredia} \\
- New Concord, Ohio [Vereinigte Staaten] & May 1, 1860\index{Meteorite!New Concord} \\
- Knyahinya, Ungarn & June 9, 1866\index{Meteorite!Knyahinya} \\
- Pultusk, Warschau [Republik Polen] & January 30, 1868\index{Meteorite!Pultusk} \\
- Orvinio [Italienische Republik] & August 31, 1872\index{Meteorite!Olvinio} \\
- Simbirsk [Russland] & [1838]\index{Meteorite!Simbirsk} \\
+ Tabor, B"ohmen [Tschechische Republik] & July 3, 1753\index{Meteorit!Tabor} \\
+ Siena, Toskana [Italienische Republik] & June 16, 1794\index{Meteorit!Siena} \\
+ L'Aigle, Normandy [Französische Republik] & April 26, 1803\index{Meteorit!L'Aigle} \\
+ Weston, Connecticut [Vereinigte Staaten] & December 14, 1807\index{Meteorit!Weston} \\
+ Tipperary, Irland & November 23, 1810\index{Meteorit!Tipperary} \\
+ Blansko, Br"unn [Tschechische Republik] & November 25, 1833\index{Meteorit!Blansko} \\
+ Château-Renard, Loiret [Französische Republik] & July 12, 1841\index{Meteorit!Château-Renard} \\
+ Linn [Marion] County, Iowa [Vereinigte Staaten] & February 25, 1847\index{Meteorit!Marion County}\index{Meteorit!Linn} \\
+ Cabarras [Monroe] County, North Carolina [Vereinigte Staaten] & October 31, 1849\index{Meteorit!Monroe County}\index{Meteorit!Cabarras} \\
+ Mez"o-Madaras [Romania] & September 4, 1852\index{Meteorit!Mez"o-Madaras} \\
+ Borkut, Ungarn & October 13, 1852\index{Meteorit!Borkut} \\
+ Bremerv"orde, Hannover [Deutschland] & May 13, 1855\index{Meteorit!Bremerv"orde} \\
+ Parnallee, Osten Indien [Tamil Nadu] & February 28, 1857\index{Meteorit!Parnallee} \\
+ Heredia, Kostarika & April 1, 1857\index{Meteorit!Heredia} \\
+ New Concord, Ohio [Vereinigte Staaten] & May 1, 1860\index{Meteorit!New Concord} \\
+ Knyahinya, Ungarn & June 9, 1866\index{Meteorit!Knyahinya} \\
+ Pultusk, Warschau [Republik Polen] & January 30, 1868\index{Meteorit!Pultusk} \\
+ Orvinio [Italienische Republik] & August 31, 1872\index{Meteorit!Olvinio} \\
+ Simbirsk [Russland] & [1838]\index{Meteorit!Simbirsk} \\
 \end{tabular}
 \end{center}
 \LARGE
@@ -324,13 +332,13 @@ Ich erlaube mir hier K"urze halber dasjenige anzuf"uhren, was [Karl Heinrich Fer
 
 F"ur diejenigen, welchen das Buch nicht zu Gebote steht, gebe ich 2 Abbildungen, die eine von Bronzit vom Kupferberg Tafel 1. 1, die andere von Enstatit von Texas Tafel 1. 2, welche mit den Rosenbusch'schen ziemlich "ubereinstimmen.
 
-Was den Olivin betrifft, so bedarf es keiner Abbildung, da die Formen dieses Gesteins durch Zirkel vollst"andig ersch"opft sind. Es gen"ugt zu sagen, dass reiner frischer Olivin keine Struktur zeigt. Struktur zeigt der Olivin blo"s, wenn man seine Einschl"usse oder Anwachsstellen des Kristalls oder Zersetzungserscheinungen (Serpentinbildung) Struktur nennen wollte. Aber sicher findet sich in keinem Kristall etwas, was meinen Formen auch nur "ahnlich sieht. Was die Behauptung betrifft, die Kugeln seien Gl"aser, so wird nicht einmal unterschieden, welche chemische Zusammensetzung diese Gl"aser gegen"uber Enstatit, Bronzit und Olivin haben sollen. Offenbar werden alle Formen zusammen geworfen und f"ur Gl"aser erkl"art, obgleich Enstatit nach Quenstedt (Mineralogie S. 318) unschmelzbar, nach Naumann-Zirkel S. 585 wenigstens schwer schmelzbar ist. Es wird sogar behauptet, dass diese Gl"aser erst im Fallen entstanden seien. Allein Feuereinwirkungen finden sich blo"s in der Rinde. Die Schmelzrinde der meisten Meteorite hat kaum 2 mm Durchmesser.
+Was den Olivin betrifft, so bedarf es keiner Abbildung, da die Formen dieses Gesteins durch Zirkel vollst"andig ersch"opft sind. Es gen"ugt zu sagen, dass reiner frischer Olivin keine Struktur zeigt. Struktur zeigt der Olivin blo"s, wenn man seine Einschl"usse oder Anwachsstellen des Kristalls oder Zersetzungserscheinungen (Serpentinbildung) Struktur nennen wollte. Aber sicher findet sich in keinem Kristall etwas, was meinen Formen auch nur "ahnlich sieht. Was die Behauptung betrifft, die Kugeln seien Gl"aser, so wird nicht einmal unterschieden, welche chemische Zusammensetzung diese Gl"aser gegen"uber Enstatit, Bronzit und Olivin haben sollen. Offenbar werden alle Formen zusammen geworfen und f"ur Gl"aser erkl"art, obgleich Enstatit nach Quenstedt (Mineralogie S. 318) unschmelzbar, nach Naumann-Zirkel S. 585 wenigstens schwer schmelzbar ist. Es wird sogar behauptet, dass diese Gl"aser erst im Fallen entstanden seien. Allein Feuereinwirkungen finden sich blo"s in der Rinde. Die Schmelzrinde der meisten Meteoriten hat kaum 2 mm Durchmesser.
 
 Die Behauptung, es seien Gl"aser, wurde der Mitteilung meiner ersten D"unnschliffe entgegengehalten und dabei auf die "ahnlichkeit der meteoritischen Form mit solchen Gl"asern in dem Gesteine unserer Erde hingewiesen. So wurde ich von [Ferdinand] Zirkel auf einen Sphaerulit-Liparit verwiesen, dessen Abbildung ich Tafel 1. Figur 3 gebe. Diese Form sollte dartun, dass meine \emph{Urania}\index{Urania} eine T"auschung sei. Ich halte die Form im Liparit f"ur eine Kristallit-Bildung (wahrscheinlich Zeolith). Nun betrachte man die Strukturbilder daneben Tafel 1, Figur 4, 5, 6!
 
 Unsere Forscher, mit Ausnahme G"umbels, sprechen von den Meteoriten als vulkanischen Bomben, erkl"aren das Gestein als identisch mit dem Vulkangesteine der Erde, z"ahlen also den Meteorstein ohne Bedenken zu den vulkanischen. Der Gegenbeweis ist der Gegenstand dieses Buchs.
 
-Richtig allein hat Quenstedt die Frage f"ur eine offene erkl"art und gesagt: es sei dem Mikroskop vorbehalten, das R"atsel der Zusammensetzung der Meteorite zu l"osen! \emph{Handbuch der Mineralogie} S. 722.
+Richtig allein hat Quenstedt die Frage f"ur eine offene erkl"art und gesagt: es sei dem Mikroskop vorbehalten, das R"atsel der Zusammensetzung der Meteorit zu l"osen! \emph{Handbuch der Mineralogie} S. 722.
 \clearpage
 \section{\swabfamily{Die Organische Natur der Chondrite}}
 \subsection{\swabfamily{Organisch oder Unorganisch?}}
@@ -561,7 +569,7 @@ Will man aber nicht so weit gehen, die Crinoiden\index{Crinoid} nicht durch die 
 
 Auch hier reicht die Beobachtung im Einzelnen noch nicht hin, um abschlie"sen zu k"onnen.
 \clearpage
-\section{\swabfamily{Das Meteoreisen\index{Meteorite!eisen}}}
+\section{\swabfamily{Das Meteoreisen\index{Meteorit!eisen}}}
 \paragraph{}
 Ich habe schon in meiner \emph{Urzelle} darauf hingewiesen, dass die Struktur des Meteoreisens nichts anders sei, als die eines Filzes von einzelligen Pflanzen. Die sogenannten Widmannst"atten'schen Figuren sind gr"o"stenteils nichts anderes als einzellige Pflanzen.
 
@@ -640,26 +648,26 @@ Auf der Fl"ache dieses Eisens, das ich freilich, da ich dieses schreibe, anzugre
 Eine Untersuchung im D"unnschliffe aber muss ich auf die Zeit aufsparen, wo mir das Material zur freien Verf"ugung gestellt wird.
 \clearpage
 \section{\swabfamily{Schlussfolgerungen}}
-\subsection{\swabfamily{Ursprung der Meteorite\index{Meteorite}}}
+\subsection{\swabfamily{Ursprung der Meteorit\index{Meteorit}}}
 \paragraph{}
 Dass kleine Planeten, Planeten im Gewicht von 1/2 Kilogramm auf die Erde fallen und solche daher auch kreisen, ist ganz gewiss. Es lassen sich nun folgende M"oglichkeiten denken:
 \begin{enumerate}
-\item die Meteorite\index{Meteorite} kreisen au"serhalb des Sonnensystems (ein solcher will einmal von Petit in Toulouse beobachtet worden sein),
-\item die Meteorite\index{Meteorite} kreisen innerhalb des Sonnensystems und zwar: f"ur sich um die Sonne, --- um die Sonne mit Planeten (vielleicht also auch einzelne mit der Erde) --- um die Sonne, die Planeten und deren Trabanten,
-\item die Meteorite\index{Meteorite} kreisen in allen diesen Bahnen.
+\item die Meteorit\index{Meteorit} kreisen au"serhalb des Sonnensystems (ein solcher will einmal von Petit in Toulouse beobachtet worden sein),
+\item die Meteorit\index{Meteorit} kreisen innerhalb des Sonnensystems und zwar: f"ur sich um die Sonne, --- um die Sonne mit Planeten (vielleicht also auch einzelne mit der Erde) --- um die Sonne, die Planeten und deren Trabanten,
+\item die Meteorit\index{Meteorit} kreisen in allen diesen Bahnen.
 \end{enumerate}
 \paragraph{}
-Man weis aus langj"ahrigen Beobachtungen jetzt sicher, dass in gewissen Zeitabschnitten (10. August, 13. November) Schw"arme von Meteoriten unserer Erde sich n"ahern und unsere Erdbahn schneiden; weis dass diese Schw"arme in gewissen Jahren zahlreicher sind, als in andern, weis, dass einzelne Meteorite\index{Meteorite} auf unsere Erde fallen, eine Tatsache, welche ihren Grund in der Anziehung der Erde hat. --- Die Bahnen der Meteorite\index{Meteorite} aber sind noch nicht festgestellt, weder die der Schw"arme, noch die von einzelnen; weder von solchen, welche gefallen, noch von solchen, welche blo"s an der Erde vorbeigezogen sind. Somit l"asst sich aus den Bahnen, welche man nicht kennt, nichts f"ur die Entstehung der Meteoriten ableiten.
+Man weis aus langj"ahrigen Beobachtungen jetzt sicher, dass in gewissen Zeitabschnitten (10. August, 13. November) Schw"arme von Meteoriten unserer Erde sich n"ahern und unsere Erdbahn schneiden; weis dass diese Schw"arme in gewissen Jahren zahlreicher sind, als in andern, weis, dass einzelne Meteorit\index{Meteorit} auf unsere Erde fallen, eine Tatsache, welche ihren Grund in der Anziehung der Erde hat. --- Die Bahnen der Meteorit\index{Meteorit} aber sind noch nicht festgestellt, weder die der Schw"arme, noch die von einzelnen; weder von solchen, welche gefallen, noch von solchen, welche blo"s an der Erde vorbeigezogen sind. Somit l"asst sich aus den Bahnen, welche man nicht kennt, nichts f"ur die Entstehung der Meteoriten ableiten.
 
-Nun fragt es sich, was aus der Zusammensetzung der Meteorite\index{Meteorite} folgt. Ihre chemischen Elemente sind dieselben, wie die unserer Erde. Diese Tatsache l"asst sich nun auf gemeinsame Entstehung, also darauf deuten, dass die Erde mit den Meteoriten Eine Masse gebildet habe, wie darauf, dass die Entstehung und Entwicklung aller Planeten dieselbe sei. Die blo"se Tatsache der chemischen Gleichheit l"asst also verschiedene Folgerungen offen. Nun habe ich aber irdische Organismen in den Meteoriten nachgewiesen und es kann noch nicht einmal als gewiss angenommen werden, dass die nicht "ubereinstimmenden auf der Erde nicht auch vorkommen. --- Zu meinem Bedauern muss ich es gestehen, dass die Zahl der Zweifel durch meine Entdeckung eben nur vermehrt worden ist.
+Nun fragt es sich, was aus der Zusammensetzung der Meteorit\index{Meteorit} folgt. Ihre chemischen Elemente sind dieselben, wie die unserer Erde. Diese Tatsache l"asst sich nun auf gemeinsame Entstehung, also darauf deuten, dass die Erde mit den Meteoriten Eine Masse gebildet habe, wie darauf, dass die Entstehung und Entwicklung aller Planeten dieselbe sei. Die blo"se Tatsache der chemischen Gleichheit l"asst also verschiedene Folgerungen offen. Nun habe ich aber irdische Organismen in den Meteoriten nachgewiesen und es kann noch nicht einmal als gewiss angenommen werden, dass die nicht "ubereinstimmenden auf der Erde nicht auch vorkommen. --- Zu meinem Bedauern muss ich es gestehen, dass die Zahl der Zweifel durch meine Entdeckung eben nur vermehrt worden ist.
 
-Aufs Neue erheben sich jetzt die Fragen: Entstanden die Meteorite\index{Meteorite} mit der Erde? Kommen sie von der Erde? Waren sie also von Anfang an mit der Erde eine Masse und wurden von ihr getrennt, so dass sie vielleicht eine Art unsichtbarer Trabanten derselben gewesen w"aren oder gar noch sind?
+Aufs Neue erheben sich jetzt die Fragen: Entstanden die Meteorit\index{Meteorit} mit der Erde? Kommen sie von der Erde? Waren sie also von Anfang an mit der Erde eine Masse und wurden von ihr getrennt, so dass sie vielleicht eine Art unsichtbarer Trabanten derselben gewesen w"aren oder gar noch sind?
 
-Ich hebe zun"achst nur diese Fragen hervor, denn sie sind f"ur die Geologie die wichtigsten. Das spezifische Gewicht der Erde und das Gestein von Ovifak machen es wahrscheinlich, dass die Erde ganz aus denselben Gesteinen zusammengesetzt ist wie die Meteorite\index{Meteorite}, vorausgesetzt, dass Eisen- und Stein-Meteorite\index{Meteorite} zusammengeh"oren. Daraus lie"se sich schlie"sen, dass die Meteorite\index{Meteorite} urspr"unglich ein Teil der Erde gewesen, und zwar zur Zeit, als die Erdbildung bis zu den Olivinschichten vorgeschritten war, und dass sie jetzt erst von ihr losgel"ost worden seien. Letzteres m"usste geschehen sein in Folge des Sto"ses eines Weltk"orpers auf die Erde, denn ohne einen solchen w"are eine Trennung nicht zu erkl"aren, es m"usste denn die Erdanziehung pl"otzlich aufgeh"ort, oder doch in so hohem Grade sich gemindert haben, dass ein Teil ihrer Masse aus ihrem Anziehungskreis hinausgeschleudert werden konnte. --- An ein Zerspringen, also an einen Sto"s von innen durch Gaskraft und dergleichen ist schwer zu glauben, obgleich auch das nicht v"ollig ausgeschlossen w"are.
+Ich hebe zun"achst nur diese Fragen hervor, denn sie sind f"ur die Geologie die wichtigsten. Das spezifische Gewicht der Erde und das Gestein von Ovifak machen es wahrscheinlich, dass die Erde ganz aus denselben Gesteinen zusammengesetzt ist wie die Meteorit\index{Meteorit}, vorausgesetzt, dass Eisen- und Stein-Meteorit\index{Meteorit} zusammengeh"oren. Daraus lie"se sich schlie"sen, dass die Meteorit\index{Meteorit} urspr"unglich ein Teil der Erde gewesen, und zwar zur Zeit, als die Erdbildung bis zu den Olivinschichten vorgeschritten war, und dass sie jetzt erst von ihr losgel"ost worden seien. Letzteres m"usste geschehen sein in Folge des Sto"ses eines Weltk"orpers auf die Erde, denn ohne einen solchen w"are eine Trennung nicht zu erkl"aren, es m"usste denn die Erdanziehung pl"otzlich aufgeh"ort, oder doch in so hohem Grade sich gemindert haben, dass ein Teil ihrer Masse aus ihrem Anziehungskreis hinausgeschleudert werden konnte. --- An ein Zerspringen, also an einen Sto"s von innen durch Gaskraft und dergleichen ist schwer zu glauben, obgleich auch das nicht v"ollig ausgeschlossen w"are.
 
-Man kann also auch jetzt aus chemischen und morphologischen Gr"unden so wenig als aus der Gesteinsbeschaffenheit einen Schluss ziehen, ob die Meteorite\index{Meteorite} Kinder oder Br"uder der Erde sind und man ist zun"achst auf den Ausspruch des Astronomen angewiesen.
+Man kann also auch jetzt aus chemischen und morphologischen Gr"unden so wenig als aus der Gesteinsbeschaffenheit einen Schluss ziehen, ob die Meteorit\index{Meteorit} Kinder oder Br"uder der Erde sind und man ist zun"achst auf den Ausspruch des Astronomen angewiesen.
 
-Wenn nun aber dieser best"atigt, dass die Meteorite\index{Meteorite} verm"oge ihrer Bahnen nicht ein Teil der Erdmasse gewesen sein k"onnen, so treten zweitens die Fragen ein: wie verhalten sich die einzelnen F"alle zu einander? Sind die Steine und Eisen urspr"unglich zusammengeh"orig, oder haben Steine und Eisen verschiedenen Ursprung? Und drittens w"are die Frage: haben wenigstens die chemisch und morphologisch gleichen Steine Einem Planeten angeh"ort, welcher durch irgend eine Ursache in Tr"ummer ging?
+Wenn nun aber dieser best"atigt, dass die Meteorit\index{Meteorit} verm"oge ihrer Bahnen nicht ein Teil der Erdmasse gewesen sein k"onnen, so treten zweitens die Fragen ein: wie verhalten sich die einzelnen F"alle zu einander? Sind die Steine und Eisen urspr"unglich zusammengeh"orig, oder haben Steine und Eisen verschiedenen Ursprung? Und drittens w"are die Frage: haben wenigstens die chemisch und morphologisch gleichen Steine Einem Planeten angeh"ort, welcher durch irgend eine Ursache in Tr"ummer ging?
 
 Letzteres k"onnte auf den ersten Anblick eben aus der chemisch morphologischen "ahnlichkeit gefolgert werden und in der Tat, die Sache schiene ganz einfach und klar. Aber es w"are doch noch eine andere M"oglichkeit, die M"oglichkeit, dass unter gleichen Bedingungen sich eine Unzahl kleiner Planeten bilden k"onnte und vielleicht heute noch bildet. Die St"ucke w"aren dann nicht Tr"ummer, sondern eigene Weltk"orper.
 
@@ -667,7 +675,7 @@ Eisen und Steine k"onnten nun eigene Weltk"orper sein --- die Gr"o"se allein st"
 
 Diese Tierwelt ist aber schon eine wenigstens zum Teil h"oher organisierte. Eine einzellige Pflanze, ein Hefenpilz mag der Anfang eines Planeten gewesen sein: ein Crinoid\index{Crinoid} konnte es aus inneren Gr"unden nicht sein, denn hier m"ussen wir einen l"angeren Zeitraum und daher auch eine gr"o"sere Masse uns denken, durch welche diese Stufe der Entwicklung erreicht werden konnte.
 
-Diese Tatsachen leiten uns in Verbindung mit der Wahrscheinlichkeit, dass Eisen der Kern des Chondrit-Planeten gewesen sei, dahin: die Chondrite als Tr"ummer eines und desselben Weltk"orpers anzusehen, Tr"ummer, welche nach der Zerst"orung des Planeten kreisten, bis sie gl"ucklicherweise in den Fallkreis unserer Erde kamen. Auch die Formen der Meteorite\index{Meteorite} selbst sprechen endlich f"ur Tr"ummer.
+Diese Tatsachen leiten uns in Verbindung mit der Wahrscheinlichkeit, dass Eisen der Kern des Chondrit-Planeten gewesen sei, dahin: die Chondrite als Tr"ummer eines und desselben Weltk"orpers anzusehen, Tr"ummer, welche nach der Zerst"orung des Planeten kreisten, bis sie gl"ucklicherweise in den Fallkreis unserer Erde kamen. Auch die Formen der Meteorit\index{Meteorit} selbst sprechen endlich f"ur Tr"ummer.
 
 Wir haben also nur eine hypothetische Gewissheit: n"amlich die Wahrscheinlichkeit der urspr"unglichen Zusammengeh"origkeit der zu uns gelangten Tr"ummer.
 
@@ -675,7 +683,7 @@ Sollten sie aber auch von unserer Erde gekommen, Teile derselben gewesen sein: i
 \clearpage
 \subsection{\swabfamily{Die Erdbildung}}
 \paragraph{}
-Anschlie"send an die bisherigen Resultate lie"sen sich auch f"ur die Erdbildung einige Schl"usse ziehen. H"ochst wahrscheinlich zeigt der Erddurchschnitt dieselbe Gesteins-Reihenfolge, wie die Meteorite\index{Meteorite}, welche vom Eisen zum Pallasite (Olivin mit Eisen), von da zu Olivin-, Enstatit-, (Feldspat)-Gestein "ubergehen.
+Anschlie"send an die bisherigen Resultate lie"sen sich auch f"ur die Erdbildung einige Schl"usse ziehen. H"ochst wahrscheinlich zeigt der Erddurchschnitt dieselbe Gesteins-Reihenfolge, wie die Meteorit\index{Meteorit}, welche vom Eisen zum Pallasite (Olivin mit Eisen), von da zu Olivin-, Enstatit-, (Feldspat)-Gestein "ubergehen.
 
 Auf der Erde folgt dem Olivin der Granit, ein Feldspatgestein: diese Reihenfolge entspricht auch dem spezifischen Gewicht der Minerale.
 
@@ -697,7 +705,7 @@ Nun aber w"aren die Tage der Erde doch gez"ahlt gewesen, wenn nicht eben durch d
 \clearpage
 \subsection{\swabfamily{Die Zukunft Unseres Planeten}}
 \paragraph{}
-Der Fall von Planeten-Tr"ummern auf unsere Erde, (f"ur diesen Ursprung der Meteorite\index{Meteorite} sprechen die meisten Gr"unde) lie"se ein mechanisches Enden, einen gewaltsamen Tod auch f"ur unsere Erde f"urchten. Geschah es jenem oder jenen Planeten, von welchen die Meteorite\index{Meteorite} herr"uhren, dass sie zertr"ummert wurden, und zwar wurden sie es wohl nicht durch eine Kraft von innen, sondern durch Ansto"s von au"sen: so m"ussten wir darauf gefasst sein, dass auch unserer Erde einmal dieses Schicksal widerfahren werde, wenigstens drohte es uns. Ich muss es den Astronomen "uberlassen, sich und ihre Zeitgenossen dar"uber zu tr"osten.
+Der Fall von Planeten-Tr"ummern auf unsere Erde, (f"ur diesen Ursprung der Meteorit\index{Meteorit} sprechen die meisten Gr"unde) lie"se ein mechanisches Enden, einen gewaltsamen Tod auch f"ur unsere Erde f"urchten. Geschah es jenem oder jenen Planeten, von welchen die Meteorit\index{Meteorit} herr"uhren, dass sie zertr"ummert wurden, und zwar wurden sie es wohl nicht durch eine Kraft von innen, sondern durch Ansto"s von au"sen: so m"ussten wir darauf gefasst sein, dass auch unserer Erde einmal dieses Schicksal widerfahren werde, wenigstens drohte es uns. Ich muss es den Astronomen "uberlassen, sich und ihre Zeitgenossen dar"uber zu tr"osten.
 
 Aber auch auf das andere, oben schon angedeutete Aufh"oren des Lebens auf der Oberfl"ache m"ussten wir gefasst sein, allerdings ein weniger blutiges, aber darum nicht tr"ostlicheres Ende, n"amlich auf das Schicksal des allm"ahlichen Absterbens, des Erl"oschens der Lebenskraft durch die Verbindung der Baustoffe zu unl"oslichen Verbindungen: w"ur m"ussten f"urchten, es werde unsere Atmosph"are in der Bildung unl"oslicher Verbindungen aus den noch "ubrigen Baustoffen fortfahren und es werde mit dem Verlust an verf"ugbarem Baustoff der Kreislauf ein stets schw"acherer und langsamerer werden und endlich --- aufh"oren.
 
@@ -1414,124 +1422,124 @@ Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirklic
 \rhead{\swabfamily{Tafel 26: Crinoiden}}
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_26-1_edit-b.jpg}
-\caption{\swabfamily{Tafel 26: Figur 1 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 0,20 mm.}}
+\caption{\swabfamily{Tafel 26: Figur 1 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 0,20 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_26-2_edit-b.jpg}
-\caption{\swabfamily{Tafel 26: Figur 2 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 2,00 mm.}}
+\caption{\swabfamily{Tafel 26: Figur 2 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 2,00 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_26-3_edit-b.jpg}
-\caption{\swabfamily{Tafel 26: Figur 3 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,20 mm.}}
+\caption{\swabfamily{Tafel 26: Figur 3 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,20 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_26-4_edit-b.jpg}
-\caption{\swabfamily{Tafel 26: Figur 4 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,20 mm. (bis hierher gewundene Crinoiden\index{Crinoid})}}
+\caption{\swabfamily{Tafel 26: Figur 4 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,20 mm. (bis hierher gewundene Crinoiden\index{Crinoid})}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_26-5_edit-b.jpg}
-\caption{\swabfamily{Tafel 26: Figur 5 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 2,00 mm.}}
+\caption{\swabfamily{Tafel 26: Figur 5 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 2,00 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_26-6_edit-b.jpg}
-\caption{\swabfamily{Tafel 26: Figur 6 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 2,20 mm. (die dunkle Linie in 5 und 6 ist der Nahrungskanal)}}
+\caption{\swabfamily{Tafel 26: Figur 6 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 2,20 mm. (die dunkle Linie in 5 und 6 ist der Nahrungskanal)}}
 \centering
 \end{figure}
 \clearpage
 \rhead{\swabfamily{Tafel 27: Crinoiden}}
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_27-1_edit-b.jpg}
-\caption{\swabfamily{Tafel 27: Figur 1 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 0,80 mm.}}
+\caption{\swabfamily{Tafel 27: Figur 1 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 0,80 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_27-2_edit-b.jpg}
-\caption{\swabfamily{Tafel 27: Figur 2 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,50 mm.}}
+\caption{\swabfamily{Tafel 27: Figur 2 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,50 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_27-3_edit-b.jpg}
-\caption{\swabfamily{Tafel 27: Figur 3 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,40 mm.}}
+\caption{\swabfamily{Tafel 27: Figur 3 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,40 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_27-4_edit-b.jpg}
-\caption{\swabfamily{Tafel 27: Figur 4 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,40 mm.}}
+\caption{\swabfamily{Tafel 27: Figur 4 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,40 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_27-5_edit-b.jpg}
-\caption{\swabfamily{Tafel 27: Figur 5 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,20 mm.}}
+\caption{\swabfamily{Tafel 27: Figur 5 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,20 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_27-6_edit-b.jpg}
-\caption{\swabfamily{Tafel 27: Figur 6 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,00 mm.}}
+\caption{\swabfamily{Tafel 27: Figur 6 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,00 mm.}}
 \centering
 \end{figure}
 \clearpage
 \rhead{\swabfamily{Tafel 28: Crinoiden}}
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_28-1_edit-b.jpg}
-\caption{\swabfamily{Tafel 28: Figur 1 --- aus Knyahinya\index{Meteorite!Knyahinya} (Coralle?) D. 3,00 mm. aus demselben D"unnschl. wie Tafel 18.}}
+\caption{\swabfamily{Tafel 28: Figur 1 --- aus Knyahinya\index{Meteorit!Knyahinya} (Coralle?) D. 3,00 mm. aus demselben D"unnschl. wie Tafel 18.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_28-2_edit-b.jpg}
-\caption{\swabfamily{Tafel 28: Figur 2 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,20 mm.}}
+\caption{\swabfamily{Tafel 28: Figur 2 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,20 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_28-3_edit-b.jpg}
-\caption{\swabfamily{Tafel 28: Figur 3 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 2,30 mm.}}
+\caption{\swabfamily{Tafel 28: Figur 3 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 2,30 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_28-4_edit-b.jpg}
-\caption{\swabfamily{Tafel 28: Figur 4 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 0,90 mm.}}
+\caption{\swabfamily{Tafel 28: Figur 4 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 0,90 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_28-5_edit-b.jpg}
-\caption{\swabfamily{Tafel 28: Figur 5 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,50 mm.}}
+\caption{\swabfamily{Tafel 28: Figur 5 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,50 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_28-6_edit-b.jpg}
-\caption{\swabfamily{Tafel 28: Figur 6 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,40 mm.}}
+\caption{\swabfamily{Tafel 28: Figur 6 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,40 mm.}}
 \centering
 \end{figure}
 \clearpage
 \rhead{\swabfamily{Tafel 29: Crinoiden (1-3 von oben gesehen, 4 von unten.)}}
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_29-1_edit-b.jpg}
-\caption{\swabfamily{Tafel 29: Figur 1 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 0,20 mm.}}
+\caption{\swabfamily{Tafel 29: Figur 1 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 0,20 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_29-2_edit-b.jpg}
-\caption{\swabfamily{Tafel 29: Figur 2 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 0,90 mm.}}
+\caption{\swabfamily{Tafel 29: Figur 2 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 0,90 mm.}}
 \centering
 \end{figure}
 \clearpage
@@ -1543,7 +1551,7 @@ Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirklic
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_29-4_edit-b.jpg}
-\caption{\swabfamily{Tafel 29: Figur 4 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,10 mm.}}
+\caption{\swabfamily{Tafel 29: Figur 4 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,10 mm.}}
 \centering
 \end{figure}
 \clearpage
@@ -1555,88 +1563,88 @@ Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirklic
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_29-6_edit-b.jpg}
-\caption{\swabfamily{Tafel 29: Figur 6 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,30 mm. (zweifelhaft)}}
+\caption{\swabfamily{Tafel 29: Figur 6 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,30 mm. (zweifelhaft)}}
 \centering
 \end{figure}
 \clearpage
 \rhead{\swabfamily{Tafel 30: Crinoiden}}
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_30-1_edit-b.jpg}
-\caption{\swabfamily{Tafel 30: Figur 1 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,10 mm. (Koralle?)}}
+\caption{\swabfamily{Tafel 30: Figur 1 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,10 mm. (Koralle?)}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_30-2_edit-b.jpg}
-\caption{\swabfamily{Tafel 30: Figur 2 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,40 mm. (Koralle und Crinoid\index{Crinoid}, vergl. Tafel 20.)}}
+\caption{\swabfamily{Tafel 30: Figur 2 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,40 mm. (Koralle und Crinoid\index{Crinoid}, vergl. Tafel 20.)}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_30-3_edit-b.jpg}
-\caption{\swabfamily{Tafel 30: Figur 3 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 0,30 mm. (die Arme nezf"ormig verschlungen)}}
+\caption{\swabfamily{Tafel 30: Figur 3 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 0,30 mm. (die Arme nezf"ormig verschlungen)}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_30-4_edit-b.jpg}
-\caption{\swabfamily{Tafel 30: Figur 4 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,85 mm. (Anschnitt)}}
+\caption{\swabfamily{Tafel 30: Figur 4 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,85 mm. (Anschnitt)}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_30-5_edit-b.jpg}
-\caption{\swabfamily{Tafel 30: Figur 5 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 0,70 mm. (Anschnitt)}}
+\caption{\swabfamily{Tafel 30: Figur 5 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 0,70 mm. (Anschnitt)}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_30-6_edit-b.jpg}
-\caption{\swabfamily{Tafel 30: Figur 6 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 0,40 mm. (Struktur dem des Schreibersits im Meteoreisen gleich)}}
+\caption{\swabfamily{Tafel 30: Figur 6 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 0,40 mm. (Struktur dem des Schreibersits im Meteoreisen gleich)}}
 \centering
 \end{figure}
 \clearpage
 \rhead{\swabfamily{Tafel 31: \emph{Problematica}}}
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_31-1_edit-b.jpg}
-\caption{\swabfamily{Tafel 31: Figur 1 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,20 mm. (nicht ganz vollst"andiges Bild)}}
+\caption{\swabfamily{Tafel 31: Figur 1 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,20 mm. (nicht ganz vollst"andiges Bild)}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_31-2_edit-b.jpg}
-\caption{\swabfamily{Tafel 31: Figur 2 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 0,50 mm.}}
+\caption{\swabfamily{Tafel 31: Figur 2 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 0,50 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_31-3_edit-b.jpg}
-\caption{\swabfamily{Tafel 31: Figur 3 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,20 mm. (Drei "ubereinstimmende Formen aus 3 D"unnschliffen, in 1 und 2 beidemale der horizontale Ausschnitt)}}
+\caption{\swabfamily{Tafel 31: Figur 3 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,20 mm. (Drei "ubereinstimmende Formen aus 3 D"unnschliffen, in 1 und 2 beidemale der horizontale Ausschnitt)}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_31-4_edit-b.jpg}
-\caption{\swabfamily{Tafel 31: Figur 4 --- aus Knyahinya\index{Meteorite!Knyahinya} (ob Schwamm oder Koralle?) D. 0,90 mm.}}
+\caption{\swabfamily{Tafel 31: Figur 4 --- aus Knyahinya\index{Meteorit!Knyahinya} (ob Schwamm oder Koralle?) D. 0,90 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_31-5_edit-b.jpg}
-\caption{\swabfamily{Tafel 31: Figur 5 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,50 mm.}}
+\caption{\swabfamily{Tafel 31: Figur 5 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,50 mm.}}
 \centering
 \end{figure}
 \clearpage
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_31-6_edit-b.jpg}
-\caption{\swabfamily{Tafel 31: Figur 6 --- aus Knyahinya\index{Meteorite!Knyahinya} D. 1,40 mm.}}
+\caption{\swabfamily{Tafel 31: Figur 6 --- aus Knyahinya\index{Meteorit!Knyahinya} D. 1,40 mm.}}
 \centering
 \end{figure}
 \clearpage
 \rhead{\swabfamily{Tafel 32: Verschieden}}
 \begin{figure}[t]
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{figures/meteorite_32-1_edit-b.jpg}
-\caption{\swabfamily{Tafel 32: Figur 1 --- aus Knyahinya\index{Meteorite!Knyahinya} (Einschluss) D. 1,50 mm.}}
+\caption{\swabfamily{Tafel 32: Figur 1 --- aus Knyahinya\index{Meteorit!Knyahinya} (Einschluss) D. 1,50 mm.}}
 \centering
 \end{figure}
 \clearpage
