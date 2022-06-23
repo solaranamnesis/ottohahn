@@ -54,6 +54,10 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ## Timeline of Publications Pertaining to the Organic Origin Theory of the Chondrites
 
+### 1834 - [On Meteor-Stones](https://github.com/solaranamnesis/Jacob-Berzelius) by Jacob Berzelius
+
+### 1858 - [About the Components of the Meteor-Stone from Kaba in Hungary](https://github.com/solaranamnesis/Friedrich-Wohler) by Friedrich Wöhler
+
 ### 1863 - [A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin](https://github.com/solaranamnesis/Gustav-Rose) by Gustav Rose
 
 ### 1875 - [On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Carl von Gümbel
