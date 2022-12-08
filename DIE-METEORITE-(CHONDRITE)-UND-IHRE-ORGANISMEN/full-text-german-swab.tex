@@ -3,6 +3,16 @@
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
 \usepackage{yfonts}
+\usepackage{textalpha}
+% With XeTeX/LuaTeX, load fontspec after babel to use Unicode
+% fonts for Latin script and LGR for Greek:
+\ifdefined\luatexversion \usepackage{fontspec}\fi
+\ifdefined\XeTeXrevision \usepackage{fontspec}\fi
+
+% "`Lipsiakos" italic font `cbleipzig`:
+\newcommand*{\lishape}{\fontencoding{LGR}\fontfamily{cmr}%
+		       \fontshape{li}\selectfont}
+\DeclareTextFontCommand{\textli}{\lishape}
 %\usepackage{fbb} %Derived from Cardo, provides a Bembo-like font family in otf and pfb format plus LaTeX font support files
 \usepackage{booktabs}
 \usepackage{url}
@@ -16,10 +26,14 @@
 \usepackage[titles]{tocloft}
 \makeindex[columns=2, title=\swabfamily{Alphabetischer Index}, intoc]
 \usepackage{sectsty}
+\usepackage[titles]{tocloft}
 
-\sectionfont{\Huge}
-\subsectionfont{\LARGE}
-\subsubsectionfont{\LARGE}
+\allsectionsfont{\swabfamily}
+\sectionfont{\swabfamily\Huge}
+\subsectionfont{\swabfamily\LARGE}
+\subsubsectionfont{\swabfamily\LARGE}
+\paragraphfont{\swabfamily\LARGE}
+
 \begin{document}
 \swabfamily
 \renewcommand{\contentsname}{
@@ -28,6 +42,14 @@
 \renewcommand{\listfigurename}{
 \swabfamily{Abbildungsverzeichnis}
 }
+
+\renewcommand{\cftsecfont}{\swabfamily}
+\renewcommand{\cftsubsecfont}{\swabfamily}
+\renewcommand{\cftsubsubsecfont}{\swabfamily}
+
+\renewcommand{\cftfigfont}{\swabfamily}
+\renewcommand{\cftfigpagefont}{\swabfamily}
+
 % fix toc page numbers
 \let\origcftsecfont\cft
 \let\origcftsecpagefont\cftsecpagefont
@@ -38,6 +60,9 @@
 \let\origcftsubsecafterpnum\cftsubsecafterpnum
 \renewcommand{\cftsubsecpagefont}{\swabfamily{\origcftsubsecpagefont}}
 \renewcommand{\cftsubsecafterpnum}{\swabfamily{\origcftsubsecafterpnum}}
+
+\renewcommand\thefootnote{\swabfamily{\arabic{footnote}}}
+\renewcommand{\thefigure}{\swabfamily{\arabic{figure}}}
 
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
@@ -125,7 +150,7 @@ Das was mir meine bei einem anstrengenden Beruf fast "uber Menschenkraft gehende
 
 Es ist die Tierwelt in einem Gesteine, welches auf unsere Erde herabfiel und uns Kunde brachte von kleinsten Wesen aus fernsten R"aumen --- eine Tierwelt, welche zu erblicken ein sterbliches Auge kaum hoffen konnte: eine Welt von Wesen, welche uns zeigt, dass dieselbe Sch"opferkraft, welche unsere Erde aus einem Dunstnebel hat werden lassen, "uberall und gleichm"a"sig im Weltraum gewirkt und geschafft hat.
 
-Freilich weist das Gestein der Meteorit\index{Meteorit} und zwar der Chondrite --- denn diese sind's, welche ich vorzugsweise zum Gegenstand meiner Untersuchung machte, --- keine Tiere h"oheren Baus auf; Alles sind niedere Tiere --- dieselben, welche in unseren Silurschichten vorherrschen --- Schw"amme, Korallen und Crinoiden\index{Crinoid}, und auch in ihren Spezies-Merkmalen stimmen sie mit dieser Sch"opfung.
+Freilich weist das Gestein der Meteorit\index{Meteorit} und zwar der Chondrit --- denn diese sind's, welche ich vorzugsweise zum Gegenstand meiner Untersuchung machte, --- keine Tiere h"oheren Baus auf; Alles sind niedere Tiere --- dieselben, welche in unseren Silurschichten vorherrschen --- Schw"amme, Korallen und Crinoiden\index{Crinoid}, und auch in ihren Spezies-Merkmalen stimmen sie mit dieser Sch"opfung.
 
 Das Gestein der Chondrite, welche ich untersucht habe, ist ein Olivin-Enstatit-Gestein. Es hat von der Zeit seiner Entstehung, vom Tierknochen, bis es fiel, Verwandlungen durchgemacht, aber keine erhebliche: es ist nur von einer Silicatl"osung durchtr"ankt worden, wie alle unsere Jurameer-Ablagerungen von einer L"osung von Kalk. Wahrscheinlich machte es, so lange es noch ein Teil eines Planeten war, noch mehr Planeten-Perioden durch, wie auch den tieferen Schichten unserer Erde andere gefolgt sind, unter deren Einfluss dann die fr"uheren eine gewisse, freilich nicht so erhebliche Umwandlung als man gew"ohnlich annimmt, erfahren haben.
 
@@ -152,13 +177,13 @@ Wer meine Formen nur oberfl"achlich "uberblickt, wird bald finden, dass sie eine
 In solchen Anf"angen sind Irrt"umer unvermeidlich, es ist daher nur eine Forderung der Billigkeit, sie zu verzeihen. Auch wollte ich die Ver"offentlichung des Werkes nicht zu lange verz"ogern, und habe es daher eben so wie es jetzt vorliegt, abgeschlossen.
 \clearpage
 \subsection{\swabfamily{Geschichte und "Uberblick}}
-$\Delta$o$\sigma$ $\mu$o$\iota$ $\chi\epsilon\nu\tau\rho$o$\nu$%Δός μοι χέντρον
+Δός μοι χέντρον%Δός μοι χέντρον
 \paragraph{}
 Als ich im vorigen Jahre mein Tagebuch enthaltend gewisse neue Beobachtungen "uber die Zusammensetzung der Gesteine unserer Erde und schlie"slich auch der Meteorit\index{Meteorit}, niederschrieb, war mir die Wichtigkeit der letzteren f"ur unsere Erdkunde noch nicht v"ollig klar.
 
 Erst als ich durch die Angriffe der Gegner gezwungen war, die Untersuchung aufs Neue in die Hand zu nehmen, trat es mir klar vor die Augen, welch' hohe Bedeutung eine sorgf"altige Erforschung der Meteorit\index{Meteorit} f"ur die Geschichte unserer Erde haben m"usse. Zuletzt kam ich zu der "Uberzeugung, dass bei dem jetzigen Stand unserer Erdkunde die Meteorit\index{Meteorit} und nur die Meteorit\index{Meteorit} den Punkt abg"aben, von welchem aus unsere Erdgeschichte wenigstens mit ziemlicher Sicherheit erforscht werden k"onne.
 
-Wenn ich also in meiner \emph{Urzelle} mit dem Granit die m"ogliche Grenze der Forschung erreicht zu haben glaubte, so wurde ich bald eines Bessern belehrt. Ich erwog, dass unser Erdkern verm"oge seines spezifischen Gewichts ebenfalls mindestens aus gediegenem Eisen bestehen m"usse, erwog ferner die sehr wahrscheinliche Reihenfolge in den Meteorit\index{Meteorit}n, welche vom reinen Eisen bis zu den Feldspatgesteinen unserer Erde geht. Ich glaubte ferner, dass ein R"uckschluss von unserer Erde auf die Meteorit\index{Meteorit} gewagt werden d"urfe, der Schluss, dass auch in den "ubrigen Planeten und in denjenigen oder demjenigen, deren (oder dessen) Tr"ummer wir wohl in den hunderttausend von kreisenden Meteoriten vor uns haben, eine Reihenfolge der Schichtung vom Schweren zum Leichten bestanden habe, eine Schicht-Folge, welche wir wahrscheinlich in der Reihe vom reinen Eisen durch die Halbeisen (Pallasite, Hainholz) hindurch zu den Chondriten und Eukriten, dann zu den Ton-(Kohle-)Meteoriten (Bokkefeld) vor uns haben.
+Wenn ich also in meiner \emph{Urzelle} mit dem Granit die m"ogliche Grenze der Forschung erreicht zu haben glaubte, so wurde ich bald eines Bessern belehrt. Ich erwog, dass unser Erdkern verm"oge seines spezifischen Gewichts ebenfalls mindestens aus gediegenem Eisen bestehen m"usse, erwog ferner die sehr wahrscheinliche Reihenfolge in den Meteorit\index{Meteorit}n, welche vom reinen Eisen bis zu den Feldspatgesteinen unserer Erde geht. Ich glaubte ferner, dass ein R"uckschluss von unserer Erde auf die Meteorit\index{Meteorit} gewagt werden d"urfe, der Schluss, dass auch in den "ubrigen Planeten und in denjenigen oder demjenigen, deren (oder dessen) Tr"ummer wir wohl in den hunderttausend von kreisenden Meteoriten vor uns haben, eine Reihenfolge der Schichtung vom Schweren zum Leichten bestanden habe, eine Schicht-Folge, welche wir wahrscheinlich in der Reihe vom reinen Eisen durch die Halbeisen (Pallasit, Hainholz) hindurch zu den Chondriten und Eukriten, dann zu den Ton-(Kohle-)Meteoriten (Bokkefeld) vor uns haben.
 
 Nachdem diese Wahrscheinlichkeit einmal gewonnen war, lag es nahe, die Meteorit\index{Meteorit} einer genauen Pr"ufung hinsichtlich ihrer morphologischen Eigenschaften zu unterwerfen. Dies war auch in hohem Grade geboten, denn dass bisher in dieser Richtung so gut wie nichts geschehen ist, davon kann man sich durch Vergleichung meiner Abbildungen mit den etwa zwanzig d"urftigen Bildern "uberzeugen, welche zusammen das heute vorliegende Material unserer Wissenschaft bilden. Die akademischen Schriften von Berlin, Wien, M"unchen haben je nur einige Tafeln aufzuweisen, die Zeichnungen sind klein, und wie sich sofort zeigt, von den am wenigsten f"ur diese Richtung der Untersuchung geeigneten Meteoriten und ferner wahrscheinlich auch nicht von dem besten Teile, dem Innern, genommen.
 
@@ -168,15 +193,15 @@ Aber freilich --- unsere Wissenschaft ist ungl"aubig --- sie fordert mit Recht s
 
 Man "uberblicke die Tafeln dieses Werks und es wird sofort zur Gewissheit, dass es sich hier nicht um Mineral-, sondern um organische Formen handelt, dass wir die Bilder von Tieren vor uns haben, Bilder von Tieren der niedersten Stufe, einer Sch"opfung, welche zum gr"o"seren Teile wenigstens ihre n"achsten Verwandten auf unserer Erde findet; --- hinsichtlich der Korallen und Crinoiden\index{Crinoid} ist dies mit unbedingter Sicherheit festgestellt: die Schw"amme aber haben wenigstens eine solche "ahnlichkeit mit den Formen der Erde aufzuweisen, wie sie eben innerhalb verwandter irdischer Gattungen besteht.
 
-So war die Entstehung hinsichtlich der Teile festgestellt. Nun best"atigte sich aber auch bei meiner Untersuchung von 20 Chondriten (und 360 D"unnschliffen davon) die in meiner \emph{Urzelle} aufgestellte Behauptung, dass das Gestein der Chondrite nicht etwa nach Art der Sedimentgesteine unserer Erde nur ein Schlamm sei, in welchen die Versteinerungen eingelagert sind, dass es nicht eine Konglomeratbildung sei; ihre ganze Masse ist vielmehr v"ollig aus organischen Wesen gebildet, wie unsere Korallenfelsen. Also keine Pflanze, wie ich fr"uher annahm, aber Pflanzentiere! Und der ganze Stein ein Leben: --- ich denke, die Wissenschaft darf mir den ersten Irrtum gerne verzeihen.
+So war die Entstehung hinsichtlich der Teile festgestellt. Nun best"atigte sich aber auch bei meiner Untersuchung von 20 Chondriten (und 360 D"unnschliffen davon) die in meiner \emph{Urzelle} aufgestellte Behauptung, dass das Gestein der Chondrit nicht etwa nach Art der Sedimentgesteine unserer Erde nur ein Schlamm sei, in welchen die Versteinerungen eingelagert sind, dass es nicht eine Konglomeratbildung sei; ihre ganze Masse ist vielmehr v"ollig aus organischen Wesen gebildet, wie unsere Korallenfelsen. Also keine Pflanze, wie ich fr"uher annahm, aber Pflanzentiere! Und der ganze Stein ein Leben: --- ich denke, die Wissenschaft darf mir den ersten Irrtum gerne verzeihen.
 
 Selbstredend war nun auch das Meteoreisen nochmals einer Pr"ufung zu unterwerfen. Hier blieb es bei meiner ersten Beobachtung.
 
-Allerdings gestatteten mir Zeit und Umst"ande, insbesondere der Mangel an verf"ugbarem Material nicht, die Untersuchung dar"uber vor dieser Ver"offentlichung abzuschlie"sen. Wenn ich aber heute die erste Behauptung, dass das Meteoreisen nichts als ein Pflanzenfilz sei, in der Hauptsache wiederhole, so darf ich mich doch jetzt zu der Behauptung eher legitimiert ansehen, als zur Zeit, als ich die \emph{Urzelle} schrieb. Beizuf"ugen habe ich, dass ich auch im Eisen Tierformen fand. Die Forscher, denen die Formen der Chondrite entgingen, welche ich abbilde, k"onnen auch "ubersehen haben, dass die sogenannten Widmannst"atten'schen Figuren in der Tat gr"o"stenteils Pflanzenzellen und keine Kristalle sind.
+Allerdings gestatteten mir Zeit und Umst"ande, insbesondere der Mangel an verf"ugbarem Material nicht, die Untersuchung dar"uber vor dieser Ver"offentlichung abzuschlie"sen. Wenn ich aber heute die erste Behauptung, dass das Meteoreisen nichts als ein Pflanzenfilz sei, in der Hauptsache wiederhole, so darf ich mich doch jetzt zu der Behauptung eher legitimiert ansehen, als zur Zeit, als ich die \emph{Urzelle} schrieb. Beizuf"ugen habe ich, dass ich auch im Eisen Tierformen fand. Die Forscher, denen die Formen der Chondrit entgingen, welche ich abbilde, k"onnen auch "ubersehen haben, dass die sogenannten Widmannst"atten'schen Figuren in der Tat gr"o"stenteils Pflanzenzellen und keine Kristalle sind.
 
 Die bisherigen Untersuchungen auf dem ganzen Gebiete mit Ausnahme der Arbeit [Karl Wilhelm von] G"umbel's in den Schriften der M"unchener Akademie sind, sowohl was Genauigkeit der Beobachtung, noch mehr aber was die auf solcher Beobachtung, auf unbewiesenen Hypothesen und leeren Voraussetzungen ruhende Deutung betrifft --- wenig geeignet, als eine wissenschaftliche Feststellung angesehen zu werden. So war mir in der Tat das Feld noch v"ollig offen, wobei ich nur bedaure, dass ich bez"uglich der Eisen vorerst noch keine Vorlage machen kann.
 
-Ich komme nun zur Schlussfolgerung f"ur unsere Erdkunde. Sind n"amlich die Chondrite --- also ein Olivin- und Enstatit-Gestein wirklich, was ich zur Gewissheit bringe, nur St"ucke von Schwamm-Korallen-Crinoiden-Felsen, so ist f"ur die Wissenschaft unserer Erde eine Tatsache von unermesslicher Tragweite gewonnen.
+Ich komme nun zur Schlussfolgerung f"ur unsere Erdkunde. Sind n"amlich die Chondrit --- also ein Olivin- und Enstatit-Gestein wirklich, was ich zur Gewissheit bringe, nur St"ucke von Schwamm-Korallen-Crinoiden-Felsen, so ist f"ur die Wissenschaft unserer Erde eine Tatsache von unermesslicher Tragweite gewonnen.
 
 Ein Feldspatmineral ist reines Wasserprodukt, ist Versteinerungsmittel f"ur Millionen von Organismen! Damit fallen alle Hypothesen "uber die metamorphischen und plutonischen Gesteine unserer Erde, damit f"allt die Theorie von dem feuerfl"ussigen Erdinnern, --- wenigstens kann aus dem Gestein kein Schluss mehr darauf gezogen werden.
 
@@ -208,13 +233,13 @@ Wie sollte endlich ein feuriger Erdkern ohne Sauerstoff bestehen k"onnen! Und f"
 
 Dies sind die Schlussfolgerungen aus der Untersuchung "uber die Meteorit\index{Meteorit} f"ur unsere Erdbildung. Ungleich bedeutender aber sind die Tatsachen, welche die Astronomie daraus ableiten kann.
 
-Die D"unnschliffe von 20 von mir untersuchten Meteoriten (Chondriten), von F"allen, welche "uber ein Jahrhundert auseinander liegen, zeigen dieselben Formen, "ahnlich wie eine Leitmuschel "uberall in derselben Formation vorkommt; dies hat schon G"umbel, wenn er die Formen der Chondrite auch nicht richtig gedeutet hat, trefflich ausgesprochen.
+Die D"unnschliffe von 20 von mir untersuchten Meteoriten (Chondriten), von F"allen, welche "uber ein Jahrhundert auseinander liegen, zeigen dieselben Formen, "ahnlich wie eine Leitmuschel "uberall in derselben Formation vorkommt; dies hat schon G"umbel, wenn er die Formen der Chondrit auch nicht richtig gedeutet hat, trefflich ausgesprochen.
 
-Diese Chondrite stammen also wahrscheinlich von einem und demselben Weltk"orper, einem Planeten. Oder ist gar bei verschiedenen Planeten die Entwicklung eine so sehr "ubereinstimmende gewesen?
+Diese Chondrit stammen also wahrscheinlich von einem und demselben Weltk"orper, einem Planeten. Oder ist gar bei verschiedenen Planeten die Entwicklung eine so sehr "ubereinstimmende gewesen?
 
 Dieser Weltk"orper tr"agt Wassertiere, ist also im Wasser und durch Wasser entstanden, auch nicht durch Feuer vergangen, denn Spuren des Feuers zeigen diese Gesteine nicht: der Meteorit ist zersprungen, seine Tr"ummer haben nur in ihrem kurzen Weg durch unsere Atmosph"are eine 1 mm dicke Schmelzrinde, in Folge der Reibungsw"arme, erhalten.
 
-Die Tier-Sch"opfung der Chondrite ist beinahe durchaus eine mikroskopische, Tiere sind es von 0,20 bis h"ochstens 3 mm Durchmesser, oft bedarf es einer Vergr"o"serung von 1000, um ihre zarte Struktur klar zu sehen, w"ahrend bei solcher Vergr"o"serung unsere Petrefacten in eine gestaltlose Fl"ache sich aufl"osen.
+Die Tier-Sch"opfung der Chondrit ist beinahe durchaus eine mikroskopische, Tiere sind es von 0,20 bis h"ochstens 3 mm Durchmesser, oft bedarf es einer Vergr"o"serung von 1000, um ihre zarte Struktur klar zu sehen, w"ahrend bei solcher Vergr"o"serung unsere Petrefacten in eine gestaltlose Fl"ache sich aufl"osen.
 
 So war mir durch die erste in meiner \emph{Urzelle} niedergelegte Beobachtung ein Weg ge"offnet, auf welchem weite, weite Strecken unserer Wissenschaft gewonnen werden m"ussen.
 
@@ -237,7 +262,7 @@ Was das Mikroskop bis jetzt zur Deutung der Meteorit\index{Meteorit} geliefert h
 \paragraph{}
 Die fr"uheren Beschreibungen beschr"anken sich auf die Untersuchung mit blo"sem Auge und der Lupe, sowie die chemische Analyse.
 
-Sie stimmen alle dahin "uberein: Die Chondrite bestehen aus einer Grundmasse mit Kugeln von Enstatit (Bronzit), Olivin und Eisen, eingesprengtem Nickel- und Chromeisen.
+Sie stimmen alle dahin "uberein: Die Chondrit bestehen aus einer Grundmasse mit Kugeln von Enstatit (Bronzit), Olivin und Eisen, eingesprengtem Nickel- und Chromeisen.
 
 Eine andere Stellung nimmt ein: G"umbel: "Uber die in Bayern gefundenen Steinmeteoriten; Sitzungsberichte der mathematisch-physikalischen Klasse der K. b. Akademie der Wissenschaften zu M"unchen 1878. Heft 1, S. 14 ff. In der Beschreibung der Meteorit\index{Meteorit} von Eichst"adt und Sch"oneberg erw"ahnte er "`Maschenstruktur"' (S. 27. 46.) Allerdings spricht er auch von "`Abk"ommlingen zerbrochener gr"o"serer Chondren"' (S. 28). Das Bedeutende seiner Beobachtungen ist auf S. 58, welche ich hier folgen lasse:
 
@@ -245,7 +270,7 @@ Eine andere Stellung nimmt ein: G"umbel: "Uber die in Bayern gefundenen Steinmet
 
 Und ferner S. 61:
 
-"`Der gew"ohnliche Typus der Meteorit\index{Meteorit} von steiniger Beschaffenheit ist soweit "uberwiegend derjenige der sog. Chondrite und die Zusammensetzung sowie die Struktur aller dieser Steine so sehr "ubereinstimmend, dass wir den gemeinsamen Ursprung und die uranf"angliche Zusammengeh"origkeit aller dieser Art Meteorit\index{Meteorit} --- wenn nicht aller --- wohl nicht weiter in Zweifel ziehen k"onnen.
+"`Der gew"ohnliche Typus der Meteorit\index{Meteorit} von steiniger Beschaffenheit ist soweit "uberwiegend derjenige der sog. Chondrit und die Zusammensetzung sowie die Struktur aller dieser Steine so sehr "ubereinstimmend, dass wir den gemeinsamen Ursprung und die uranf"angliche Zusammengeh"origkeit aller dieser Art Meteorit\index{Meteorit} --- wenn nicht aller --- wohl nicht weiter in Zweifel ziehen k"onnen.
 
 "`Der Umstand, dass sie s"amtlich in h"ochst unregelm"a"sig geformten St"uckchen in unsere Atmosph"are gelangen --- abgesehen von dem Zerspringen innerhalb der letzteren in mehrere Fragmente, was zwar h"aufig vorkommt, aber doch nicht in allen F"allen angenommen werden kann, namentlich nicht, wenn durch direkte Beobachtung das Fallen nur eines St"uckes konstatiert ist, --- l"asst weiter schlie"sen, dass sie bereits in regellos zertr"ummerten St"ucken als Abk"ommlinge von einem einzigen gr"o"seren Himmelsk"orper ihre Bahnen im Himmelsraume ziehen und in ihrer Zerstreutheit einzeln zuweilen in das Attraktionsbereich der Erde geraten zur Erde niederfallen. Der Mangel urspr"unglicher, lavaartiger, amorpher Bestandteile in Verbindung mit der "au"sern unregelm"a"sigen Form d"urfte von geo- oder kosmologischen Standpunkte aus die Annahme ausschlie"sen, dass diese Meteorit\index{Meteorit} Ausw"urfe von Mondvulkanen, wie vielfach behauptet wird, sein k"onnen."'
 
@@ -255,7 +280,7 @@ G"umbel fasst, nachdem er die Meteorit\index{Meteorit} in die Olivingesteine uns
 
 "`So geistreich, f"ahrt er (S. 68) fort, diese Hypothesen Daubrée's und Tschermak's sind (Entstehung aus zertr"ummertem Vulkangestein), so kann ich mich doch in Bezug auf die Entstehung der K"ugelchen (Chondren) ihrer Ansicht auf Grund meiner neuesten Untersuchungen nicht anschlie"sen. Ich habe im Gegensatze zu Tschermak's Annahme nachzuweisen gesucht, dass das innere Gef"uge der Chondren nicht au"ser Zusammenhang mit ihrer kugeligen Gestalt stehe, und dass man diese K"ugelchen weder als St"ucke eines Mineralkristalls, noch eines festen Gesteins ansehen k"onne. Spricht schon ihre nicht gegl"attete, nicht polierte Oberfl"ache, welche, wenn durch Abreibung oder Abrollung gebildet, bei solcher H"arte des Materials spiegelglatt sein m"usste, w"ahrend sie rauh, h"ockerig, oft strichweise kristallinisch facettirt erscheint, gegen die Abreibungstheorie, so ist auch gar kein Grund einzusehen, weshalb nicht alle anderen Mineral splitterchen wie Sandk"orner abgerundet seien und weshalb namentlich das Meteoreisen, das Schwefeleisen und das sehr harte Chromeisen, wie ich in dem Meteorit von L'Aigle mich "uberzeugt habe, stets nichtgerundete, oft "au"serst fein zerschlitzte Formen besitzen. Wie w"are es zudem denkbar, dass, wie h"aufig beobachtet wird, innerhalb der K"ugelchen konzentrische Anh"aufung von Meteoreisen vorkommen? Auch erscheint die exzentrisch faserige Struktur der meisten K"ugelchen in ihrem einseitig gelegenen Ausstrahlungspunkte in Bezug auf die Oberfl"ache nicht als zuf"allig, sondern der Art der Struktur der Hagelk"orner nachgebildet. Dieses innere Gef"uge steht im engsten Zusammenhang mit dem Akt ihrer Entstehung, welche nur als eine Verdichtung Mineral bildender Stoffe unter gleichzeitiger drehender Bewegung in D"ampfen, welche das Material zur Fortbildung lieferten, sich erkl"aren l"asst, wobei in der Richtung der Bewegung einseitig mehr Material sich ansetzte."'
 
-Weiter freilich spricht G"umbel sich dahin aus, dass das Material, aus welchem die Chondrite bestehen, durch eine gest"orte Kristallisation und Zertr"ummerung in Folge von explosiven Vorg"angen innerhalb eines Raumes sich gebildet habe, welcher von den die Mineralien bildenden Stoffe liefernden Dampf- und Wasserstoffgasen erf"ullt war. Er schlie"st S. 72 bei Besprechung des Meteorites von Kaba:
+Weiter freilich spricht G"umbel sich dahin aus, dass das Material, aus welchem die Chondrit bestehen, durch eine gest"orte Kristallisation und Zertr"ummerung in Folge von explosiven Vorg"angen innerhalb eines Raumes sich gebildet habe, welcher von den die Mineralien bildenden Stoffe liefernden Dampf- und Wasserstoffgasen erf"ullt war. Er schlie"st S. 72 bei Besprechung des Meteorites von Kaba:
 
 "`Vielleicht gelingt es dennoch, die Anwesenheit organischer Wesen auf au"serirdischen K"orpern nachzuweisen."' Ich hoffe dies sei gelungen. --- Aus seinen Abbildungen ersieht man, dass bei der Untersuchung ein schlechtes Material zu Gebot stand. Auch h"atten immerhin mehr D"unnschliffe gefertigt werden m"ussen, zudem reicht die Vergr"o"serung bei Weitem nicht. Ich verweise hier auf das Folgende und die Beschreibung meiner Tafeln.
 
@@ -269,7 +294,7 @@ Daubrée's verdienstvolles Werk \emph{Experimentalgeologie} erhielt ich erst in 
 \paragraph{}
 Die Literatur der Meteorit\index{Meteorit} ist eine sehr umfangreiche. Sie ist jedoch, was die Art und Zahl, chemische Zusammensetzung betrifft, so bekannt, dass ich auf diesen Teil derselben, also insbesondere die fr"uheren Arbeiten, nicht einzugehen brauche.
 
-Die Meteorit\index{Meteorit} werden eingeteilt in Eisen und Steine, zwischen beiden steht jedoch noch eine Klasse: Halbeisen, d. h. eine Verbindung von gediegenem Eisen und Stein --- die Pallasite. W"ahrend die Eisen eine ziemliche "Ubereinstimmung, sowohl in ihrer chemischen Zusammensetzung, als in der Form ihrer Struktur zeigen, sind die Pallasite (je nach dem Vorwiegend des Eisens) sehr verschieden. Aber es finden sich noch weitere Verschiedenheiten darunter. Hainholz z. B. hat neben Eisen und Olivin ein blaues Mineral (Enstatit) und in diesem einen gro"sen Reichtum von Tierformen. --- Die Steine werden eingeteilt in Chondrite, Stannerite [eukriten], Luotolaxer [howarditen], Bokkefelder [karbonatisch], Bishopvillit [aubriten], (Quenstedt, Klar und Wahr S. 280 folg.)
+Die Meteorit\index{Meteorit} werden eingeteilt in Eisen und Steine, zwischen beiden steht jedoch noch eine Klasse: Halbeisen, d. h. eine Verbindung von gediegenem Eisen und Stein --- die Pallasit. W"ahrend die Eisen eine ziemliche "Ubereinstimmung, sowohl in ihrer chemischen Zusammensetzung, als in der Form ihrer Struktur zeigen, sind die Pallasit (je nach dem Vorwiegend des Eisens) sehr verschieden. Aber es finden sich noch weitere Verschiedenheiten darunter. Hainholz z. B. hat neben Eisen und Olivin ein blaues Mineral (Enstatit) und in diesem einen gro"sen Reichtum von Tierformen. --- Die Steine werden eingeteilt in Chondrit, Stannerit [eukriten], Luotolaxer [howarditen], Bokkefelder [karbonatisch], Bishopvillit [aubriten], (Quenstedt, Klar und Wahr S. 280 folg.)
 
 Ich habe mich vorzugsweise mit den Chondriten besch"aftigt und, wo ich von Meteoriten rede, rede ich von dieser allerdings auch am zahlreichsten vertretenen Klasse von Stein-Meteoriten.
 \paragraph{}
@@ -314,7 +339,7 @@ Ich reihe hier eine Bemerkung an, welche mir Jeder best"atigen wird, welcher sic
 
 Nur in seltenen F"allen ist in v"ollig durchsichtigen, also ganz d"unnen Schliffen, noch die Struktur sichtbar. Wer seinen Schliff, wenn er halbdurchsichtig, im Mikroskop betrachtet, ist im h"ochsten Grad erfreut "uber die sch"onen Formen und Linien. In der Freude dar"uber will er die Sache noch besser machen und erwartet bei fortgesetztem Schleifen ein vollendetes Bild. Aber wenn er den Schliff zum zweiten Mal unter das Mikroskop legt --- ist nichts mehr da als eine fast strukturlose Fl"ache, kaum angedeutete, sogar in den Umrissen verschwommene Formen, aus welchen nun das, was man vorher schon mit der Lupe wahrnahm, nicht einmal mehr mit dem Mikroskop zu ersehen ist. Diese Erscheinung h"angt aber mit der Art der Metamorphose des Gesteins und der darin eingeschlossenen Formen zusammen. Die Sache ist jedoch bekannt und bedarf deshalb keiner weiteren Ausf"uhrung. Ich musste der Tatsache nur deshalb erw"ahnen, damit solche, welche Beobachtungen erst anstellen wollen, ohne dass sie dieselbe kennen, nicht "uberrascht werden und ihre Beobachtungsweise verbessern k"onnen.
 
-Dass die Chondrite zum gr"o"sten Teile aus Bronzit-Enstatit (Augit) und Olivin sowie Magnetkies bestehen, ist eine in der Wissenschaft angenommen Tatsache. Quenstedt, \emph{Handbuch der Mineralogie} S. 722.
+Dass die Chondrit zum gr"o"sten Teile aus Bronzit-Enstatit (Augit) und Olivin sowie Magnetkies bestehen, ist eine in der Wissenschaft angenommen Tatsache. Quenstedt, \emph{Handbuch der Mineralogie} S. 722.
 
 Insbesondere aber sind die Einschl"usse, welche ich f"ur Korallen erkl"are, f"ur Enstatit angesprochen worden. Damit glaubte man die Struktur derselben erkl"aren zu k"onnen. Andere gingen noch weiter und erkl"arten die Einschl"usse zum Teil f"ur Gl"aser: (Tschermak).
 
@@ -340,7 +365,7 @@ Unsere Forscher, mit Ausnahme G"umbels, sprechen von den Meteoriten als vulkanis
 
 Richtig allein hat Quenstedt die Frage f"ur eine offene erkl"art und gesagt: es sei dem Mikroskop vorbehalten, das R"atsel der Zusammensetzung der Meteorit zu l"osen! \emph{Handbuch der Mineralogie} S. 722.
 \clearpage
-\section{\swabfamily{Die Organische Natur der Chondrite}}
+\section{\swabfamily{Die Organische Natur der Chondrit}}
 \subsection{\swabfamily{Organisch oder Unorganisch?}}
 \paragraph{}
 Um den Beweis zu f"uhren, dass ein pflanzlicher oder tierischer Organismus vorliege, halte ich f"ur notwendig darzutun:
@@ -360,10 +385,10 @@ Der Beweis n"amlich, den ich f"ur das Dasein organischer Wesen antrete, ist ein 
 
 Die Einschl"usse der Meteoriten sind keine Mineralbildungen.
 \begin{enumerate}
-\item Unsere Mineralogen erkl"aren die Einschl"usse der Chondrite f"ur Enstatit, Bronzit, Olivin.
+\item Unsere Mineralogen erkl"aren die Einschl"usse der Chondrit f"ur Enstatit, Bronzit, Olivin.
 
-Olivin hat keinen sichtbaren Bl"atterbruch, Enstatit und Bronzit einen deutlichen. Ich bilde einen Bronzit von Kupferberg, Tafel 1. 1. einen Enstatit von Texas, Tafel 1. 2. (D"unnschliff bei 75 facher Vergr"o"serung) ab. Figur 2. zeigt einen der besten Bl"atterbr"uche. Man vergleiche nun damit zuerst Tafel 1. Figur 4, einen Teil eines Favositen des Meteorsteins von Knyahinya (etwa 250 mal vergr"o"sert) und man wird wohl nicht mehr davon reden, dass der Bl"atterbruch die Ursache der Strukturerscheinungen der Chondrite sei. Nun betrachte man aber noch s"amtliche Tafeln und es wird diese Erkl"arung ein f"ur allemal abgetan sein.
-\item Wenn die Einschl"usse der Chondrite nach der bisherigen Deutung aus Enstatit oder Olivin bestehen, oder wenn es Gl"aser w"aren: wie w"are es, frage ich, m"oglich, dass dasselbe Mineral oder Glas im Ganzen in so verschiedenen Formen (Umrissen und Strukturen), und verschiedene Minerale in so scharf "ubereinstimmenden Formen auftreten? Man betrachte einmal einen Hypersthen, eine Hornblende, einen Augit! Abgesehen von einigen sichtbaren, leicht zu erkl"arenden Einschl"ussen --- (und um diese handelt es sich ja hier nicht) immer dasselbe Bild! Von h"ochstens 3 Mineralen hundert verschiedene Bilder!
+Olivin hat keinen sichtbaren Bl"atterbruch, Enstatit und Bronzit einen deutlichen. Ich bilde einen Bronzit von Kupferberg, Tafel 1. 1. einen Enstatit von Texas, Tafel 1. 2. (D"unnschliff bei 75 facher Vergr"o"serung) ab. Figur 2. zeigt einen der besten Bl"atterbr"uche. Man vergleiche nun damit zuerst Tafel 1. Figur 4, einen Teil eines Favositen des Meteorsteins von Knyahinya (etwa 250 mal vergr"o"sert) und man wird wohl nicht mehr davon reden, dass der Bl"atterbruch die Ursache der Strukturerscheinungen der Chondrit sei. Nun betrachte man aber noch s"amtliche Tafeln und es wird diese Erkl"arung ein f"ur allemal abgetan sein.
+\item Wenn die Einschl"usse der Chondrit nach der bisherigen Deutung aus Enstatit oder Olivin bestehen, oder wenn es Gl"aser w"aren: wie w"are es, frage ich, m"oglich, dass dasselbe Mineral oder Glas im Ganzen in so verschiedenen Formen (Umrissen und Strukturen), und verschiedene Minerale in so scharf "ubereinstimmenden Formen auftreten? Man betrachte einmal einen Hypersthen, eine Hornblende, einen Augit! Abgesehen von einigen sichtbaren, leicht zu erkl"arenden Einschl"ussen --- (und um diese handelt es sich ja hier nicht) immer dasselbe Bild! Von h"ochstens 3 Mineralen hundert verschiedene Bilder!
 
 Das Mineral ist einfach, muss seinem Begriff nach einfach sein und daher stets das Bild einer homogenen Masse (Fl"ache) geben, h"ochstens mit einigen Einschl"ussen. Wie sollte nun dasselbe Mineral in so verschiedenen Strukturen, dabei in so "ubereinstimmenden von den Kristallformen abweichenden Umrissen vorkommen?
 \item Die Minerale sind entweder kristallisiert oder nicht kristallisiert. --- In dem ersten Zustand haben sie bestimmte gesetzm"a"sige also wiederkehrende Formen: sie r"uhren von Fl"achen, welche im Durchschnitt sich als gerade Linien projizieren. Diese Formen (Linien und Winkel) sind wiederkehrend, wechseln blo"s der Gr"o"se, nicht dem Verh"altnis nach. Solche Formen finden sich unter den von mir als organisch angesprochenen Formen nicht. Hier ist keine Form mit einer Fl"ache oder mit einem Winkel; Alle sind Kugeln, Ellipsen mit Abweichungen von der mathematischen Form, Abweichungen, welche aber doch konstante sind. Also ganz abgesehen von der "ubereinstimmenden Struktur, zeigt sich eine Konstanz der Umrisse, aber andere Formen als die Kristallformen des Enstatits, des Olivins sie geben m"ussten.
@@ -372,7 +397,7 @@ Allerdings kommen seltene, kleine Stellen mit wirklichen Kristallen vor, aber in
 \item Waren die Minerale urspr"unglich kristallisiert, haben aber durch mechanische Gewalt ihre Kristall-Form verloren, so ist die einzige Form, welche hier sich wiederholen k"onnte, die Kugel oder eine dieser sich n"ahernde Form, etwa die Ellipse. Hier w"are eine Wiederholung m"oglich, ohne dass aus der Form ein Schluss gezogen werden k"onnte. In den Rollsteinen schneidet die Oberfl"ache den K"orper in einer Weise, dass sofort die Einwirkung der mechanischen Gewalt hervortritt, --- insbesondere werden Einschl"usse ganz willk"urlich getroffen.
 
 In den Meteoreinschl"ussen aber ist die Struktur im Stein stets, ich m"ochte sagen: symmetrisch, im Einklang mit den Umrissen.
-\item Bei Verwitterung von Kristallen "andern sich die Schichten von au"sen nach innen --- konzentrisch: --- von Verwitterung aber ist keine Spur in den Einschl"ussen der Chondrite zu sehen und die Strukturen sind stets exzentrisch.
+\item Bei Verwitterung von Kristallen "andern sich die Schichten von au"sen nach innen --- konzentrisch: --- von Verwitterung aber ist keine Spur in den Einschl"ussen der Chondrit zu sehen und die Strukturen sind stets exzentrisch.
 \item Was die Einschl"usse der Mineralien betrifft, so k"onnen diese je nach ihrer Beschaffenheit verschiedene Bilder geben. Es kommen ganz willk"urliche Formen der Einlagerung vor, wie Glas-Fl"ussigkeits-Einschl"usse, Kristalliten.
 
 Wo aber ein Formengesetz in der Einlagerung auftritt, richtet sich dieses stets nach der Kristallform. Beides trifft bei den Meteoritformen nicht zu. Keine Spur von Einlagerung nach einer Kristallform!
@@ -533,15 +558,15 @@ Allerdings m"ussten auch noch Organismen im Eisen, im Erdkern, in dem Meteoreise
 \clearpage
 \subsection{\swabfamily{Stein im Stein}}
 \paragraph{}
-Wenn ich gesagt habe: die Chondrite sind nichts als ein Tiergewebe, ein Tierfilz, so leidet dies eine Einschr"ankung.
+Wenn ich gesagt habe: die Chondrit sind nichts als ein Tiergewebe, ein Tierfilz, so leidet dies eine Einschr"ankung.
 
 Es kommen allerdings in diesem Tierknochengesteine ganz kleine, scharf umschriebene Stellen vor, welche von Anfang an wahrscheinlich (aber nicht notwendig) Gestein sind. Das sind blaugraue, seltene Einschl"usse von 3-5 mm. Durchmesser ohne bestimmt wiederkehrende Form, welche in der grauen Masse deutliche Kristalle eines gelbgr"unlichen Minerals, dessen Durchschnitte das einmal Quadrate oder Rhomben, das andermal Sechsecke sind, einschlie"sen. Dieses Mineral kann Augit oder Olivin sein. Hier spricht die Kristallform f"ur ein Mineral. Allein das Vorhandensein solcher Teile spricht auch f"ur meine Ansicht. Warum h"atten sich die Kristalle nicht "uberall gleich gebildet? Und warum sollten nicht auch Hohlr"aume neben Organismen "ubrig bleiben? Sodann ist bekannt, dass auch blo"se F"ullmassen in organischen Formen nachtr"aglich kristallisieren. Endlich finden sich aber auch in organischen Formen Ausf"ullungen von H"ohlen, welche sich in ihren Umrissen dem Aussehen von Fl"achen und Winkeln n"ahern.
 
-Der Grund, warum ich diese Einschl"usse aber doch als unorganische Teile der Chondrite zugebe, als eigentlichen Meteorstein (Stein im Stein), ist, weil die Umrisse einen Anhaltspunkt nicht geben, um die Form als organische anzusprechen. Diese Einschl"usse k"onnen Einlagerungen einer schon gebildeten Gesteinsmasse sein oder k"onnten sie sich in den Hohlr"aumen erst gebildet haben.
+Der Grund, warum ich diese Einschl"usse aber doch als unorganische Teile der Chondrit zugebe, als eigentlichen Meteorstein (Stein im Stein), ist, weil die Umrisse einen Anhaltspunkt nicht geben, um die Form als organische anzusprechen. Diese Einschl"usse k"onnen Einlagerungen einer schon gebildeten Gesteinsmasse sein oder k"onnten sie sich in den Hohlr"aumen erst gebildet haben.
 
 Dass eine Schlammablagerung m"oglich, dass ein Hineinfallen von Teilen eines schon abgelagerten, also fertig gebildeten Gesteins m"oglich, sogar wahrscheinlich sei, braucht nicht geleugnet zu werden: es st"o"st die Tatsache nicht um, dass in den Olivinschichten organische Bildungen vorhanden und dass diese den Aufbau des Planetenk"orpers bewirkt, den Bau selbst gebildet und zusammengesetzt haben.
 
-Unter allen Umst"anden aber ist im Chondrit-Gestein das Verh"altnis das umgekehrte wie bei den Sedimentschichten unserer Erde. In diesen sind die Organismen eingelagert, das Gestein umschlie"st sie; jenes ist eben nichts als Organismen und das Gestein ist eine Masse solcher. Ich f"uge ein Bild eines wirklichen Gesteinteils aus Borkut bei. Tafel 32. Figur 2. Daneben (Figur 1) habe ich eine Form abgebildet, graublau wie \emph{Urania}\index{Urania}, aber ohne bestimmte Struktur, auch in ihren Umrissen unbest"andig, weshalb sie eine blo"se F"ullmasse sein k"onnte. W"are sie eine organische Form, so w"are sie die eines niedersten Wesens. Zur Vergleichung bilde ich in Tafel 32. Figur 4 einen D"unnschliff von Lias $\gamma\delta$ (Zwischenkalk) ab. Hier liegen die Schalen zum Teil ganz im Kalke, gr"o"stenteils aber sind es blo"s St"ucke von Schalen; die Teile sind in alle Gr"o"sen zerschlagen, und, was ihre Herkunft betrifft, gerollt bis zur Unkenntlichkeit. Im Chondrite bleibt fast keine Stelle, welche Zweifel "uber ihre Zusammensetzung "ubrig lie"se.
+Unter allen Umst"anden aber ist im Chondrit-Gestein das Verh"altnis das umgekehrte wie bei den Sedimentschichten unserer Erde. In diesen sind die Organismen eingelagert, das Gestein umschlie"st sie; jenes ist eben nichts als Organismen und das Gestein ist eine Masse solcher. Ich f"uge ein Bild eines wirklichen Gesteinteils aus Borkut bei. Tafel 32. Figur 2. Daneben (Figur 1) habe ich eine Form abgebildet, graublau wie \emph{Urania}\index{Urania}, aber ohne bestimmte Struktur, auch in ihren Umrissen unbest"andig, weshalb sie eine blo"se F"ullmasse sein k"onnte. W"are sie eine organische Form, so w"are sie die eines niedersten Wesens. Zur Vergleichung bilde ich in Tafel 32. Figur 4 einen D"unnschliff von Lias $\gamma\delta$ (Zwischenkalk) ab. Hier liegen die Schalen zum Teil ganz im Kalke, gr"o"stenteils aber sind es blo"s St"ucke von Schalen; die Teile sind in alle Gr"o"sen zerschlagen, und, was ihre Herkunft betrifft, gerollt bis zur Unkenntlichkeit. Im Chondrit bleibt fast keine Stelle, welche Zweifel "uber ihre Zusammensetzung "ubrig lie"se.
 \clearpage
 \subsection{\swabfamily{Fortpflanzung}}
 \paragraph{}
@@ -629,7 +654,7 @@ Ich komme hier auf die Kant-Laplace'sche Hypothese von der Massenbildung zur"uck
 
 Soviel ist jedenfalls gewiss, dass das Meteoreisen nicht ein Schmelzprodukt ist, und was sollte das Meteoreisen in Glut versetzt haben? Ich habe auch im Meteoreisen Crinoiden- und Schwammformen gefunden. Ganz unzweifelhaft zeigt Hainholz solche.
 
-Zeigen aber schon die Pallasite organische und sogar tierische Formen, Gesteine, welche den "Ubergang von reinem Eisen zum Chondrit bilden, so ist auch kein Grund vorhanden, das reine Eisen f"ur eine unorganische Bildung, noch weniger aber, einen ehemals fl"ussigen Zustand desselben anzunehmen.
+Zeigen aber schon die Pallasit organische und sogar tierische Formen, Gesteine, welche den "Ubergang von reinem Eisen zum Chondrit bilden, so ist auch kein Grund vorhanden, das reine Eisen f"ur eine unorganische Bildung, noch weniger aber, einen ehemals fl"ussigen Zustand desselben anzunehmen.
 
 Sobald das Eisen als Planetenkern angenommen wird, glaube ich es hiermit aber als im h"ochsten Grade wahrscheinlich aussprechen zu d"urfen, dass der erste Anfang unseres und daher aller Planeten eine organische Bildungwar.
 \clearpage
@@ -675,7 +700,7 @@ Eisen und Steine k"onnten nun eigene Weltk"orper sein --- die Gr"o"se allein st"
 
 Diese Tierwelt ist aber schon eine wenigstens zum Teil h"oher organisierte. Eine einzellige Pflanze, ein Hefenpilz mag der Anfang eines Planeten gewesen sein: ein Crinoid\index{Crinoid} konnte es aus inneren Gr"unden nicht sein, denn hier m"ussen wir einen l"angeren Zeitraum und daher auch eine gr"o"sere Masse uns denken, durch welche diese Stufe der Entwicklung erreicht werden konnte.
 
-Diese Tatsachen leiten uns in Verbindung mit der Wahrscheinlichkeit, dass Eisen der Kern des Chondrit-Planeten gewesen sei, dahin: die Chondrite als Tr"ummer eines und desselben Weltk"orpers anzusehen, Tr"ummer, welche nach der Zerst"orung des Planeten kreisten, bis sie gl"ucklicherweise in den Fallkreis unserer Erde kamen. Auch die Formen der Meteorit\index{Meteorit} selbst sprechen endlich f"ur Tr"ummer.
+Diese Tatsachen leiten uns in Verbindung mit der Wahrscheinlichkeit, dass Eisen der Kern des Chondrit-Planeten gewesen sei, dahin: die Chondrit als Tr"ummer eines und desselben Weltk"orpers anzusehen, Tr"ummer, welche nach der Zerst"orung des Planeten kreisten, bis sie gl"ucklicherweise in den Fallkreis unserer Erde kamen. Auch die Formen der Meteorit\index{Meteorit} selbst sprechen endlich f"ur Tr"ummer.
 
 Wir haben also nur eine hypothetische Gewissheit: n"amlich die Wahrscheinlichkeit der urspr"unglichen Zusammengeh"origkeit der zu uns gelangten Tr"ummer.
 
@@ -683,7 +708,7 @@ Sollten sie aber auch von unserer Erde gekommen, Teile derselben gewesen sein: i
 \clearpage
 \subsection{\swabfamily{Die Erdbildung}}
 \paragraph{}
-Anschlie"send an die bisherigen Resultate lie"sen sich auch f"ur die Erdbildung einige Schl"usse ziehen. H"ochst wahrscheinlich zeigt der Erddurchschnitt dieselbe Gesteins-Reihenfolge, wie die Meteorit\index{Meteorit}, welche vom Eisen zum Pallasite (Olivin mit Eisen), von da zu Olivin-, Enstatit-, (Feldspat)-Gestein "ubergehen.
+Anschlie"send an die bisherigen Resultate lie"sen sich auch f"ur die Erdbildung einige Schl"usse ziehen. H"ochst wahrscheinlich zeigt der Erddurchschnitt dieselbe Gesteins-Reihenfolge, wie die Meteorit\index{Meteorit}, welche vom Eisen zum Pallasit (Olivin mit Eisen), von da zu Olivin-, Enstatit-, (Feldspat)-Gestein "ubergehen.
 
 Auf der Erde folgt dem Olivin der Granit, ein Feldspatgestein: diese Reihenfolge entspricht auch dem spezifischen Gewicht der Minerale.
 
@@ -691,7 +716,7 @@ Es haben Hornblende 3-3,40, Olivin 3,35, Enstatit 3,10-3,29, Orthoklas 2,53-3,10
 
 Schon dieses w"urde zu der Annahme des organischen Ursprungs der unmittelbaren Vorl"aufer des Silur, des Gneises und des Granits f"uhren.
 
-Mit dem Beweise der organischen Zusammensetzung der Chondrite ist das Hauptargument gefallen, welches bis daher im Wege stunde, den Granit f"ur ein Wassergebilde anzusehen: beide Gesteine enthalten vorzugsweise Feldspat. --- Was den Granit betrifft, so habe ich Formen darin gefunden, welche denen der Chondrite "ahnlich sind.
+Mit dem Beweise der organischen Zusammensetzung der Chondrit ist das Hauptargument gefallen, welches bis daher im Wege stunde, den Granit f"ur ein Wassergebilde anzusehen: beide Gesteine enthalten vorzugsweise Feldspat. --- Was den Granit betrifft, so habe ich Formen darin gefunden, welche denen der Chondrit "ahnlich sind.
 
 Ich will hier zum Beweis des Ursprungs des Granits nicht nur aus Wasser, sondern aus Organismen, einige Punkte nachtragen. Feldspat und Quarz kristallisieren, ich m"ochte sagen, leidenschaftlich. Im Granit finden sich aber beide Minerale regelm"a"sig nicht kristallisiert; der Feldspat zeigt blo"s einen Bl"atterbruch. Einen solchen zeigt aber auch jede in Kalk verwandelte Versteinerung, z. B. ein Crinoidenstiel. Warum kommt der Feldspat im Granit nicht kristallisiert vor? Weil er durch eine st"arkere formbildende Kraft gebunden war. Der Feldspat des Granits (wo letzterer wirklich erhalten ist) zeigt ferner stets bestimmte, stets wiederkehrende Formen, nicht Konglomerat- oder Roll-, auch, wie ich bemerkte, keine Kristall-Formen. --- Auch hier w"achst immer eine Form aus der andern heraus. Diese Formen sind Schwammformen. Der Quarz f"ullt die Hohlr"aume.
 
