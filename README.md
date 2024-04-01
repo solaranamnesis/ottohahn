@@ -58,7 +58,13 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1858 - [About the Components of the Meteor-Stone from Kaba in Hungary](https://github.com/solaranamnesis/Friedrich-Wohler) by Friedrich Wöhler
 
+### 1862 - [The Plurality of Inhabited Worlds](https://github.com/solaranamnesis/camille-flammarion) by Camille Flammarion
+
 ### 1863 - [A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin](https://github.com/solaranamnesis/Gustav-Rose) by Gustav Rose
+
+### 1865 - [On Darwinian Teachings](https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter) by Hermann Eberhard Richter
+
+### 1872 - [About Bacteria](https://github.com/solaranamnesis/ferdinand-julius-cohn) by Ferdinand Cohn
 
 ### 1875 - [On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Carl von Gümbel
 
