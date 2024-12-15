@@ -114,7 +114,7 @@ In such beginnings mistakes are inevitable, so it is only a small demand in aski
 
 ### History and Overview
 
-Δός μοι χέντρον.
+Δός μοι κέντρον.
 
 Last year, when I wrote-down in my diary certain new observations about the composition of the rocks of our Earth, and also of the meteorites, the importance of the latter to geology was not fully clear to me.
 
