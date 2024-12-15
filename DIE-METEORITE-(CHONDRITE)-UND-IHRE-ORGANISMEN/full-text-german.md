@@ -116,7 +116,7 @@ In solchen Anfängen sind Irrtümer unvermeidlich, es ist daher nur eine Forderu
 
 ### GESCHICHTE UND ÜBERBLICK.
 
-Δός μοι xέντρον.
+Δός μοι κέντρον.
 
 Als ich im vorigen Jahre mein Tagebuch enthaltend gewisse neue Beobachtungen über die Zusammensetzung der Gesteine unserer Erde und schließlich auch der Meteorit, niederschrieb, war mir die Wichtigkeit der letzteren für unsere Erdkunde noch nicht völlig klar.
 
