@@ -6,4 +6,6 @@ CDN Mirrors --- Download PDF:
 
 nebulasmaltblue.jpeg --- Solar Anamnesis CC0 modified attribution: Darko7411, CC0, via Wikimedia Commons.
 
-[View with the Archive.org Reader](https://archive.org/details/historical_debate_on_the_chondrites)
+[View with the Archive.org Reader.](https://archive.org/details/historical_debate_on_the_chondrites)
+
+[Download All Figures. ZIP Archive.](https://cdn.solaranamnesis.com/OttoHahn/figures/figures.zip)
