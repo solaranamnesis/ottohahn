@@ -7,9 +7,9 @@
 Attempt at a translation of Dr. Otto Hahn's 1880 book: "Die Meteorite (Chondrite) und ihre Organismen", from the original German to English, I welcome all pull requests of submitted translations and/or edits.
 
 [English - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-english.md)  
-[English - PDF](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_die_meteorite_und_ihre_organismen_english_PDFlaTex.pdf)   
+[English - PDF](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_laTex.pdf)   
 [German - Plain Text](https://github.com/solaranamnesis/ottohahn/blob/master/DIE-METEORITE-(CHONDRITE)-UND-IHRE-ORGANISMEN/full-text-german.md)  
-[German - PDF](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_die_meteorite_und_ihre_organismen_german_PDFlaTex.pdf) | [Fraktur](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_german_laTex_PDFlaTex-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_german_laTex_PDFlaTex-swab.pdf)  
+[German - PDF](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_german_laTex.pdf) | [Fraktur](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_german_laTex_PDFlaTex-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_german_laTex_PDFlaTex-swab.pdf)  
 
 For the full entire collection of all related works, you can read: ["The Historical Debate on the Chondrites."](https://github.com/solaranamnesis/ottohahn/tree/master/historical-collection#the-historical-debate-on-the-chondrites)
 
