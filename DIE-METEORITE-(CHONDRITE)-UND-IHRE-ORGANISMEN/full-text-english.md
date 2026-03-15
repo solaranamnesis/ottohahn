@@ -700,7 +700,7 @@ The only thing saving us from this almost certain fate is water; the water that 
 
 The fact that these created beings release the compounds that formed their bodies and that the plant in particular decomposes what it absorbs, while the animal absorbs these excretions within itself and then excretes them immediately again and again, then returning them to the plant (not the soil): through all this, a cycle is created whose end cannot be foreseen.
 
-This process, not the cooling of the Earth's crust, of which so much has been spoken, constitutes the true story of the Earth's surface. However, we seem to have a frightening example in the Moon: there, I think, life is extinct. There are neither seas, as it was believed, nor volcanoes; the lack or loss of water was what caused this planet's premature death, which made life extinct soon after its birth.
+This process, not the cooling of the Earth's crust, of which so much has been spoken, constitutes the true story of the Earth's surface. However, we seem to have a frightening example in the Moon: there, I think, life is extinct. There are neither seas, as it was believed, nor volcanoes; the lack or loss of water was what caused this planet's premature death, which made life extinct soon after its birth.*
 
 The heat on our surface seems to depend mostly on the preservation of the atmosphere, which defends against the cold of space. The greater height of the Earth's atmosphere at the equator, due to the rotation of the Earth and not just the angle of the Sun's rays, causes a higher and more constant heat: or else, 500 meters above sea level at the equator would experience a cooling of several degrees from the average heat; and otherwise the glacial mass of Chimborazo would melt immediately. 
 
@@ -714,7 +714,7 @@ The origin of the planets is the cell, it is maintained so long as light rays hi
 
 It is possible that over time changes in the chemical composition of the Earth's surface and atmosphere will occur due to the precipitation of solid compounds, whereby building materials are removed from the cycle. Certainly, under such modified living conditions, other similar, and (according to previous experience) higher organized beings will emerge. Indeed, it can be imagined that there will be a refinement of organisms here on Earth, in the same proportion as occurred after the olivine-granite period, and that creatures will arise that consume high amounts of water and gas for their preservation, as is almost the case with many plants.
 
-*The loss of geothermal heat or heat radiated by the Sun would not be the next threatening nightmare, but the disappearance of our atmosphere.
+*) The loss of geothermal heat or heat radiated by the Sun would not be the next threatening nightmare, but the disappearance of our atmosphere.
 
 # Explanation of the Tables
 
