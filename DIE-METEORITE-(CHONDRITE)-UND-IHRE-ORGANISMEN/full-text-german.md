@@ -702,7 +702,7 @@ So, durch das Licht, erklärt sich nun auch das mit dem Silur plötzlich und mä
 
 Nun aber wären die Tage der Erde doch gezählt gewesen, wenn nicht eben durch das Licht gesorgt worden wäre, dass der Niederschlagsprocess sich nicht rasch vollendet, dass die einzigen noch übrigen chemischen Verbindungen sich nicht rasch vollzogen hätten und damit das Leben der Erde und auf der Erde für ewig zum Stillstand gebracht gewesen wäre. Die Schöpfungen des Lichts waren neue, höhere Organismen. Diese Organismen bauten sich auf aus den noch nicht in organische Verbindungen getretenen Abfallstoffen der bisherigen Schöpfung und dadurch wurde dem Tode Halt geboten. Dieser wäre eingetreten und die Erde wäre zur Wüste geworden, wenn nicht eben die durch das Licht geschaffenen Organismen mit ihrer Nahrung und durch ihre Einatmung Verbindungen eingingen und solche wieder lösten und so einen Kreislauf, Leben genannt, bewirkten. Es ist also das Licht, welches unsere Erde vor dem Tode schützt, der auf ihrem Satelliten schon eingetreten zu sein scheint. Das Licht aber wirkt durch das Wasser. Das Wasser verbindet den Stein und den Äther, und dies eröffnet uns den Blick in die Zukunft unseres Planeten.
 
-*Man hat bei der Hebungstheorie vergessen, dass eine Gewalt, welche nötig wäre, um Gebirge zu heben, diese zugleich zermalmt hätte: bei der Pressungstheorie ist man nicht im Stande zu sagen, wo denn eigentlich das Gebirge geblieben ist, durch welches „der Brei“ gepresst worden wäre! Die ganze Oberfläche kann doch nicht herausgepresst worden sein.
+*) Man hat bei der Hebungstheorie vergessen, dass eine Gewalt, welche nötig wäre, um Gebirge zu heben, diese zugleich zermalmt hätte: bei der Pressungstheorie ist man nicht im Stande zu sagen, wo denn eigentlich das Gebirge geblieben ist, durch welches „der Brei“ gepresst worden wäre! Die ganze Oberfläche kann doch nicht herausgepresst worden sein.
 
 #### 3. KAPITEL.
 
@@ -730,7 +730,7 @@ Der Anfang des Planeten war die Zelle, sie erhält ihn, so lange noch ein Lichts
 
 Möglich ist es dass mit der Zeit doch Änderungen in der chemischen Zusammensetzung der Erdoberfläche und der Atmosphäre durch Niederschläge und feste Verbindungen eintreten, wodurch Baustoffe aus dem Kreislauf ausgeschieden werden. Sicher aber werden unter solchen veränderten Lebensbedingungen auch andere, ähnliche und (nach der bisherigen Erfahrung) höher organisierte Wesen entstehen. Ja es lässt sich denken, dass hier auf der Erde eine Verfeinerung der Organismen eintreten werde in demselben Verhältnis, wie sie nach der Olivin-Granitzeit eingetreten ist, dass Geschöpfe entstehen, welchen zu ihrer Erhaltung in höherem Masse Wasser und Gase genügen, was ja bei vielen Pflanzen jetzt schon nahezu der Fall ist.
 
-*Nicht die Abnahme der Erdwärme oder der von der Sonne ausgestrahlten Wärme wäre das nächst drohende Schreckgespenst, sondern das Verschwinden unserer Atmosphäre.
+*) Nicht die Abnahme der Erdwärme oder der von der Sonne ausgestrahlten Wärme wäre das nächst drohende Schreckgespenst, sondern das Verschwinden unserer Atmosphäre.
 
 ## ERKLÄRUNG DER TAFELN.
 
@@ -790,7 +790,7 @@ Die Angabe der Vergrößerung, d. h. das Verhältnis der wahren Größe zum Durc
 
 Ich habe daher vorgezogen mit der Angabe des Durchmessers jeder Form die wirkliche Größe des Objekts unmittelbar zu bezeichnen.
 
-*Ähnlich ist Dr. Kuntze mit der _Flora Columbiae_ von Dr. H. Karsten verfahren. Ehe sich derselbe gegen die Anschuldigung, welche Dr. W. Joos auf diese Kritiken hin gegen ihn erhoben, reinigt, hat er kein Recht mehr, in der Wissenschaft gehört zu werden.
+*) Ähnlich ist Dr. Kuntze mit der _Flora Columbiae_ von Dr. H. Karsten verfahren. Ehe sich derselbe gegen die Anschuldigung, welche Dr. W. Joos auf diese Kritiken hin gegen ihn erhoben, reinigt, hat er kein Recht mehr, in der Wissenschaft gehört zu werden.
 
 ## TAFELVERZEICHNISS.
 
