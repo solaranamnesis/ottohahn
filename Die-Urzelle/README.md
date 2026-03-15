@@ -6,5 +6,5 @@ Attempt at a translation of Dr. Otto Hahn's 1879 book: _Die Urzelle_, from the o
 
 English - Plain Text  
 English - PDF  
-[German - Plain Text](full-text-german.md)  
+[German - Plain Text](full-text-german.md) | [German - (GFM) Plain Text](full-text-german-gfm.md)  
 [German - PDF](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_urzelle_german_PDFlaTex.pdf) | [Fraktur](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_urzelle_laTex-frak.pdf) | [Schwabacher](https://cdn.solaranamnesis.com/OttoHahn/otto_hahn_urzelle_laTex-swab.pdf)  
