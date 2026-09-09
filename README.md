@@ -70,6 +70,8 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1875 - [On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Carl von Gümbel
 
+### 1876 - [Researches on the Solid Carbon Compounds in Meteorites](https://github.com/solaranamnesis/john-lawrence-smith/blob/main/researches-solid-carbon-meteorites/full-text-english.md) by John Lawrence Smith
+
 ### 1878 - [About the Stone Meteorites Found in Bavaria](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Carl von Gümbel
 
 ### 1879 - [The Primordial Cell](https://github.com/solaranamnesis/ottohahn/tree/master/Die-Urzelle) by Otto Hahn
