@@ -70,6 +70,8 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1875 - [On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Carl von Gümbel
 
+### 1875 - [On the Nature and Type of Origin of the Meteorites](https://github.com/solaranamnesis/karl-friedrich-mohr/blob/main/uber-die-natur-entstehungsart-meteorite/full-text-german.md) by Karl Friedrich Mohr
+
 ### 1876 - [Researches on the Solid Carbon Compounds in Meteorites](https://github.com/solaranamnesis/john-lawrence-smith/blob/main/researches-solid-carbon-meteorites/full-text-english.md) by John Lawrence Smith
 
 ### 1877 - [Meteorites and the Origin of Life](https://github.com/solaranamnesis/walter-flight/blob/main/meteorites-and-origin-life/full-text-english.md) by Walter Flight.
