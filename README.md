@@ -64,6 +64,8 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1863 - [A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin](https://github.com/solaranamnesis/Gustav-Rose) by Gustav Rose
 
+### 1864 - [Notes and Observations on the Meteorite Fall that Occurred on May 14, 1864, near Orgueil](https://github.com/solaranamnesis/gabriel-auguste-daubree/blob/main/chute-de-meteorites/full-text-french.md) by Various (Pisani, Cloëz, Daubrée)
+
 ### 1865 - [On Darwinian Teachings](https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter) by Hermann Eberhard Richter
 
 ### 1872 - [About Bacteria](https://github.com/solaranamnesis/ferdinand-julius-cohn) by Ferdinand Cohn
