@@ -76,7 +76,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1876 - [Researches on the Solid Carbon Compounds in Meteorites](https://github.com/solaranamnesis/john-lawrence-smith/blob/main/researches-solid-carbon-meteorites/full-text-english.md) by John Lawrence Smith
 
-### 1877 - [Meteorites and the Origin of Life](https://github.com/solaranamnesis/walter-flight/blob/main/meteorites-and-origin-life/full-text-english.md) by Walter Flight.
+### 1877 - [Meteorites and the Origin of Life](https://github.com/solaranamnesis/walter-flight/blob/main/meteorites-and-origin-life/full-text-english.md) by Walter Flight
 
 ### 1878 - [About the Stone Meteorites Found in Bavaria](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Carl von Gümbel
 
