@@ -116,4 +116,6 @@ Arrhenius and Merrill make no mention of the organic theory in 1906 and 1920, su
 
 ### 2011 - [Fossils of Cyanobacteria in CI1 Carbonaceous Meteorites: Implications to Life on Comets, Europa, and Enceladus](https://www.researchgate.net/publication/245540356_Fossils_of_Cyanobacteria_in_CI1_Carbonaceous_Meteorites_Implications_to_Life_on_Comets_Europa_and_Enceladus) by Richard Brice Hoover
 
+### 2013 - Milton Wainwright, Christopher E. Rose, Alexander J. Baker, et al. (2013). Allen Hills and Schopf-like Putative Fossilized Bacteria Seen in a New Type of Carbonaceous Meteorite. Journal of Cosmology, 22. https://doi.org/10.5334/jc.sh
+
 ### 2020 - [The Orgueil meteorite (Atlas of microfossils)](https://www.researchgate.net/publication/349917258_The_Orgueil_meteorite_Atlas_of_microfossils) by Richard Brice Hoover
