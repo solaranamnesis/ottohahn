@@ -105,3 +105,9 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 ### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill
 
 Arrhenius and Merrill make no mention of the organic theory in 1906 and 1920, suggesting that the works of Hahn/Karsten/Weinland were forgotten/ignored by this time in the "accepted" literature on the chondrites.
+
+...
+
+### 1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. ‘Organized Elements’ in Carbonaceous Chondrites. Nature 193, 1123–1125 (1962). https://doi.org/10.1038/1931123a0
+
+### 1986 - [Diatoms on Earth, Comets, Europa and in interstellar Space](https://ui.adsabs.harvard.edu/scan/manifest/1986EM&P...35...19H) by Richard B. Hoover, Fred Hoyle, N. C. Wickramasinghe, Miriam J. Hoover, and S. Al-Mufti.
