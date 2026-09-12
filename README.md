@@ -108,6 +108,8 @@ Arrhenius and Merrill make no mention of the organic theory in 1906 and 1920, su
 
 ...
 
+### 1961 - CLAUS, G., NAGY, B. A Microbiological Examination of Some Carbonaceous Chondrites. Nature 192, 594–596 (1961). https://doi.org/10.1038/192594a0
+
 ### 1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. ‘Organized Elements’ in Carbonaceous Chondrites. Nature 193, 1123–1125 (1962). https://doi.org/10.1038/1931123a0
 
 ### 1986 - [Diatoms on Earth, Comets, Europa and in interstellar Space](https://ui.adsabs.harvard.edu/scan/manifest/1986EM&P...35...19H) by Richard B. Hoover, Fred Hoyle, N. C. Wickramasinghe, Miriam J. Hoover, and S. Al-Mufti.
