@@ -114,6 +114,8 @@ Arrhenius and Merrill make no mention of the organic theory in 1906 and 1920, su
 
 ### 1986 - [Diatoms on Earth, Comets, Europa and in interstellar Space](https://ui.adsabs.harvard.edu/scan/manifest/1986EM&P...35...19H) by Richard B. Hoover, Fred Hoyle, N. C. Wickramasinghe, Miriam J. Hoover, and S. Al-Mufti
 
+### 1996 -      David S. McKay et al., Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001. Science 273, 924-930 (1996). DOI:10.1126/science.273.5277.924
+
 ### 2011 - [Fossils of Cyanobacteria in CI1 Carbonaceous Meteorites: Implications to Life on Comets, Europa, and Enceladus](https://www.researchgate.net/publication/245540356_Fossils_of_Cyanobacteria_in_CI1_Carbonaceous_Meteorites_Implications_to_Life_on_Comets_Europa_and_Enceladus) by Richard Brice Hoover
 
 ### 2013 - Milton Wainwright, Christopher E. Rose, Alexander J. Baker, et al. (2013). Allen Hills and Schopf-like Putative Fossilized Bacteria Seen in a New Type of Carbonaceous Meteorite. Journal of Cosmology, 22. https://doi.org/10.5334/jc.sh
