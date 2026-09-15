@@ -68,6 +68,8 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1865 - [On Darwinian Teachings](https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter) by Hermann Eberhard Richter
 
+### 1871 - [Professor Helmholtz's Discourse delivered at Heidelberg and at Cologne on the Origin of the Solar System]()
+
 ### 1871 - [Address of Sir William Thomson, Knt., LL. D., F. R. S., President](https://github.com/solaranamnesis/william-thomson/blob/main/address-william-thomson-1871/full-text-english.md)
 
 ### 1872 - [About Bacteria](https://github.com/solaranamnesis/ferdinand-julius-cohn) by Ferdinand Cohn
