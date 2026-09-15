@@ -68,6 +68,8 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1865 - [On Darwinian Teachings](https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter) by Hermann Eberhard Richter
 
+### 1871 - [Address of Sir William Thomson, Knt., LL. D., F. R. S., President](https://github.com/solaranamnesis/william-thomson/blob/main/address-william-thomson-1871/full-text-english.md)
+
 ### 1872 - [About Bacteria](https://github.com/solaranamnesis/ferdinand-julius-cohn) by Ferdinand Cohn
 
 ### 1875 - [On the Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America](https://github.com/solaranamnesis/Karl-Wilhelm-von-Gumbel) by Carl von Gümbel
