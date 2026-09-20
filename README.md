@@ -60,7 +60,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1858 - [About the Components of the Meteor-Stone from Kaba in Hungary](https://github.com/solaranamnesis/Friedrich-Wohler) by Friedrich Wöhler
 
-### 1862 - [The Plurality of Inhabited Worlds](https://github.com/solaranamnesis/camille-flammarion) by Camille Flammarion
+### 1862 - [The Plurality of Inhabited Worlds](https://github.com/solaranamnesis/camille-flammarion/blob/main/pluralite-des-mondes-habites/full-text-french-1877-gfm.md) by Camille Flammarion
 
 ### 1863 - [A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin](https://github.com/solaranamnesis/Gustav-Rose) by Gustav Rose
 
