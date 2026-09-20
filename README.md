@@ -110,7 +110,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 #### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill)
 
-(Although Arrhenius discusses panspermia, he and Merrill make no mention of the hypothesis that the chondrites could have an organic origin in 1906 and 1920, suggesting that the works of Hahn/Karsten/Weinland and others were ignored at this time in the "accepted" literature on the chondrites.)
+(Although Arrhenius discusses panspermia, he and Merrill make no mention of the hypothesis that the chondrites could contain fossils and have an organic origin in 1906 and 1920, suggesting that the works of Hahn/Karsten/Weinland and others were ignored at this time in the "accepted" literature on the chondrites.)
 
 ### 1961 - CLAUS, G., NAGY, B. A Microbiological Examination of Some Carbonaceous Chondrites. Nature 192, 594–596 (1961). https://doi.org/10.1038/192594a0
 
