@@ -108,11 +108,9 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1916 - [The Nummulosphere. Part 3: The Ocean Floor or Benthoplankton](https://github.com/solaranamnesis/randolph-kirkpatrick) by Randolph Kirkpatrick
 
-### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill
+(### 1920 - [On Chondrules and Chondritic Structure in Meteorites](https://archive.org/details/jstor-84323/) by George P. Merrill)
 
-Arrhenius and Merrill make no mention of the organic theory in 1906 and 1920, suggesting that the works of Hahn/Karsten/Weinland were forgotten/ignored by this time in the "accepted" literature on the chondrites.
-
-...
+(Arrhenius and Merrill make no mention of the organic theory in 1906 and 1920, suggesting that the works of Hahn/Karsten/Weinland were forgotten/ignored by this time in the "accepted" literature on the chondrites.)
 
 ### 1961 - CLAUS, G., NAGY, B. A Microbiological Examination of Some Carbonaceous Chondrites. Nature 192, 594–596 (1961). https://doi.org/10.1038/192594a0
 
