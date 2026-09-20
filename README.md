@@ -54,7 +54,7 @@ The latter remark no doubt refers to the proof furnished by Dr. Hahn's discovery
 
 As was suggested in the paper referred to, "the Richter-Thomson hypothesis of the origin of life on the earth has become a tangible reality!"
 
-## Timeline of Publications Pertaining to the Organic Origin Theory of the Chondrites
+## Timeline of Publications pertaining to the Organic Origin Hypothesis of the Chondrites
 
 ### 1834 - [On Meteor-Stones](https://github.com/solaranamnesis/Jacob-Berzelius) by Jacob Berzelius
 
