@@ -62,7 +62,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1862 - [The Plurality of Inhabited Worlds](https://github.com/solaranamnesis/camille-flammarion/blob/main/pluralite-des-mondes-habites/full-text-french-1877-gfm.md) by Camille Flammarion
 
-### 1863 - [A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin](https://github.com/solaranamnesis/Gustav-Rose) by Gustav Rose
+### 1863 - [A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin](https://github.com/solaranamnesis/Gustav-Rose/blob/master/Beschreibung-und-einteilung-der-meteoriten/full-text-german-gfm.md) by Gustav Rose
 
 ### 1864 - [Notes and Observations on the Meteorite Fall that Occurred on May 14, 1864, near Orgueil](https://github.com/solaranamnesis/gabriel-auguste-daubree/blob/main/chute-de-meteorites/full-text-french.md) by Various (Pisani, Cloëz, Daubrée)
 
