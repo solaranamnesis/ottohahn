@@ -66,7 +66,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1864 - [Notes and Observations on the Meteorite Fall that Occurred on May 14, 1864, near Orgueil](https://github.com/solaranamnesis/gabriel-auguste-daubree/blob/main/chute-de-meteorites/full-text-french.md) by Various (Pisani, Cloëz, Daubrée)
 
-### 1865 - [On Darwinian Teachings](https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter) by Hermann Eberhard Richter
+### 1865 - [On Darwinian Teachings](https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter/blob/main/zur-darwinschen-lehre/full-text-german-gfm.md) by Hermann Eberhard Richter
 
 ### 1871 - [Professor Helmholtz's Discourse delivered at Heidelberg and at Cologne on the Origin of the Solar System](https://github.com/solaranamnesis/hermann-von-helmholtz/blob/main/uber-die-entstehung-des-planetensystems/full-text-german.md)
 
