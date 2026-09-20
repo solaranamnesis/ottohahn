@@ -56,9 +56,9 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ## Timeline of Publications pertaining to the Hypothesis that the Chondrites have an organic Origin and are Fossil bearing.
 
-### 1834 - [On Meteor-Stones](https://github.com/solaranamnesis/Jacob-Berzelius) by Jacob Berzelius
+### 1834 - [On Meteor-Stones](https://github.com/solaranamnesis/Jacob-Berzelius/blob/main/uber-meteorsteine/full-text-german-gfm.md) by Jacob Berzelius
 
-### 1858 - [About the Components of the Meteor-Stone from Kaba in Hungary](https://github.com/solaranamnesis/Friedrich-Wohler) by Friedrich Wöhler
+### 1858 - [About the Components of the Meteor-Stone from Kaba in Hungary](https://github.com/solaranamnesis/Friedrich-Wohler/blob/main/uber-bestandtheile-meteorsteines-kaba/full-text-german-gfm.md) by Friedrich Wöhler
 
 ### 1862 - [The Plurality of Inhabited Worlds](https://github.com/solaranamnesis/camille-flammarion/blob/main/pluralite-des-mondes-habites/full-text-french-1877-gfm.md) by Camille Flammarion
 
