@@ -64,7 +64,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1863 - [A Description and Classification of Meteorites based on the Collection in the Mineralogical Museum of Berlin](https://github.com/solaranamnesis/Gustav-Rose/blob/master/Beschreibung-und-einteilung-der-meteoriten/full-text-german-gfm.md) by Gustav Rose
 
-### 1864 - [Notes and Observations on the Meteorite Fall that Occurred on May 14, 1864, near Orgueil](https://github.com/solaranamnesis/gabriel-auguste-daubree/blob/main/chute-de-meteorites/full-text-french.md) by Various (Pisani, Cloëz, Daubrée)
+### 1864 - [Notes and Observations on the Meteorite Fall that Occurred on May 14, 1864, near Orgueil](https://github.com/solaranamnesis/gabriel-auguste-daubree/blob/main/note-sur-meteorite-orgueil/full-text-french.md) by Various (Pisani, Cloëz, Daubrée, and others)
 
 ### 1864 - [Further Observations on the Meteorite Fall that Occurred on May 14, 1864, in the Vicinity of Orgueil (Tarn-et-Garonne)](https://github.com/solaranamnesis/gabriel-auguste-daubree/blob/main/chute-de-meteorites/full-text-french.md) by Gabriel Auguste Daubrée
 
