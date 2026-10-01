@@ -118,6 +118,8 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. ‘Organized Elements’ in Carbonaceous Chondrites. Nature 193, 1123–1125 (1962). https://doi.org/10.1038/1931123a0
 
+### 1975 - [Carbonaceous Meteorites](https://catalog.hathitrust.org/Record/000025259) by Bartholomew Nagy
+
 ### 1986 - [Diatoms on Earth, Comets, Europa and in interstellar Space](https://ui.adsabs.harvard.edu/scan/manifest/1986EM&P...35...19H) by Richard B. Hoover, Fred Hoyle, N. C. Wickramasinghe, Miriam J. Hoover, and S. Al-Mufti
 
 ### 1996 - David S. McKay et al., Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001. Science 273, 924-930 (1996). [DOI:10.1126/science.273.5277.924](https://doi.org/10.1126/science.273.5277.924)
