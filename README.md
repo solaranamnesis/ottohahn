@@ -70,6 +70,8 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1865 - [On Darwinian Teachings](https://github.com/solaranamnesis/hermann-eberhard-friedrich-richter/blob/main/zur-darwinschen-lehre/full-text-german-gfm.md) by Hermann Eberhard Richter
 
+### 1866 - [The Meteorite Fall on June 9, 1866, near Knyahinya, close to Nagy-Berezna in Ungher County](https://github.com/solaranamnesis/karl-von-haidinger/blob/main/meteorsteinfall-1866-knyahinya/full-text-german.md) by Wilhelm Karl Ritter von Haidinger
+
 ### 1871 - [Professor Helmholtz's Discourse delivered at Heidelberg and at Cologne on the Origin of the Solar System](https://github.com/solaranamnesis/hermann-von-helmholtz/blob/main/uber-die-entstehung-des-planetensystems/full-text-german.md)
 
 ### 1871 - [Address of Sir William Thomson, Knt., LL. D., F. R. S., President](https://github.com/solaranamnesis/william-thomson/blob/main/address-william-thomson-1871/full-text-english.md)
