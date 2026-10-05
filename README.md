@@ -122,7 +122,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1975 - [Carbonaceous Meteorites](https://catalog.hathitrust.org/Record/000025259) by Bartholomew Nagy
 
-### 1984 - Pflug, H.D. (1984). Utrafine structure of the organic matter in meteorites. In Fundamental Studies and the Future of Science, ed. Wickramasinghe, N.C., pp. 24–37. University College Cardiff Press, Cardiff. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Fundamental+Studies+and+the+Future+of+Science&author=Pflug+H.D.&author=Wickramasinghe+N.C.&publication+year=1984&pages=24-37)
+### 1984 - Pflug, H.D. (1984). Utrafine structure of the organic matter in meteorites. In Fundamental Studies and the Future of Science, ed. Wickramasinghe, N.C., pp. 24–37. University College Cardiff Press, Cardiff. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Fundamental+Studies+and+the+Future+of+Science&author=Pflug+H.D.&author=Wickramasinghe+N.C.&publication+year=1984&pages=24-37) ISBN 10: 090644957X / ISBN 13: 9780906449578
 
 ### 1986 - [Diatoms on Earth, Comets, Europa and in interstellar Space](https://ui.adsabs.harvard.edu/scan/manifest/1986EM&P...35...19H) by Richard B. Hoover, Fred Hoyle, N. C. Wickramasinghe, Miriam J. Hoover, and S. Al-Mufti
 
