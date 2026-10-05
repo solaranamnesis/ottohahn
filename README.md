@@ -126,6 +126,8 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1996 - David S. McKay et al., Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001. Science 273, 924-930 (1996). [DOI:10.1126/science.273.5277.924](https://doi.org/10.1126/science.273.5277.924)
 
+### 2010 - Bacterial morphologies in carbonaceous meteorites and comet dust by N. Chandra Wickramasinghe (Cardiff Univ. UK), Max K. Wallis (Cardiff Univ. UK), Carl H. Gibson (Univ. Cal. San Diego US), Jamie Wallis (Cardiff Univ. UK), Shirwan Al-Mufti (Cardiff Univ. UK), Nori Miyake (Cardiff Univ. UK) [https://arxiv.org/abs/1008.3860](https://arxiv.org/abs/1008.3860)
+
 ### 2011 - [Fossils of Cyanobacteria in CI1 Carbonaceous Meteorites: Implications to Life on Comets, Europa, and Enceladus](https://www.researchgate.net/publication/245540356_Fossils_of_Cyanobacteria_in_CI1_Carbonaceous_Meteorites_Implications_to_Life_on_Comets_Europa_and_Enceladus) by Richard Brice Hoover
 
 ### 2013 - Milton Wainwright, Christopher E. Rose, Alexander J. Baker, et al. (2013). Allen Hills and Schopf-like Putative Fossilized Bacteria Seen in a New Type of Carbonaceous Meteorite. Journal of Cosmology, 22. https://doi.org/10.5334/jc.sh
