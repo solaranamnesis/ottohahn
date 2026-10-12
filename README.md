@@ -120,6 +120,8 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ### 1962 - FITCH, F., SCHWARCZ, H. & ANDERS, E. ‘Organized Elements’ in Carbonaceous Chondrites. Nature 193, 1123–1125 (1962). https://doi.org/10.1038/1931123a0
 
+### 1965 - VANLANDINGHAM, S. Evidence for Microfossils in the Alais and Orgueil Carbonaceous Meteorites. Nature 208, 947–948 (1965). https://doi.org/10.1038/208947a0
+
 ### 1975 - [Carbonaceous Meteorites](https://catalog.hathitrust.org/Record/000025259) by Bartholomew Nagy
 
 ### 1984 - Pflug, H.D. (1984). Utrafine structure of the organic matter in meteorites. In Fundamental Studies and the Future of Science, ed. Wickramasinghe, N.C., pp. 24–37. University College Cardiff Press, Cardiff. [Google Scholar](https://scholar.google.com/scholar_lookup?title=Fundamental+Studies+and+the+Future+of+Science&author=Pflug+H.D.&author=Wickramasinghe+N.C.&publication+year=1984&pages=24-37) ISBN 10: 090644957X / ISBN 13: 9780906449578
