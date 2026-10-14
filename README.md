@@ -56,7 +56,7 @@ As was suggested in the paper referred to, "the Richter-Thomson hypothesis of th
 
 ## Timeline of Publications pertaining to the Hypothesis that the Chondrites have an organic Origin and are Fossil bearing.
 
-### 1803 - [Account of a Journey made in the Department of Orne to verify the Existence of a Meteor observed in L'Aigle on the 6th of Floréal, Year 11.](https://github.com/solaranamnesis/jean-baptiste-biot/blob/main/relation-voyage-orne-meteore-aigle/full-text-french.md) by Jean-Baptiste Biot.
+### 1803 - [Account of a Journey made in the Department of Orne to verify the Existence of a Meteor observed in L'Aigle on the 6th of Floréal, Year 11](https://github.com/solaranamnesis/jean-baptiste-biot/blob/main/relation-voyage-orne-meteore-aigle/full-text-french.md) by Jean-Baptiste Biot.
 
 ### 1834 - [On Meteor-Stones](https://github.com/solaranamnesis/Jacob-Berzelius/blob/main/uber-meteorsteine/full-text-german-gfm.md) by Jacob Berzelius
 
